@@ -1,0 +1,2142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:rng="http://relaxng.org/ns/structure/1.0">
+
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author/>
+            <editor/>
+            <respStmt>
+               <resp>author</resp>
+               <name xml:id="author"><surname>Dedekind</surname><forename>Henning</forename></name>
+            </respStmt>
+            <respStmt>
+               <resp>transcription by</resp>
+               <name key="pnd">Kompetenzzentrum Trier</name>
+            </respStmt>
+            <respStmt>
+               <resp>edition by</resp>
+               <name key="pnd" xml:id="editor"
+                     ><forename>Christophe</forename><surname>Guillotel-Nothmann</surname></name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Electronic edition according to TEI P.5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher><name type="org">Institut de Recherche en Musicologie UMR 8223, Thesaurus
+                  Musicarum
+               Germanicarum</name><address>
+                  <street>2, rue de Louvois</street>
+                  <name type="city">Paris</name>
+                  <postCode>F-75002</postCode>
+                  <name type="country">France</name>
+               </address></publisher>
+            <date when="2015-10-02"/>
+            <availability status="free">
+               <p> Available at <ref target="http://tmg.huma-num.fr/xtf/view?docId=tei/Dedekind_1589/Dedekind_1589.xml"> (c)</ref></p>
+            </availability> 
+         </publicationStmt>
+         <sourceDesc>
+            <p><listWit>
+                  <witness xml:id="ed_1511_bsb00011703">
+                     <orgName>Staatsbibliothek zu Berlin</orgName>
+                     <address><addrLine>Unter den Linden 8</addrLine><postCode>D-10117</postCode><placeName>Berlin</placeName><country>Germany</country></address>
+                     <ident type="VD16">ZV 28306</ident>
+                     <ident type="catKey">820447935</ident>
+                     <bibl type="book">
+                        <title>Eine Kinder Music Für die jetz allererst anfangende Knaben in
+                           richtige Fragen vnd gründtliche antwort bracht von Henningo Dedekindo
+                           Cantore.</title>
+                        <editor>Baumann, Georg d.Ä.</editor>
+                        <pubPlace>Erfurt</pubPlace><ptr
+                           target="http://resolver.staatsbibliothek-berlin.de/SBB0001961C0000"/>
+                     </bibl></witness>
+               </listWit></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            
+            <normalization>
+               <p>
+                  <list> 
+                     <item n="transcription">Transcription of textual units according to guidelines</item>
+                     <item n="typoAbb">Normalization of typography and resolution of abbreviations
+                        according to guidelines</item> 
+                  </list></p>
+            </normalization>
+            <hyphenation>
+               <p>
+                  <list> 
+                     <item n="hyphen">Hyphenation according to guidelines</item> 
+                  </list></p>
+            </hyphenation>
+            <segmentation>
+               <p>
+                  <list>
+                     
+                     <item n="div">Encoding of textual segmentation according to guidelines</item>
+                     <!--<item n="tables">Encoding of tables according to guidelines</item>-->
+                     <!--<item n="music">Encoding of musical examples according to
+                        guidelines</item>-->
+                  </list>
+               </p>
+            </segmentation>
+            <correction>
+               <p><list>
+                  <item n="addDelCorr">Encoding of additions, deletions and corrections according
+                     to guidelines.</item>
+               </list></p>
+            </correction> 
+            <interpretation>
+               <p>
+                  <!-- <list>
+                     
+                     <item n="pPWM">Indexation of persons, places, works and musical terminology
+                        according to guidelines.</item> 
+                      <item n="citations">Indexation of citations according to guidelines.</item> 
+                  </list>-->
+               </p>
+            </interpretation>
+            
+         </editorialDecl>
+         <charDecl>
+
+            <glyph xml:id="br_p1">
+               <glyphName>Brevis rest 1</glyphName>
+               <figure>
+                  <graphic url="br_p1.png"/>
+               </figure>
+            </glyph>
+
+            <glyph xml:id="br2">
+               <glyphName>Brevis 2</glyphName>
+               <figure>
+                  <graphic url="br2.png"/>
+               </figure>
+            </glyph>
+
+            <glyph xml:id="c1">
+               <glyphName>key C</glyphName>
+               <figure>
+                  <graphic url="c1.png"/>
+               </figure>
+            </glyph>
+
+            <glyph xml:id="f1">
+               <glyphName>key F</glyphName>
+               <figure>
+                  <graphic url="f1.png"/>
+               </figure>
+            </glyph>
+
+            <glyph xml:id="f3">
+               <glyphName>key F</glyphName>
+               <figure>
+                  <graphic url="f3.png"/>
+               </figure>
+            </glyph>
+
+            <glyph xml:id="h1">
+               <glyphName>h natural</glyphName>
+               <figure>
+                  <graphic url="h1.png"/>
+               </figure>
+            </glyph>
+
+            <glyph xml:id="m_p1">
+               <glyphName>minima rest 1</glyphName>
+               <figure>
+                  <graphic url="m_p1.png"/>
+               </figure>
+            </glyph>
+
+            <glyph xml:id="m_down">
+               <glyphName>minima down</glyphName>
+               <figure>
+                  <graphic url="m_down.png"/>
+               </figure>
+            </glyph>
+
+            <glyph xml:id="m_up">
+               <glyphName>minima down</glyphName>
+               <figure>
+                  <graphic url="m_up.png"/>
+               </figure>
+            </glyph>
+
+            <glyph xml:id="sb_black">
+               <glyphName>semibrevis (black)</glyphName>
+               <figure>
+                  <graphic url="sb_black.png"/>
+               </figure>
+            </glyph>
+
+            <glyph xml:id="sb_p1">
+               <glyphName>semibrevis rest 1</glyphName>
+               <figure>
+                  <graphic url="sb_p1.png"/>
+               </figure>
+            </glyph>
+
+            <glyph xml:id="sb1">
+               <glyphName>semibrevis 1</glyphName>
+               <figure>
+                  <graphic url="sb1.png"/>
+               </figure>
+            </glyph>
+
+            <glyph xml:id="sm_p1">
+               <glyphName>semiminima rest 1</glyphName>
+               <figure>
+                  <graphic url="sm_p1.png"/>
+               </figure>
+            </glyph>
+
+            <glyph xml:id="sm1_down">
+               <glyphName>semiminima 1 down</glyphName>
+               <figure>
+                  <graphic url="sm1_down.png"/>
+               </figure>
+            </glyph>
+            <glyph xml:id="sm1_up">
+               <glyphName>semiminima 1 up</glyphName>
+               <figure>
+                  <graphic url="sm1_up.png"/>
+               </figure>
+            </glyph>
+
+            <glyph xml:id="sm2_down">
+               <glyphName>semiminima 2 down</glyphName>
+               <figure>
+                  <graphic url="sm2_down.png"/>
+               </figure>
+            </glyph>
+            <glyph xml:id="sm2_up">
+               <glyphName>semiminima 2 up</glyphName>
+               <figure>
+                  <graphic url="sm2_up.png"/>
+               </figure>
+            </glyph>
+         </charDecl>
+
+      </encodingDesc>
+   </teiHeader>
+
+   <facsimile>
+      <surface xml:id="PHYS_0008">
+         <graphic
+            url="http://ngcs.staatsbibliothek-berlin.de/?action=metsImage&amp;format=jpg&amp;metsFile=PPN820447935&amp;divID=PHYS_0008&amp;width=800&amp;rotate=0"/>
+         <zone xml:id="PHYS_0008_01" ulx="36" uly="741" lrx="768" lry="972"/>
+         <zone xml:id="PHYS_0008_02" ulx="36" uly="960" lrx="768" lry="1200"/>
+      </surface>
+
+      <surface xml:id="PHYS_0009">
+         <graphic
+            url="http://ngcs.staatsbibliothek-berlin.de/?action=metsImage&amp;format=jpg&amp;metsFile=PPN820447935&amp;divID=PHYS_0009&amp;width=800&amp;rotate=0"/>
+         <zone xml:id="PHYS_0009_01" ulx="9" uly="945" lrx="711" lry="1155"/>
+      </surface>
+
+      <surface xml:id="PHYS_0010">
+         <graphic
+            url="http://ngcs.staatsbibliothek-berlin.de/?action=metsImage&amp;format=jpg&amp;metsFile=PPN820447935&amp;divID=PHYS_0010&amp;width=800&amp;rotate=0"/>
+         <zone xml:id="PHYS_0010_01" ulx="66" uly="948" lrx="771" lry="1092"/>
+      </surface>
+
+      <surface xml:id="PHYS_0011">
+         <graphic
+            url="http://ngcs.staatsbibliothek-berlin.de/?action=metsImage&amp;format=jpg&amp;metsFile=PPN820447935&amp;divID=PHYS_0011&amp;width=800&amp;rotate=0"/>
+         <zone xml:id="PHYS_0011_01" ulx="45" uly="78" lrx="738" lry="483"/>
+         <zone xml:id="PHYS_0011_02" ulx="63" uly="954" lrx="759" lry="1098"/>
+      </surface>
+
+      <surface xml:id="PHYS_0012">
+         <graphic
+            url="http://ngcs.staatsbibliothek-berlin.de/?action=metsImage&amp;format=jpg&amp;metsFile=PPN820447935&amp;divID=PHYS_0012&amp;width=800&amp;rotate=0"/>
+         <zone xml:id="PHYS_0012_01" ulx="51" uly="81" lrx="747" lry="318"/>
+      </surface>
+
+      <surface xml:id="PHYS_0013">
+         <graphic
+            url="http://ngcs.staatsbibliothek-berlin.de/?action=metsImage&amp;format=jpg&amp;metsFile=PPN820447935&amp;divID=PHYS_0013&amp;width=800&amp;rotate=0"/>
+         <zone xml:id="PHYS_0013_01" ulx="51" uly="282" lrx="735" lry="498"/>
+         <zone xml:id="PHYS_0013_02" ulx="54" uly="486" lrx="741" lry="702"/>
+         <zone xml:id="PHYS_0013_03" ulx="60" uly="963" lrx="747" lry="1101"/>
+      </surface>
+
+      <surface xml:id="PHYS_0014">
+         <graphic
+            url="http://ngcs.staatsbibliothek-berlin.de/?action=metsImage&amp;format=jpg&amp;metsFile=PPN820447935&amp;divID=PHYS_0014&amp;width=800&amp;rotate=0"/>
+         <zone xml:id="PHYS_0014_01" ulx="54" uly="90" lrx="735" lry="324"/>
+      </surface>
+
+      <surface xml:id="PHYS_0015">
+         <graphic
+            url="http://ngcs.staatsbibliothek-berlin.de/?action=metsImage&amp;format=jpg&amp;metsFile=PPN820447935&amp;divID=PHYS_0015&amp;width=800&amp;rotate=0"/>
+         <zone xml:id="PHYS_0015_01" ulx="75" uly="180" lrx="759" lry="741"/>
+      </surface>
+
+      <surface xml:id="PHYS_0016">
+         <graphic
+            url="http://ngcs.staatsbibliothek-berlin.de/?action=metsImage&amp;format=jpg&amp;metsFile=PPN820447935&amp;divID=PHYS_0016&amp;width=800&amp;rotate=0"/>
+         <zone xml:id="PHYS_0016_01" ulx="27" uly="501" lrx="711" lry="891"/>
+         <zone xml:id="PHYS_0016_02" ulx="24" uly="915" lrx="702" lry="1089"/>
+      </surface>
+
+      <surface xml:id="PHYS_0017">
+         <graphic
+            url="http://ngcs.staatsbibliothek-berlin.de/?action=metsImage&amp;format=jpg&amp;metsFile=PPN820447935&amp;divID=PHYS_0017&amp;width=800&amp;rotate=0"/>
+         <zone xml:id="PHYS_0017_01" ulx="72" uly="90" lrx="753" lry="1104"/>
+      </surface>
+
+      <surface xml:id="PHYS_0018">
+         <graphic
+            url="http://ngcs.staatsbibliothek-berlin.de/?action=metsImage&amp;format=jpg&amp;metsFile=PPN820447935&amp;divID=PHYS_0018&amp;width=800&amp;rotate=0"/>
+         <zone xml:id="PHYS_0018_01" ulx="54" uly="75" lrx="732" lry="264"/>
+         <zone xml:id="PHYS_0018_02" ulx="39" uly="435" lrx="729" lry="1179"/>
+      </surface>
+
+      <surface xml:id="PHYS_0019">
+         <graphic
+            url="http://ngcs.staatsbibliothek-berlin.de/?action=metsImage&amp;format=jpg&amp;metsFile=PPN820447935&amp;divID=PHYS_0019&amp;width=800&amp;rotate=0"/>
+         <zone xml:id="PHYS_0019_01" ulx="63" uly="78" lrx="747" lry="816"/>
+         <zone xml:id="PHYS_0019_02" ulx="69" uly="888" lrx="753" lry="1059"/>
+      </surface>
+
+      <surface xml:id="PHYS_0020">
+         <graphic
+            url="http://ngcs.staatsbibliothek-berlin.de/?action=metsImage&amp;format=jpg&amp;metsFile=PPN820447935&amp;divID=PHYS_0020&amp;width=800&amp;rotate=0"/>
+         <zone xml:id="PHYS_0020_01" ulx="63" uly="60" lrx="741" lry="252"/>
+         <zone xml:id="PHYS_0020_02" ulx="63" uly="318" lrx="738" lry="495"/>
+         <zone xml:id="PHYS_0020_03" ulx="54" uly="549" lrx="729" lry="1035"/>
+      </surface>
+
+   </facsimile>
+
+   <text>
+      <front>
+         <titlePage>
+            <titlePart type="main">Eine Kinder <hi rend="an"><rs type="thesaurus" ref="#musica"
+                        ><choice n="1">
+                        <orig>Muſic</orig>
+                        <reg>Music</reg>
+                     </choice></rs></hi><lb/>
+               <choice n="1">
+                  <orig>Fuͤr</orig>
+                  <reg>Für</reg>
+               </choice> die jetz aller<pc type="t12">=</pc><lb/>
+               <hi rend="fr"><choice n="1">
+                     <orig>erſt</orig>
+                     <reg>erst</reg>
+                  </choice> anfangende Knaben in richti</hi><pc type="t12">=</pc><lb/>ge Fragen
+                  <choice n="1">
+                  <orig>vnd</orig>
+                  <reg>und</reg>
+               </choice>
+               <choice n="1">
+                  <orig>gruͤndtliche</orig>
+                  <reg>gründtliche</reg>
+               </choice> antwort<lb/> bracht von<lb/></titlePart>
+           
+
+            <docAuthor><hi rend="an">Henningo Dedekin<pc type="t12">=</pc><lb/>do Cantore<pc
+                     type="t1">.</pc></hi><lb/></docAuthor>
+            <epigraph>
+
+               <lg type="couplet">
+                  <l>
+                     <hi rend="an"> Ordinis <choice n="1">
+                           <orig>Oſores</orig>
+                           <reg>Osores</reg>
+                        </choice> procul <choice n="1">
+                           <orig>eſte</orig>
+                           <reg>este</reg>
+                        </choice>
+                        <choice n="2">
+                           <abbr>noví</abbr>
+                           <expan>novíque</expan>
+                        </choice>
+                        <choice n="2">
+                           <abbr>boní</abbr>
+                           <expan>boníque</expan>
+                        </choice><pc type="t2">,</pc></hi></l>
+                  <l><hi>Nil mihi vobiscum est<pc type="t2">,</pc> est meus <choice n="1">
+                           <orig>iſte</orig>
+                           <reg>iste</reg>
+                        </choice> labor<pc type="t1">.</pc></hi></l>
+                  <l><hi>Sit meus ordo mihi; Quibus at <choice n="1">
+                           <orig>confuſa</orig>
+                           <reg>confusa</reg>
+                        </choice> placebunt<pc type="t2">,</pc></hi></l>
+                  <l><hi><choice n="1">
+                           <orig>confuſis</orig>
+                           <reg>confusis</reg>
+                        </choice> inhient<pc type="t1">.</pc> Sit meus ordo mihi <pc type="t1"
+                           >.</pc></hi></l>
+               </lg>
+               <ab>
+                  <hi rend="an">H<pc type="t1">.</pc> D<pc type="t1">.</pc> N<pc type="t1">.</pc>
+                     S</hi>
+                  <pc type="t1">.</pc></ab>
+            </epigraph>
+            
+           
+
+            <docDate><hi rend="an">M<pc type="t1">.</pc> D<pc type="t1">.</pc> XXCIX</hi><pc
+                  type="t1">.</pc><lb/></docDate>
+            
+            <titlePart type="sub">[Work in progress – Last update: 07.04.2016]</titlePart>
+
+         </titlePage>
+      </front>
+      <body>
+         <pb xml:id="TMGDedekind15890006" facs="#0006" n="[f. A1 v.]"/>
+         <lb/>
+         <div1 xml:id="div_1">
+
+            <head><title><add resp="#editor">Widmung</add></title></head>
+            <p><hi rend="fr">Denn Ehrliebenden</hi><lb/>
+               <hi rend="fr">und <choice n="1">
+                     <orig>Gotfuͤrchtigen</orig>
+                     <reg>Gotfürchtigen</reg>
+                  </choice> Knaben</hi>
+               <hi rend="an"><choice n="3">
+                     <orig>NICO<pc type="t12">=</pc><lb/>LAO</orig>
+                     <reg>Nicolao</reg>
+                  </choice></hi> und <hi rend="an"><choice n="3">
+                     <orig>IOHANNI</orig>
+                     <reg>Johanni</reg>
+                  </choice></hi>
+               <choice n="1">
+                  <orig>Schroͤtern</orig>
+                  <reg>Schrötern</reg>
+               </choice><pc type="t2">/</pc><hi rend="an"><choice n="3">
+                     <orig>LE <pc type="t12">=</pc><lb/>ONHARTO</orig>
+                     <reg>Leoharto</reg>
+                  </choice></hi>
+               <choice n="2">
+                  <abbr>un̄</abbr>
+                  <expan>und</expan>
+               </choice>
+               <hi rend="an"><choice n="3">
+                     <orig>SEBASTIANO</orig>
+                     <reg>Sebastiano</reg>
+                  </choice></hi> Gutbiern<pc type="t2">/</pc><lb/>
+               <hi rend="an"><choice n="3">
+                     <orig>LEONHARTO</orig>
+                     <reg>Leonharto</reg>
+                  </choice></hi> Tannern<pc type="t2">/</pc>
+               <hi rend="an"><choice n="3">
+                     <orig>IACOBO</orig>
+                     <reg>Jacobo</reg>
+                  </choice></hi> Zeu<pc type="t12">=</pc><lb/>nern<pc type="t2">/</pc><hi rend="an"
+                     ><choice n="3">
+                     <orig>IOHANNI</orig>
+                     <reg>Johanni</reg>
+                  </choice></hi> Scheffern<pc type="t2">/</pc>auch andern <hi rend="an"><choice
+                     n="1">
+                     <orig>ſecun</orig>
+                     <reg>secun</reg>
+                  </choice><pc type="t12">-</pc><lb/><lb/><choice n="1">
+                     <orig>dæ</orig>
+                     <reg>dae</reg>
+                  </choice></hi> und <hi rend="an"><choice n="1">
+                     <orig>tertiæ</orig>
+                     <reg>tertiae</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>Clasſis</orig>
+                     <reg>Classis</reg>
+                  </choice>
+                  <rs type="thesaurus" ref="#dis"><choice n="1">
+                        <orig>Diſcipulis</orig>
+                        <reg>Discipulis</reg>
+                     </choice></rs></hi>
+               <choice n="1">
+                  <orig>wuͤndſchet</orig>
+                  <reg>wündschet</reg>
+               </choice>
+               <hi rend="an"><choice n="3">
+                     <orig>HEN<pc type="t12">-</pc><lb/>NINGVS</orig>
+                     <reg>Henningus</reg>
+                  </choice>
+                  <choice n="3">
+                     <orig>DEDEKINDVS</orig>
+                     <reg>Dedekindus</reg>
+                  </choice> Cantor</hi> Got<pc type="t12">=</pc><lb/>tes Segen auch <choice n="1">
+                  <orig>luſt</orig>
+                  <reg>lust</reg>
+               </choice>
+               <choice n="1">
+                  <orig>vnd</orig>
+                  <reg>und</reg>
+               </choice> liebe zu der <hi rend="an"><rs type="thesaurus" ref="#musica"><choice n="1">
+                        <orig>Muſic</orig>
+                        <reg>Music</reg>
+                     </choice></rs></hi><pc type="t2">/</pc> aus wel<pc type="t12">=</pc><lb/>cher
+               das verlangen und begierde andere freye<lb/>
+               <choice n="1">
+                  <orig>Kuͤnſte</orig>
+                  <reg>Künste</reg>
+               </choice> zu lernen <choice n="1">
+                  <orig>entſpringet</orig>
+                  <reg>entspringet</reg>
+               </choice><lb/> und <choice n="1">
+                  <orig>herfleuſſet</orig>
+                  <reg>herfleusset</reg>
+               </choice><pc type="t1">.</pc><lb/></p>
+            <p><hi rend="fr"><choice n="3">
+                     <orig>AVff</orig>
+                     <reg>Auff</reg>
+                  </choice> das ihr<pc type="t2">/</pc>meine lieben</hi>
+               <hi rend="an"><choice n="1">
+                     <orig>Di<pc type="t12">=</pc><lb/>ſcipuli</orig>
+                     <reg>Di<pc type="t12">=</pc><lb/>scipuli</reg>
+                  </choice></hi><pc type="t2">/</pc>die lieben <hi rend="an"><rs ref="#musica"
+                     type="thesaurus"><choice n="1">
+                        <orig>Muſicam</orig>
+                        <reg>Musicam</reg>
+                     </choice></rs></hi><pc type="t2">/</pc>zu welcher<lb/> ihr nun mehr <choice
+                  n="1">
+                  <orig>muͤſſet</orig>
+                  <reg>müsset</reg>
+               </choice> gewehnet wer<pc type="t12">=</pc><lb/>den<pc type="t2">/</pc> auffs aller
+                  <choice n="1">
+                  <orig>kuͤrtzeſt</orig>
+                  <reg>kürtzest</reg>
+               </choice>
+               <choice n="1">
+                  <orig><choice n="2">
+                        <abbr>vn̄</abbr>
+                        <expan>vnd</expan>
+                     </choice></orig>
+                  <reg><choice n="2">
+                        <abbr>un̄</abbr>
+                        <expan>und</expan>
+                     </choice></reg>
+               </choice>
+               <choice n="1">
+                  <orig>gruͤndlichſt</orig>
+                  <reg>gründlichst</reg>
+               </choice><lb/>
+               <choice n="1">
+                  <orig>fasſen</orig>
+                  <reg>fassen</reg>
+               </choice>
+               <choice n="1">
+                  <orig>vnd</orig>
+                  <reg>und</reg>
+               </choice> behalten <choice n="1">
+                  <orig>moͤchtet</orig>
+                  <reg>möchtet</reg>
+               </choice><pc type="t1">:</pc> So ha<pc type="t12">=</pc><lb/>be ich nicht <choice
+                  n="1">
+                  <orig>vnderlaſſen</orig>
+                  <reg>underlassen</reg>
+               </choice>
+               <pc type="t2">/</pc> auff richtige<lb/>
+               <choice n="1">
+                  <orig>vnd</orig>
+                  <reg>und</reg>
+               </choice> wol <choice n="1">
+                  <orig>gegruͤndete</orig>
+                  <reg>gegründete</reg>
+               </choice> wege zu gedencken <pc type="t2">/</pc> durch welche<lb/> ihr mit <choice
+                  n="3">
+                  <orig>lnſt</orig>
+                  <reg>lust</reg>
+               </choice>
+               <choice n="1">
+                  <orig>kuͤndtet</orig>
+                  <reg>kündtet</reg>
+               </choice> zum Eingang der <choice n="1">
+                  <orig>Kunſt</orig>
+                  <reg>Kunst</reg>
+               </choice> geleitet<lb/> werden <pc type="t1">/</pc> Das ihr <choice n="1">
+                  <orig>alſo</orig>
+                  <reg>also</reg>
+               </choice> einen <choice n="1">
+                  <orig>Vorſchmack</orig>
+                  <reg>Vorschmack</reg>
+               </choice> hettet der<lb/> liebligkeit<pc type="t2">/</pc> die ihr<pc type="t2">/</pc>
+               wils Got <pc type="t2">/</pc> aus weiterem <choice n="1">
+                  <orig>Vnder</orig>
+                  <reg>Under</reg>
+               </choice><pc type="t12">=</pc><lb/>richt in kurtzem <choice n="1">
+                  <orig>ſchoͤpffen</orig>
+                  <reg>schöpffen</reg>
+               </choice> werdet<pc type="t1">.</pc> Demnach habe<lb/> ich <choice n="1">
+                  <orig>dieſe</orig>
+                  <reg>diese</reg>
+               </choice> gegenwertige Fragen auffs <choice n="1">
+                  <orig>einfeltigſt</orig>
+                  <reg>einfeltigst</reg>
+               </choice> und<lb/>
+               <choice n="1">
+                  <orig>richtigſt</orig>
+                  <reg>richtigst</reg>
+               </choice>
+               <choice n="1">
+                  <orig>zuſammen</orig>
+                  <reg>zusammen</reg>
+               </choice>
+               <choice n="1">
+                  <orig>geleſen</orig>
+                  <reg>gelesen</reg>
+               </choice>
+               <pc type="t2">/</pc>
+               <choice n="1">
+                  <orig>vnd</orig>
+                  <reg>und</reg>
+               </choice>
+               <choice n="1">
+                  <orig>dieſelben</orig>
+                  <reg>dieselben</reg>
+               </choice>
+               <choice n="1">
+                  <orig>vmb</orig>
+                  <reg>umb</reg>
+               </choice> ewren<lb/>
+               <pb xml:id="TMGDedekind15890007" facs="#0007" n="[f. A2 r.]"/><lb/><lb/> willen<pc
+                  type="t2">/</pc><choice n="1">
+                  <orig>ſemptlich</orig>
+                  <reg>semptlich</reg>
+               </choice> und <choice n="1">
+                  <orig>ſonderlich</orig>
+                  <reg>sonderlich</reg>
+               </choice><pc type="t2">/</pc>jetze zum newen Jar<pc type="t2">/</pc><lb/> im Druck
+               ausgehen <choice n="1">
+                  <orig>laſſen</orig>
+                  <reg>lassen</reg>
+               </choice><pc type="t2">/</pc>auff das ihr die zeit<pc type="t2">/</pc>die ihr<lb/>
+               <choice n="1">
+                  <orig>ſonſt</orig>
+                  <reg>sonst</reg>
+               </choice> hettet <choice n="1">
+                  <orig>muͤſſen</orig>
+                  <reg>müssen</reg>
+               </choice> auffs <choice n="1">
+                  <orig>abſchreiben</orig>
+                  <reg>abschreiben</reg>
+               </choice> wenden<pc type="t2">/</pc>nun die<pc type="t12">=</pc><lb/>
+               <choice n="1">
+                  <orig>ſelbige</orig>
+                  <reg>selbige</reg>
+               </choice> auswendig zu lernen <choice n="1">
+                  <orig>koͤnnet</orig>
+                  <reg>könnet</reg>
+               </choice> anwenden<pc type="t1">/</pc> Das<lb/>
+               <choice n="1">
+                  <orig>jhr</orig>
+                  <reg>ihr</reg>
+               </choice>
+               <choice n="1">
+                  <orig>alſo</orig>
+                  <reg>also</reg>
+               </choice>
+               <choice n="1">
+                  <orig>deſto</orig>
+                  <reg>desto</reg>
+               </choice> weniger an ewren andern <hi rend="an">Lectionibus</hi><pc type="t2"
+               >/</pc><lb/> die <choice n="1">
+                  <orig>jhr</orig>
+                  <reg>ihr</reg>
+               </choice>
+               <pc type="t2">/</pc> neben der <hi rend="an"><rs type="thesaurus" ref="#musica"
+                        ><choice n="1">
+                        <orig>Muſic</orig>
+                        <reg>Music</reg>
+                     </choice></rs></hi>
+               <pc type="t2">/</pc> auch alle <choice n="1">
+                  <orig>fleisſig</orig>
+                  <reg>fleissig</reg>
+               </choice> lernen<lb/>
+               <choice n="1">
+                  <orig>muͤsſet</orig>
+                  <reg>müsset</reg>
+               </choice>
+               <pc type="t2">/</pc> verhindert werdet<pc type="t1">.</pc> Nun wil euch <choice n="1">
+                  <orig>gebuͤren</orig>
+                  <reg>gebüren</reg>
+               </choice><lb/>
+               <choice n="1">
+                  <orig>dieſe</orig>
+                  <reg>diese</reg>
+               </choice> Fragen nicht allein in die hand <pc type="t2">/</pc>
+               <choice n="1">
+                  <orig>ſondern</orig>
+                  <reg>sondern</reg>
+               </choice> auch in<lb/> kopff zu <choice n="1">
+                  <orig>faſſen</orig>
+                  <reg>fassen</reg>
+               </choice> und auff andere <choice n="1">
+                  <orig>underweiſungen</orig>
+                  <reg>underweisungen</reg>
+               </choice><pc type="t2">/</pc>wel<pc type="t12">=</pc><lb/>che daneben auch nicht
+               werden bey euch <choice n="1">
+                  <orig>geſparet</orig>
+                  <reg>gesparet</reg>
+               </choice> wer<pc type="t12">=</pc><lb/>den<pc type="t2">/</pc><choice n="1">
+                  <orig>vleisſig</orig>
+                  <reg>vleissig</reg>
+               </choice> achtung zu geben<pc type="t1">.</pc> Solches wirt euch<pc type="t2">/</pc>
+               <choice n="1">
+                  <orig>ſo</orig>
+                  <reg>so</reg>
+               </choice><lb/> wol bey den lieben heiligen Engeln <choice n="1">
+                  <orig>vnd</orig>
+                  <reg>und</reg>
+               </choice> Got <choice n="1">
+                  <orig>ſelbs</orig>
+                  <reg>selbs</reg>
+               </choice><pc type="t2">/</pc><lb/> als bey ewren <hi rend="an"><choice n="1">
+                     <orig>Præceptoribus</orig>
+                     <reg>Praeceptoribus</reg>
+                  </choice></hi>
+               <choice n="1">
+                  <orig>vnd</orig>
+                  <reg>und</reg>
+               </choice> allen Ehrlichen<lb/> leuten <choice n="1">
+                  <orig>ſonderliche</orig>
+                  <reg>sonderliche</reg>
+               </choice>
+               <choice n="1">
+                  <orig>gunſt</orig>
+                  <reg>gunst</reg>
+               </choice> bringen <pc type="t2">/</pc>
+               <choice n="1">
+                  <orig>Vnd</orig>
+                  <reg>Und</reg>
+               </choice> ihr werdets<lb/> hernach<pc type="t2">/</pc>
+               <choice n="2">
+                  <abbr>wen̄</abbr>
+                  <expan>wenn</expan>
+               </choice> ihr zu alter und <choice n="1">
+                  <orig>verſtande</orig>
+                  <reg>verstande</reg>
+               </choice> kommen wer<pc type="t12">=</pc><lb/>det <pc type="t2">/</pc> ewren <choice
+                  n="1">
+                  <orig>Schulmeiſtern</orig>
+                  <reg>Schulmeistern</reg>
+               </choice> danck <choice n="1">
+                  <orig>wiſſen</orig>
+                  <reg>wissen</reg>
+               </choice>
+               <pc type="t2">/</pc> das <choice n="1">
+                  <orig>ſie</orig>
+                  <reg>sie</reg>
+               </choice>
+               <choice n="1">
+                  <orig>ſol</orig>
+                  <reg>sol</reg>
+               </choice><pc type="t12">=</pc><lb/>chen vleis bey euch haben angewant<pc type="t1"
+                  >.</pc> Mitler zeit<lb/> verleihe Gott der <choice n="3">
+                  <orig>HERR</orig>
+                  <reg>Herr</reg>
+               </choice> euch <choice n="1">
+                  <orig>Geſund</orig>
+                  <reg>Gesund</reg>
+               </choice><pc type="t12">=</pc><lb/>heit <pc type="t2">/</pc> und gebe Gnade <pc
+                  type="t2">/</pc> das <choice n="1">
+                  <orig>jhr</orig>
+                  <reg>ihr</reg>
+               </choice> an<lb/> Weisheit und <choice n="1">
+                  <orig>Verſtande</orig>
+                  <reg>Verstande</reg>
+               </choice> teg<pc type="t12">=</pc><lb/>lich zunemen <choice n="1">
+                  <orig>moͤget</orig>
+                  <reg>möget</reg>
+               </choice><pc type="t2">/</pc><lb/>
+               <choice n="3">
+                  <orig>AMEN</orig>
+                  <reg>Amen</reg>
+               </choice><pc type="t1">.</pc><lb/></p>
+         </div1>
+         <div1 xml:id="div_2">
+            <pb xml:id="TMGDedekind15890008" facs="#0008" n="[f. A2 v.]"/>
+            <lb/>
+            <head><title><add resp="#editor">Eine Kinder Musica</add></title></head>
+            <sp who="p">
+               <p>Was <choice n="1">
+                     <orig>iſt</orig>
+                     <reg>ist</reg>
+                  </choice> die <hi rend="an"><rs ref="#musica" type="thesaurus"><choice n="1">
+                           <orig>Muſica</orig>
+                           <reg>Musica</reg>
+                        </choice></rs></hi><pc type="t3">?</pc><lb/>
+               </p>
+            </sp>
+            <sp who="d">
+               <p><choice n="3">
+                     <orig>DJe</orig>
+                     <reg>Die</reg>
+                  </choice>
+                  <hi rend="an"><rs type="thesaurus" ref="#musica"><choice n="1">
+                           <orig>MVSICA</orig>
+                           <reg>Musica</reg>
+                        </choice></rs></hi>
+                  <choice n="1">
+                     <orig>iſt</orig>
+                     <reg>ist</reg>
+                  </choice> eine <choice n="1">
+                     <orig>kunſt</orig>
+                     <reg>kunst</reg>
+                  </choice>
+                  <pc type="t2">/</pc> nach <hi rend="an"><rs ref="#nota" type="thesaurus"
+                        >Noten</rs></hi><lb/> zu <rs ref="#gesang" type="thesaurus"><choice n="1">
+                        <orig>ſingen</orig>
+                        <reg>singen</reg>
+                     </choice></rs><pc type="t1">.</pc><lb/></p>
+            </sp>
+            <sp who="p">
+               <p>Was <choice n="1">
+                     <orig>ſein</orig>
+                     <reg>sein</reg>
+                  </choice>
+                  <hi rend="an"><rs ref="#nota" type="thesaurus">Noten</rs></hi><pc type="t3"
+                  >?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p><hi rend="an"><rs ref="#nota" type="thesaurus">Noten</rs></hi>
+                  <choice n="1">
+                     <orig>ſein</orig>
+                     <reg>sein</reg>
+                  </choice> zeichen <pc type="t2">/</pc> welche auff <choice n="1">
+                     <orig>vnd</orig>
+                     <reg>und</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>zwiſchen</orig>
+                     <reg>zwischen</reg>
+                  </choice> et<pc type="t12">=</pc><lb/>liche <hi rend="an">Linien</hi>
+                  <choice n="1">
+                     <orig>geſchrieben</orig>
+                     <reg>geschrieben</reg>
+                  </choice> werden <pc type="t2">/</pc> dabey man <choice n="1">
+                     <orig>ſihet</orig>
+                     <reg>sihet</reg>
+                  </choice><pc type="t2">/</pc> ob<lb/> man <choice n="1">
+                     <orig>ſolle</orig>
+                     <reg>solle</reg>
+                  </choice> die <rs type="thesaurus" ref="#stimme"><choice n="1">
+                        <orig>ſtimmen</orig>
+                        <reg>stimmen</reg>
+                     </choice></rs> erheben oder nicht Als<pc type="t6">:</pc>
+                  <g ref="#sb_black"/>
+                  <g ref="#sm1_down"/>
+                  <g ref="#sm1_up"/><lb/><add resp="#editor"><pc type="t1">.</pc></add></p>
+            </sp>
+            <sp who="p">
+               <p>Was mus einer <choice n="1">
+                     <orig>wiſſen</orig>
+                     <reg>wissen</reg>
+                  </choice>
+                  <pc type="t2">/</pc> der da wil<lb/>
+                  <rs ref="#gesang" type="thesaurus"><choice n="1">
+                        <orig>ſingen</orig>
+                        <reg>singen</reg>
+                     </choice></rs> lernen<pc type="t3">?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p>Er mus die <choice n="1">
+                     <orig>erſten</orig>
+                     <reg>ersten</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſieben</orig>
+                     <reg>sieben</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>Buchſtaben</orig>
+                     <reg>Buchstaben</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>wisſen</orig>
+                     <reg>wissen</reg>
+                  </choice><pc type="t2">/</pc><lb/> als<pc type="t6">:</pc>
+                  <hi rend="an">A B C D E F G</hi><pc type="t2">,</pc> welche in der <hi rend="an"
+                        ><rs type="thesaurus" ref="#musica"><choice n="1">
+                           <orig>Muſicâ</orig>
+                           <reg>Musica</reg>
+                        </choice></rs> Claves</hi><lb/>
+                  <choice n="1">
+                     <orig>heiſſen</orig>
+                     <reg>heissen</reg>
+                  </choice><pc type="t1">/</pc>
+                  <choice n="1">
+                     <orig>Derſelben</orig>
+                     <reg>Derselben</reg>
+                  </choice> werden etliche auff die <hi rend="an">Linien</hi> for<pc type="t12"
+                     >=</pc><lb/>ne im <rs ref="#gesang" type="thesaurus"><choice n="1">
+                        <orig>geſang</orig>
+                        <reg>gesang</reg>
+                     </choice></rs>
+                  <choice n="1">
+                     <orig>geſchrieben</orig>
+                     <reg>geschrieben</reg>
+                  </choice>
+                  <pc type="t2">/</pc> darnach man die andern<lb/> ausrechnet <pc type="t2">/</pc>
+                  und <choice n="1">
+                     <orig>jhren</orig>
+                     <reg>ihren</reg>
+                  </choice>
+                  <hi rend="an">Lineis</hi> und <hi rend="an"><choice n="1">
+                        <orig>ſpaciis</orig>
+                        <reg>spaciis</reg>
+                     </choice></hi> zueigenet<pc type="t2">/</pc><lb/> wie folget<pc type="t6"
+                     >:</pc><lb/>
+                  <figure facs="#PHYS_0008_01"/>
+                  <figure facs="#PHYS_0008_02"/>
+               </p>
+            </sp>
+            <figure> </figure>
+            <pb xml:id="TMGDedekind15890009" facs="#0009" n="[f. A3 r.]"/>
+            <lb/>
+            <sp who="p">
+               <p>Findet man denn <choice n="1">
+                     <orig>dieſer</orig>
+                     <reg>dieser</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>Buchſtaben</orig>
+                     <reg>Buchstaben</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſtets</orig>
+                     <reg>stets</reg>
+                  </choice> ei<pc type="t12">=</pc><lb/>nen <choice n="1">
+                     <orig>fuͤr</orig>
+                     <reg>für</reg>
+                  </choice> dem <rs type="thesaurus" ref="#gesang"><choice n="1">
+                        <orig>Geſang</orig>
+                        <reg>Gesang</reg>
+                     </choice></rs><pc type="t3">?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p>Es mus allezeit ein <hi rend="an">Clavis</hi>
+                  <choice n="1">
+                     <orig>fuͤr</orig>
+                     <reg>für</reg>
+                  </choice> dem <rs type="thesaurus" ref="#gesang"><choice n="1">
+                        <orig>Geſange</orig>
+                        <reg>Gesange</reg>
+                     </choice></rs>
+                  <choice n="1">
+                     <orig>ſte</orig>
+                     <reg>ste</reg>
+                  </choice><pc type="t12">=</pc><lb/>hen <pc type="t1">/</pc> Aber <choice n="1">
+                     <orig>derſelbige</orig>
+                     <reg>derselbige</reg>
+                  </choice> wirt bis weil mit einer frembden<lb/> form <choice n="1">
+                     <orig>geſchrieben</orig>
+                     <reg>geschrieben</reg>
+                  </choice><pc type="t6">/</pc> Als <hi rend="an">B</hi>
+                  <choice n="1">
+                     <orig>alſo</orig>
+                     <reg>also</reg>
+                  </choice>
+                  <g ref="#h1"/><pc type="t1">.</pc> Das <hi rend="an">C</hi>
+                  <choice n="1">
+                     <orig>alſo</orig>
+                     <reg>also</reg>
+                  </choice><pc type="t1">.</pc>
+                  <g ref="#c1"/> Das<lb/>
+                  <hi rend="an">F</hi>
+                  <choice n="1">
+                     <orig>alſo</orig>
+                     <reg>also</reg>
+                  </choice>
+                  <g ref="#f1"/>
+                  <g ref="#f3"/><pc type="t1">.</pc><lb/></p>
+            </sp>
+            <sp who="p">
+               <p>Wozu dienen die <hi rend="an">Claves</hi><pc type="t3">?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p>Die <hi rend="an">Claves</hi> dienen dazu <pc type="t2">/</pc> das man <choice
+                     n="1">
+                     <orig>wisſe</orig>
+                     <reg>wisse</reg>
+                  </choice>
+                  <pc type="t2">/</pc> wie<lb/> eine jegliche <hi rend="an">Nota</hi>
+                  <choice n="1">
+                     <orig>ſol</orig>
+                     <reg>sol</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>geſungen</orig>
+                     <reg>gesungen</reg>
+                  </choice> werden<pc type="t1">.</pc><lb/></p>
+            </sp>
+            <sp who="p">
+               <p>Wie kan man das <choice n="1">
+                     <orig>wiſſen</orig>
+                     <reg>wissen</reg>
+                  </choice><pc type="t3">?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p>Einem jeglichen <hi rend="an">Clavi</hi> wirt anfenglich eine ge<pc type="t12"
+                     >=</pc><lb/><choice n="1">
+                     <orig>wisſe</orig>
+                     <reg>wisse</reg>
+                  </choice>
+                  <hi rend="an">Syllaba</hi>
+                  <choice n="1">
+                     <orig>zugeſetzet</orig>
+                     <reg>zugesetzet</reg>
+                  </choice>
+                  <pc type="t2">/</pc> damit alle <hi rend="an"><rs ref="#nota" type="thesaurus"
+                        >Noten</rs></hi>
+                  <choice n="1">
+                     <orig>muͤsſen</orig>
+                     <reg>müssen</reg>
+                  </choice><lb/>
+                  <choice n="1">
+                     <orig>geſungen</orig>
+                     <reg>gesungen</reg>
+                  </choice> werden<pc type="t2">/</pc>die in <choice n="1">
+                     <orig>demſelben</orig>
+                     <reg>demselben</reg>
+                  </choice>
+                  <hi rend="an">Clave</hi>
+                  <choice n="1">
+                     <orig>ſtehen</orig>
+                     <reg>stehen</reg>
+                  </choice><pc type="t1">.</pc>
+                  <choice n="2">
+                     <abbr><choice n="1">
+                           <orig>Vn̄</orig>
+                           <reg>Un̄</reg>
+                        </choice></abbr>
+                     <expan><choice n="1">
+                           <orig>Vnde</orig>
+                           <reg>Unde</reg>
+                        </choice></expan>
+                  </choice><lb/>
+                  <choice n="1">
+                     <orig>ſolcher</orig>
+                     <reg>solcher</reg>
+                  </choice>
+                  <rs type="thesaurus" ref="#gesang"><choice n="1">
+                        <orig>Geſang</orig>
+                        <reg>Gesang</reg>
+                     </choice></rs>
+                  <choice n="1">
+                     <orig>heiſſet</orig>
+                     <reg>heisset</reg>
+                  </choice>
+                  <hi rend="an"><rs type="thesaurus" ref="#cantus">Cantus</rs> Naturalis</hi><pc
+                     type="t1">.</pc><lb/></p>
+            </sp>
+            <sp who="p">
+               <p>Wie viel <choice n="1">
+                     <orig>ſein</orig>
+                     <reg>sein</reg>
+                  </choice> der <hi rend="an">Syllaben</hi><pc type="t3">?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p>Sechs<pc type="t6">:</pc> ut re mi fa <choice n="1">
+                     <orig>ſol</orig>
+                     <reg>sol</reg>
+                  </choice> la<pc type="t1">.</pc><lb/>
+               </p>
+            </sp>
+            <sp who="p">
+               <p>Setze <choice n="1">
+                     <orig>ſie</orig>
+                     <reg>sie</reg>
+                  </choice> zu <choice n="1">
+                     <orig>jhren</orig>
+                     <reg>ihren</reg>
+                  </choice>
+                  <hi rend="an"><rs type="thesaurus" ref="#clavis">Clavibus</rs></hi><pc type="t3"
+                     >?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+
+               <table>
+                  <row>
+                     <cell><hi rend="an">F</hi></cell>
+                     <cell><hi rend="an">fa</hi></cell>
+                  </row>
+                  <row>
+                     <cell><hi rend="an">E</hi></cell>
+                     <cell><hi rend="an">la</hi></cell>
+                  </row>
+                  <row>
+                     <cell><hi rend="an">D</hi></cell>
+                     <cell><hi rend="an">sol</hi></cell>
+                  </row>
+                  <row>
+                     <cell><hi rend="an">C</hi></cell>
+                     <cell><hi rend="an">fa</hi></cell>
+                  </row>
+                  <row>
+                     <cell><hi rend="an">B</hi></cell>
+                     <cell><hi rend="an">mi</hi></cell>
+                  </row>
+                  <row>
+                     <cell><hi rend="an">A</hi></cell>
+                     <cell><hi rend="an">re</hi></cell>
+                  </row>
+                  <row>
+                     <cell><hi rend="an">G</hi></cell>
+                     <cell><hi rend="an">ut</hi></cell>
+                  </row>
+               </table>
+            </sp>
+            <sp who="p">
+               <p> Singe mir die <hi rend="an">Syllaben</hi> nach<lb/> ordnung der <hi rend="an"
+                        >Clavi<pc type="t12">=</pc><lb/>um</hi> her<pc type="t3">?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p>
+                  <figure facs="#PHYS_0009_01"/></p>
+            </sp>
+
+            <pb xml:id="TMGDedekind15890010" facs="#0010" n="[f. A3 v.]"/>
+            <lb/>
+            <sp who="p">
+               <p>Warumb mus man <choice n="1">
+                     <orig>dieſe</orig>
+                     <reg>diese</reg>
+                  </choice>
+                  <hi rend="an">Syllaben</hi><lb/>
+                  <choice n="1">
+                     <orig>alſo</orig>
+                     <reg>also</reg>
+                  </choice>
+                  <rs ref="#gesang" type="thesaurus"><choice n="1">
+                        <orig>ſingen</orig>
+                        <reg>singen</reg>
+                     </choice></rs> lernen<pc type="t3">?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p>Man mus <choice n="1">
+                     <orig>dieſe</orig>
+                     <reg>diese</reg>
+                  </choice> Syllaben darumb <choice n="1">
+                     <orig>alſo</orig>
+                     <reg>also</reg>
+                  </choice>
+                  <rs ref="#gesang" type="thesaurus"><choice n="1">
+                        <orig>ſingen</orig>
+                        <reg>singen</reg>
+                     </choice></rs><lb/> lernen<pc type="t2">/</pc>das <choice n="1">
+                     <orig>ſie</orig>
+                     <reg>sie</reg>
+                  </choice> ein anfang <choice n="1">
+                     <orig>ſein</orig>
+                     <reg>sein</reg>
+                  </choice><pc type="t2">/</pc>aller andern <rs type="thesaurus" ref="#gesang"
+                        ><choice n="1">
+                        <orig>Geſenge</orig>
+                        <reg>Gesenge</reg>
+                     </choice></rs><pc type="t2">/</pc><lb/> in welchen <choice n="1">
+                     <orig>ſie</orig>
+                     <reg>sie</reg>
+                  </choice> bisweil ordentlich nach einander behal<pc type="t12">=</pc><lb/>ten
+                  werden <pc type="t2">/</pc> bisweil aber <choice n="1">
+                     <orig>alſo</orig>
+                     <reg>also</reg>
+                  </choice>
+                  <pc type="t2">/</pc> das etliche <choice n="1">
+                     <orig>auſſen</orig>
+                     <reg>aussen</reg>
+                  </choice><lb/> bleiben<pc type="t1">.</pc><lb/></p>
+            </sp>
+            <sp who="p">
+               <p>Wenn du nun einen Gefang <rs ref="#gesang" type="thesaurus"><choice n="1">
+                        <orig>ſingen</orig>
+                        <reg>singen</reg>
+                     </choice></rs> wilt<pc type="t2">/</pc><lb/> wornach <choice n="1">
+                     <orig>ſoltu</orig>
+                     <reg>soltu</reg>
+                  </choice> zum <choice n="1">
+                     <orig>erſten</orig>
+                     <reg>ersten</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſehen</orig>
+                     <reg>sehen</reg>
+                  </choice><pc type="t3">?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p><choice n="1">
+                     <orig>Jch</orig>
+                     <reg>Ich</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſol</orig>
+                     <reg>sol</reg>
+                  </choice> zum <choice n="1">
+                     <orig>erſten</orig>
+                     <reg>ersten</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſehen</orig>
+                     <reg>sehen</reg>
+                  </choice><pc type="t2">/</pc>was <choice n="1">
+                     <orig>fuͤr</orig>
+                     <reg>für</reg>
+                  </choice> ein <hi rend="an">Clavis</hi>
+                  <choice n="1">
+                     <orig>fuͤr</orig>
+                     <reg>für</reg>
+                  </choice><lb/> dem <rs type="thesaurus" ref="#gesang"><choice n="1">
+                        <orig>Geſang</orig>
+                        <reg>Gesang</reg>
+                     </choice></rs> gezeichnet <choice n="1">
+                     <orig>ſey</orig>
+                     <reg>sey</reg>
+                  </choice>
+                  <pc type="t2">/</pc>
+                  <choice n="1">
+                     <orig>vnd</orig>
+                     <reg>und</reg>
+                  </choice> wo er <choice n="1">
+                     <orig>ſtehe</orig>
+                     <reg>stehe</reg>
+                  </choice><pc type="t1">.</pc><lb/></p>
+            </sp>
+            <sp who="p">
+               <p>Wornach <choice n="1">
+                     <orig>ſolt</orig>
+                     <reg>solt</reg>
+                  </choice> du zum andern <choice n="1">
+                     <orig>ſehen</orig>
+                     <reg>sehen</reg>
+                  </choice><pc type="t3">?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p>Nach der <choice n="1">
+                     <orig>erſten</orig>
+                     <reg>ersten</reg>
+                  </choice>
+                  <hi rend="an"><rs ref="#nota" type="thesaurus">Noten</rs></hi>
+                  <pc type="t2">/</pc> in welchem <hi rend="an">Clave</hi> die<lb/>
+                  <choice n="1">
+                     <orig>ſtehe</orig>
+                     <reg>stehe</reg>
+                  </choice><pc type="t2">/</pc> Daraus ich lerne <pc type="t2">/</pc> wie <choice
+                     n="1">
+                     <orig>ſie</orig>
+                     <reg>sie</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſol</orig>
+                     <reg>sol</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>heiſſen</orig>
+                     <reg>heissen</reg>
+                  </choice><pc type="t1">.</pc><lb/></p>
+            </sp>
+            <sp who="p">
+               <p>Wie <choice n="1">
+                     <orig>kanſtu</orig>
+                     <reg>kanstu</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſehen</orig>
+                     <reg>sehen</reg>
+                  </choice>
+                  <pc type="t2">/</pc> in welchem <hi rend="an">Clave</hi><lb/> eine <hi rend="an"
+                     >Nota</hi>
+                  <choice n="1">
+                     <orig>ſtehet</orig>
+                     <reg>stehet</reg>
+                  </choice><pc type="t3">?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p>Von dem gezeichneten <hi rend="an">Clave</hi>
+                  <pc type="t2">/</pc> mus ich zu der<lb/>
+                  <hi rend="an"><rs ref="#nota" type="thesaurus">Noten</rs></hi> hinnauff oder hinab
+                  zehlen <pc type="t2">/</pc>
+                  <choice n="1">
+                     <orig>vnd</orig>
+                     <reg>und</reg>
+                  </choice> auff einer<lb/> jeglichen <hi rend="an">Linien</hi>
+                  <pc type="t1">/</pc> Auch in einem jeglichen <hi rend="an">Spacio</hi> ei<pc
+                     type="t12">=</pc><lb/>nen <hi rend="an">Clavem</hi> nennen <pc type="t2">/</pc>
+                  bis ich den ort der <hi rend="an"><rs ref="#nota" type="thesaurus"
+                  >Noten</rs></hi><lb/> finde<pc type="t1">.</pc><lb/></p>
+               <figure facs="#PHYS_0010_01"/>
+            </sp>
+            <pb xml:id="TMGDedekind15890011" facs="#0011" n="[f. A4 r]"/>
+            <figure facs="#PHYS_0011_01"/>
+            <sp who="p">
+               <p>Was <choice n="1">
+                     <orig>iſt</orig>
+                     <reg>ist</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>fuͤr</orig>
+                     <reg>für</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>dieſem</orig>
+                     <reg>diesem</reg>
+                  </choice>
+                  <rs type="thesaurus" ref="#gesang"><choice n="1">
+                        <orig>Geſang</orig>
+                        <reg>Gesang</reg>
+                     </choice></rs>
+                  <choice n="1">
+                     <orig>fůr</orig>
+                     <reg>für</reg>
+                  </choice> ein <hi rend="an">Clavis</hi><lb/> gezeichnet <pc type="t2">/</pc>
+                  <choice n="2">
+                     <abbr><choice n="1">
+                           <orig>Vn̄</orig>
+                           <reg>Un̄</reg>
+                        </choice></abbr>
+                     <expan><choice n="1">
+                           <orig>Vnde</orig>
+                           <reg>Unde</reg>
+                        </choice></expan>
+                  </choice> wo <choice n="1">
+                     <orig>ſteht</orig>
+                     <reg>steht</reg>
+                  </choice> er<pc type="t3">?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p>Es <choice n="1">
+                     <orig>iſt</orig>
+                     <reg>ist</reg>
+                  </choice>
+                  <hi rend="an">G</hi>
+                  <choice n="1">
+                     <orig>vnd</orig>
+                     <reg>und</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſtehet</orig>
+                     <reg>stehet</reg>
+                  </choice> auff der andern <hi rend="an">Linien</hi><pc type="t1">.</pc><lb/></p>
+            </sp>
+            <sp who="p">
+               <p>Wo <choice n="1">
+                     <orig>ſtehet</orig>
+                     <reg>stehet</reg>
+                  </choice> die <choice n="1">
+                     <orig>erſte</orig>
+                     <reg>erste</reg>
+                  </choice>
+                  <hi rend="an">Nota</hi><pc type="t2">,</pc>
+                  <choice n="1">
+                     <orig>Vnd</orig>
+                     <reg>Und</reg>
+                  </choice> wie<lb/> mus <choice n="1">
+                     <orig>ſie</orig>
+                     <reg>sie</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>heiſſen</orig>
+                     <reg>heissen</reg>
+                  </choice><pc type="t3">?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p>Sie <choice n="1">
+                     <orig>ſtehet</orig>
+                     <reg>stehet</reg>
+                  </choice> im <hi rend="an">A</hi>
+                  <choice n="1">
+                     <orig>vnd</orig>
+                     <reg>und</reg>
+                  </choice> mus <hi rend="an">Re</hi>
+                  <choice n="1">
+                     <orig>heiſſen</orig>
+                     <reg>heissen</reg>
+                  </choice><pc type="t1">.</pc><lb/></p>
+            </sp>
+            <p><hi rend="an">Mutatis mutandis <choice n="1">
+                     <orig>hæ</orig>
+                     <reg>hae</reg>
+                  </choice> ad <rs type="thesaurus" ref="#cantus">cantum</rs> quemlibet ac<pc
+                     type="t12">=</pc><lb/>commodentur <choice n="1">
+                     <orig>quæſtiones</orig>
+                     <reg>quaestiones</reg>
+                  </choice></hi><pc type="t1">.</pc><lb/></p>
+
+            <p>Ein ander <hi rend="an">Exempel</hi><pc type="t2">/</pc>da der <hi rend="an"
+                  >Clavis</hi> an<pc type="t12">=</pc><lb/>ders gezeichnet<pc type="t1"
+               >.</pc><lb/></p>
+            <figure facs="#PHYS_0011_02"/>
+            <pb xml:id="TMGDedekind15890012" facs="#0012" n="[f. A4 v.]"/>
+            <figure facs="#PHYS_0012_01"/>
+            <sp who="p">
+               <p>Wenn nun ein <rs type="thesaurus" ref="#gesang"><choice n="1">
+                        <orig>Geſang</orig>
+                        <reg>Gesang</reg>
+                     </choice></rs>
+                  <choice n="1">
+                     <orig>hoͤher</orig>
+                     <reg>höher</reg>
+                  </choice> oder tieffer ge<pc type="t12">=</pc><lb/>het<pc type="t2">/</pc> als die
+                     <choice n="1">
+                     <orig>ſieben</orig>
+                     <reg>sieben</reg>
+                  </choice>
+                  <hi rend="an">Claves</hi><pc type="t2">/</pc> Wie mus mans<lb/> den damit
+                     machen<pc type="t3">?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p>Wenn ein <rs type="thesaurus" ref="#gesang"><choice n="1">
+                        <orig>Geſang</orig>
+                        <reg>Gesang</reg>
+                     </choice></rs>
+                  <choice n="1">
+                     <orig>hoͤher</orig>
+                     <reg>höher</reg>
+                  </choice> oder tieffer gehet<pc type="t2">/</pc>denn<lb/>
+                  <choice n="1">
+                     <orig>dieſe</orig>
+                     <reg>diese</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſieben</orig>
+                     <reg>sieben</reg>
+                  </choice>
+                  <hi rend="an">Claves</hi><pc type="t2">:</pc> So mus man bey etliche <hi rend="an"
+                        >Cla<pc type="t12">-</pc><lb/>ves</hi><pc type="t2">/</pc> zwo <hi rend="an"
+                     >Syllaben</hi>
+                  <choice n="1">
+                     <orig>ſetzen</orig>
+                     <reg>setzen</reg>
+                  </choice><pc type="t2">/</pc>
+                  <choice n="1">
+                     <orig>vnd</orig>
+                     <reg>und</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>jmmer</orig>
+                     <reg>immer</reg>
+                  </choice> wider von forne<lb/> anfangen<pc type="t2">/</pc>wenn <choice n="1">
+                     <orig>ſie</orig>
+                     <reg>sie</reg>
+                  </choice> ein mal erzehlet <choice n="1">
+                     <orig>ſein</orig>
+                     <reg>sein</reg>
+                  </choice><pc type="t1">.</pc> Solche er<pc type="t12">=</pc><lb/>zehlung der <hi
+                     rend="an">Clavium</hi>
+                  <pc type="t2">/</pc>
+                  <choice n="1">
+                     <orig>heiſſet</orig>
+                     <reg>heisset</reg>
+                  </choice> in der <hi rend="an"><rs type="thesaurus" ref="#musica"><choice n="1">
+                           <orig>Muſic</orig>
+                           <reg>Music</reg>
+                        </choice></rs>
+                     <rs type="thesaurus" ref="#scala">Scala</rs></hi><pc type="t2">/</pc>
+                  <choice n="1">
+                     <orig>vnd</orig>
+                     <reg>und</reg>
+                  </choice><lb/> lautet <choice n="1">
+                     <orig>alſo</orig>
+                     <reg>also</reg>
+                  </choice><pc type="t6">:</pc><lb/></p>
+               <table>
+                  <row>
+                     <cell><hi rend="ab">F</hi></cell>
+                     <cell><hi rend="ab"/></cell>
+                     <cell><hi rend="ab">fa</hi></cell>
+                  </row>
+                  <row>
+                     <cell><hi rend="ab">E</hi></cell>
+                     <cell><hi rend="ab">la</hi></cell>
+                     <cell><hi rend="ab">mi</hi></cell>
+                  </row>
+                  <row>
+                     <cell><hi rend="ab">D</hi></cell>
+                     <cell><hi rend="ab">sol</hi></cell>
+                     <cell><hi rend="ab">re</hi></cell>
+                  </row>
+                  <row>
+                     <cell><hi rend="ab">C</hi></cell>
+                     <cell><hi rend="ab">fa</hi></cell>
+                     <cell><hi rend="ab">ut</hi></cell>
+                  </row>
+                  <row>
+                     <cell><hi rend="ab">B</hi></cell>
+                     <cell><hi rend="ab">mi</hi></cell>
+                     <cell><hi rend="ab"/></cell>
+                  </row>
+                  <row>
+                     <cell><hi rend="ab">A</hi></cell>
+                     <cell><hi rend="ab">la</hi></cell>
+                     <cell><hi rend="ab">re</hi></cell>
+                  </row>
+                  <row>
+                     <cell><hi rend="ab">G</hi></cell>
+                     <cell><hi rend="ab">sol</hi></cell>
+                     <cell><hi rend="ab">ut<pc type="t1">.</pc></hi></cell>
+                  </row>
+               </table>
+               <p><hi rend="an">Enumerantes hanc Clavi<pc type="t12">-</pc><lb/>um <rs
+                        type="thesaurus" ref="#scala"><choice n="1">
+                           <orig>ſcalam</orig>
+                           <reg>scalam</reg>
+                        </choice></rs> in <choice n="1">
+                        <orig>aliquâ</orig>
+                        <reg>aliqua</reg>
+                     </choice> cantilena <choice n="1"/> pueri<pc type="t2">,</pc> ubi extremum
+                     <lb/>aliquem terminum attige<pc type="t12">/</pc><lb/>rint<pc type="t2">,</pc>
+                     alterum extremum il<pc type="t12">/</pc><lb/>li annectant<pc type="t2">,</pc>
+                     <choice n="2">
+                        <abbr>&amp;</abbr>
+                        <expan>et</expan>
+                     </choice> eadem pro<add resp="#editor"><pc type="t12">/</pc></add><lb/>cedet
+                        enumeratio<pc type="t2">,</pc>
+                     <choice n="1">
+                        <orig>ſive</orig>
+                        <reg>sive</reg>
+                     </choice>
+                     <choice n="1">
+                        <orig>ſur</orig>
+                        <reg>sur</reg>
+                     </choice><pc type="t12">=</pc><lb/><choice n="1">
+                        <orig>ſum</orig>
+                        <reg>sum</reg>
+                     </choice>
+                     <choice n="1">
+                        <orig>ſive</orig>
+                        <reg>sive</reg>
+                     </choice>
+                     <choice n="1">
+                        <orig>deorſum</orig>
+                        <reg>deorsum</reg>
+                     </choice><pc type="t2">,</pc>
+                     <choice n="1">
+                        <orig>quæ</orig>
+                        <reg>quae</reg>
+                     </choice> fuit<lb/>
+                     <choice n="1">
+                        <orig>anté</orig>
+                        <reg>ante</reg>
+                     </choice></hi><pc type="t1">.</pc><lb/></p>
+            </sp>
+            <sp who="p">
+               <p>Wozu dienen die zwo Syllaben bey<lb/> einem <hi rend="an"><choice n="1">
+                        <orig>Claue</orig>
+                        <reg>Clave</reg>
+                     </choice></hi><pc type="t3">?</pc><lb/></p>
+            </sp>
+            <pb xml:id="TMGDedekind15890013" facs="#0013" n="[f. A5 r.]"/>
+            <lb/>
+            <sp who="d">
+               <p>Wenn ein <rs type="thesaurus" ref="#gesang"><choice n="1">
+                        <orig>Geſang</orig>
+                        <reg>Gesang</reg>
+                     </choice></rs>
+                  <choice n="1">
+                     <orig>vbers</orig>
+                     <reg>ubers</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>neheſte</orig>
+                     <reg>neheste</reg>
+                  </choice> la<pc type="t2">/</pc><choice n="1">
+                     <orig>vnd</orig>
+                     <reg>und</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>vnders</orig>
+                     <reg>unders</reg>
+                  </choice><lb/>
+                  <choice n="1">
+                     <orig>neheſte</orig>
+                     <reg>neheste</reg>
+                  </choice> ut <pc type="t2">/</pc> gehen wil<pc type="t2">:</pc> So mus ich die
+                     <choice n="1">
+                     <orig>neheſt</orig>
+                     <reg>nehest</reg>
+                  </choice> vorher<lb/> gehenden <hi rend="an"><rs ref="#nota" type="thesaurus"
+                        >Noten</rs></hi>
+                  <pc type="t2">/</pc> mit der anderen <hi rend="an">Syllaben</hi>
+                  <rs ref="#gesang" type="thesaurus"><choice n="1">
+                        <orig>ſingen</orig>
+                        <reg>singen</reg>
+                     </choice></rs><pc type="t2">/</pc><lb/> die auch in <choice n="1">
+                     <orig>demſelben</orig>
+                     <reg>demselben</reg>
+                  </choice>
+                  <hi rend="an">Clave</hi>
+                  <choice n="1">
+                     <orig>ſtehet</orig>
+                     <reg>stehet</reg>
+                  </choice>
+                  <pc type="t1">/</pc>
+                  <choice n="1">
+                     <orig>Alſo</orig>
+                     <reg>Also</reg>
+                  </choice> kan ich <choice n="1">
+                     <orig>hoͤher</orig>
+                     <reg>höher</reg>
+                  </choice><lb/>
+                  <choice n="1">
+                     <orig>vnd</orig>
+                     <reg>und</reg>
+                  </choice> tieffer <rs ref="#gesang" type="thesaurus"><choice n="1">
+                        <orig>ſingen</orig>
+                        <reg>singen</reg>
+                     </choice></rs><pc type="t2">.</pc> Als<pc type="t6">:</pc><lb/></p>
+               <figure facs="#PHYS_0013_01"/>
+               <p><hi rend="an">re pro la in A <choice n="1">
+                        <orig>ſol</orig>
+                        <reg>sol</reg>
+                     </choice> pro ut in G</hi><lb/></p>
+               <figure facs="#PHYS_0013_02"/>
+            </sp>
+            <sp who="p">
+               <p>Worauff mus man hie acht geben<pc type="t3">?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p><choice n="3">
+                     <orig>Jn</orig>
+                     <reg>In</reg>
+                  </choice> den <hi rend="an"><rs type="thesaurus" ref="#clavis">Clavibus</rs></hi>
+                  <pc type="t2">/</pc> darinn die <hi rend="an">Syllaba</hi> mi <choice n="1">
+                     <orig>iſt</orig>
+                     <reg>ist</reg>
+                  </choice><pc type="t2">/</pc><lb/> als im <hi rend="an">B</hi><del resp="#editor"
+                        ><pc type="t1">.</pc></del>
+                  <choice n="1">
+                     <orig>vnd</orig>
+                     <reg>und</reg>
+                  </choice>
+                  <hi rend="an">E</hi><del resp="#editor"><pc type="t1">.</pc></del> wirt bisweil
+                  das mi in fa veren<pc type="t12">=</pc><lb/>dert<pc type="t1">:</pc> Wenn das
+                     <choice n="1">
+                     <orig>geſchehen</orig>
+                     <reg>geschehen</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſol</orig>
+                     <reg>sol</reg>
+                  </choice>
+                  <pc type="t2">/</pc>
+                  <choice n="1">
+                     <orig>ſo</orig>
+                     <reg>so</reg>
+                  </choice> mus <choice n="1">
+                     <orig>fuͤr</orig>
+                     <reg>für</reg>
+                  </choice> die <hi rend="an"><rs ref="#nota" type="thesaurus">Noten</rs></hi><lb/>
+                  ein klein <hi rend="an">b</hi>
+                  <choice n="1">
+                     <orig>geſetzet</orig>
+                     <reg>gesetzet</reg>
+                  </choice> werden<pc type="t2">/</pc>Als<pc type="t6">:</pc><lb/></p>
+               <figure facs="#PHYS_0013_03"/>
+            </sp>
+            <pb xml:id="TMGDedekind15890014" facs="#0014" n="[f. A5 v.]"/>
+            <figure facs="#PHYS_0014_01"/>
+            <p><hi rend="an">Hactenus generalia<pc type="t2">,</pc>
+                  <choice n="1">
+                     <orig>quæ</orig>
+                     <reg>quae</reg>
+                  </choice> quidem huc pertine<pc type="t12">-</pc><lb/>re nobis <choice n="1">
+                     <orig>viſa</orig>
+                     <reg>visa</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſunt</orig>
+                     <reg>sunt</reg>
+                  </choice><pc type="t2">,</pc>
+                  <rs type="thesaurus" ref="#cantus">cantus</rs>
+                  <choice n="1">
+                     <orig><choice n="2">
+                           <abbr>cuius</abbr>
+                           <expan>cuiusque</expan>
+                        </choice></orig>
+                     <reg><choice n="2">
+                           <abbr>cuius</abbr>
+                           <expan>cujusque</expan>
+                        </choice></reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>requiſita</orig>
+                     <reg>requisita</reg>
+                  </choice> fuerunt<pc type="t2">:</pc><lb/> Sequitur nunc Figuralis <choice n="1">
+                     <orig>ſimplicioris</orig>
+                     <reg>simplicioris</reg>
+                  </choice> doctrina</hi><pc type="t1">.</pc><lb/></p>
+            <sp who="p">
+               <p>Wird den ein <choice n="1">
+                     <orig>jglicher</orig>
+                     <reg>iglicher</reg>
+                  </choice>
+                  <rs type="thesaurus" ref="#gesang"><choice n="1">
+                        <orig>Geſang</orig>
+                        <reg>Gesang</reg>
+                     </choice></rs> mit <choice n="1">
+                     <orig>ſolchen</orig>
+                     <reg>solchen</reg>
+                  </choice><lb/>
+                  <hi rend="an"><rs ref="#nota" type="thesaurus">Noten</rs></hi>
+                  <choice n="1">
+                     <orig>geſchrieben</orig>
+                     <reg>geschrieben</reg>
+                  </choice>
+                  <pc type="t2">/</pc> die da alle<lb/> gleich gelten<pc type="t3">?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p>Nein<pc type="t2">:</pc> Sondern man mus auch andere <hi rend="an"><rs ref="#nota"
+                        type="thesaurus">Noten</rs></hi><lb/> lernen <pc type="t2">/</pc> die da
+                     <choice n="1">
+                     <orig>heiſſen</orig>
+                     <reg>heissen</reg>
+                  </choice>
+                  <hi rend="an">Figural <rs ref="#nota" type="thesaurus">Noten</rs></hi><pc
+                     type="t2">,</pc> welcher man<lb/>
+                  <choice n="1">
+                     <orig>ſonderlich</orig>
+                     <reg>sonderlich</reg>
+                  </choice> gebraucht <pc type="t2">/</pc> Wenn man etliche Stimmen<lb/>
+                  <choice n="1">
+                     <orig>zuſammen</orig>
+                     <reg>zusammen</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſinget</orig>
+                     <reg>singet</reg>
+                  </choice><pc type="t2">/</pc>das <choice n="1">
+                     <orig>dieſelben</orig>
+                     <reg>dieselben</reg>
+                  </choice> nicht <choice n="1">
+                     <orig>jmmerdar</orig>
+                     <reg>immerdar</reg>
+                  </choice> gleich<lb/>
+                  <choice n="1">
+                     <orig>foͤrmig</orig>
+                     <reg>förmig</reg>
+                  </choice> gehen<pc type="t1">.</pc><lb/></p>
+            </sp>
+            <sp who="p">
+               <p>Wie viel <choice n="1">
+                     <orig>ſein</orig>
+                     <reg>sein</reg>
+                  </choice>
+                  <hi rend="an">Figural <rs ref="#nota" type="thesaurus">Noten</rs></hi><pc
+                     type="t3">?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p>Es <choice n="1">
+                     <orig>ſein</orig>
+                     <reg>sein</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſonſt</orig>
+                     <reg>sonst</reg>
+                  </choice> Acht <hi rend="an">Figural <rs ref="#nota" type="thesaurus"
+                     >Noten</rs></hi><pc type="t2">:</pc> Aber zu<lb/>
+                  <choice n="1">
+                     <orig>dieſem</orig>
+                     <reg>diesem</reg>
+                  </choice> anfang <choice n="1">
+                     <orig>ſein</orig>
+                     <reg>sein</reg>
+                  </choice> nur Vier von <choice n="1">
+                     <orig>noͤten</orig>
+                     <reg>nöten</reg>
+                  </choice><pc type="t2">:</pc><lb/></p>
+            </sp>
+            <table>
+               <row>
+                  <cell><hi rend="an">Brevis</hi>
+                     <g ref="#br2"/></cell>
+                  <cell>Die gilt 2<del resp="#editor"><pc type="t1">.</pc></del>
+                     <choice n="1">
+                        <orig>ſchlege</orig>
+                        <reg>schlege</reg>
+                     </choice><pc type="t1">.</pc><lb/></cell>
+               </row>
+               <row>
+                  <cell><hi rend="an">Semibrevis</hi>
+                     <g ref="#sb1"/></cell>
+                  <cell>Die gilt <choice n="1">
+                        <orig>j</orig>
+                        <reg>1</reg>
+                     </choice>
+                     <rs type="thesaurus" ref="#schlag"><choice n="1">
+                           <orig>ſchlag</orig>
+                           <reg>schlag</reg>
+                        </choice></rs><pc type="t1">.</pc><lb/></cell>
+               </row>
+               <row>
+                  <cell><hi rend="an">Minima</hi>
+                     <g ref="#m_down"/>
+                     <g ref="#m_up"/>
+                  </cell>
+                  <cell>Derer gehn 2<del resp="#editor"><pc type="t1">.</pc></del> auff <choice
+                        n="1">
+                        <orig>j</orig>
+                        <reg>1</reg>
+                     </choice><del resp="#editor"><pc type="t1">.</pc></del>
+                     <rs type="thesaurus" ref="#schlag"><choice n="1">
+                           <orig>ſchlag</orig>
+                           <reg>schlag</reg>
+                        </choice></rs><pc type="t1">.</pc><lb/></cell>
+               </row>
+               <row>
+                  <cell><hi rend="an">Semiminima</hi>
+                     <g ref="#sm2_up"/>
+                     <g ref="#sm2_down"/></cell>
+                  <cell>Derer gehn 4<del resp="#editor"><pc type="t1">.</pc></del> auff <choice
+                        n="1">
+                        <orig>j</orig>
+                        <reg>1</reg>
+                     </choice><del resp="#editor"><pc type="t1">.</pc></del>
+                     <rs type="thesaurus" ref="#schlag"><choice n="1">
+                           <orig>ſchlag</orig>
+                           <reg>schlag</reg>
+                        </choice></rs><pc type="t1">.</pc><lb/></cell>
+               </row>
+            </table>
+            <pb xml:id="TMGDedekind15890015" facs="#0015" n="[f. A6 r.]"/>
+            <figure facs="#PHYS_0015_01">
+               <head><title><hi rend="an">Exemplum Figuralium Notarum <lb/><choice n="1">
+                           <orig>ſimpliciſſimum</orig>
+                           <reg>simplicissimum</reg>
+                        </choice><pc type="t1">.</pc></hi></title></head>
+            </figure>
+
+            <sp who="p">
+               <p>Was <choice n="1">
+                     <orig>iſt</orig>
+                     <reg>ist</reg>
+                  </choice> in <choice n="1">
+                     <orig>ſolchen</orig>
+                     <reg>solchen</reg>
+                  </choice>
+                  <hi rend="an">Figural</hi>
+                  <rs type="thesaurus" ref="#gesang"><choice n="1">
+                        <orig>Geſengen</orig>
+                        <reg>Gesengen</reg>
+                     </choice></rs><lb/> zu mercken<pc type="t3">?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p><choice n="3">
+                     <orig>Jn</orig>
+                     <reg>In</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſolchen</orig>
+                     <reg>solchen</reg>
+                  </choice>
+                  <hi rend="an">Figural</hi>
+                  <rs type="thesaurus" ref="#gesang"><choice n="1">
+                        <orig>geſengen</orig>
+                        <reg>gesengen</reg>
+                     </choice></rs>
+                  <pc type="t2">/</pc>
+                  <choice n="1">
+                     <orig>iſt</orig>
+                     <reg>ist</reg>
+                  </choice> zweyerley zu mer<pc type="t12">=</pc><lb/>cken<pc type="t2">:</pc>
+                  <choice n="1">
+                     <orig>Erſtlich</orig>
+                     <reg>Erstlich</reg>
+                  </choice><pc type="t2">:</pc>
+                  <choice n="2">
+                     <abbr>Wen̄</abbr>
+                     <expan>Wenn</expan>
+                  </choice> ein <hi rend="an">Punct</hi><pc type="t1">.</pc> bey einer <hi rend="an"
+                        ><rs ref="#nota" type="thesaurus">Noten</rs></hi><lb/>
+                  <choice n="1">
+                     <orig>ſtehet</orig>
+                     <reg>stehet</reg>
+                  </choice><pc type="t2">/</pc><choice n="1">
+                     <orig>ſo</orig>
+                     <reg>so</reg>
+                  </choice> gilt <choice n="1">
+                     <orig>dieſelbe</orig>
+                     <reg>dieselbe</reg>
+                  </choice> noch halb <choice n="1">
+                     <orig>ſo</orig>
+                     <reg>so</reg>
+                  </choice> viel<pc type="t2">/</pc> als <choice n="1">
+                     <orig>ſie</orig>
+                     <reg>sie</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſonſt</orig>
+                     <reg>sonst</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>fuͤr</orig>
+                     <reg>für</reg>
+                  </choice><lb/>
+                  <choice n="1">
+                     <orig>ſich</orig>
+                     <reg>sich</reg>
+                  </choice> allein gegolten hette<pc type="t1">.</pc><lb/></p>
+               <p>Zum andern<pc type="t2">/</pc>
+                  <choice n="1">
+                     <orig>Fuͤr</orig>
+                     <reg>Für</reg>
+                  </choice> die <hi rend="an"><rs ref="#nota" type="thesaurus">Noten</rs></hi>
+                  werden bis weil <hi rend="an"><choice n="1">
+                        <orig>pau<pc type="t12">=</pc><lb/>ſen</orig>
+                        <reg>pau<pc type="t12">=</pc><lb/>sen</reg>
+                     </choice></hi>
+                  <choice n="1">
+                     <orig>geſetzt</orig>
+                     <reg>gesetzt</reg>
+                  </choice><pc type="t2">/</pc> da mus man <choice n="1">
+                     <orig>ſo</orig>
+                     <reg>so</reg>
+                  </choice> lang <choice n="1">
+                     <orig>ſtill</orig>
+                     <reg>still</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſchweigen</orig>
+                     <reg>schweigen</reg>
+                  </choice>
+                  <pc type="t2">/</pc>
+                  <choice n="1">
+                     <orig>ſo</orig>
+                     <reg>so</reg>
+                  </choice> viel<lb/> die <hi rend="an"><rs type="thesaurus" ref="#pause"><choice
+                           n="1">
+                           <orig>Pauſa</orig>
+                           <reg>Pausa</reg>
+                        </choice></rs></hi> gilt<pc type="t1">.</pc><lb/></p>
+            </sp>
+            <pb xml:id="TMGDedekind15890016" facs="#0016" n="[f. A6 v.]"/>
+            <lb/>
+            <sp who="p">
+               <p>Wie viel <choice n="1">
+                     <orig>ſein</orig>
+                     <reg>sein</reg>
+                  </choice>
+                  <hi rend="an"><rs type="thesaurus" ref="#pause"><choice n="1">
+                           <orig>Pauſen</orig>
+                           <reg>Pausen</reg>
+                        </choice></rs></hi><pc type="t3">?</pc><lb/></p>
+            </sp>
+            <sp who="d">
+               <p>Gleich wie wir zu <choice n="1">
+                     <orig>dieſem</orig>
+                     <reg>diesem</reg>
+                  </choice> anfang <pc type="t2">/</pc> Vier <hi rend="an"><rs ref="#nota"
+                        type="thesaurus">Noten</rs></hi><lb/> gebrauchen<pc type="t2">:</pc>
+                  <choice n="1">
+                     <orig>Alſo</orig>
+                     <reg>Also</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſein</orig>
+                     <reg>sein</reg>
+                  </choice> auch Vier <hi rend="an"><rs type="thesaurus" ref="#pause"><choice n="1">
+                           <orig>Pauſen</orig>
+                           <reg>Pausen</reg>
+                        </choice></rs></hi> dazu <choice n="1">
+                     <orig>genug<pc type="t12">=</pc><lb/>ſam</orig>
+                     <reg>genug<pc type="t12">=</pc><lb/>sam</reg>
+                  </choice><pc type="t6">:</pc>
+                  <hi rend="an">Brevis</hi>
+                  <g ref="#br_p1"/> gilt zween <choice n="1">
+                     <orig>ſchlege</orig>
+                     <reg>schlege</reg>
+                  </choice><pc type="t2">:</pc>
+                  <hi rend="an">Semibrevis</hi>
+                  <g ref="#sb_p1"/><lb/> gilt einen <rs type="thesaurus" ref="#schlag"><choice n="1">
+                        <orig>ſchlag</orig>
+                        <reg>schlag</reg>
+                     </choice></rs><pc type="t2">/</pc>
+                  <hi rend="an">Minima</hi>
+                  <g ref="#m_p1"/> gilt einen halben <rs type="thesaurus" ref="#schlag"><choice
+                        n="1">
+                        <orig>ſchlag</orig>
+                        <reg>schlag</reg>
+                     </choice></rs><pc type="t2">/</pc><lb/>
+                  <hi rend="an">Semiminima</hi>
+                  <g ref="#sm_p1"/> gilt ein viertheil eines <rs type="thesaurus" ref="#schlag"
+                        ><choice n="1">
+                        <orig>ſchlags</orig>
+                        <reg>schlags</reg>
+                     </choice></rs><pc type="t1">.</pc><lb/></p>
+            </sp>
+            <figure facs="#PHYS_0016_01">
+               <head><title type="main"><hi rend="an">Exempla Figuralium Notarum do<pc type="t12"
+                           >=</pc><lb/>ctrinam <choice n="1">
+                           <orig>illuſtrantia</orig>
+                           <reg>illustrantia</reg>
+                        </choice><pc type="t1">.</pc><lb/></hi></title>
+                  <title type="sub"><hi rend="an"><choice n="1">
+                           <orig>Primò</orig>
+                           <reg>Primo</reg>
+                        </choice> quidem in <rs type="thesaurus" ref="#cantus">cantu</rs>
+                        Naturali</hi><pc type="t1">.</pc><lb/></title>
+               </head>
+            </figure>
+
+            <figure facs="#PHYS_0016_02"/>
+            <pb xml:id="TMGDedekind15890017" facs="#0017" n="[f. A7 r.]"/>
+            <figure facs="#PHYS_0017_01"/>
+            <figure/>
+            <pb xml:id="TMGDedekind15890018" facs="#0018" n="[f. A7 v.]"/>
+            <lb/>
+
+            <figure facs="#PHYS_0018_01"/>
+
+            <p><hi rend="an">In <choice n="1">
+                     <orig>quintâ</orig>
+                     <reg>quinta</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſurſum</orig>
+                     <reg>sursum</reg>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſequitur</orig>
+                     <reg>sequitur</reg>
+                  </choice>
+                  <rs type="thesaurus" ref="#vox">vox</rs> altera Clave<pc type="t2">,</pc><lb/> Cum
+                     <choice n="1">
+                     <orig>prægresſa</orig>
+                     <reg>praegressa</reg>
+                  </choice> canet notulam <rs type="thesaurus" ref="#vox">vox</rs>
+                  <choice n="2">
+                     <abbr><choice n="1">
+                           <orig>plenaſecundā</orig>
+                           <reg>plenasecundā</reg>
+                        </choice></abbr>
+                     <expan><choice n="1">
+                           <orig>plenaſecundam</orig>
+                           <reg>plenasecundam</reg>
+                        </choice></expan>
+                  </choice><pc type="t1">.</pc><lb/> Sequuntur Exempla mutandarum <choice n="1">
+                     <orig>ſyllaba</orig>
+                     <reg>syllaba</reg>
+                  </choice><pc type="t12">=</pc><lb/>rum <rs type="thesaurus" ref="#cantus"
+                     >cantu</rs> extra naturalem Clavium dis<pc type="t12">-</pc><lb/><choice n="1">
+                     <orig>curſum</orig>
+                     <reg>cursum</reg>
+                  </choice> vagante</hi><pc type="t1">.</pc><lb/></p>
+
+            <figure facs="#PHYS_0018_02"/>
+
+            <pb xml:id="TMGDedekind15890019" facs="#0019" n="[f. A8 r.]"/>
+
+            <figure facs="#PHYS_0019_01"/>
+            <p><hi rend="an">Sic <choice n="2">
+                     <abbr>&amp;</abbr>
+                     <expan>et</expan>
+                  </choice> in Fugis<pc type="t2">,</pc> ut habeant pueri in<lb/> quo <choice n="1">
+                     <orig>ſibi</orig>
+                     <reg>sibi</reg>
+                  </choice> placeant</hi><pc type="t1">.</pc><lb/>
+               <figure facs="#PHYS_0019_02"/>
+            </p>
+
+
+            <p><hi rend="an">Quattuor ex una <choice n="1">
+                     <orig>poſt</orig>
+                     <reg>post</reg>
+                  </choice> tempus concine <rs type="thesaurus" ref="#vox">voces</rs><pc type="t1"
+                     >.</pc></hi><lb/></p>
+
+
+            <pb xml:id="TMGDedekind15890020" facs="#0020" n="[f. A8 v.]"/>
+            <figure facs="#PHYS_0020_01"/>
+            <p>
+               <hi rend="an">Ad tempus taceat <choice n="2">
+                     <abbr>quicun</abbr>
+                     <expan>quicunque</expan>
+                  </choice>
+                  <choice n="1">
+                     <orig>ſequetur</orig>
+                     <reg>sequetur</reg>
+                  </choice>
+                  <choice n="2">
+                     <abbr>euntē</abbr>
+                     <expan>euntem</expan>
+                  </choice><add resp="#editor"><pc type="t1">.</pc></add><lb/> Ex <choice n="1">
+                     <orig>unâ</orig>
+                     <reg>una</reg>
+                  </choice> quinas <choice n="1">
+                     <orig>ſic</orig>
+                     <reg>sic</reg>
+                  </choice> bené <rs type="thesaurus" ref="#voce">voce</rs> canet</hi><pc type="t1"
+                  >.</pc><lb/>
+            </p>
+
+            <figure facs="#PHYS_0020_02"/>
+            <p>
+               <hi rend="an">Hic <choice n="2">
+                     <abbr>quo<am n="t1">.</am></abbr>
+                     <expan>quoque</expan>
+                  </choice> terna dabit vocum modulamina <rs type="thesaurus" ref="#cantus"
+                     >cantus</rs><add resp="#editor"><pc type="t1">.</pc></add><lb/>
+                  <choice n="1">
+                     <orig><choice n="2">
+                           <abbr>Quís</abbr>
+                           <expan>Quísque</expan>
+                        </choice></orig>
+                     <reg><choice n="2">
+                           <abbr>Quis</abbr>
+                           <expan>Quisque</expan>
+                        </choice></reg>
+                  </choice> prior binis tactibus <choice n="1">
+                     <orig>eſto</orig>
+                     <reg>esto</reg>
+                  </choice> prior</hi><pc type="t1">.</pc><lb/>
+            </p>
+            <figure facs="#PHYS_0020_03"/>
+            <p><hi rend="an"><choice n="3">
+                     <orig>ERPHORDIÆ</orig>
+                     <reg>Erphordiae</reg>
+                  </choice></hi><lb/></p>
+            <p><hi rend="an">Typis <choice n="1">
+                     <orig>Georgij</orig>
+                     <reg>Georgii</reg>
+                  </choice> Bawmanni <choice n="1">
+                     <orig>excuſa</orig>
+                     <reg>excusa</reg>
+                  </choice></hi><pc type="t1">.</pc><lb/></p>
+
+            <pb xml:id="TMGDedekind15890021" facs="#0021" n="[f. B1 r.]"/>
+            <lb/>
+
+            <pb xml:id="TMGDedekind15890022" facs="#0022" n="[f. B1 v.]"/>
+            <lb/>
+
+            <pb xml:id="TMGDedekind15890023" facs="#0023" n="[f. B2 r.]"/>
+            <lb/>
+
+            <p><hi rend="an"><choice n="3">
+                     <orig>EX</orig>
+                     <reg>Ex</reg>
+                  </choice><lb/>
+                  <choice n="3">
+                     <orig>BIBLIOTHECA</orig>
+                     <reg>Bibliotheca</reg>
+                  </choice></hi><lb/>
+               <hi rend="an"><choice n="3">
+                     <orig>POELACHAVIANA</orig>
+                     <reg>Poelchaviana</reg>
+                  </choice></hi><pc type="t1">.</pc><lb/></p>
+            <pb xml:id="TMGDedekind15890024" facs="#0024" n="[f. B2 v.]"/>
+            <lb/>
+
+            <pb xml:id="TMGDedekind15890025" facs="#0025" n="[f. B3 r.]"/>
+            <lb/>
+
+            <pb xml:id="TMGDedekind15890026" facs="#0026" n="[f. B3 v.]"/>
+            <lb/>
+
+         </div1>
+
+      </body>
+   </text>
+</TEI>

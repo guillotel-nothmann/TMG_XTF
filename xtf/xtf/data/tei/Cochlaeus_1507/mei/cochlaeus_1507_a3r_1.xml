@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/music-encoding/music-encoding/b9dff53ad25203cfe43fa6b68eab6fad6d2a088e/schemata/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink"
+   meiversion="2013">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <composer>Ecce concipies</composer>
+            <author>Anonymous</author>
+            <respStmt>
+               <resp>Transcription and edition</resp>
+               <corpName>Thesaurus Musicarum Germanicarum</corpName>
+               <persName>Guillotel-Nothmann, Christophe</persName>
+            </respStmt>
+         </titleStmt>
+         <extent unit="ko">13</extent>
+         <pubStmt>
+            <publisher><name type="org">Thesaurus Musicarum Germanicarum</name></publisher>
+            <pubPlace><address><addrLine>2, rue de Louvois, F-75002 Paris, France</addrLine></address></pubPlace>
+            <respStmt>
+               <persName>Guillotel-Nothmann, Christophe</persName>
+            </respStmt>
+            <date>2015</date>
+         </pubStmt>
+         <seriesStmt>
+            <title>Thesaurus Musicarum Germanicarum</title>
+         </seriesStmt>
+         <sourceDesc>
+            <source xml:id="D_Mbs_4Mus.th.283">
+               
+               <titleStmt>
+                  <title>Muſica Decaſtichon. M. Jo. wendelſtein in muſicam exhoꝛtatoꝛium.</title>
+               </titleStmt>
+               <pubStmt>
+                  <date>1507</date>
+                  <pubPlace>Köln</pubPlace>
+                  <publisher>Landen</publisher>
+               </pubStmt>
+               <physLoc><repository>D-Mbs</repository></physLoc>
+            </source>
+            <source xml:id="B_Br_INC_A_182">
+               <titleStmt>
+                  <title>Muſica Decaſtichon. M. Jo. wendelſtein in muſicam exhoꝛtatoꝛium.</title>
+               </titleStmt>
+               <pubStmt>
+                  <date>1507</date>
+                  <pubPlace>Köln</pubPlace>
+                  <publisher>Landen</publisher>
+               </pubStmt>
+               <physLoc><repository>D-Br</repository></physLoc>
+            </source>
+         </sourceDesc>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <app>
+                  <rdg label="normalized">
+                     <scoreDef key.sig="1f">
+                        <staffGrp>
+                           <staffDef n="1" xml:id="P1" label="" lines="5" clef.line="2"
+                              clef.shape="G" clef.dis.place="below" clef.dis="8"/>
+                        </staffGrp>
+                     </scoreDef>
+                  </rdg>
+                  <rdg label="original">
+                     <scoreDef key.sig="1f">
+                        <staffGrp>
+                           <staffDef n="1" xml:id="P1n" label="" lines="3" clef.line="3"
+                              clef.shape="C"/>
+                        </staffGrp>
+                     </scoreDef>
+                  </rdg>
+               </app>
+               <section>
+                  <staff n="1">
+                     <layer n="1">
+                        <uneume name="punctum">
+                           <note xml:id="d1e131" pname="f" oct="3">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">Ec</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e148" pname="a" oct="3">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">ce</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+                        <uneume name="pes">
+                           <note xml:id="d1e166" pname="b" oct="3"/>
+                           <note xml:id="d1e178" pname="c" oct="4"/>
+                        </uneume>
+
+
+                        <orig><clef line="2" shape="C"/></orig>
+                        <uneume name="pes">
+                           <note xml:id="d1e200" pname="c" oct="4">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">con</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                           <note xml:id="d1e217" pname="d" oct="4"/>
+                        </uneume>
+
+                        <orig><clef shape="C" line="1"/></orig>
+
+                        <uneume name="clivis">
+                           <note xml:id="d1e235" pname="f" oct="4">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">ci</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                           <note xml:id="d1e252" pname="e" oct="4"/>
+                        </uneume>
+                        <uneume name="clivis">
+                           <note xml:id="d1e266" pname="d" oct="4">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">pi</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                           <note xml:id="d1e283" pname="c" oct="4"> </note>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e300" pname="c" oct="4">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">es</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+
+                        <orig><clef shape="C" line="3"/></orig>
+
+                        <uneume name="punctum">
+                           <note xml:id="d1e317" pname="f" oct="3">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">et</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e342" pname="c" oct="4">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">pa</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e359" pname="b" oct="3">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">ri</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e376" pname="a" oct="3">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">es</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e394" pname="g" oct="3"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e412" pname="f" oct="3"/>
+                        </uneume>
+                        <orig><clef shape="F" line="2"/></orig>
+                        <uneume name="punctum">
+                           <note xml:id="d1e430" pname="e" oct="3"/>
+                        </uneume>
+
+                        <uneume name="pes">
+                           <note xml:id="d1e444" pname="g" oct="3">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">fi</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                           <note xml:id="d1e461" pname="a" oct="3"/>
+                        </uneume>
+                        <orig><clef shape="C" line="3"/></orig>
+                        <uneume name="punctum">
+                           <note xml:id="d1e481" pname="g" oct="3"/>
+                        </uneume>
+                        <uneume name="clivis">
+                           <note xml:id="d1e493" pname="b" oct="3"/>
+                           <note xml:id="d1e505" pname="a" oct="3"/>
+                        </uneume>
+                        <uneume name="clivis">
+                           <note xml:id="d1e517" pname="g" oct="3">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">li</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                           <note xml:id="d1e536" pname="f" oct="3"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e548" pname="f" oct="3">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">um</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e565" pname="c" oct="4">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">hic</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e582" pname="a" oct="3">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">e</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e602" pname="b" oct="3"/>
+                        </uneume> 
+                        <uneume name="virga">
+                           <note xml:id="d1e614" pname="c" oct="4">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">rit</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+                        <orig><clef shape="C" line="1"/></orig>
+                        <uneume name="clivis">
+                           <note xml:id="d1e637" pname="f" oct="4">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">ma</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                           <note xml:id="d1e654" pname="e" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e672" pname="d" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e684" pname="c" oct="4"/>
+                        </uneume>
+                        <orig><clef shape="C" line="3"/></orig>
+                        <uneume name="clivis">
+                           <note xml:id="d1e702" pname="a" oct="3"/>
+                           <note xml:id="d1e714" pname="b" oct="3"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e728" pname="c" oct="4">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">gnus</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e745" pname="f" oct="3">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">et</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+                        <uneume name="clivis">
+                           <note xml:id="d1e762" pname="b" oct="3">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">fi</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                           <note xml:id="d1e779" pname="a" oct="3">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">li</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e798" pname="b" oct="3"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e810" pname="c" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e822" pname="c" oct="4">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">us</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+                        <orig><clef shape="C" line="2"/></orig>
+                        <uneume name="pes">
+                           <note xml:id="d1e845" pname="c" oct="4">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">al</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                           <note xml:id="d1e864" pname="d" oct="4"/>
+                        </uneume>
+                        <uneume name="clivis">
+                           <note xml:id="d1e876" pname="d" oct="4">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">tid</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                           <note xml:id="d1e893" pname="c" oct="4"/>
+                        </uneume>
+                        <uneume name="pes">
+                           <note xml:id="d1e905" pname="b" oct="3">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">si</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                           <note xml:id="d1e928" pname="c" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e940" pname="c" oct="4">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">mi</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+                        <orig><clef shape="C" line="3"/></orig>
+                        <uneume name="punctum">
+                           <note xml:id="d1e963" pname="f" oct="3">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">vo</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e980" pname="g" oct="3">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">ca</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e999" pname="a" oct="3"/>
+                        </uneume>
+                        <uneume name="clivis">
+                           <note xml:id="d1e1011" pname="b" oct="3"/>
+                           <note xml:id="d1e1023" pname="a" oct="3"/>
+                        </uneume>
+                        <uneume name="clivis">
+                           <note xml:id="d1e1035" pname="g" oct="3">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">bi</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                           <note xml:id="d1e1054" pname="f" oct="3"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e1066" pname="f" oct="3">
+                              <app>
+                                 <rdg source="D_Mbs_4Mus.th.283"/>
+                                 <rdg source="B_Br_INC_A_182">
+                                    <verse n="1">
+                                       <syl wordpos="i" con="d">tur</syl>
+                                    </verse>
+                                 </rdg>
+                              </app>
+                           </note>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e1084" pname="f" oct="3"/>
+                        </uneume>
+                     </layer>
+                  </staff>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

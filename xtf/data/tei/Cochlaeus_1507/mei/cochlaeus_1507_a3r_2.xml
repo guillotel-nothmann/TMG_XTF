@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/music-encoding/music-encoding/b9dff53ad25203cfe43fa6b68eab6fad6d2a088e/schemata/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink"
+   meiversion="2013">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Alma redemptoris</title>
+            <composer>Anonymous</composer>
+            <author>Anonymous</author>
+            <respStmt>
+               <resp>Transcription and edition</resp>
+               <corpName>Thesaurus Musicarum Germanicarum</corpName>
+               <persName>Guillotel-Nothmann, Christophe</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Published as example in <bibl><author>Cochlaeus,
+                     Johannes</author><title>Musica</title>
+                  <date>1507</date><pubPlace>Köln</pubPlace><publisher>Landen</publisher><biblScope>fol.
+                     A3 r.</biblScope></bibl></edition>
+         </editionStmt>
+         <extent unit="ko">13</extent>
+         <pubStmt>
+            <publisher><name type="org">Thesaurus Musicarum Germanicarum</name></publisher>
+            <pubPlace><address><addrLine>2, rue de Louvois, F-75002 Paris, France</addrLine></address></pubPlace>
+            <respStmt>
+               <persName>Guillotel-Nothmann, Christophe</persName>
+            </respStmt>
+            <date>2015</date>
+         </pubStmt>
+         <seriesStmt>
+            <title>Thesaurus Musicarum Germanicarum</title>
+         </seriesStmt>
+         <sourceDesc>
+            <source>
+               <titleStmt>
+                  <title>Muſica Decaſtichon. M. Jo. wendelſtein in muſicam exhoꝛtatoꝛium.</title>
+               </titleStmt>
+               <pubStmt>
+                  <date>1507</date>
+                  <pubPlace>Köln</pubPlace>
+                  <publisher>Landen</publisher>
+               </pubStmt>
+            </source>
+         </sourceDesc>
+      </fileDesc>
+   </meiHead>
+   <music meiversion="2013" meiversion.num="2.1.1">
+      <body>
+         <mdiv>
+            <score>
+               <app>
+                  <rdg label="original">
+                     <scoreDef key.sig="1f">
+                        <staffGrp>
+                           <staffDef n="1" lines="3" clef.line="3" clef.shape="C"/>
+                        </staffGrp>
+                     </scoreDef>
+                  </rdg>
+                  <rdg label="normalized">
+                     <scoreDef key.sig="1f">
+                        <staffGrp>
+                           <staffDef n="1" lines="5" clef.line="2" clef.shape="G" clef.dis="8"
+                              clef.dis.place="below"/>
+                        </staffGrp>
+                     </scoreDef>
+                  </rdg>
+               </app>
+               <section>
+
+                  <staff n="1">
+                     <layer n="1">
+                        <uneume name="virga">
+                           <note xml:id="d1e145" pname="f" oct="3"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e165" pname="a" oct="3"/>
+                        </uneume>
+
+                        <uneume name="punctum">
+                           <note xml:id="d1e179" pname="b" oct="3" accid.ges="f"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e195" pname="c" oct="4"/>
+                        </uneume>
+                        <choice>
+                           <orig><clef xml:id="d1e429" shape="C" line="1"/></orig>
+                           <reg/>
+                        </choice>
+                        <uneume name="punctum">
+                           <note xml:id="d1e245" pname="d" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e259" pname="e" oct="4"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e275" pname="f" oct="4"/>
+                        </uneume>
+                        <sb/>
+                        <uneume name="punctum">
+                           <note xml:id="d1e289" pname="e" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e303" pname="d" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e317" pname="c" oct="4"/>
+                        </uneume>
+                        <choice>
+                           <orig><clef xml:id="d1e4" shape="C" line="2"/></orig>
+                           <reg/>
+                        </choice>
+                        <uneume name="punctum">
+                           <note xml:id="d1e339" pname="b" oct="3" accid.ges="f"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e355" pname="c" oct="4"/>
+                        </uneume>
+                        <uneume name="clivis">
+                           <note xml:id="d1e369" pname="d" oct="4"/>
+                           <note xml:id="d1e383" pname="c" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e399" pname="a" oct="3"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e413" pname="a" oct="3"/>
+                        </uneume>
+                        <choice>
+                           <orig><clef xml:id="d1e428" tstamp="3" shape="C" line="3"/></orig>
+                           <reg/>
+                        </choice>
+                        <uneume name="punctum">
+                           <note xml:id="d1e433" pname="g" oct="3"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e449" pname="a" oct="3"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e471" pname="b" oct="3" accid.ges="f"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e487" pname="a" oct="3"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e501" pname="g" oct="3"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e515" pname="f" oct="3"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e532" pname="g" oct="3"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e546" pname="f" oct="3"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e560" pname="c" oct="4"/>
+                        </uneume> 
+                        <choice>
+                           <orig><clef xml:id="d1e47" shape="C" line="1"/></orig>
+                           <reg/>
+                        </choice>
+                        <uneume name="punctum">
+                           <note xml:id="d1e616" pname="e" oct="4"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e630" pname="f" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e644" pname="e" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e660" pname="d" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e674" pname="c" oct="4"/>
+                        </uneume>
+                        <choice>
+                           <orig><clef xml:id="d1e689" tstamp="3" shape="C" line="3"/></orig>
+                           <reg/>
+                        </choice>
+                        <uneume name="clivis">
+                           <note xml:id="d1e694" pname="b" oct="3" accid.ges="f"/>
+                           <note xml:id="d1e710" pname="a" oct="3"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e726" pname="b" oct="3" accid.ges="f"/>
+                        </uneume>
+                        
+                      
+                        <uneume name="virga">
+                           <note xml:id="d1e742" pname="c" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e756" pname="c" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e770" pname="f" oct="3"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e786" pname="g" oct="3"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e800" pname="a" oct="3"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e814" pname="b" oct="3" accid.ges="f"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e830" pname="a" oct="3"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e846" pname="g" oct="3"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e860" pname="a" oct="3"/>
+                        </uneume>
+                        <choice>
+                           <orig><clef xml:id="d1e49" shape="C" line="1"/></orig>
+                           <reg/>
+                        </choice>
+                        <uneume name="virga">
+                           <note xml:id="d1e912" pname="f" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e926" pname="e" oct="4"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e940" pname="f" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e954" pname="e" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e970" pname="d" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e984" pname="c" oct="4"/>
+                        </uneume>
+                        <choice>
+                           <orig><clef xml:id="d1e999" shape="C" line="2"/></orig>
+                           <reg/>
+                        </choice>
+                        <uneume name="punctum">
+                           <note xml:id="d1e1004" pname="b" oct="3" accid.ges="f"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e1020" pname="c" oct="4"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e1036" pname="d" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e1050" pname="c" oct="4"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e1064" pname="b" oct="3" accid.ges="f"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e1080" pname="a" oct="3"/>
+                        </uneume>
+                        <choice>
+                           <orig><clef xml:id="d1e42k9" shape="C" line="3"/></orig>
+                           <reg/>
+                        </choice>
+                        <uneume name="punctum">
+                           <note xml:id="d1e1106" pname="g" oct="3"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e1120" pname="a" oct="3"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e1134" pname="f" oct="3"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e1148" pname="g" oct="3"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e1164" pname="b" oct="3" accid.ges="f"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e1180" pname="b" oct="3" accid.ges="f"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e1196" pname="a" oct="3"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e1210" pname="g" oct="3"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e1227" pname="f" oct="3"/>
+                        </uneume>
+                        <uneume name="virga">
+                           <note xml:id="d1e1241" pname="g" oct="3"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e1255" pname="f" oct="3"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note xml:id="d1e1269" pname="f" oct="3"/>
+                        </uneume>
+                     </layer>
+                  </staff>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

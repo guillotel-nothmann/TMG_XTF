@@ -1,0 +1,15 @@
+title
+creator
+description
+publisher
+contributor
+date
+type
+format
+source
+language
+relation
+coverage
+set
+year
+subject
