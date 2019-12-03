@@ -1,0 +1,150 @@
+13 mars 2013 16:45:22 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+13 mars 2013 16:45:23 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+13 mars 2013 16:45:23 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 2170 ms
+13 mars 2013 16:45:23 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+13 mars 2013 16:45:23 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+13 mars 2013 16:45:23 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+13 mars 2013 16:45:24 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+13 mars 2013 16:45:25 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+13 mars 2013 16:45:25 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+13 mars 2013 16:45:25 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+13 mars 2013 16:45:25 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+13 mars 2013 16:45:26 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+13 mars 2013 16:45:26 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+13 mars 2013 16:45:26 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/98  config=null
+13 mars 2013 16:45:26 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3206 ms
+13 mars 2013 16:58:39 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+13 mars 2013 16:58:39 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+13 mars 2013 16:58:39 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1702 ms
+13 mars 2013 16:58:39 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+13 mars 2013 16:58:39 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+13 mars 2013 16:58:39 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+13 mars 2013 16:58:40 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+13 mars 2013 16:58:40 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+13 mars 2013 16:58:40 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+13 mars 2013 16:58:41 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+13 mars 2013 16:58:41 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+13 mars 2013 16:58:42 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+13 mars 2013 16:58:42 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+13 mars 2013 16:58:42 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/124  config=null
+13 mars 2013 16:58:42 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2797 ms
+13 mars 2013 17:03:38 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+13 mars 2013 17:03:39 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+13 mars 2013 17:03:39 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1199 ms
+13 mars 2013 17:03:39 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+13 mars 2013 17:03:39 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+13 mars 2013 17:03:39 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+13 mars 2013 17:03:40 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+13 mars 2013 17:03:40 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+13 mars 2013 17:03:40 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+13 mars 2013 17:03:40 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+13 mars 2013 17:03:41 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+13 mars 2013 17:03:41 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+13 mars 2013 17:03:41 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+13 mars 2013 17:03:41 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/78  config=null
+13 mars 2013 17:03:41 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2536 ms
+13 mars 2013 17:06:43 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+13 mars 2013 17:06:44 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+13 mars 2013 17:06:44 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 2842 ms
+13 mars 2013 17:06:44 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+13 mars 2013 17:06:44 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+13 mars 2013 17:06:45 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+13 mars 2013 17:06:46 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+13 mars 2013 17:06:46 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+13 mars 2013 17:06:46 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+13 mars 2013 17:06:47 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+13 mars 2013 17:06:47 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+13 mars 2013 17:06:48 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+13 mars 2013 17:06:48 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+13 mars 2013 17:06:48 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/69  config=null
+13 mars 2013 17:06:48 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3742 ms
+13 mars 2013 17:49:00 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+13 mars 2013 17:49:00 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+13 mars 2013 17:49:00 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1079 ms
+13 mars 2013 17:49:00 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+13 mars 2013 17:49:00 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+13 mars 2013 17:49:00 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+13 mars 2013 17:49:01 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+13 mars 2013 17:49:01 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+13 mars 2013 17:49:01 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+13 mars 2013 17:49:02 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+13 mars 2013 17:49:02 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+13 mars 2013 17:49:02 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+13 mars 2013 17:49:02 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+13 mars 2013 17:49:02 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/103  config=null
+13 mars 2013 17:49:02 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1928 ms

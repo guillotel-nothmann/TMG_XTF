@@ -1,0 +1,12 @@
+17 mai 2014 12:10:25 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+17 mai 2014 12:10:25 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+17 mai 2014 13:56:33 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+17 mai 2014 13:56:33 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+17 mai 2014 18:37:14 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+17 mai 2014 18:37:14 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()

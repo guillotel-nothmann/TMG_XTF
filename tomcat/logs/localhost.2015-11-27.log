@@ -1,0 +1,67 @@
+27 nov. 2015 09:20:11 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+27 nov. 2015 09:20:11 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+27 nov. 2015 10:14:57 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+27 nov. 2015 10:14:57 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+27 nov. 2015 14:42:42 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+27 nov. 2015 14:42:42 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+27 nov. 2015 14:44:00 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+27 nov. 2015 14:44:00 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+27 nov. 2015 18:26:45 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+27 nov. 2015 18:26:45 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+27 nov. 2015 18:32:09 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+27 nov. 2015 18:32:09 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+27 nov. 2015 19:07:08 org.apache.catalina.core.StandardWrapperValve invoke
+GRAVE: "Servlet.service()" pour la servlet dynaXML a généré une exception
+java.lang.OutOfMemoryError: Java heap space
+	at net.sf.saxon.instruct.ApplyTemplates.apply(ApplyTemplates.java:168)
+	at net.sf.saxon.instruct.ApplyTemplates.processLeavingTail(ApplyTemplates.java:151)
+	at net.sf.saxon.instruct.Template.applyLeavingTail(Template.java:98)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:317)
+	at net.sf.saxon.instruct.ApplyTemplates$ApplyTemplatesPackage.processLeavingTail(ApplyTemplates.java:486)
+	at net.sf.saxon.instruct.ApplyTemplates.defaultAction(ApplyTemplates.java:352)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:310)
+	at net.sf.saxon.instruct.ApplyTemplates.apply(ApplyTemplates.java:187)
+	at net.sf.saxon.instruct.ApplyTemplates.process(ApplyTemplates.java:147)
+	at net.sf.saxon.instruct.DocumentInstr.evaluateItem(DocumentInstr.java:243)
+	at net.sf.saxon.instruct.Instruction.iterate(Instruction.java:320)
+	at net.sf.saxon.instruct.CopyOf.processLeavingTail(CopyOf.java:137)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ElementCreator.processLeavingTail(ElementCreator.java:240)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Choose.processLeavingTail(Choose.java:347)
+	at net.sf.saxon.instruct.Template.applyLeavingTail(Template.java:98)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:317)
+	at net.sf.saxon.instruct.ApplyTemplates.apply(ApplyTemplates.java:187)
+	at net.sf.saxon.instruct.ApplyTemplates.process(ApplyTemplates.java:147)
+	at net.sf.saxon.instruct.ElementCreator.processLeavingTail(ElementCreator.java:240)
+	at net.sf.saxon.instruct.Copy.processLeavingTail(Copy.java:152)
+	at net.sf.saxon.instruct.Template.applyLeavingTail(Template.java:98)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:317)
+	at net.sf.saxon.instruct.ApplyTemplates$ApplyTemplatesPackage.processLeavingTail(ApplyTemplates.java:486)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:294)
+	at net.sf.saxon.instruct.ApplyTemplates.apply(ApplyTemplates.java:187)
+	at net.sf.saxon.instruct.ApplyTemplates.processLeavingTail(ApplyTemplates.java:151)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ElementCreator.processLeavingTail(ElementCreator.java:240)
+27 nov. 2015 21:24:07 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+27 nov. 2015 21:24:07 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+27 nov. 2015 21:26:09 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+27 nov. 2015 21:26:10 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()

@@ -1,0 +1,188 @@
+10 mars 2013 10:36:18 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 10:36:18 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 11:12:31 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 11:12:31 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 11:16:28 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 11:16:28 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 11:16:30 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+10 mars 2013 11:16:30 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+10 mars 2013 11:16:41 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 11:16:41 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 11:20:12 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 11:20:12 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 11:28:29 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 11:28:29 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 11:28:30 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+10 mars 2013 11:28:30 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+10 mars 2013 12:41:08 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 12:41:08 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 12:47:41 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 12:47:41 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 13:22:42 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 13:22:42 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 13:25:23 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 13:25:23 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 13:40:26 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 13:40:26 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 13:40:28 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+10 mars 2013 13:40:28 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+10 mars 2013 13:54:39 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 13:54:39 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 14:02:16 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 14:02:16 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 14:08:50 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 14:08:51 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 14:12:31 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 14:12:31 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 14:14:07 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 14:14:07 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 15:48:37 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 15:48:37 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 15:52:44 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 15:52:44 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 15:57:48 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 15:57:48 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 16:45:50 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 16:45:50 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 16:46:01 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 16:46:01 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 17:06:11 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 17:06:11 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 17:13:25 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 17:13:25 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 17:19:16 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 17:19:16 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 17:21:44 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 17:21:44 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 17:50:07 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 17:50:07 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 17:50:09 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+10 mars 2013 17:50:09 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+10 mars 2013 17:56:59 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 17:56:59 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 18:08:29 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 18:08:29 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 18:41:32 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 18:41:32 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 19:19:34 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 19:19:34 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 19:32:04 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 19:32:04 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 19:32:07 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+10 mars 2013 19:32:07 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+10 mars 2013 20:02:52 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 20:02:52 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 20:02:54 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+10 mars 2013 20:02:54 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+10 mars 2013 20:03:31 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 20:03:31 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 20:03:35 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+10 mars 2013 20:03:35 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+10 mars 2013 20:08:28 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 20:08:28 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 20:08:30 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+10 mars 2013 20:08:30 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+10 mars 2013 20:19:34 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 20:19:34 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 20:19:37 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+10 mars 2013 20:19:37 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+10 mars 2013 20:22:11 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 20:22:11 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+10 mars 2013 20:22:13 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+10 mars 2013 20:22:13 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+10 mars 2013 22:38:26 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+10 mars 2013 22:38:26 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()

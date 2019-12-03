@@ -1,0 +1,20 @@
+3 d残. 2015 10:08:51 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+3 d残. 2015 10:08:51 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+3 d残. 2015 12:34:36 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+3 d残. 2015 12:34:36 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+3 d残. 2015 12:37:35 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+3 d残. 2015 12:37:35 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+3 d残. 2015 14:04:45 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+3 d残. 2015 14:04:45 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+3 d残. 2015 23:04:41 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+3 d残. 2015 23:04:41 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()

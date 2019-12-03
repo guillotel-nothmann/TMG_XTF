@@ -1,0 +1,36 @@
+24 mars 2013 21:02:30 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mars 2013 21:02:30 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mars 2013 21:05:47 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mars 2013 21:05:47 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mars 2013 21:05:49 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mars 2013 21:05:49 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mars 2013 21:07:18 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mars 2013 21:07:18 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mars 2013 21:07:20 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mars 2013 21:07:20 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 mars 2013 21:08:52 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mars 2013 21:08:52 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mars 2013 21:14:30 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mars 2013 21:14:30 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mars 2013 21:16:06 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 mars 2013 21:16:06 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 mars 2013 21:16:08 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 mars 2013 21:16:08 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()

@@ -1,0 +1,168 @@
+17 nov. 2015 10:50:52 org.apache.catalina.core.StandardWrapperValve invoke
+GRAVE: "Servlet.service()" pour la servlet dynaXML a généré une exception
+java.lang.OutOfMemoryError: Java heap space
+	at net.sf.saxon.tinytree.TinyTree.ensureNodeCapacity(TinyTree.java:199)
+	at net.sf.saxon.tinytree.TinyTree.addNode(TinyTree.java:292)
+	at net.sf.saxon.tinytree.TinyBuilder.characters(TinyBuilder.java:282)
+	at net.sf.saxon.event.ProxyReceiver.characters(ProxyReceiver.java:179)
+	at net.sf.saxon.event.ComplexContentOutputter.characters(ComplexContentOutputter.java:138)
+	at net.sf.saxon.tinytree.TinyElementImpl.copy(TinyElementImpl.java:373)
+	at net.sf.saxon.instruct.CopyOf.processLeavingTail(CopyOf.java:165)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ElementCreator.processLeavingTail(ElementCreator.java:240)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ForEach.processLeavingTail(ForEach.java:243)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.expr.LetExpression.process(LetExpression.java:268)
+	at net.sf.saxon.instruct.DocumentInstr.evaluateItem(DocumentInstr.java:243)
+	at net.sf.saxon.instruct.Instruction.iterate(Instruction.java:320)
+	at net.sf.saxon.expr.PathExpression.iterate(PathExpression.java:826)
+	at net.sf.saxon.instruct.ForEach.processLeavingTail(ForEach.java:219)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Choose.processLeavingTail(Choose.java:347)
+	at net.sf.saxon.instruct.Template.applyLeavingTail(Template.java:98)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:317)
+	at net.sf.saxon.instruct.ApplyTemplates.apply(ApplyTemplates.java:187)
+	at net.sf.saxon.instruct.ApplyTemplates.processLeavingTail(ApplyTemplates.java:151)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ForEach.processLeavingTail(ForEach.java:243)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Choose.processLeavingTail(Choose.java:347)
+	at net.sf.saxon.instruct.Template.applyLeavingTail(Template.java:98)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:317)
+	at net.sf.saxon.instruct.ApplyTemplates.apply(ApplyTemplates.java:187)
+17 nov. 2015 10:57:28 org.apache.catalina.core.StandardWrapperValve invoke
+GRAVE: "Servlet.service()" pour la servlet dynaXML a généré une exception
+java.lang.OutOfMemoryError: Java heap space
+	at net.sf.saxon.tinytree.TinyTree.ensureNodeCapacity(TinyTree.java:202)
+	at net.sf.saxon.tinytree.TinyTree.addNode(TinyTree.java:292)
+	at net.sf.saxon.tinytree.TinyBuilder.characters(TinyBuilder.java:282)
+	at net.sf.saxon.event.ProxyReceiver.characters(ProxyReceiver.java:179)
+	at net.sf.saxon.event.ComplexContentOutputter.characters(ComplexContentOutputter.java:138)
+	at net.sf.saxon.instruct.CopyOf.processLeavingTail(CopyOf.java:187)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ElementCreator.processLeavingTail(ElementCreator.java:240)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ForEach.processLeavingTail(ForEach.java:243)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.DocumentInstr.evaluateItem(DocumentInstr.java:243)
+	at net.sf.saxon.instruct.Instruction.iterate(Instruction.java:320)
+	at net.sf.saxon.expr.PathExpression.iterate(PathExpression.java:826)
+	at net.sf.saxon.instruct.ForEach.processLeavingTail(ForEach.java:219)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Choose.processLeavingTail(Choose.java:347)
+	at net.sf.saxon.instruct.Template.applyLeavingTail(Template.java:98)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:317)
+	at net.sf.saxon.instruct.ApplyTemplates.apply(ApplyTemplates.java:187)
+	at net.sf.saxon.instruct.ApplyTemplates.processLeavingTail(ApplyTemplates.java:151)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ForEach.processLeavingTail(ForEach.java:243)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Choose.processLeavingTail(Choose.java:347)
+	at net.sf.saxon.instruct.Template.applyLeavingTail(Template.java:98)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:317)
+	at net.sf.saxon.instruct.ApplyTemplates$ApplyTemplatesPackage.processLeavingTail(ApplyTemplates.java:486)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:294)
+	at net.sf.saxon.instruct.ApplyTemplates$ApplyTemplatesPackage.processLeavingTail(ApplyTemplates.java:486)
+17 nov. 2015 10:59:28 org.apache.catalina.core.StandardWrapperValve invoke
+GRAVE: "Servlet.service()" pour la servlet dynaXML a généré une exception
+java.lang.OutOfMemoryError: Java heap space
+	at net.sf.saxon.tinytree.TinyTree.condense(TinyTree.java:349)
+	at net.sf.saxon.tinytree.TinyBuilder.close(TinyBuilder.java:144)
+	at net.sf.saxon.event.ProxyReceiver.close(ProxyReceiver.java:87)
+	at net.sf.saxon.event.ComplexContentOutputter.close(ComplexContentOutputter.java:468)
+	at net.sf.saxon.instruct.DocumentInstr.evaluateItem(DocumentInstr.java:246)
+	at net.sf.saxon.instruct.Instruction.iterate(Instruction.java:320)
+	at net.sf.saxon.expr.PathExpression.iterate(PathExpression.java:826)
+	at net.sf.saxon.instruct.ForEach.processLeavingTail(ForEach.java:219)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Choose.processLeavingTail(Choose.java:347)
+	at net.sf.saxon.instruct.Template.applyLeavingTail(Template.java:98)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:317)
+	at net.sf.saxon.instruct.ApplyTemplates.apply(ApplyTemplates.java:187)
+	at net.sf.saxon.instruct.ApplyTemplates.processLeavingTail(ApplyTemplates.java:151)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ForEach.processLeavingTail(ForEach.java:243)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Choose.processLeavingTail(Choose.java:347)
+	at net.sf.saxon.instruct.Template.applyLeavingTail(Template.java:98)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:317)
+	at net.sf.saxon.instruct.ApplyTemplates.apply(ApplyTemplates.java:187)
+	at net.sf.saxon.instruct.ApplyTemplates.processLeavingTail(ApplyTemplates.java:151)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ForEach.processLeavingTail(ForEach.java:243)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Choose.processLeavingTail(Choose.java:347)
+	at net.sf.saxon.instruct.Template.applyLeavingTail(Template.java:98)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:317)
+	at net.sf.saxon.instruct.ApplyTemplates.apply(ApplyTemplates.java:187)
+	at net.sf.saxon.instruct.ApplyTemplates.processLeavingTail(ApplyTemplates.java:151)
+17 nov. 2015 11:01:04 org.apache.catalina.core.StandardWrapperValve invoke
+GRAVE: "Servlet.service()" pour la servlet dynaXML a généré une exception
+java.lang.OutOfMemoryError: Java heap space
+	at net.sf.saxon.tinytree.TinyTree.ensureNodeCapacity(TinyTree.java:201)
+	at net.sf.saxon.tinytree.TinyTree.addNode(TinyTree.java:292)
+	at net.sf.saxon.tinytree.TinyBuilder.characters(TinyBuilder.java:282)
+	at net.sf.saxon.event.ProxyReceiver.characters(ProxyReceiver.java:179)
+	at net.sf.saxon.event.ComplexContentOutputter.characters(ComplexContentOutputter.java:138)
+	at net.sf.saxon.tinytree.TinyElementImpl.copy(TinyElementImpl.java:373)
+	at net.sf.saxon.instruct.CopyOf.processLeavingTail(CopyOf.java:165)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ElementCreator.processLeavingTail(ElementCreator.java:240)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ForEach.processLeavingTail(ForEach.java:243)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.DocumentInstr.evaluateItem(DocumentInstr.java:243)
+	at net.sf.saxon.instruct.Instruction.iterate(Instruction.java:320)
+	at net.sf.saxon.expr.PathExpression.iterate(PathExpression.java:826)
+	at net.sf.saxon.instruct.ForEach.processLeavingTail(ForEach.java:219)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Choose.processLeavingTail(Choose.java:347)
+	at net.sf.saxon.instruct.Template.applyLeavingTail(Template.java:98)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:317)
+	at net.sf.saxon.instruct.ApplyTemplates.apply(ApplyTemplates.java:187)
+	at net.sf.saxon.instruct.ApplyTemplates.process(ApplyTemplates.java:147)
+	at net.sf.saxon.instruct.ForEach.processLeavingTail(ForEach.java:243)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Choose.processLeavingTail(Choose.java:347)
+	at net.sf.saxon.instruct.Template.applyLeavingTail(Template.java:98)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:317)
+	at net.sf.saxon.instruct.ApplyTemplates.apply(ApplyTemplates.java:187)
+	at net.sf.saxon.instruct.ApplyTemplates.process(ApplyTemplates.java:147)
+	at net.sf.saxon.instruct.ForEach.processLeavingTail(ForEach.java:243)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+17 nov. 2015 11:01:34 org.apache.catalina.core.StandardWrapperValve invoke
+GRAVE: "Servlet.service()" pour la servlet dynaXML a généré une exception
+java.lang.OutOfMemoryError: Java heap space
+17 nov. 2015 11:03:54 org.apache.catalina.core.StandardWrapperValve invoke
+GRAVE: "Servlet.service()" pour la servlet dynaXML a généré une exception
+java.lang.OutOfMemoryError: Java heap space
+17 nov. 2015 11:05:43 org.apache.catalina.core.StandardWrapperValve invoke
+GRAVE: "Servlet.service()" pour la servlet dynaXML a généré une exception
+java.lang.OutOfMemoryError: Java heap space
+17 nov. 2015 11:07:57 org.apache.catalina.core.StandardWrapperValve invoke
+GRAVE: "Servlet.service()" pour la servlet dynaXML a généré une exception
+java.lang.OutOfMemoryError: Java heap space
+17 nov. 2015 11:16:53 org.apache.catalina.core.StandardWrapperValve invoke
+GRAVE: "Servlet.service()" pour la servlet dynaXML a généré une exception
+java.lang.OutOfMemoryError: Java heap space
+17 nov. 2015 11:17:37 org.apache.catalina.core.StandardWrapperValve invoke
+GRAVE: "Servlet.service()" pour la servlet dynaXML a généré une exception
+java.lang.OutOfMemoryError: Java heap space
+17 nov. 2015 11:18:13 org.apache.catalina.core.StandardWrapperValve invoke
+GRAVE: "Servlet.service()" pour la servlet dynaXML a généré une exception
+java.lang.OutOfMemoryError: Java heap space
+17 nov. 2015 11:23:21 org.apache.catalina.core.StandardWrapperValve invoke
+GRAVE: "Servlet.service()" pour la servlet dynaXML a généré une exception
+java.lang.OutOfMemoryError: Java heap space
+17 nov. 2015 23:02:10 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+17 nov. 2015 23:02:10 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()

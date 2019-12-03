@@ -1,0 +1,36 @@
+15 sept. 2015 08:21:36 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+15 sept. 2015 08:21:36 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+15 sept. 2015 08:21:36 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 970 ms
+15 sept. 2015 08:21:36 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+15 sept. 2015 08:21:36 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+15 sept. 2015 08:21:36 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+15 sept. 2015 08:21:37 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+15 sept. 2015 08:21:37 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+15 sept. 2015 08:21:38 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+15 sept. 2015 08:21:38 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+15 sept. 2015 08:21:38 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+15 sept. 2015 08:21:41 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+15 sept. 2015 08:21:41 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+15 sept. 2015 08:21:41 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/22  config=null
+15 sept. 2015 08:21:41 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 4536 ms
+15 sept. 2015 08:22:00 org.apache.coyote.http11.Http11Protocol pause
+INFO: Suspension de Coyote HTTP/1.1 sur http-8080
+15 sept. 2015 08:22:01 org.apache.catalina.core.StandardService stop
+INFO: Arrêt du service Catalina
+15 sept. 2015 08:22:05 org.apache.coyote.http11.Http11Protocol destroy
+INFO: Arrêt de Coyote HTTP/1.1 sur http-8080

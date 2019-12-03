@@ -1,0 +1,1362 @@
+23 févr. 2013 14:20:44 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 14:20:45 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 14:20:45 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 2695 ms
+23 févr. 2013 14:20:45 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 14:20:45 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 14:20:45 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 14:20:46 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 14:20:47 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 14:20:47 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 14:20:47 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 14:20:48 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 14:20:48 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 14:20:48 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 14:20:48 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/94  config=null
+23 févr. 2013 14:20:48 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3368 ms
+23 févr. 2013 15:05:32 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 15:05:32 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 15:05:32 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1054 ms
+23 févr. 2013 15:05:32 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 15:05:32 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 15:05:32 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 15:05:33 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 15:05:33 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 15:05:33 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 15:05:33 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 15:05:33 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 15:05:34 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 15:05:34 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 15:05:34 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/63  config=null
+23 févr. 2013 15:05:34 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1887 ms
+23 févr. 2013 15:10:44 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 15:10:44 org.apache.coyote.http11.Http11Protocol init
+GRAVE: Erreur à l'initialisation du point de contact
+java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:549)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:176)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:1014)
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:680)
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:795)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:524)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:548)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:261)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:50)
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:538)
+	... 12 more
+23 févr. 2013 15:10:44 org.apache.catalina.startup.Catalina load
+GRAVE: Catalina.start
+LifecycleException:  L'initialisation du gestionnaire de protocole a échoué: java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:1016)
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:680)
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:795)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:524)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:548)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:261)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+23 févr. 2013 15:10:44 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1140 ms
+23 févr. 2013 15:10:45 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 15:10:45 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 15:10:45 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 15:10:45 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 15:10:45 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 15:10:45 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 15:10:46 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 15:10:46 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 15:10:46 org.apache.coyote.http11.Http11Protocol start
+GRAVE: Erreur au démarrage du point de contact
+java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:549)
+	at org.apache.tomcat.util.net.JIoEndpoint.start(JIoEndpoint.java:565)
+	at org.apache.coyote.http11.Http11Protocol.start(Http11Protocol.java:203)
+	at org.apache.catalina.connector.Connector.start(Connector.java:1087)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:534)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:710)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:581)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:50)
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:538)
+	... 12 more
+23 févr. 2013 15:10:46 org.apache.catalina.startup.Catalina start
+GRAVE: Catalina.start: 
+LifecycleException:  service.getName(): "Catalina";  Le démarrage du gestionnaire de protocole a échoué: java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.catalina.connector.Connector.start(Connector.java:1094)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:534)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:710)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:581)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+23 févr. 2013 15:10:46 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1799 ms
+23 févr. 2013 15:10:46 org.apache.catalina.core.StandardServer await
+GRAVE: StandardServer.await: create[8005]: 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.catalina.core.StandardServer.await(StandardServer.java:373)
+	at org.apache.catalina.startup.Catalina.await(Catalina.java:662)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:614)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+23 févr. 2013 15:10:46 org.apache.coyote.http11.Http11Protocol pause
+INFO: Suspension de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 15:10:47 org.apache.catalina.core.StandardService stop
+INFO: Arrêt du service Catalina
+23 févr. 2013 15:10:48 org.apache.catalina.connector.MapperListener destroy
+ATTENTION: Error unregistering MBeanServerDelegate
+java.lang.NullPointerException
+	at org.apache.catalina.connector.MapperListener.destroy(MapperListener.java:176)
+	at org.apache.catalina.connector.Connector.stop(Connector.java:1135)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:596)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:744)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:648)
+	at org.apache.catalina.startup.Catalina$CatalinaShutdownHook.run(Catalina.java:692)
+23 févr. 2013 15:10:48 org.apache.coyote.http11.Http11Protocol destroy
+INFO: Arrêt de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 15:10:48 org.apache.catalina.connector.Connector stop
+GRAVE: Le connecteur Coyote n'a pas été démarré
+23 févr. 2013 16:13:17 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 16:13:18 org.apache.coyote.http11.Http11Protocol init
+GRAVE: Erreur à l'initialisation du point de contact
+java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:549)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:176)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:1014)
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:680)
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:795)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:524)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:548)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:261)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:50)
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:538)
+	... 12 more
+23 févr. 2013 16:13:18 org.apache.catalina.startup.Catalina load
+GRAVE: Catalina.start
+LifecycleException:  L'initialisation du gestionnaire de protocole a échoué: java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:1016)
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:680)
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:795)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:524)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:548)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:261)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+23 févr. 2013 16:13:18 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1648 ms
+23 févr. 2013 16:13:18 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 16:13:18 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 16:13:18 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 16:13:19 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 16:13:19 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 16:13:20 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 16:13:20 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 16:13:20 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 16:13:21 org.apache.coyote.http11.Http11Protocol start
+GRAVE: Erreur au démarrage du point de contact
+java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:549)
+	at org.apache.tomcat.util.net.JIoEndpoint.start(JIoEndpoint.java:565)
+	at org.apache.coyote.http11.Http11Protocol.start(Http11Protocol.java:203)
+	at org.apache.catalina.connector.Connector.start(Connector.java:1087)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:534)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:710)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:581)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:50)
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:538)
+	... 12 more
+23 févr. 2013 16:13:21 org.apache.catalina.startup.Catalina start
+GRAVE: Catalina.start: 
+LifecycleException:  service.getName(): "Catalina";  Le démarrage du gestionnaire de protocole a échoué: java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.catalina.connector.Connector.start(Connector.java:1094)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:534)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:710)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:581)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+23 févr. 2013 16:13:21 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2777 ms
+23 févr. 2013 16:13:21 org.apache.catalina.core.StandardServer await
+GRAVE: StandardServer.await: create[8005]: 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.catalina.core.StandardServer.await(StandardServer.java:373)
+	at org.apache.catalina.startup.Catalina.await(Catalina.java:662)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:614)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+23 févr. 2013 16:13:21 org.apache.coyote.http11.Http11Protocol pause
+INFO: Suspension de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 16:13:22 org.apache.catalina.core.StandardService stop
+INFO: Arrêt du service Catalina
+23 févr. 2013 16:13:22 org.apache.catalina.connector.MapperListener destroy
+ATTENTION: Error unregistering MBeanServerDelegate
+java.lang.NullPointerException
+	at org.apache.catalina.connector.MapperListener.destroy(MapperListener.java:176)
+	at org.apache.catalina.connector.Connector.stop(Connector.java:1135)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:596)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:744)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:648)
+	at org.apache.catalina.startup.Catalina$CatalinaShutdownHook.run(Catalina.java:692)
+23 févr. 2013 16:13:22 org.apache.coyote.http11.Http11Protocol destroy
+INFO: Arrêt de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 16:13:22 org.apache.catalina.connector.Connector stop
+GRAVE: Le connecteur Coyote n'a pas été démarré
+23 févr. 2013 16:16:32 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 16:16:32 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 16:16:32 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1059 ms
+23 févr. 2013 16:16:32 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 16:16:32 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 16:16:32 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 16:16:33 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 16:16:33 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 16:16:33 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 16:16:33 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 16:16:34 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 16:16:34 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 16:16:34 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 16:16:34 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/94  config=null
+23 févr. 2013 16:16:34 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2017 ms
+23 févr. 2013 16:20:43 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 16:20:44 org.apache.coyote.http11.Http11Protocol init
+GRAVE: Erreur à l'initialisation du point de contact
+java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:549)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:176)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:1014)
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:680)
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:795)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:524)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:548)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:261)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:50)
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:538)
+	... 12 more
+23 févr. 2013 16:20:44 org.apache.catalina.startup.Catalina load
+GRAVE: Catalina.start
+LifecycleException:  L'initialisation du gestionnaire de protocole a échoué: java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:1016)
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:680)
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:795)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:524)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:548)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:261)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+23 févr. 2013 16:20:44 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1124 ms
+23 févr. 2013 16:20:44 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 16:20:44 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 16:20:44 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 16:20:45 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 16:20:45 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 16:20:45 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 16:20:46 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 16:20:46 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 16:20:46 org.apache.coyote.http11.Http11Protocol start
+GRAVE: Erreur au démarrage du point de contact
+java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:549)
+	at org.apache.tomcat.util.net.JIoEndpoint.start(JIoEndpoint.java:565)
+	at org.apache.coyote.http11.Http11Protocol.start(Http11Protocol.java:203)
+	at org.apache.catalina.connector.Connector.start(Connector.java:1087)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:534)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:710)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:581)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:50)
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:538)
+	... 12 more
+23 févr. 2013 16:20:46 org.apache.catalina.startup.Catalina start
+GRAVE: Catalina.start: 
+LifecycleException:  service.getName(): "Catalina";  Le démarrage du gestionnaire de protocole a échoué: java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.catalina.connector.Connector.start(Connector.java:1094)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:534)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:710)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:581)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+23 févr. 2013 16:20:46 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1997 ms
+23 févr. 2013 16:20:46 org.apache.catalina.core.StandardServer await
+GRAVE: StandardServer.await: create[8005]: 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.catalina.core.StandardServer.await(StandardServer.java:373)
+	at org.apache.catalina.startup.Catalina.await(Catalina.java:662)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:614)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+23 févr. 2013 16:20:46 org.apache.coyote.http11.Http11Protocol pause
+INFO: Suspension de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 16:20:47 org.apache.catalina.core.StandardService stop
+INFO: Arrêt du service Catalina
+23 févr. 2013 16:20:47 org.apache.catalina.connector.MapperListener destroy
+ATTENTION: Error unregistering MBeanServerDelegate
+java.lang.NullPointerException
+	at org.apache.catalina.connector.MapperListener.destroy(MapperListener.java:176)
+	at org.apache.catalina.connector.Connector.stop(Connector.java:1135)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:596)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:744)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:648)
+	at org.apache.catalina.startup.Catalina$CatalinaShutdownHook.run(Catalina.java:692)
+23 févr. 2013 16:20:47 org.apache.coyote.http11.Http11Protocol destroy
+INFO: Arrêt de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 16:20:47 org.apache.catalina.connector.Connector stop
+GRAVE: Le connecteur Coyote n'a pas été démarré
+23 févr. 2013 16:24:30 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 16:24:30 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 16:24:30 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 989 ms
+23 févr. 2013 16:24:31 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 16:24:31 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 16:24:31 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 16:24:31 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 16:24:31 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 16:24:32 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 16:24:32 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 16:24:32 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 16:24:33 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 16:24:33 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 16:24:33 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/47  config=null
+23 févr. 2013 16:24:33 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2443 ms
+23 févr. 2013 16:40:16 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 16:40:17 org.apache.coyote.http11.Http11Protocol init
+GRAVE: Erreur à l'initialisation du point de contact
+java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:549)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:176)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:1014)
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:680)
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:795)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:524)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:548)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:261)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:50)
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:538)
+	... 12 more
+23 févr. 2013 16:40:17 org.apache.catalina.startup.Catalina load
+GRAVE: Catalina.start
+LifecycleException:  L'initialisation du gestionnaire de protocole a échoué: java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:1016)
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:680)
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:795)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:524)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:548)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:261)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+23 févr. 2013 16:40:17 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1036 ms
+23 févr. 2013 16:40:17 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 16:40:17 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 16:40:17 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 16:40:17 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 16:40:17 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 16:40:18 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 16:40:18 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 16:40:18 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 16:40:18 org.apache.coyote.http11.Http11Protocol start
+GRAVE: Erreur au démarrage du point de contact
+java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:549)
+	at org.apache.tomcat.util.net.JIoEndpoint.start(JIoEndpoint.java:565)
+	at org.apache.coyote.http11.Http11Protocol.start(Http11Protocol.java:203)
+	at org.apache.catalina.connector.Connector.start(Connector.java:1087)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:534)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:710)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:581)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:50)
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:538)
+	... 12 more
+23 févr. 2013 16:40:18 org.apache.catalina.startup.Catalina start
+GRAVE: Catalina.start: 
+LifecycleException:  service.getName(): "Catalina";  Le démarrage du gestionnaire de protocole a échoué: java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.catalina.connector.Connector.start(Connector.java:1094)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:534)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:710)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:581)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+23 févr. 2013 16:40:18 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1846 ms
+23 févr. 2013 16:40:18 org.apache.catalina.core.StandardServer await
+GRAVE: StandardServer.await: create[8005]: 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.catalina.core.StandardServer.await(StandardServer.java:373)
+	at org.apache.catalina.startup.Catalina.await(Catalina.java:662)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:614)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+23 févr. 2013 16:40:18 org.apache.coyote.http11.Http11Protocol pause
+INFO: Suspension de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 16:40:19 org.apache.catalina.core.StandardService stop
+INFO: Arrêt du service Catalina
+23 févr. 2013 16:40:20 org.apache.catalina.connector.MapperListener destroy
+ATTENTION: Error unregistering MBeanServerDelegate
+java.lang.NullPointerException
+	at org.apache.catalina.connector.MapperListener.destroy(MapperListener.java:176)
+	at org.apache.catalina.connector.Connector.stop(Connector.java:1135)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:596)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:744)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:648)
+	at org.apache.catalina.startup.Catalina$CatalinaShutdownHook.run(Catalina.java:692)
+23 févr. 2013 16:40:20 org.apache.coyote.http11.Http11Protocol destroy
+INFO: Arrêt de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 16:40:20 org.apache.catalina.connector.Connector stop
+GRAVE: Le connecteur Coyote n'a pas été démarré
+23 févr. 2013 18:01:16 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 18:01:17 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 18:01:17 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1247 ms
+23 févr. 2013 18:01:17 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 18:01:17 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 18:01:17 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 18:01:18 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 18:01:18 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 18:01:18 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 18:01:18 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 18:01:19 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 18:01:19 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 18:01:19 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 18:01:19 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/78  config=null
+23 févr. 2013 18:01:19 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2116 ms
+23 févr. 2013 18:28:29 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 18:28:30 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 18:28:30 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1414 ms
+23 févr. 2013 18:28:30 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 18:28:30 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 18:28:30 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 18:28:30 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 18:28:31 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 18:28:31 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 18:28:31 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 18:28:31 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 18:28:31 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 18:28:32 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 18:28:32 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/60  config=null
+23 févr. 2013 18:28:32 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1931 ms
+23 févr. 2013 18:28:59 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 18:29:00 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 18:29:00 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1213 ms
+23 févr. 2013 18:29:00 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 18:29:00 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 18:29:00 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 18:29:01 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 18:29:01 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 18:29:01 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 18:29:01 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 18:29:01 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 18:29:02 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 18:29:02 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 18:29:02 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/60  config=null
+23 févr. 2013 18:29:02 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2128 ms
+23 févr. 2013 18:45:15 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 18:45:16 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 18:45:16 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1160 ms
+23 févr. 2013 18:45:16 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 18:45:16 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 18:45:16 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 18:45:17 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 18:45:17 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 18:45:17 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 18:45:17 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 18:45:17 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 18:45:18 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 18:45:18 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 18:45:18 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/60  config=null
+23 févr. 2013 18:45:18 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2272 ms
+23 févr. 2013 20:41:17 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 20:41:18 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 20:41:18 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1233 ms
+23 févr. 2013 20:41:18 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 20:41:18 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 20:41:18 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 20:41:19 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 20:41:19 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 20:41:19 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 20:41:20 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 20:41:20 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 20:41:20 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 20:41:20 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 20:41:20 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/70  config=null
+23 févr. 2013 20:41:20 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2226 ms
+23 févr. 2013 21:03:24 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 21:03:25 org.apache.coyote.http11.Http11Protocol init
+GRAVE: Erreur à l'initialisation du point de contact
+java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:549)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:176)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:1014)
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:680)
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:795)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:524)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:548)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:261)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:50)
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:538)
+	... 12 more
+23 févr. 2013 21:03:25 org.apache.catalina.startup.Catalina load
+GRAVE: Catalina.start
+LifecycleException:  L'initialisation du gestionnaire de protocole a échoué: java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:1016)
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:680)
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:795)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:524)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:548)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:261)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+23 févr. 2013 21:03:25 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1147 ms
+23 févr. 2013 21:03:25 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 21:03:25 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 21:03:25 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 21:03:26 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 21:03:26 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 21:03:26 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 21:03:26 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 21:03:26 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 21:03:27 org.apache.coyote.http11.Http11Protocol start
+GRAVE: Erreur au démarrage du point de contact
+java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:549)
+	at org.apache.tomcat.util.net.JIoEndpoint.start(JIoEndpoint.java:565)
+	at org.apache.coyote.http11.Http11Protocol.start(Http11Protocol.java:203)
+	at org.apache.catalina.connector.Connector.start(Connector.java:1087)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:534)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:710)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:581)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:50)
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:538)
+	... 12 more
+23 févr. 2013 21:03:27 org.apache.catalina.startup.Catalina start
+GRAVE: Catalina.start: 
+LifecycleException:  service.getName(): "Catalina";  Le démarrage du gestionnaire de protocole a échoué: java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.catalina.connector.Connector.start(Connector.java:1094)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:534)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:710)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:581)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+23 févr. 2013 21:03:27 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1926 ms
+23 févr. 2013 21:03:27 org.apache.catalina.core.StandardServer await
+GRAVE: StandardServer.await: create[8005]: 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.catalina.core.StandardServer.await(StandardServer.java:373)
+	at org.apache.catalina.startup.Catalina.await(Catalina.java:662)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:614)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+23 févr. 2013 21:03:27 org.apache.coyote.http11.Http11Protocol pause
+INFO: Suspension de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 21:03:28 org.apache.catalina.core.StandardService stop
+INFO: Arrêt du service Catalina
+23 févr. 2013 21:03:28 org.apache.catalina.connector.MapperListener destroy
+ATTENTION: Error unregistering MBeanServerDelegate
+java.lang.NullPointerException
+	at org.apache.catalina.connector.MapperListener.destroy(MapperListener.java:176)
+	at org.apache.catalina.connector.Connector.stop(Connector.java:1135)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:596)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:744)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:648)
+	at org.apache.catalina.startup.Catalina$CatalinaShutdownHook.run(Catalina.java:692)
+23 févr. 2013 21:03:28 org.apache.coyote.http11.Http11Protocol destroy
+INFO: Arrêt de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 21:03:28 org.apache.catalina.connector.Connector stop
+GRAVE: Le connecteur Coyote n'a pas été démarré
+23 févr. 2013 21:31:51 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 21:31:51 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 21:31:51 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1620 ms
+23 févr. 2013 21:31:52 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 21:31:52 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 21:31:52 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 21:31:52 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 21:31:53 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 21:31:53 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 21:31:53 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 21:31:54 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 21:31:54 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 21:31:54 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 21:31:54 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/110  config=null
+23 févr. 2013 21:31:54 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2595 ms
+23 févr. 2013 21:40:59 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 21:41:00 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 21:41:00 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 989 ms
+23 févr. 2013 21:41:00 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 21:41:00 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 21:41:00 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 21:41:01 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 21:41:01 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 21:41:01 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 21:41:01 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 21:41:01 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 21:41:02 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 21:41:02 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 21:41:02 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/78  config=null
+23 févr. 2013 21:41:02 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1912 ms
+23 févr. 2013 21:55:25 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 21:55:25 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 21:55:25 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1069 ms
+23 févr. 2013 21:55:25 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 21:55:25 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 21:55:25 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 21:55:26 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 21:55:26 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 21:55:26 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 21:55:27 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 21:55:27 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 21:55:27 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 21:55:27 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 21:55:27 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/63  config=null
+23 févr. 2013 21:55:27 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2074 ms
+23 févr. 2013 21:58:37 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 21:58:37 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 21:58:37 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1157 ms
+23 févr. 2013 21:58:37 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 21:58:37 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 21:58:37 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 21:58:38 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 21:58:38 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 21:58:38 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 21:58:38 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 21:58:39 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 21:58:39 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 21:58:39 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 21:58:39 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/62  config=null
+23 févr. 2013 21:58:39 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1917 ms
+23 févr. 2013 22:05:52 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 22:05:52 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 22:05:52 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1144 ms
+23 févr. 2013 22:05:52 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 22:05:52 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 22:05:52 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 22:05:53 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 22:05:53 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 22:05:53 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 22:05:53 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 22:05:54 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 22:05:54 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 22:05:54 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 22:05:54 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/63  config=null
+23 févr. 2013 22:05:54 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2002 ms
+23 févr. 2013 22:23:39 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 22:23:40 org.apache.coyote.http11.Http11Protocol init
+GRAVE: Erreur à l'initialisation du point de contact
+java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:549)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:176)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:1014)
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:680)
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:795)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:524)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:548)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:261)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:50)
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:538)
+	... 12 more
+23 févr. 2013 22:23:40 org.apache.catalina.startup.Catalina load
+GRAVE: Catalina.start
+LifecycleException:  L'initialisation du gestionnaire de protocole a échoué: java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:1016)
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:680)
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:795)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:524)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:548)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:261)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+23 févr. 2013 22:23:40 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1053 ms
+23 févr. 2013 22:23:40 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 22:23:40 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 22:23:40 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 22:23:41 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 22:23:41 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 22:23:41 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 22:23:41 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 22:23:41 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 22:23:41 org.apache.coyote.http11.Http11Protocol start
+GRAVE: Erreur au démarrage du point de contact
+java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:549)
+	at org.apache.tomcat.util.net.JIoEndpoint.start(JIoEndpoint.java:565)
+	at org.apache.coyote.http11.Http11Protocol.start(Http11Protocol.java:203)
+	at org.apache.catalina.connector.Connector.start(Connector.java:1087)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:534)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:710)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:581)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:50)
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:538)
+	... 12 more
+23 févr. 2013 22:23:41 org.apache.catalina.startup.Catalina start
+GRAVE: Catalina.start: 
+LifecycleException:  service.getName(): "Catalina";  Le démarrage du gestionnaire de protocole a échoué: java.net.BindException: Address already in use: JVM_Bind <null>:8080
+	at org.apache.catalina.connector.Connector.start(Connector.java:1094)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:534)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:710)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:581)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+23 févr. 2013 22:23:42 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1723 ms
+23 févr. 2013 22:23:42 org.apache.catalina.core.StandardServer await
+GRAVE: StandardServer.await: create[8005]: 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.catalina.core.StandardServer.await(StandardServer.java:373)
+	at org.apache.catalina.startup.Catalina.await(Catalina.java:662)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:614)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:289)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:414)
+23 févr. 2013 22:23:42 org.apache.coyote.http11.Http11Protocol pause
+INFO: Suspension de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 22:23:43 org.apache.catalina.core.StandardService stop
+INFO: Arrêt du service Catalina
+23 févr. 2013 22:23:43 org.apache.catalina.connector.MapperListener destroy
+ATTENTION: Error unregistering MBeanServerDelegate
+java.lang.NullPointerException
+	at org.apache.catalina.connector.MapperListener.destroy(MapperListener.java:176)
+	at org.apache.catalina.connector.Connector.stop(Connector.java:1135)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:596)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:744)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:648)
+	at org.apache.catalina.startup.Catalina$CatalinaShutdownHook.run(Catalina.java:692)
+23 févr. 2013 22:23:43 org.apache.coyote.http11.Http11Protocol destroy
+INFO: Arrêt de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 22:23:43 org.apache.catalina.connector.Connector stop
+GRAVE: Le connecteur Coyote n'a pas été démarré
+23 févr. 2013 22:24:49 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 22:24:49 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 22:24:49 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1095 ms
+23 févr. 2013 22:24:49 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 22:24:49 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 22:24:49 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 22:24:50 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 22:24:50 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 22:24:50 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 22:24:51 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 22:24:51 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 22:24:51 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 22:24:51 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 22:24:51 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/62  config=null
+23 févr. 2013 22:24:51 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2149 ms
+23 févr. 2013 22:28:04 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 22:28:04 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 22:28:04 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1114 ms
+23 févr. 2013 22:28:05 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 22:28:05 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 22:28:05 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 22:28:05 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 22:28:05 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 22:28:05 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 22:28:06 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 22:28:06 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 22:28:06 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 22:28:06 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 22:28:06 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/47  config=null
+23 févr. 2013 22:28:06 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1936 ms
+23 févr. 2013 22:36:49 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 22:36:49 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 22:36:49 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1053 ms
+23 févr. 2013 22:36:49 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 22:36:49 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 22:36:49 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 22:36:50 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 22:36:50 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 22:36:50 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 22:36:50 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 22:36:50 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 22:36:51 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 22:36:51 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 22:36:51 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/93  config=null
+23 févr. 2013 22:36:51 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1993 ms
+23 févr. 2013 22:51:55 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 22:51:55 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 22:51:55 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1124 ms
+23 févr. 2013 22:51:55 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 22:51:55 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 22:51:55 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 22:51:56 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 22:51:56 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 22:51:56 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 22:51:56 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 22:51:56 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 22:51:57 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 22:51:57 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 22:51:57 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/62  config=null
+23 févr. 2013 22:51:57 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1815 ms
+23 févr. 2013 23:24:51 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Christophe\Documents\Musicologie\TMG\xtfWorkshop\java\jre6_win\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Common Files\Roxio Shared\9.0\DLLShared\;C:\PROGRA~1\ADDINS~1\XLSTAT~1;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\QuickTime\QTSystem\
+23 févr. 2013 23:24:51 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 23:24:51 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1355 ms
+23 févr. 2013 23:24:51 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+23 févr. 2013 23:24:51 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+23 févr. 2013 23:24:52 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+23 févr. 2013 23:24:52 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+23 févr. 2013 23:24:52 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+23 févr. 2013 23:24:52 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+23 févr. 2013 23:24:53 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+23 févr. 2013 23:24:53 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+23 févr. 2013 23:24:53 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+23 févr. 2013 23:24:53 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+23 févr. 2013 23:24:53 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/78  config=null
+23 févr. 2013 23:24:53 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2020 ms

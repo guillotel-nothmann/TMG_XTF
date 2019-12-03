@@ -1,0 +1,30 @@
+juin 14, 2016 5:06:26 PM org.apache.catalina.core.AprLifecycleListener init
+INFOS: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/Christophe/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+juin 14, 2016 5:06:29 PM org.apache.coyote.http11.Http11Protocol init
+INFOS: Initialisation de Coyote HTTP/1.1 sur http-8080
+juin 14, 2016 5:06:29 PM org.apache.catalina.startup.Catalina load
+INFOS: Initialization processed in 4015 ms
+juin 14, 2016 5:06:29 PM org.apache.catalina.core.StandardService start
+INFOS: Démarrage du service Catalina
+juin 14, 2016 5:06:29 PM org.apache.catalina.core.StandardEngine start
+INFOS: Starting Servlet Engine: Apache Tomcat/6.0.29
+juin 14, 2016 5:06:29 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFOS: Déploiement du descripteur de configuration host-manager.xml
+juin 14, 2016 5:06:30 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFOS: Déploiement du descripteur de configuration manager.xml
+juin 14, 2016 5:06:30 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire docs de l'application web
+juin 14, 2016 5:06:30 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire examples de l'application web
+juin 14, 2016 5:06:31 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire ROOT de l'application web
+juin 14, 2016 5:06:31 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire xtf de l'application web
+juin 14, 2016 5:06:31 PM org.apache.coyote.http11.Http11Protocol start
+INFOS: Démarrage de Coyote HTTP/1.1 sur http-8080
+juin 14, 2016 5:06:31 PM org.apache.jk.common.ChannelSocket init
+INFOS: JK: ajp13 listening on /0.0.0.0:8009
+juin 14, 2016 5:06:31 PM org.apache.jk.server.JkMain start
+INFOS: Jk running ID=0 time=0/41  config=null
+juin 14, 2016 5:06:31 PM org.apache.catalina.startup.Catalina start
+INFOS: Server startup in 2248 ms

@@ -1,0 +1,114 @@
+21 oct. 2015 16:43:28 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+21 oct. 2015 16:43:28 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+21 oct. 2015 16:43:28 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 797 ms
+21 oct. 2015 16:43:28 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+21 oct. 2015 16:43:28 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+21 oct. 2015 16:43:28 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+21 oct. 2015 16:43:29 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+21 oct. 2015 16:43:29 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+21 oct. 2015 16:43:29 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+21 oct. 2015 16:43:29 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+21 oct. 2015 16:43:29 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+21 oct. 2015 16:43:30 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+21 oct. 2015 16:43:30 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+21 oct. 2015 16:43:30 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/15  config=null
+21 oct. 2015 16:43:30 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1799 ms
+21 oct. 2015 16:44:55 org.apache.coyote.http11.Http11Protocol pause
+INFO: Suspension de Coyote HTTP/1.1 sur http-8080
+21 oct. 2015 16:44:56 org.apache.catalina.core.StandardService stop
+INFO: Arrêt du service Catalina
+21 oct. 2015 16:44:56 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@57f897a7]) and a value of type [org.cdlib.xtf.util.PackedByteBuf.CompressInfo] (value [org.cdlib.xtf.util.PackedByteBuf$CompressInfo@1ac8210]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 16:44:56 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@57f897a7]) and a value of type [org.cdlib.xtf.util.PackedByteBuf.CompressInfo] (value [org.cdlib.xtf.util.PackedByteBuf$CompressInfo@648ee94b]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 16:44:56 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@57f897a7]) and a value of type [org.cdlib.xtf.util.PackedByteBuf.CompressInfo] (value [org.cdlib.xtf.util.PackedByteBuf$CompressInfo@62766e80]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 16:44:56 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@57f897a7]) and a value of type [org.cdlib.xtf.util.PackedByteBuf.CompressInfo] (value [org.cdlib.xtf.util.PackedByteBuf$CompressInfo@4d50c800]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 16:44:56 org.apache.coyote.http11.Http11Protocol destroy
+INFO: Arrêt de Coyote HTTP/1.1 sur http-8080
+21 oct. 2015 16:45:20 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+21 oct. 2015 16:45:20 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+21 oct. 2015 16:45:20 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 487 ms
+21 oct. 2015 16:45:20 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+21 oct. 2015 16:45:20 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+21 oct. 2015 16:45:20 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration host-manager.xml
+21 oct. 2015 16:45:21 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration manager.xml
+21 oct. 2015 16:45:21 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire docs de l'application web
+21 oct. 2015 16:45:21 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire examples de l'application web
+21 oct. 2015 16:45:21 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire ROOT de l'application web
+21 oct. 2015 16:45:21 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire xtf de l'application web
+21 oct. 2015 16:45:21 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+21 oct. 2015 16:45:21 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+21 oct. 2015 16:45:21 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/14  config=null
+21 oct. 2015 16:45:21 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1023 ms
+21 oct. 2015 19:09:40 org.apache.coyote.http11.Http11Protocol pause
+INFO: Suspension de Coyote HTTP/1.1 sur http-8080
+21 oct. 2015 19:09:41 org.apache.catalina.core.StandardService stop
+INFO: Arrêt du service Catalina
+21 oct. 2015 19:09:41 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+GRAVE: The web application [/xtf] appears to have started a thread named [Thread-24] but has failed to stop it. This is very likely to create a memory leak.
+21 oct. 2015 19:09:41 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [null] (value [null]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@3fe40c9f]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 19:09:41 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@14f8bb7e]) and a value of type [org.cdlib.xtf.util.PackedByteBuf.CompressInfo] (value [org.cdlib.xtf.util.PackedByteBuf$CompressInfo@55dd57f3]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 19:09:41 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@14f8bb7e]) and a value of type [org.cdlib.xtf.util.PackedByteBuf.CompressInfo] (value [org.cdlib.xtf.util.PackedByteBuf$CompressInfo@36b93e8f]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 19:09:41 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@14f8bb7e]) and a value of type [org.cdlib.xtf.util.PackedByteBuf.CompressInfo] (value [org.cdlib.xtf.util.PackedByteBuf$CompressInfo@3bba3a5a]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 19:09:41 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [null] (value [null]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@3f4d0958]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 19:09:41 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [null] (value [null]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@5aa090df]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 19:09:41 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [null] (value [null]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@63874ef4]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 19:09:41 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@14f8bb7e]) and a value of type [org.cdlib.xtf.util.PackedByteBuf.CompressInfo] (value [org.cdlib.xtf.util.PackedByteBuf$CompressInfo@4850a838]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 19:09:41 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@14f8bb7e]) and a value of type [org.cdlib.xtf.util.PackedByteBuf.CompressInfo] (value [org.cdlib.xtf.util.PackedByteBuf$CompressInfo@2754199f]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 19:09:41 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [null] (value [null]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@25e29e5]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 19:09:41 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@74107a99]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@65e10e56]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 19:09:41 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [null] (value [null]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@1a74645b]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 19:09:41 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [null] (value [null]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@4f689fee]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 19:09:41 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [null] (value [null]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@5ddbeafc]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 19:09:41 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [null] (value [null]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@11207688]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 19:09:41 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [null] (value [null]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@6a45e380]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+21 oct. 2015 19:09:42 org.apache.coyote.http11.Http11Protocol destroy
+INFO: Arrêt de Coyote HTTP/1.1 sur http-8080

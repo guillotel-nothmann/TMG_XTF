@@ -1,0 +1,88 @@
+juil. 04, 2016 9:17:59 AM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextInitialized()
+juil. 04, 2016 9:17:59 AM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextInitialized()
+juil. 04, 2016 7:48:28 PM org.apache.catalina.core.StandardWrapperValve invoke
+GRAVE: "Servlet.service()" pour la servlet dynaXML a généré une exception
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at net.sf.saxon.expr.XPathContextMajor.newContext(XPathContextMajor.java:88)
+	at net.sf.saxon.instruct.Template.applyLeavingTail(Template.java:93)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:317)
+	at net.sf.saxon.instruct.ApplyTemplates$ApplyTemplatesPackage.processLeavingTail(ApplyTemplates.java:486)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:294)
+	at net.sf.saxon.instruct.ApplyTemplates.defaultAction(ApplyTemplates.java:349)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:310)
+	at net.sf.saxon.instruct.ApplyTemplates.apply(ApplyTemplates.java:187)
+	at net.sf.saxon.instruct.ApplyTemplates.process(ApplyTemplates.java:147)
+	at net.sf.saxon.instruct.DocumentInstr.evaluateItem(DocumentInstr.java:243)
+	at net.sf.saxon.expr.ExpressionTool.evaluate(ExpressionTool.java:361)
+	at net.sf.saxon.expr.LetExpression.eval(LetExpression.java:229)
+	at net.sf.saxon.expr.LetExpression.process(LetExpression.java:260)
+	at net.sf.saxon.instruct.ForEach.processLeavingTail(ForEach.java:243)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ElementCreator.processLeavingTail(ElementCreator.java:240)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Choose.processLeavingTail(Choose.java:347)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ElementCreator.processLeavingTail(ElementCreator.java:240)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ElementCreator.processLeavingTail(ElementCreator.java:240)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ElementCreator.processLeavingTail(ElementCreator.java:240)
+	at net.sf.saxon.expr.LetExpression.processLeavingTail(LetExpression.java:405)
+	at net.sf.saxon.instruct.Template.expand(Template.java:112)
+	at net.sf.saxon.instruct.CallTemplate$CallTemplatePackage.processLeavingTail(CallTemplate.java:375)
+	at net.sf.saxon.Controller.transformDocument(Controller.java:1710)
+	at net.sf.saxon.Controller.transform(Controller.java:1513)
+
+juil. 04, 2016 8:47:12 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextInitialized()
+juil. 04, 2016 8:47:12 PM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextInitialized()
+juil. 04, 2016 8:52:01 PM org.apache.catalina.core.StandardWrapperValve invoke
+GRAVE: "Servlet.service()" pour la servlet dynaXML a généré une exception
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at net.sf.saxon.expr.XPathContextMajor.openStackFrame(XPathContextMajor.java:261)
+	at net.sf.saxon.trans.Mode.perhapsMakeNewContext(Mode.java:310)
+	at net.sf.saxon.trans.Mode.getRule(Mode.java:199)
+	at net.sf.saxon.trans.RuleManager.getTemplateRule(RuleManager.java:158)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:306)
+	at net.sf.saxon.instruct.ApplyTemplates$ApplyTemplatesPackage.processLeavingTail(ApplyTemplates.java:486)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:294)
+	at net.sf.saxon.instruct.ApplyTemplates.defaultAction(ApplyTemplates.java:349)
+	at net.sf.saxon.instruct.ApplyTemplates.applyTemplates(ApplyTemplates.java:310)
+	at net.sf.saxon.instruct.ApplyTemplates.apply(ApplyTemplates.java:187)
+	at net.sf.saxon.instruct.ApplyTemplates.process(ApplyTemplates.java:147)
+	at net.sf.saxon.instruct.DocumentInstr.evaluateItem(DocumentInstr.java:243)
+	at net.sf.saxon.expr.ExpressionTool.evaluate(ExpressionTool.java:361)
+	at net.sf.saxon.expr.LetExpression.eval(LetExpression.java:229)
+	at net.sf.saxon.expr.LetExpression.process(LetExpression.java:260)
+	at net.sf.saxon.instruct.ForEach.processLeavingTail(ForEach.java:243)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ElementCreator.processLeavingTail(ElementCreator.java:240)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Choose.processLeavingTail(Choose.java:347)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ElementCreator.processLeavingTail(ElementCreator.java:240)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ElementCreator.processLeavingTail(ElementCreator.java:240)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ElementCreator.processLeavingTail(ElementCreator.java:240)
+	at net.sf.saxon.expr.LetExpression.processLeavingTail(LetExpression.java:405)
+	at net.sf.saxon.instruct.Template.expand(Template.java:112)
+	at net.sf.saxon.instruct.CallTemplate$CallTemplatePackage.processLeavingTail(CallTemplate.java:375)
+
+juil. 04, 2016 8:52:18 PM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextDestroyed()
+juil. 04, 2016 8:52:18 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextDestroyed()
+juil. 04, 2016 8:52:36 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextInitialized()
+juil. 04, 2016 8:52:36 PM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextInitialized()

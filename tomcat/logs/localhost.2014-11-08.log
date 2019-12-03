@@ -1,0 +1,67 @@
+8 nov. 2014 11:10:48 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+8 nov. 2014 11:10:48 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+8 nov. 2014 12:35:57 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+8 nov. 2014 12:35:57 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+8 nov. 2014 12:37:07 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+8 nov. 2014 12:37:07 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+8 nov. 2014 14:27:20 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+8 nov. 2014 14:27:20 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+8 nov. 2014 14:27:21 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+8 nov. 2014 14:27:21 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+8 nov. 2014 16:18:37 org.apache.catalina.core.StandardWrapperValve invoke
+GRAVE: "Servlet.service()" pour la servlet dynaXML a généré une exception
+java.lang.OutOfMemoryError: Java heap space
+	at java.util.HashMap.resize(HashMap.java:462)
+	at java.util.HashMap.addEntry(HashMap.java:755)
+	at java.util.HashMap.put(HashMap.java:385)
+	at org.cdlib.xtf.lazyTree.LazyDocument.getNode(LazyDocument.java:530)
+	at org.cdlib.xtf.lazyTree.NodeImpl.getNextSibling(NodeImpl.java:388)
+	at org.cdlib.xtf.lazyTree.ParentNodeImpl.getLastChild(ParentNodeImpl.java:78)
+	at org.cdlib.xtf.lazyTree.NodeImpl.getLastDescendantOrSelf(NodeImpl.java:619)
+	at org.cdlib.xtf.lazyTree.NodeImpl.getPreviousInDocument(NodeImpl.java:612)
+	at org.cdlib.xtf.lazyTree.PrecedingEnumeration.step(PrecedingEnumeration.java:37)
+	at org.cdlib.xtf.lazyTree.TreeEnumeration.advance(TreeEnumeration.java:52)
+	at org.cdlib.xtf.lazyTree.TreeEnumeration.next(TreeEnumeration.java:97)
+	at net.sf.saxon.expr.FilterIterator.getNextMatchingItem(FilterIterator.java:65)
+	at net.sf.saxon.expr.FilterIterator.next(FilterIterator.java:49)
+	at net.sf.saxon.functions.Aggregate.count(Aggregate.java:291)
+	at net.sf.saxon.functions.Aggregate.evaluateItem(Aggregate.java:98)
+	at net.sf.saxon.expr.ArithmeticExpression.evaluateItem(ArithmeticExpression.java:226)
+	at net.sf.saxon.functions.Concat.evaluateItem(Concat.java:38)
+	at net.sf.saxon.expr.ExpressionTool.evaluate(ExpressionTool.java:361)
+	at net.sf.saxon.expr.LetExpression.eval(LetExpression.java:229)
+	at net.sf.saxon.expr.LetExpression.processLeavingTail(LetExpression.java:396)
+	at net.sf.saxon.instruct.Choose.processLeavingTail(Choose.java:347)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ForEach.processLeavingTail(ForEach.java:243)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ForEach.processLeavingTail(ForEach.java:243)
+	at net.sf.saxon.expr.LetExpression.processLeavingTail(LetExpression.java:405)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ElementCreator.processLeavingTail(ElementCreator.java:240)
+	at net.sf.saxon.instruct.Block.processLeavingTail(Block.java:365)
+	at net.sf.saxon.instruct.Instruction.process(Instruction.java:91)
+	at net.sf.saxon.instruct.ElementCreator.processLeavingTail(ElementCreator.java:240)
+8 nov. 2014 16:21:45 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+8 nov. 2014 16:21:45 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+8 nov. 2014 16:23:40 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+8 nov. 2014 16:23:40 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+8 nov. 2014 17:15:44 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+8 nov. 2014 17:15:44 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()

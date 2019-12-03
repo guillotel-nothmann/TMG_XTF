@@ -1,0 +1,14 @@
+oct. 14, 2016 6:04:20 PM org.apache.coyote.http11.Http11Protocol pause
+INFOS: Suspension de Coyote HTTP/1.1 sur http-8080
+oct. 14, 2016 6:04:22 PM org.apache.catalina.core.StandardService stop
+INFOS: Arrêt du service Catalina
+oct. 14, 2016 6:04:26 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@21619022]) and a value of type [org.cdlib.xtf.util.PackedByteBuf.CompressInfo] (value [org.cdlib.xtf.util.PackedByteBuf$CompressInfo@687320bc]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+oct. 14, 2016 6:04:27 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@21619022]) and a value of type [org.cdlib.xtf.util.PackedByteBuf.CompressInfo] (value [org.cdlib.xtf.util.PackedByteBuf$CompressInfo@21dad23d]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+oct. 14, 2016 6:04:27 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@21619022]) and a value of type [org.cdlib.xtf.util.PackedByteBuf.CompressInfo] (value [org.cdlib.xtf.util.PackedByteBuf$CompressInfo@62d317bc]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+oct. 14, 2016 6:04:27 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@21619022]) and a value of type [org.cdlib.xtf.util.PackedByteBuf.CompressInfo] (value [org.cdlib.xtf.util.PackedByteBuf$CompressInfo@59aa6b4]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+oct. 14, 2016 6:04:30 PM org.apache.coyote.http11.Http11Protocol destroy
+INFOS: Arrêt de Coyote HTTP/1.1 sur http-8080

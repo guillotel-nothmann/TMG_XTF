@@ -1,0 +1,36 @@
+Oct 28, 2010 4:53:54 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Oct 28, 2010 4:53:54 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Oct 28, 2010 4:53:54 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 446 ms
+Oct 28, 2010 4:53:54 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Oct 28, 2010 4:53:54 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+Oct 28, 2010 4:53:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory docs
+Oct 28, 2010 4:53:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory examples
+Oct 28, 2010 4:53:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory host-manager
+Oct 28, 2010 4:53:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory manager
+Oct 28, 2010 4:53:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory ROOT
+Oct 28, 2010 4:53:54 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Oct 28, 2010 4:53:55 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Oct 28, 2010 4:53:55 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/18  config=null
+Oct 28, 2010 4:53:55 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 660 ms
+Oct 28, 2010 4:55:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory xtf
+Oct 28, 2010 4:57:19 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Oct 28, 2010 4:57:20 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Oct 28, 2010 4:57:20 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080

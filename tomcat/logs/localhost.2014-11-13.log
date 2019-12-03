@@ -1,0 +1,24 @@
+13 nov. 2014 14:33:17 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+13 nov. 2014 14:33:17 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+13 nov. 2014 15:06:52 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+13 nov. 2014 15:06:52 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+13 nov. 2014 15:31:38 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+13 nov. 2014 15:31:38 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+13 nov. 2014 19:03:12 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+13 nov. 2014 19:03:12 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+13 nov. 2014 22:51:11 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+13 nov. 2014 22:51:11 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+13 nov. 2014 23:07:50 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+13 nov. 2014 23:07:50 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()

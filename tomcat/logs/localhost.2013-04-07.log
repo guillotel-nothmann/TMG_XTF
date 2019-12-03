@@ -1,0 +1,36 @@
+7 avr. 2013 00:05:36 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+7 avr. 2013 00:05:36 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+7 avr. 2013 00:05:38 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+7 avr. 2013 00:05:38 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+7 avr. 2013 00:07:54 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+7 avr. 2013 00:07:54 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+7 avr. 2013 00:07:57 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+7 avr. 2013 00:07:57 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+7 avr. 2013 00:10:49 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+7 avr. 2013 00:10:49 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+7 avr. 2013 08:31:15 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+7 avr. 2013 08:31:15 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+7 avr. 2013 08:41:14 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+7 avr. 2013 08:41:14 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+7 avr. 2013 08:47:11 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+7 avr. 2013 08:47:11 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+7 avr. 2013 08:47:14 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+7 avr. 2013 08:47:14 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
