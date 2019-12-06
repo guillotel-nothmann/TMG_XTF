@@ -1,7 +1,7 @@
 <xsl:stylesheet xmlns="http://www.w3.org/1999/xhtml"
    xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0" xmlns:xtf="http://cdlib.org/xtf"
    xmlns:session="java:org.cdlib.xtf.xslt.Session" extension-element-prefixes="session"
-   exclude-result-prefixes="#all" xmlns:math="xalan://java.lang.Math">
+   exclude-result-prefixes="#all">
    
    <!--
       Copyright (c) 2008, Regents of the University of California
@@ -1843,36 +1843,19 @@
    <xsl:template name="createPopupLink">
       <xsl:param name="pTarget"/>
       <xsl:param name="pTitle"/>
-      <a style="color:brown; text-decoration: none" class="popup">
+      <a style="color:brown; text-decoration: none">
          <xsl:attribute name="href">javascript://</xsl:attribute>
-         <!-- <xsl:attribute name="onclick">
+         <xsl:attribute name="onclick">
             <xsl:text>javascript:window.open('</xsl:text><xsl:value-of select="$xtfURL"
             />view?docId=<xsl:value-of select="$indexS.path"
             />index.xml&#038;doc.view=popup&#038;chunk.id=<xsl:value-of select="$pTarget"
             /><xsl:text>','popup','width=600, height=300, resizable=yes,scrollbars=yes').focus();</xsl:text>
-         </xsl:attribute> -->
-         <xsl:variable name="id">
-            <xsl:value-of select="math:random()"/>
-         </xsl:variable>
-         <xsl:variable name="popupurl"><xsl:value-of select="$xtfURL"/>view?docId=<xsl:value-of select="$indexS.path"/>index.xml&#038;doc.view=popup&#038;chunk.id=<xsl:value-of select="$pTarget"/></xsl:variable>
-         <xsl:attribute name="onclick">
-            <xsl:text>openPopUp('</xsl:text>
-            <xsl:value-of select="$id" />
-            <xsl:text>', '</xsl:text>
-            <xsl:value-of select="$popupurl"/>
-            <xsl:text>')</xsl:text>
          </xsl:attribute>
          <xsl:apply-templates/>
          <xsl:value-of select="$pTitle"/>
          <xsl:if test="empty( node())= true() and @rend='true'">
             <img src="{concat ($icon.path,'ref.png')}" border="0"/>
          </xsl:if>
-         <span class="popuptext">
-            <xsl:attribute name="id">
-               <xsl:value-of select="$id" />
-            </xsl:attribute>
-            Popup text...
-         </span>
       </a>
    </xsl:template>
    
