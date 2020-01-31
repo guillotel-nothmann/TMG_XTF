@@ -1,0 +1,2293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:rng="http://relaxng.org/ns/structure/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Musica prattica</title>
+                <author>Sorrentino, Francesco</author>
+                <editor>Mignogna, Francesca</editor>
+                <respStmt>
+                    <resp>author</resp>
+                    <name xml:id="author">Johann Andreas Herbst</name>
+                </respStmt>
+                <respStmt>
+                    <resp>transcription by</resp>
+                    <name key="pnd">Kompetenzzentrum Trier</name>
+                </respStmt>
+                <respStmt>
+                    <resp>edition by</resp>
+                    <name xml:id="FrancescaMignono" key="pnd"><forename>Francesca</forename><surname>Mignogna</surname></name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Electronic edition according to TEI P.5</edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><name type="org">Institut de Recherche en Musicologie UMR 8223</name><address>
+                  <street>2, rue de Louvois</street>
+                  <name type="city">Paris</name>
+                  <postCode>F-75002</postCode>
+                  <name type="country">France</name>
+               </address></publisher>
+                <date when="2016-05-13"/>
+                <!--  <availability status="free">
+               <p> Available at (c) IReMus -Thesaurus Musicarum
+                     Germanicarum</p>
+            </availability> -->
+            </publicationStmt>
+            <sourceDesc>
+                <p><listWit>
+                        <witness xml:id="ed_1643_bsb10527261">
+                            <orgName>Bayerische Staatsbibliothek München</orgName>
+                            <address><addrLine>Ludwigstraße 16</addrLine><postCode>80539</postCode><placeName>München</placeName><country>Germany</country></address>
+                            <ident type="catKey">VD17 23:643104G</ident>
+                            <bibl type="book"> 
+                                <editor>Dümler, Jeremiah</editor>
+                                <pubPlace>Nürnberg</pubPlace><ptr
+                                    target="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10527261_"
+                                /></bibl></witness>
+                    </listWit></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="parallel-segmentation" location="internal"/>
+            <editorialDecl>
+                <segmentation>
+                    <p>
+                        <list>
+                            <item n="div">Encoding of segmentations according to guidelines</item>
+                        </list>
+                    </p>
+                </segmentation>
+                <normalization>
+                    <p>
+                        <list>
+                            <item n="typoAbb">Normalization of typography and resolution of
+                                abbreviations according to guidelines.</item>
+                            <item n="greek">Encoding of Greek characters in Unicode.</item>
+                            <!--  <item n="music">Encoding of musical examples according to
+                        guidelines,</item>-->
+                        </list></p>
+                </normalization>
+                <interpretation>
+                    <p>
+                        <list>
+                            <item n="pPWM">Indexation of persons, places, works and musical
+                                terminology according to guidelines.</item>
+                            <item n="citations">Indexation of citations according to
+                                guidelines.</item>
+                        </list>
+                    </p>
+                </interpretation>
+                <correction>
+                    <p><list>
+                            <item n="addDelCorr">Encoding of additions, deletions and corrections
+                                according to guidelines.</item>
+                        </list></p>
+                </correction>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+
+    <facsimile>
+        <surface xml:id="ID_00007">
+            <graphic
+                url="http://reader.digitale-sammlungen.de/object/bsb10527261_00007.svg?zoom=0.5"/>
+            <zone xml:id="ID_00007_1" ulx="32" uly="36" lrx="455" lry="594"/>
+        </surface>
+    </facsimile>
+
+    <text>
+        <front> 
+            
+            
+        </front>
+        <body>
+            <div1 xml:id="div_1_0">
+                <head><title type="main"><add resp="#editor">Widmung</add></title></head>
+                <p>f. [1]r
+
+Al R.do Pre fra Marco Ant.° gra di San[…]
+
+[B]enché vra R:tia habia da Molto Eccellenti Musici inteso .° confusam.te  multe cose necessarie intorno alla musica vocale [et inst]rumentale. [No]ndimeno da noi ostinatam.te et ordinatam.te si trattarando con quella brevità più possibile et intelligibile da vra R.tia tanto intorno alla prattica quanto alla theorica col divino favore. 
+
+
+D.V. R.tia
+				Don Fran.co
+							Sorrentino da Napoli.
+							
+                </p></div1>
+            
+            <div1 xml:id="div_1_1">
+                <head><title >Capitolo Primo.</title></head>
+                
+
+
+<p>Vra R.tia saprà che dagli antigui musici et professori de questa nobiliss.a sciencia, et arte liberale E stata dimostrata nella mano Ma da Guido Eritino et Altri Ecc.mi gregi musici e stata significata l'introduttione della musica, in [ri]ghi, et spatij dicendo.</p>
+
+<ab>Gamma, ut. [Are]. B, mi  C fa. ut, D sol re. C la.mi. F. fa ut:
+Come in questo esempio vi si dimostra.
+[EX. 1]</ab></div1>
+            
+          
+
+<pb xml:id="f__001" n="f. [1]v"/>
+
+<div1 xml:id="div_1_2" >
+
+<head><title>Cap.° .y.</title></head>
+
+<p>
+V. R. Ha da notare che questa introduttione se divide in tre parte, cioe: In lettere, In note, et chiavi.
+Le lettere son sette cioe :
+A.b.c.d.e.F.g.
+Le note son sei cioè,
+Vt.re.mi.fa.sol.la.
+Le chiavi son tre cioe, chiave de ♮ quatro qual si segna con un segno cossi 𝄞
+Chiave de natura la quale si segna con due segni cossi 𝄡  La chiave di b. molle quale si segna con tre segni cossi’ 𝄢 
+
+Poi fu da da Greci descritta, et divisa in toni, et semi toni come in questo Esempio.
+ 
+f. 2r
+
+
+
+
+Netehij perboleon
+Paranetehij perboleon
+Tritehij perbole[o]n
+
+Netediezeugmenon
+Paranetediezeugmenon
+Ytitediezeugmenon
+Paramese
+Mese
+Lichanos meson
+Parhij patemeson
+Hypate meson
+Licanos hypaton
+Parhypate hypaton
+Hypate hypaton
+
+Pros lambanomenos
+
+
+
+
+1636
+1728
+[EX. 1]
+
+
+f. 2v
+
+Compendium. 
+[EX. 1]
+
+f.3r
+
+La quale scala da guido Eretino fo' scritta, et dimostrata in q.° modo.
+[EX. 1]
+
+f. 3v
+
+In questa indroduttione overo Scala, V. R. averterà che ciascheduna de queste chiave porta seco sei note le quale derivano da essa talche quel ut, in gamma ut, overo in G.sol, re, ut si canta per ♮quadro con le seguente, Re, mi, fa, sol, la,
+
+Et similmente quel ut, in c si canta per natura con le seguente re, mi, fa', sol, la et finalmente lo, ut, che à principio in f. si canta per b. molle con le sequente, Re, mi, fa sol, la.
+
+Cap:° quarto:
+
+Notate che delle tre proprieta che habiamo di sopra detto due sono accedd.tale come il cantar, per ♮quadro, et l'altro e il cantar per b, molle, ma quello di natura se dice quasi substantiale, et naturale.
+
+Notate che la natura sempre si accompagna con una de questi accidentali o' con b. molle, o' con ♮quadro, et giamai insieme con l'uno, e con l'altro, perche questi dui accedenti sono del tutto contrarij insieme et come dice Aristotele : Duo contratia in eodem subiecto nꝍ possunt esse simul et semel in esse summo sed in esse submisso: talche poneremo di sotto lo Esempio di Natura con lo ♮quadro 
+
+f. 4r
+
+[EX. 1]
+
+f. 4v
+
+		Delle figure overo Notule tanto del canto fermo quanto del canto figurato.
+
+Notate che tanto nel canto fermo, quanto nel canto figurato vi sono cinque notule over figure Exentiali quali si nominano con questi nomi, et si notano con queste figure.
+
+Essempio.
+[EX. 1]
+
+E queste notule se fanno anco bianche figłe vagliano al doppio delle negre come in questo exempio, vi si mostra.
+
+[EX. 2]
+
+Tre altre poi son dette Accedentale quali la minima bianca 𝅗⃒𝅥 fatta negra si dirà semiminima, 𝅘𝅥, la semiminima poi posta con una cifra di due cossi, 2, giunta* a questa croma doi volte quella cifra si farrà semicroma, 𝅘𝅥𝅰 
+*nella coda cossi, 𝅘𝅥𝅯, croma, et giungendo 𝅮 à questa croma.
+
+Notate che queste notule alcuna volta si poneno nelli canti, semplicimente come è nelli canti, Ecclesiastici, et  alcuna volta si poneno sotto qualche segno circulare cossì 𝇈, overo semi circolare integro cossì, 𝇋, overo corretti cossi’,   𝇉 𝇍  per tanto nel seguente capitolo tratteremo di questi segni [segno di chiusura]
+
+f. 5r
+
+Delle notule seu figure perfette, et imperfette, Cap.°
+
+Notate che di queste cinque figure Exentiali: la maxima è detta modo maggiore: 𝆶. La longa è detta modo minore : 𝆷. La breve è detto tempo, 𝆸, La semibreve è detta prolatione: 𝅝.
+
+Notate cħ queste quat[tro] figure possono essere perfette sotto il loro segno de perfettione. Cioe valere ciascheduna de esse per tre delle sue propingue, et alterar la propingua [segno di chiususra]
+
+Notate che la maxima come modo maggiore può essere perfetta, ma nꝍ può essere alterata perche, è, ungeno  generaliss.mo sopra della quale nꝍ vi è altro geno, et essendo geno generaliss:mo nꝍ po' essere spetie. Ma la minima come spetie specialiss.ma sotto della quale, nꝍ ge altra spetie, po' essere alterata, ma' nꝍpo' essere perfetta: la longa po' essere perfetta sotto il suo segno de perfettione et po' alterar la propingua, cioè la breve et la breve po' essere perfetta, sotto il suo segno, et alterar la semibreve, et la semibreve, po' essere perfetta sotto lo suo segno, et alterar la minima:
+
+Delli segni sotto delli quali le notule ponno essere perfette: Cap:°
+
+Nota che la maxima detta modo maggiore po' essere perfetta sotto questi segni de quelle pause inditiale et exentiale, et valer tre longhe. Esepio.
+
+[EX. 1]
+
+Sotto delli quali segni anco la longa come parte propingua se altera; et questo accioche, che habiamo detto più facilm.te se intenda. 
+
+f. 5v
+
+	Poneremo lo Exempio della maxima perfetta, et della longa alterata et della 	maxima imperfetta.
+Exempio
+
+[EX. 1]
+
+Li antigui musici signavano il modo maggior perfetto cossi ○33 quantunque esso circolo sia segno della breve perfetta, non dimeno perde il suo vigore per questa cifra )3( aristhmetica [segno di chiusura]
+
+f. 6r
+
+Della Perfettione, et Imperfettione della maxima.
+
+Quantunque la maxima 𝆶. detta modo maggiore perfetto sotto il segno della perfettione sia perfetta può essere anco Imperfetta.
+
+Notate che la maxima allhora serrà nella sua perfettione quando serrà posta, appresso avanti de un'altra simile a se, perche è questa regula universale tra musici, similis ante simile  nꝍ potest imperfici.
+
+Notate che questa simile po' essere de qualita et quantita cossi' 𝆶𝆶 overo de quantita continua, et  nꝍ di qualità, cossi 𝆶 [𝆶], o vero di quantità discreta cossi, 𝆶𝆷𝆷 o' vero cossi' 𝆶𝆷𝆷𝆷𝆶 o'vero con due pause di lunga perfetta in questo modo [EX. 1] Et in questo modo  nꝍ potrà essere per imperfetta Come in questo essempio chiaramente vi si mostra.
+[EX. 2]
+Notate che la maxima può essere Imperfetta sotto il segno suo de perfettione. In sei modi Il p.° quando sarà negra all'hora valerà due longhe, overo quando  nꝍ le seguerando le due pause de lunghe perfette semilm.te valerà due lunghe. 
+Notate che può essere Imperfetta dalla propingua, remota, più [venuta...] posteriore, et anco anteriore cossi' 𝆶𝆷|𝆷𝆶 et valerà due lunghe, et quando li seguitarà la breve come parte remota cossi' 𝆶𝆸 valerà diece semibreve; E si appresso di essa si ponerà una semibreve, come parte più che rimota cossi' 𝆶𝅝 vale undici semibreve, et si farrà minima come parte remotiss.ma valerà undici seme breve con una minima cossi' 𝆶𝆹𝅥
+
+volta.
+
+f. 6v
+
+Come in questo exempio più facilmente si dimostra, Modo maggior Imperfetto ○3
+[EX. 1]
+Et questo basterà, Intorno alla maxima overo modo magior perfetto diremo del modo minor
+
+Del modo minore perfetto, et Imperfetto Capitolo 16,
+
+Notate c[he] la lunga 𝆷 e detta modo minore et potra essere perfetto, et Imperfetto perfetto sarà quando valerà tre breve et Imperfetto poi valerà due breve [segno di chiusura]
+
+Notate che sotto il segno de una pausa di lunga perfetta cossi’ [EX.2]  
+La longa po' essere perfetta et alterare la sua propingua. 
+ 
+Notate che dagli antigui si signava in questo modo il segno della lungha perfetta cossì ○2 quantunque questo circolo ha segno della breve perfetta nꝍ dimeno gionta con quella figura arithmetica perde la forza. 
+Notate che questa pausa di lungha perfetta si dirrà Inditiale solamente quando sarrà posta avante il segno: ma da' puo' il segno si dirrà Inditiale, et exentiale.
+
+				Exempio
+[EX. 2]
+
+f. 7r
+Et cio' che habiamo detto accio' più facile ve sia 
+in questo essempio vi si mosta.
+[EX. 1]
+Del tempo perfetto, et Imperfetto Capitolo.
+
+La breve o' vero tempo 𝆸  sotto il suo segno Circolare, ○ può essere Imfetta et valere due tre semebrevi, et può essere anco Imperfetta, et valere due seme breve; per essere perfetta sotto il suo segno de perfettione deve havere le medesime cꝍdittioni, che di sopra habbiamo detto Intorno al modo maggior perfetto, cioe, similis ante sibi similem nꝍpotest Imperfici, cioè la breve posta avate un'atra breve bianca cossì 𝆸 𝆸 overo appresso avanti un'altra breve negra cossi’ 𝆸 [𝆸] La bianca è perfetta, et vale semibreve, 
+Volta.
+
+
+
+f. 7v
+
+Et la negra e' imperfetta e' vale due semibreve, perche è simile di quantita', et  nꝍ di qualità, overo si la breve sera posta avante due semibreve cossi'  𝆸 𝆹 𝆹 𝆸 essa breve è anco perfetta, et la seconda semebreve se altera overo cresce in due; serà anco perfetta, la breve seguiendola tre seme breve cossi 𝆸 𝆹 𝆹 𝆹 𝆸 overo le seguesse  una pausa de breve cossi' 𝆸 𝇃 tanto la pausa quant'il tempo, et la ciasched'una dé essa vale vale tre seme breve; ma se le pause fossero disgionte cossi' 𝆸 𝇄 𝇄 le breve è perfetta, et le pause nꝍ sono perfette ne anco alterate, ma se le pause de seme breve fossero poste in diversi segni cossi' [EX. 1] la breve è imperfetta, et finalmente si ritrovasse appresso de lunga overo pause maggiore de essa similm.te è perfetta.
+
+Trionfo della breve.
+[EX. 2]
+
+
+Et accio che questo che habiamo detto della breva perfetta vi sia più noto, et manifesto, poneremo qui di sotto l'Exempio  della breve perfetta.
+[EX. 3]
+
+f. 8r
+
+[EX. 1]
+Potrà essere anco Imperfetta essa breve sotto il suo segno di perfettione et valer due semibreve.
+
+Notate che la breve puo' essere Imperfetta sotto il suo segno di perfettione in sei modi, cioe' essendo negra cossi' 𝆸 𝆹 𝆹 𝆸 et la breve valerà per due semi breve, et la semibreve  nꝍ se altera ma resta della valuta come se fosse bianca sarrà anco Imperfetta della pausa de semibreve [EX. 2] disgionto in questo modo, se puo' fare anco Imperfetta del tutto dalla parte propingua cossi' 𝆸 𝆹 overo essere Imperfetta in parte remota cossi' 𝆸 𝆹𝅥 overo dalla parte più che remota cossi' 𝆸 𝆺𝅥 et finalm.te si puo fare Imperfetta dalla parte remotiss.a cossi' 𝆸 𝆺𝅥𝅮 come in questo essempio per più facilità vi si mostra.
+[EX. 3]
+Et questa Imperfettione la puo' recepere tanto dalla parte anteriore, quanto dalla parte posteriore, et da l'una, et dall'altra parte insieme, et questo basta Intorno alla breve, diremo della prolatione overo semibreve nel seguete Cap.°
+
+Della Prolatione overo semibreve perfetta, et Imperfetta. Cap.° 19
+
+Notate che la semibreve può essere perfetta sotto il suo segno de perfettione quale si dimostra per un'punto posto in mezzo d'uno semicircolo cossi' 𝇊 overo circolo cossi' 𝇇
+
+Notate che la semibreve overo prolatione all'hora sarà perfetta sotto il suo segno di perfettione quando sarà conquelle condittione che di sopra habbiamo detto del modo maggior perfetto, cioé similis ante sibi similem  nꝍ potest Imperfici, et questa similitudine potrà essere in quattro modi cioè simile de qualità, et quantità o' continua cossi' 𝆹 𝆹 o ' vero di quantità continua, et  nꝍ di qualità cossi' [EX. 3] o' vero de quantita discreta expressa, 
+
+Volta,
+
+f. 8v
+
+Cossi' [EX. 1] overo di quantita discreta, è tacita cossi' 𝇊 𝆹 𝇅 𝇅 et accio' più chiaramente et giuntamente vi si dimostra ponemo ꝙ lo exepio
+[EX. 1]
+Trionfo della prolatione perfetta, et Imperfetta.
+[EX. 2]
+Potra anco questa prolatione perfetta overo semibreve perfetta sotto il suo segno di perfettione essere perfetta.
+
+Notate che in sei modi la semibreve sotto il suo segno di perfettione puo' essere Imperfetta, et valere due delle sue propingue.
+Il primo è, essendo colorata overo piena cossi' 𝆺 𝆺𝅥 il secondo havere appresso di se una pausa de minima cossi' 𝆹 𝇅 Il terzo avere appresso di se una minima cossi' 𝆹 𝆹𝅥 et questo si dicono Imperfette del tutto della parte propingua et ciascheduna de esse vale per due minime,
+
+f. 9r
+
+In quarto essere Imperfetta dalla parte remota, cossi' [𝆹] 𝆺𝅥 et valera per cinque semiminime, il quinto essere Imperfetta dalla parte più che remota cossi' 𝆹 𝆹𝅥 et valerà cinque semiminime, et una croma, Il sesto essere Imperfetta dalla parte remotissima, cossi' 𝆹 𝆹𝅥𝅯 et valerà cinque semiminime, et una croma, et una semi croma dalla parte anteriore et dalla parte posteriore, et dall'una parte e dall'altra parte insieme, si come in questo essempio largamente vi si mostra.
+[EX. 1]
+Et questo che habiamo detto è sufficiente alla cognitione, della perfettione et Imperfettione della semibrve,
+Nel seguente capitolo tratteremo del punto, et delle diversità che tiene
+
+Delli punti necessarij nella musica Cap.° 20
+
+Li punti appresso li musici sono differenti nꝍ di forma o'grnidelta, mà di virtù, et effetti li quali sono otto cioè punto di perfettione, punto di aumetione, punto di divisione, punto di trasportatione overo traslatione punto di alteratione, punto de Imperfettione, punto di riposo, et punto di ritornello,
+Notate che questo punto accidentalmete posto alcuna volta se pone d'avante, et alcuna volta da può, mo di sopra, mo di sotto, et finalmete si pone Intorno.
+Notate ch'il punto posto in mezzo un semicircolo 𝇊  overo circolo 𝇇  è segno della prolatione perfetta, et alteratione della minima. Ma se il punto posto in mezzo d'uno semicircolo, cossi' voltato cossi' 𝄐 overo in giù 𝄑 significa riposo inquella nota dove si ritrova posto detto volgarmete Corona. 
+
+Volta.
+
+f. 9v
+
+Notate che il punto poto appresso d'una Maxima 𝆶. vale quanto uno lunga, et si pone appresso d'una lungha 𝆷. esso punto vale quanto una breve, si si pone appresso d'una breve 𝆸. valera quato una semi breve, et se si pone appresso d'una semibreve 𝅝. vale quanto una minima, et si si pone appresso cossi'. 𝆹𝅥. è come una semiminima, et appresso la semiminima 𝆺𝅥. sarrà croma, et nella croma 𝆹𝅥𝅮. deventerà semi croma et cossi' posto sempre si dice punto de aumentatione, et accio' vi paia più facile et manifesto ponemo qui di sotto lo exempio.
+[EX. 1]
+Notate che il punto posto in torno le paus cossi' 𝄈 𝇁 𝇁 𝄈 significa ritorno del canto. 
+Notate che il punto di perfettione anco si pone dopo la notula un' poco più basso overo più alto de essa notula altramente essa resterebbe Imperfetta come qui vi si mostra. 
+
+[EX. 2] Perché senza quel punto essa nꝍ sarebbe perfetta.
+Notate ché il punto de divisione è quello che divide la nota una dall'altra, et anco la pausa, cossi' [EX. 3] talche la breve resta Imperfetta dalla semibreve dalla parte anteriore overo dalla pausa
+Notate che il punto posto avante di d'una semibreve et poi seguirando più breve
+Nulla, de quelle breve serrà Imperfetta si nꝍ l'ultima, et con l'ultima se nominaran, et si dirà punto di trasportatione overo traslatione, cossi' [EX. 4]
+Dubio.
+Perché nꝍè Imperfetta la prima breve ma l'ultima la raggione è questa percħ una simile avante d'una simile nꝍ po' essere Imperfetta come una breve separata posta avante un'altra breve, cossi [EX. 5]
+
+f. 10r
+
+Ma nꝍ si parla de due breve unite in una longa le quale se pondo fare Imperfette dalla parte anteriore, et posteriore perche nꝍ è simile posta ad un'altra simile con corpo disgiunto, et separato, cossi'
+[EX. 1]
+Notate che il punto di perfettione e quello che anco si chiama punto de divisione come aqui vi si mostra.
+[EX. 2]
+Notate che il punto di Alteratione è quello che si pone avante due semibreve, cossi' 𝆹. 𝆹 𝆹 𝆸
+
+La seconda, et nꝍ la prima è quella che se altera o' vero doppia perche il fine è migliore del principio.
+Dubio
+Se due semibreve congiunte con una breve, cossi' [EX. 3] overo, cossi' [EX. 4] sia necessario il punto, si risponde che nꝍ bisogna perche la ligatura, à virtù de alterare, come in questo essempio.
+[EX. 5]
+Si dimanda che cosa è alteratione.
+Alteratio est alterius notulę sibi similis, autio: cioè l'alteratione e uno aumento d'un'altra  nota simile àsse.
+Notate che quattro sono le note che ponno essere alterate cioe longa, 𝆷, breve 𝆸, semibreve, 𝅝, et minima, 𝆹𝅥,
+Dubio
+Perche la maxima nꝍ puo' essere alterata, perche nꝍ à superiore à se, 
+
+f. 10v
+
+Ne anco la semiminima croma, et semi croma possono essere alterate: perche nꝍ traseno altra divisione nel numero binario.
+Et de ciò ch detto habbiamo circa la alterazione, ecco li essempio.
+[EX. 1]
+Et similm.te si dirà della semi breve overo prolatione perfetta modo maggiore perfetto, et modo minor perfetto.
+Notate che in quattro modi o'vero per quattro cause se impedisce l'alteratione, la p.a è che ritrovandosi una semi breve anteposta all'altra semi breve nel tempo perfetto nꝍ altera come questo.  [EX. 2]
+Il secondo quando la semi breve serà posta avante la minima à cossi' [EX. 3]
+Il terzo quando la nota se può alterare fosse negra, perche la negra  nꝍ permette alteratione come questo essempio [EX. 4] Quarto seguitaria maggior del suo tutto cioè si dopo due semi breve se queste una longa o'vero maxima come aqui
+[EX. 5]
+Et accio che questo vi para più chiaro, et facile ponemo qui tutte le quattro cause.
+[EX. 6]
+
+f. 11r
+
+Et questo che habiamo detto Intorno alli varij effetti del punto bastarà, et passeremo à trattar delle pause nel seguete Cap.°
+
+Delle pause poste nelle cantilene Cap.° 21
+Notate che la pausa la quale li gregi dicono riposo, è una figura artificiosam.te posta mostrando che il cantore essere dal canto per tanto tempo quanto essa pausa significa, Notate che tanto sono le pause quanto sono le note, cioè otto dalle quale pigliano il nome, et prima diremo delle pause della maxima.
+Notate che la pausa della maxima perfetta e in due modi cioè Inditiale solamente, et exentiale Insieme le quale se divide in due spetie una della quale è quella che abbraccia quattro linge e spatij, cossi  [EX. 1] l'altra spetie delle pause della maxima perfetta è fatta in tre virgule che abraccia tre rij, et dui spatij, cossi, [EX. 2] La pausa della lunga, e in dui modi cioè perfetta, et Inperfetta La pausa perfetta è un'tratto d'una virgula che abraccia quattro rij, et tre spatij cossi, [EX. 3] le quale vale tre breve, et sei semibreve 
+Li sarà inditiale, et exentiale sottoposta al segno Imperfetto cossi' [EX. 4] ma sotto il segno perfetto cossi' [EX. 5] valerà nove seme breve. 
+La pausa della medesima longa Imperfetta è una virgula la quale abraccia tre rij et dui spatij cossi' [EX. 6] et vale per dui tempi overo per quattro breve.
+La pausa della breve figura è quella linea che abraccia dui rij et uno spatio, cossi' [EX. 7]et vale per due semi breve.
+La pausa della semi breve è quella linea che discende dalla righa in sino à mezzo spatio, cossi' [EX. 8] la quale vale per due minime.
+
+f. 11v
+
+La pausa della figura minima è quella riga che piglia dalla linea et saglie insino à mezzo tio, cossi' [EX. 1] La pausa della semi minima è quella che và Insu con corpo storto à man destra, cossi' [EX. 2] La pausa della croma, è quella che va insù con corpo storto à man' sinistra, cossi' [EX. 3] et finalmente la pausa della semi croma è quella che và insù con corpo storto à man destra, et à man sinistra, cossi' [EX. 4] sono dunque la discrettione delle pause sop.a dette in questo exempio 
+[EX. 5]
+Et questo basta intorno alle pause.
+
+Della valuta delle notule sotto il segno circulari, et semicirculari integri, et arrotti Cap.° 22.
+
+Quantunque nelli passati cap.li habbiamo detto delli segni circolari et semi circolari integri, et arrotti, cossi' 𝇈 𝇋 𝇉 𝇍  
+Nondimeno qui tratteremo della valuta della nota sotto il suo segno piu particolarm.te
+Notate che tanto sotto il circolo quanto sotto il semicircolo La semi breve vale una battuta, cossi'.
+[EX. 6]
+Sotto poi il segno circolare ò vero semi circolare corrotte si manda una breve à battuta, cossi'.
+[EX. 7]
+
+f. 12r
+
+Sotto questo segno, 𝇋3, gli antigui musici dimostravano La breve essere perfetta, et valere per tre semibreve, sin'come li musici moderni dimostrano con il circolo, 𝇈, et di più che se intendesse per questo segno, 𝇋3, Anco la tripla, overo sexquialtera il che nꝍ pare cosa conveniente, perche dice il filosofo che due cose contrarie in un'medesimo tempo  nꝍ pondo essere insieme summamente ma summissimamente come A' dire il foco di natura sua e caldissimo nꝍ po' essere frigido, et la neve essendo frigidiss.a  nꝍ po' essere calda, Ma l'acqua po' essere in un' medesimo tempo calda, et fredda risguardando li dui estremi del fuoco, et della neve, et cossi' del segno dicano  nꝍ star bene, 𝇋3, A' significare tante cose in contrarie in un' medesimo tempo come inquesto essempio potrete considerare.
+[EX. 1]
+Sotto questo segno, 𝇋2, La breve essere Imperfetta, et valer due semibreve, et numerate per una battuta, et anco si mostra con questo segno traverso 𝇌
+[EX. 2]
+Sotto questo segno de semicircolo tagliato, cossi' 𝇍 con una cifra cossi' 𝇍 2 overo con uno semi circolo voltato à man sinistra cossi' 𝇎 La longa vaglia per una battuta essempio.
+[EX. 3]Sotto questo semi circolo con questa cifra tagliata, cossi' 𝇉 Ꝝ òvero con uno semi circolo voltato à man sinistra, con una cifra binaria cossi 𝇎2, La massima anderà per una battuta, òvero due longhe, òvero quattro breve, et otto semi breve, et cossi' del riman.te come in questo essempio vi si dimostra 
+[EX. 4]
+
+f. 12v
+
+Et finalmente con questo semi circolo tagliato, et cifra binaria tagliata, et ritagliata cossi' [EX. 1] ò vero con questo semi circolo voltato à man sinistra tagliato, et con la cifra binaria tagliata vagliano due maxime per una battuta, et quattro longhe, et otto breve, et sidici semi breve come in questo essempio. 
+[EX. 2]
+Et per maggior vra cognittione delli segni sop.a detti, segni et valuta delle note, sono qui di sotto lo essempio 
+[EX. 3]
+
+f. 13r
+
+[EX. 1]
+Sotto questo punto di prolatione se posseno fare crome bianche et non sotto altro segno. Perché tien' forza di radoppiare tutte le note negre et perciò  nꝍ se ci fa la nota negra ma la croma bianca il che mal inteso dà molti.
+[EX. 2]
+
+
+f. 13v
+Il contrapunto qual piu apertam.te si dirria contra suono, ò voce, è un'arte di operare le consonantie regolarmente ordinate, e questo tanto più sarrà bello quanto con maggior uso si faccia.
+Il punto è stato posto per la voce, e nota perche alla facile si continua quantità il ponto è la manco, et lo più, che possa essere, et lo principitio di essa come nella compositione il suono;
+O' vero si dice contrapunto perche sogliano, et sogliono nelli primi documenti con punti contra posti alle note descritte.
+
+Signare le consonantie 
+Gli affetti del contrapunto sono gli ascensi et discensi gradati per diversi intervalli misurati, et concordij gradati, et disionti.
+
+Che cosa sia consonantia.
+La consonantia è una misura bassa, et alta, grave, et acuta, et anco intermera quale piaccia all'orecchie 
+Le consonantie pigliano li nomi dalli numeri, nelli quali concordano le voci, è nascono da varij proportioni, delle quali da conto il Theorico
+Le consonantie quanto alla voce, ò ver soni si trovano diverse di perfettione, et imperfettione, è una medesima consonantia imperfetta, per li primi, è manco semituoni, che serrando in essa si dirà maggiore, et minore, com è mostrato nel canto fermo. ut, re, mi, fa, sol, la, terza maggiore, re, fa, mi, sol, terza minore, ut, la, sesta maggiore, re, la, fa, semitono sopra è sesta minore.
+Per breve Intelligenza, et notitia de tutte le consonantie, et della quantita di esse ponerando quattro primarie, et discrete consonantie, quale stando dentro, il numero settenario, il quale, e il nodo quasi di tutte le cose. [SEGNO CHIUSURA]
+Unisona, Terza, quinta, e sesta.
+Dell'Unisona è quinta sono perfette, terza, et sesta sono Imfetta, 
+La unisona sarà più perfetta della quinta, perche è perrfcipio delle consonantie, si può fare cadenza nell'unisona, è quinta contrarij modi: Terza è sesta se dicono imperfette per la molta è poco pienezza di voce 
+
+f. 14r
+Da tale consonantie formasi altre infinite della medesima natura in q.° modo. [SEGNO CHIUSURA] 
+Per perfettione, et Im. Per adontione, et moltiplicatione del numero settenario, quale adiongerai ad ogni consonantia 
+
+Della dissonantia principale.
+Le dissonantie sono tre. [SEGNO CHIUSURA]
+Seconda, quarta, et settima
+Et ogn'una di queste moltiplicando pur con sette possono generare infinite dissonantie.
+Gl'antichi regolarmente cominciavano il contra punto cꝍ consonantia Perfetta, ma dalli moderni si comincia ancora con consonantia Imperfetta, che la perfettione delle cose si vede alfine.
+Gl'antichi sempre volevano che quanto lo canto piano salliva il contrapunto discendesse, et ancora per contrario, quale regola appresso li moderni, è arbitraria perche solo attendeno à fare belli, e diminuiti passaggi, è tale regola non è cꝍ moda e bella si' nꝍ per fare come si dice si nota contro nota 
+
+Regola legale
+E' che debbia finire con cꝍsonantia perfetta, perche secondo dice il filosofo, la perfettione si deve alfine
+
+Avertirai ultimatam.te che lo canto piano, ò, saglie gradatam.te, ò, disgiontam.te ò, scende : et perche lo contrapunto si fa improviso, et e virtù di memoria, la quale, ò, per virtù, ò pe età nꝍ l'ha bona, et disposta, è, lo contrapunto deve essere vario, et ornato, e chi nꝍ lo pratticasse lungo tempo nꝍ potria da se' fare belli, et artificiosi passaggi. Per la qualcosa, accio' s'impari presto, et facilm.te, et con ogni bellezza et ornamento io ho' ordinato li più necessarij, e retti, et artificiosi passaggi sopra ogni ascenso, e discenso del canto piano purche s'imparino à mente, et che per imitatione di quelli poi il cꝍtraputante il possa fare molti altri 
+
+Et perche li principij debbiano essere facile, et si debba incomminciare dalle cose più communi, et haveremo capate alcune consonantie più convenevole, et li doi che s'accordi più cꝍmune perche s'imparino à mente, et fattoci li più belli passaggi, et più facilj 
+
+f. 14v
+[EX. 1]
+Exaccordium .i. cꝍiunctio sexcordarum.
+Exa .i. sexcordum .i. vox.
+Et hec est compositio duoŗ. vocum.
+
+Passaggi per l'ascenso gradato.
+[EX. MUS]
+
+f. 15r
+
+[EX. MUS]
+
+Per sesquialtera 
+[EX. MUS]
+Passaggi per l'ascenso disionto di terze di canto piano, ò, vero, che arrivando à tale ottave debbi passare più su alla decima almeno 
+Volta.
+
+f. 15v
+
+[EX. MUS]
+
+Sincope sane.
+[EX. MUS]
+
+
+f. 16r
+
+Per l'ascenso disionto di quarto.
+[EX. MUS]
+
+Sincope sane.
+[EX. MUS]
+
+Per l'ascenzo de quinte disionte.
+[EX. MUS]
+
+f. 16v
+
+[EX. MUS]
+Sincope sane.
+Passaggi più necessarij per lo discenzo gradato di canto piano.
+[EX. MUS]
+
+
+f. 17r
+Sincope sane.
+[EX. MUS]
+Per sesquialtera.
+[EX. MUS]
+
+
+
+f. 17v
+
+[EX. MUS]
+
+Benche arrivando all'ottava battuta debbi sallir fin'alla decima per lo discienzo disionto di terze.
+[EX. MUS]
+
+
+f. 18r
+[EX. MUS]
+Sincope sane.
+[EX. MUS]
+
+Per lo discenzo di quarte disgionte.
+[EX. MUS]
+
+
+f. 18v
+Sincope sane.
+[EX. MUS]
+Per lo descenzo di quinte disgionte.
+[EX. MUS]
+
+
+f. 19r
+Sincope de minime.
+[EX. MUS]
+Cadenze semplici in ottava cadenze doppie.
+[EX. MUS]
+
+f. 19v
+Cadenze semplici digiunte Cadenze doppie.
+[EX. MUS]
+Cadenze artificiose.
+[EX. MUS]
+Ligamento di disonantie con cꝍsonantie.
+[EX. MUS]
+Il medesimo si può fare ad unisone.
+[EX. MUS]
+
+
+f. 20r
+Doppie.
+[EX. MUS]
+fuggir di cadenze doppie.
+[EX. MUS]
+
+
+
+f. 20v
+Cadenze sciote.
+[EX. MUS]
+fuggir di cadene simplici.
+[EX. MUS]
+fuggir di cadenze d'ottava.
+[EX. MUS]
+
+
+
+
+f. 21r
+
+[EX. MUS]
+
+f. 21v
+[EX. MUS]
+
+Passaggi di fantasia.
+[EX. MUS]
+
+
+f. 22r
+[EX. MUS]
+
+Della diminutione il principio del battere della misura è l'abbiare debba essere buono e cꝍsonate, se nꝍ serà ligamento, dico anco della diminutione grauatam.te ascendedo, et descendedo, ma tutte le note disionte. dalla diminutione debbano essere bone, si cħ dalli antichi si sono fatte diminutione false delle quale si pongono qesti esempij.
+[EX. MUS]
+Diminutione false che ancora usano li sonatori.
+
+f. 22v
+[EX. MUS]
+Della diminutione disionta debba essere bona, et mai dissonante.
+[EX. MUS]
+Con qeste medesime advertenze si debbano cꝍsiderare ancora le deminut.ne di crome, et semi[…]
+Et cħ in scritto da molti nꝍ scrivano diminutione strette, et cꝍlasciare lascenzo, et descenzo […] dissonanza, si sogliono cantando, ò, vero sonando raddoppiare le deminutione delle minime negre Ò, vero semiminime, ò crome considerate il segno sotto il quale si canti qual raddoppiare non offende all'orecchie, et dà ornamento alle cꝍpositioni, et si fa' cosi'.
+Et si fa' cosi.
+
+f. 23r
+[EX. MUS]
+Regula optima, et gnale.
+Quando vorrai diminuire una nota di semibreve, averti che nel fine della diminuit.ne debba ritrovare dove stà la semibreve accio che quella medesima se vede all'altra cħ segue.
+Exempio.
+[EX. MUS]
+Per fare contrapunto à fuga di minima cꝍ le decime sop.a il canto piano nelle note cħ ascendeno gratatam.te.
+[EX. MUS]
+
+f. 23v
+Nelle note, che discendono una minima in ottava, et l'altra inquinta, ò, vero una minima in terza, et l'altra in quinta.
+[EX. MUS]
+
+Con la terza e quinta.
+[EX. MUS]
+Per l'ascenzo di terze.
+[EX. MUS]
+Passaggi per l'ascenzo disionto di terze.
+
+
+f. 24r
+[EX. MUS]
+Passaggi per l'ascenso di quarte.
+[EX. MUS]
+Per lo discenzo di quarte.
+[EX. MUS]
+Per l'ascenzo di quarte.
+[EX. MUS]
+Sincope per lo discenzo di quarte.
+Volta.
+
+
+
+f. 24v
+[EX. MUS]
+Per lo discenzo di quinte.
+[EX. MUS]
+Per lo discenzo di quinte.
+[EX. MUS]
+
+La decima de re debba essere per le più volte maggiore e similm.te qella del, sol cħ siam[…]
+Li legamenti è spartimenti, et sincope gradate, et cadenze ligate nꝍ si ponno fare.
+Le cadenze si fanno sciolte cossi nꝍ importano tornelli in questo cꝍtrapunto.
+Cadenze semplici.
+[EX. MUS]
+
+
+f. 25r
+Cadenze doppie.
+[EX. MUS]
+
+Passaggi sopra alcune note terzate.
+[EX. MUS]
+
+Quando starando molte note in un luogo poi fare diminutione sopra de le decime, per duodecima fincħ muta grado il canto piano, si trovandoti in note che l'habbi  te, et per chi ti siegue come è in terza s'ascende un'grado et altrimente potrai da te' conoscere.
+Exempio.
+[EX. MUS]
+
+Delli tuoni per cꝍporre canti figurati.
+Che cosa sia tuono.
+Il tuono è una regula quale modera et guida li canti nel fine cꝍsiderato p.a il procedere di mezzo cꝍ l'ascenzo, et discenzo.
+
+f. 25v
+Il canto figurato quattro sono li tuoni.
+Primo, che cꝍtiene in secondo.
+Terzo, cħ contiene il quarto.
+Quinto, cħcontiene il sesto
+Settimo, cħ contiene l'ottavo.
+Ogni tuono come fosse un'corpo se cꝍpone di dui membri qeli fanno come uno modello ne qale si pigli forma di componere il canto come si facesse un'vestito overo altro m[…]
+Il primo tuono regolamente si compone della p.a spetie di diapente, et della  p.a del diatessaron dunqe se si trovano, ò, figurato nꝍ importa se nulla, ò poche note sa[…] in mezzo delle dette spetie.
+Esempio.
+Li autentici sono l'impari.
+Li placali sono li pari.
+[EX. 1]
+Il terzo tuono si compone della seconda spetie del diapente, et della seconda sel diatessaron, dovunqe se trovano, et  cꝍtrario il quarto dovunque si trovano o fingano ut . . 
+[EX. 2]
+Il qnto si cꝍpone della terza spetie del diapente, et della terza del diatessaron dovunque si trovano, et  cꝍtrario il sesto, ò fingano, ut, dovuque si trovano.
+[EX. 3]
+Il settimo tuono si compone della quarta spetie del diapente, et della p.a del diatessaron sop.a dovunqe se trovano, et per contrario l'ottavo, ut, dovunqe si trovano o fingano.
+[EX. 4]
+
+
+f. 26r
+Nel canto fermo si può cꝍponere come si trova cꝍposto in canto dentro una ottava, è in meno, Mà in canto figurato nꝍ è costretto il cꝍpositore, che può allargarsi quanto si voglia; Intanto  […] vogliono che l'autentico possa passare una nota, ò, vero un grado sotto il finale, et nel placale possi ascendere un grado sop.a il diapente del fine.
+Hai dà sapere che nel canto figurato hai da cꝍponere li passaggi; et fughe per tal spetie di diapente, è, diatessaron, dalle qali si cꝍpone quel tuono, che tu haverai eletto per fare la tua cꝍpositione come se ne farà esempio.
+Le cadenze naturale di ciaschedun'tuono si farrando dove comincia, ò diapente ò, diatessarꝍ, et dove si cꝍgiunge il diapente, è, il diatessarꝍ, si che ogni tuono hav[…] cadenze diverse cꝍformi sua natura.
+La cadenze licentiose si fanno nel mezzo del diapente.
+Esempio del p.° et del sec.do tuono.
+[EX. MUS]
+
+
+f. 26v à 31v → [ESEMPI MUSICALI SENZA COMMENTO]
+[IN CALCE A] 31v → Finis.
+
+f. 32r
+
+Le parole di laude, e gloria, et piacevolezza le farai del p.° et ottavo tuono, 
+Le parole di lamentazione, ò morte, ò martirio le farai nel quarto, et sesto.
+Le parole di sdegno, et orgoglio, et minaccie, nel terzo, et settimo.
+Quando un tuono vorrai, che sia più presto del placale, che del autentico, et tu farai più passaggi, et fughe per diatessaron nella parte bassa 
+Li autentici sono l'impari.
+Li placali sono li pari.
+A questo segno 𝇋 𝇍 farrite aspettare due quattro et sei per fuga, 
+A' questo altro segno 𝇈 𝇉 una, tre, sette, e sei.
+Diapente vuol dir quinta. Diatessaron vuol dir quarta voce
+Epidiapente vuol dir sop.a quinta, Epidiatessaron quarta sop.a
+Subdia: et subdiate: vuol dire sotto quinta, ò, quarta
+Diapson vuol dire ottava, è cosi' epi: e sub: sop.a e sotto.
+Canon .i. regula.
+Quid est contrapuntus.
+Est puntus compositus notium descriptus. Contra puntus est ars opandi consonantias 
+Quid est consonantia, vel signare consonantias.
+Est mensura alta, et bassa, gravis et acuta, et etiam intermedia que auribus. placet.
+Qui[d est] Tonus
+Tonus est regula moderandoŗ. cantoru infine.
+Quid est prolatio.
+Est quantitas minimaŗ.
+Quid est proportio,
+Est comparatio duoŗ. nummeoroŗ. in equalium. 
+Quid est dictonus.
+Est cꝍposition duoŗ. tonoŗ.
+Quid est tempus
+Est quantitas semibrevium.
+
+f. 32v
+
+Quid est modus.
+Est quantitas longaŗ. et brevium.
+Quid est ligatura.
+Est quantitas notaŗ. simpliciu  in eas aducta.
+Quid est clavis.
+Est demostratio nominu, vocu, et proprietatu.
+Proportio est duoŗ. numeroŗ. ad' invice abitudo.
+Alteratio dicitur quasi alterius actio.
+Quare dicitur alteratio Quia est proprij valoris notulę Forma duplicatio.
+Sunt qui dicunt ziphra numeri ternarij significare etiam perfectionem, et brevis, et semij. Quod est falsu, quia notulę Seguentes debent essere similes precedentibus nomine, et quantitate, nam perfectio notulaŗ. nascitur ex perfecto signo circulo cum punto, vel sine puncto. Et proportio solu regit mensura, vel auget, vel minuit. D'alteratione.
+[EX. 1]
+De proportionibus.
+Cose più necessarie à sapersi da musici sop.a le proportioni.
+Quando vicino d'alcun'segno circulare, ò, vero semicircolare intero, ò vero corrotto se troverà una sola zifra di numeri per ragione nꝍ sarà proportione.
+Ma per uso s'intende ch'il segno serva per numero, cioè  pi[…]ano  le note, che vanno à misura in tal segno, è similmente s'una zifra si trovarà per mezzo delli canti, ò, vero con lo circolo sopra sopra.
+Exempio.
+[EX. 2]
+
+f. 33r
+Et similm.te dice il Gimello, che si potriano fare tutte le proportioni del genere molteplice cossi quatupla 4.°, quintupla 5.° sestupla 6.a et sic de alijs.
+La perfettione delle note depende dalli signi, è lo numero delle note, che vanno per una misura depende dalle proportioni, è la zifra nꝍ significa l'uno, et l'altro, perche la comparatione delle note s'intende, i. de simili ad simili .i. perfette con perfette, et imperfette con imperfette, nel quale errore cadono, et sono caduti molti eccellenti autori.
+
+In ogni proportione nella quale lo segno sia imperfetto, le note, et le pause anco debbano essere imperfette.
+
+Esempio.
+[EX. 1]
+Exempio.
+[EX. 2]
+Si che per raggione molti musici errano, che nꝍ sanno, è per male, et falso uso li componono con perfettione.
+
+La sesquialtera si compone anco con notulę negre senza signarci la zifra di numeri, et all'hora si chiama Emiola, che significa il medesimo, et deverria farsi pausa imperfetta, ma per male uso vi si perfetta.
+
+Exempio.
+[EX. 3]
+Exempio.
+[EX. 4]
+Et tale Hemiola si distrugge dalle note bianche, che segueno.
+
+f. 33v
+De proportionibus 
+Quando la proportione have dui nummeri ineguali il numero superiore significa le note che seguitano et l'inferiore significa le note che procedeno, et non importa, che nꝍ ci stiano tante notulę, che vi s'intendeno; E si ben ce ne fossero molte, et molte più, e li numeri fossero grandi, manco importa, perche basta solam.te di pensare a ritrovare quante notulę andavano a misura dinante, et quante n hanno da andare di più in la proportione seguente.
+
+Quando lo numero maggiore sta sopra lo minore nella proportione le notulę seguente si diminuiscono, cioè che ogni nota s'intende diminuita di tante parte di quanto numero, ò parte avanza, esso numero maggiore do minore sottoposto.
+
+Quando lo numero minore starrà sop.a lo maggiore, et nella proportione all hora le seguente notulę crescono, et si augumentano di tante parti, di quanti numeri, et parte esso numero minore della proportione, è avanzato da esso numero maggiore sottoposto.
+
+Ogni proportione signata, che sia si può distruggere dalla sua contraria, cioè rescrivedo quelli numeri, che l'inferiore diventa superiore, et lo suiore diventa minore.
+Exempio.
+[EX. 1]
+Si può distruggere ancora ogni proportione rescrivendoci qualsi sia segni circulari, ò, vero semi circulari, come per più falcità s'usa quasi da tutti musici.
+Exempio.
+[EX. 2]
+Si suole fare per mezzo delli canti la sesquialtera in una […] ponendo la zifra del numero ternario, sotto, ò, vero sopra d'ogni tre notulę, ò vero bianca, ò negra, che debbiano cantarsi per due ò vero, per una in questa maniera.
+[EX. 3]
+L'antichi cantavano in sesꝙaltera senza signarci zifra del nuo ternario, qn tre notulę bianche si trovano negre in nuo imparo, che nꝍ havessero havuta divisione  impire la misura.
+
+f. 34r
+Exempio.
+[EX. 1]
+Duplex est proportio.
+Quando li nui maggiori stanno sop.a li minori all'hora quelle proportione si dicono essere della inequalità maggiore.
+Et quando li nui minori stanno sop.a li maggiori si dicono essere della inequalità minore.
+Dovemo sapere che qn in una compositione nꝍ tutte le parti haverando une medesima proportione, nꝍ si deve mutare battuta, ma quando lhanno tutte le parte come si fosse tripla, ò vero sesꝙaltera all'hora la battuta si deve mutare cioè mandare due note in depositione, et una in elevatione.
+
+Hormai resta dà sapere li nomi delle proportioni le quali sono infinite si che delle proportioni della maggiore inequalità si fanno cin genere cioè tre simplici, et dui cꝍposti. 
+Li semplici sono trè.
+Il genere moltiplice.
+Il genere superparticulare.
+Et il genere super parciente. 
+Li composti sono dui.
+Il genere multiplice superparticulare.
+et il genere moltiplice su parciente.
+Et similm.te cin sono li generi della minore inequalità, cioè agiongendo questa particella sub. alli sup.a scritti generi.
+Dicendo sub moltiplice:
+sub su particulare.
+sub su parciente.
+et sub moltiplice su particulare
+et sub moltiplice su parciente, delli quali si dirà sotto à doi per doi come se sia cꝍtrarij
+Contro quelli, che dicono omne trinu est perfectum.
+
+f. 34v
+Averti, ch'in ogni proportione si referiscono, et aguagliano notulę, ò vero figure simili a simili di nome, et di valore dicendo per essempio della dupla.
+Due maxime perfette ad una perfetta.
+Due longhe perfette ad una perfetta.
+Due breve perfette ad una perfetta.
+
+Et similm.te dell'imperfette.
+
+Due maxime Imperfette ad una imperfetta.
+Due longhe Imperfette ad una imperfetta.
+Due breve Imperfette ad una Imperfetta.
+
+Del genere multeplice.
+Il genere molteplice sarà quando il nuo maggiore sopra posto contenerà in se più volte il minore sottoposto precisam.te, et questo genere haverà spetie, ò vero proportioni infinite: et per essere lo p.° genere comincia dall'unitate, et dalle tante volte, che lo maggior nuero contenga in se lo minore nuo piglem il nome ogni proportione di tal genere in questa maniera. 
+
+In omni proportione comparantur notulę similes nomine, et quantitate.
+
+Hemiola quid est.
+Est propositio quę dicta est ab hemi, et olon, hemi vol dire tutta qella cosa, olon vol dire la metà di qella cosa.
+
+Quando il nuo maggiore contiene in se due volte il minore sarà proportione dupla. 
+Exempio.
+2 4 6 8 i0 i2 i4 i6 i8 20.
+i 2  3  4  5 6 7   8  9  i0.
+
+Quando il nuo maggiore cꝍtiene inse p^cisam.te il nuo minore quattro volte si dirà proportione quatrupla.
+4 8 12 16  20  24  28 32.
+i  2  3   4   5    6   7   8.
+
+Quando il nuo maggiore contenerà inse  p^cisam.te il nuo minore cin volte si dirà proportione quintupla.
+5 i0 i5  20 25  30  35 40,
+i  2  3   4   5    6   7   8.
+
+f. 35r
+Et similm.te si scrive la sestupla, et la settupla, ottupla, nonupla, et decupla.
+La decupla si scrive ancora, e si vuole signare con la zifra del binario solam.te vicino allo semi circolo intero 𝇋 2 ò vero con lo semicirculo lineato, ò, vero tagliato cossi' 𝇍 ò, vero circulo tagliato cossi' 𝇉
+
+La quartupla si suole signare ancora cꝍ la zifra del binario vicino allo semicirculo tagliato cossi 𝇍2 ò, vero con lo semi circulo tagliato, et voltato a man sinistra cossi 𝇎.
+Et ancora con lo semicircolo intero cꝍ la zifra del nuo binario tagliata cosi' 𝇋 Ꝝ et si dice ancora bisdupla.
+L'ottava si suol signare ancora con la zifra del nuo binario tagliata inanzi al semicircolo tagliato 𝇍 Ꝝ ò, vero con la zifra nꝍ tagliata vicino al circolo tagliato, et voltato à man sinistra cossi' 𝇎 2.
+La sestupla si vuol signare cꝍ la zifra tagliata del nuo binario vicino al semi circulo tagliato, et voltato à man' sinistra cosi' 𝇎 Ꝝ 
+Integro
+dupla 
+bisdupla vel quadrupla. 
+ottupla.
+sesdecupla
+𝇋
+  𝇍
+𝇍   2
+𝇍   Ꝝ
+𝇎    [Ꝝ]
+
+𝇋   2
+𝇋   [Ꝝ]
+𝇎    2
+
+
+𝇉   2
+𝇍 𝇎   2
+[𝇉]  [Ꝝ]
+
+
+
+Lo genere contrario dello sopra detto si dice sub molteplice, percħ li nuj minori si pongono sopra li maggiori, et le proportioni haverando li medesimi nuj, et nomi
+Agiungendosi quest particella sub. dicendo, dub dupla, subtripla, subquadrupla, subquintupla, et sic de ceteris, et l'una contraria può distruggere l'altra secondo qual prima sia posta.
+Proportio est duoŗ. numeroŗ. ad in vice abitudo.
+Il genere sup particulare quale è, il genere secondo, perche comincia dal nuo binario si farà quando il nuo maggiore sop.a posto contiene in se una il numero minore sottoposto et una parte aliquota di più:
+La parte aliquota serria quella, ch'è, pigliata alqnte volte farà, et impirà il suo tutto.
+La spe, ò vero proportione di tal genere sono queste cossi ordinate sesꝙaltera, sesꝙtertia, sesꝙquarta, sesquiquinta, sesꝙsettima, sesquiottava, sesꝙnona sesꝙdecima et oltra similm.te
+
+f. 35v
+Sesꝙaltera 
+3 6 9 12 15 18 2i.
+2 4 6 8   i0   i2  14.
+Sesꝙtertia
+4 8 12 16 20 24.
+3 6 9 12 i5 18.
+Sesꝙquarta
+5 10 15 20 25 30.
+4 8  12  16  20  24.
+Sesꝙꝙuinta
+6 12 18 24 30 36.
+5  i0  i5  20  25 30.
+Sesꝙsestia
+7 14 2i 28 35 42.
+6 12 18 24 30 36.
+Sesꝙsettima
+8 16 24 32 40.
+7 14 2i 28 35.
+Sesꝙottava
+9 18 27 36 45.
+8 16 24 32 4.
+Sesꝙnona.
+10 20 30 40 50 60.
+9   18  27 36 45 54.
+Sesꝙdecima. 
+ij 22 33 44 55.
+10 20 30 40 50.
+
+
+f. 36r
+Perche questa voce greca sesquigionta, è composta cꝍ qualsisia nome significa tutta quella cosa, et la metà di quella di più.
+Exempio.
+Sesꝙlibra
+una libra, e mezza.
+sesꝙmensis
+Un mese, et mezzo.
+sesꝙpes
+Un piede è mezzo.
+sesꝙpalmus
+Un palmo è mezzo.
+sesꝙannus
+Un anno, è mezzo.
+Per la qualcosa sola la sesꝙaltera sarà bendetta è composta cꝍ la particella e sesꝙ e nꝍ l'altre proportioni, percħ nꝍ hanno la metà di più del nuo minore sottoposto, ma solamente una parte aliquota, et però dice il Cimello ch'anno tutti errato qelli che dicono sesꝙtertia, sesꝙquarta, et altre simile, ma si deve dire super tertia, suquarta et similm.te gl'altri.
+E cosi' dicono, che li greci dicono epitrito, e similm.te l'altre con la particella epi, che significa supra. 
+Il genere supatiente, quale il terzo, percħ comincia da tre si farà qn in nuo maggiore sop.a posto cꝍtiene in se il nuo minore sottoposto una volta, et di più una parte aliquota fatta di più parte aliquote.
+Ma per più facile, et più breve regula, essendo tal genere difficile, è longo si deve considerare secondo dice il Gimello, che qno lo nuo maggiore si avanza lo nuo minore di due unitate.
+che son dui.
+E quella proportione nꝍ possa essere d'altro genere sop.a detto come sarria  ch'e, sesꝙaltera.
+Se dirà proportione subiparciens la quale si farà in più diversi nuj 
+come sarà 5 7 9 ij et oltra.
+         sim : 3 5 7 9             
+
+Tal che ogni spetie si dirà spetie sub alterna perche acquista forza di generi havendo sotto se altre spetie quali si conoscerando giungendoci il nome del numero minore cosi'.
+
+f. 36v
+Subi parciens tertias
+5
+3
+Subi parciens quintas
+75
+Subi parciens septimas
+9
+7
+Subi parciens nonas
+ij
+9
+E' similm.te devi considerare quando lo numero maggiore habbia tre unitate di più del minore, che sarà sutriparciens, et suquatri parciens, et suqui parcies et susestiparciens, et oltra simili.
+Se nꝍ potrà essere d'altro genere come sarà 96
+ch'è sesꝙaltera, che ancora sarà proportione sutri parciens come dirissi.
+7 8 i0 et oltra simil.
+4 5 7
+
+Et per tal spetie diventerà come genere agiungendo al primo nome della proportione il nome del numero minore sotto posto, dicendo sutri parciens quarta 6 7 4.
+Supertriparciens quintas 
+8
+Supertriparciens settimas
+i0 e oltra.
+7 
+E similm.te consideratione si deve fare quando il numero maggiore avanzarà le quattro unitate il minore, che serà proportione suquarti parciens, e dirai.
+7 14 2i  et oltra simil.
+3 6   9
+
+E super quin parciens 8 16 24 
+			    3  6   9
+
+E similm.te potrai formare tutte l'altre precedendo, et aggiungedo, li nomi delle porportioni dicedo supquatri parciens tertias, suquin parciens tertias, et oltra simil.
+
+
+f. 37r
+Superbiparciens tertis
+5 i0 15 20
+3  6  9  12
+Subi parciens ꝙntas
+Caret
+Subi parciens sesta 
+7 14 21 28
+5 10 15 20
+Subi parciens septimas
+Caret 
+Subi parciens ottavas
+9 18 27 36
+7 14 21 28
+Subi parciens nonas
+ii 22 33 
+9 18 27
+Superbiparciens decimas 
+Caret.
+
+Et sic de alijs.
+Giungendo allo numero minore, e si fa cosi
+Su triparciens tertias
+Caret 
+Su triparciens quartas
+7 14 21
+4  8  12
+Su triparciens ꝙntas
+8 16 24 
+5 10 15
+Su triparciens sestas
+Caret 
+Su triparciens septimas
+10 20 30 40 
+7   14  21  28
+Su triparciens ottavas
+ij 22 33 
+8  16  24.
+
+f. 37v
+Su triparciens nonas
+Caret. 
+Su triparciens decimas 
+13 26 39
+10 20 30                     Et sic de Alijs 
+Su quatriparciens quartas
+Caret.
+Su quatriparciens tertias
+7 14 21 
+3  6   9
+Su quatriparciens ꝙntas
+9 i8 27
+5 10 15
+Su quatriparcies sestas 
+Caret
+Su quatriparcies septimas
+ii 22 33 
+7  14  21
+Su quatriparcies ottavas
+Caret.
+Su quatriparciens nonas
+13 26 39
+9   18  27
+Superquatriparciens decim.as
+Caret.
+Suquin parciens tertias
+8 16 24
+3 6   9
+Suquin parciens quartas
+ver. est
+Suquin parciens ꝙntas
+Caret. 
+Suquin parciens sestas
+11 22 33 
+6   12  18
+
+f. 38r
+
+Suquin parciens septimas
+12 24 36
+7   14  21 
+Suquin parciens ottavas
+13 26 39
+8  16  24
+Suquin parciens nonas
+14 28 42
+9  18   27
+Suquin parciens decimas
+15 30 45
+10 20 30
+Susestiparciens tertias
+Caret.
+Susestiparciens quartas
+10 20 30 
+4   8   12
+Susesti parciens ꝙntas
+11 22 33
+5   10 15
+Susesti parciens sestas
+Caret 
+Susesti parciens septimas
+Veŗ est
+Susesti parciens ottavas
+Caret 
+Susesti parciens nonas
+Caret
+Susesti parciens decimas 
+Caret
+Et sic de alijs.
+
+
+f. 38v
+Susepti parciens tertias
+10 20 30
+3  6     9
+
+Susepti parciens quartas
+11 22 33
+
+Supsepti parciens ꝙntas 
+12 24 36
+5    10  15
+
+Supsepti parciens sestas
+13 26 39
+6    12  18
+
+Supsepti parciens septimas
+Caret 
+
+Supsepti parciens ottavas
+15 30 45
+8 16 24
+
+Supsepti parciens nonas
+16 32 48
+8  16  24
+
+Supsepti parciens decimas 
+17 34 51
+10 20 30 
+Et sic de alijs.
+Suotti parciens tertias
+11 22 33
+3   6   9
+
+Suocti parciens quartas
+Caret
+
+Suocti parciens ꝙntas
+13 26 39
+5   10  15
+
+Suocti parciens sestas 
+Caret 
+
+Suocti parciens septimas
+15 30 45
+7    14  21
+
+Suocti parciens ottavas
+Caret 
+
+Suocti parciens nonas 
+17 34 51
+9   18  27
+
+Suocti parciens decimas
+Caret
+Et sic de alijs
+
+Sunoni parciens tertias
+Caret 
+
+Sunoni parciens quartas
+13 26 39
+4  8    12
+
+
+f. 39r
+Sunoni parciens ꝙntas
+14 28 42
+5    10 15
+
+Sunoni parciens sestas
+15 30 45
+6   12  18
+
+Sunoni parciens septimas
+16 32 48
+7 14 2i
+
+Sunoni parciens ottavas
+17 34 51
+8   16  24
+
+Sunoni parciens nonas
+Caret 
+
+Sunoni parciens decimas
+19 38 57
+10 20 30
+Et sic de alijs
+
+Sudeci parciens tertias
+13 26 39
+3  6    9
+
+Sudeci parciens quartas
+14 28 42
+4    8   12
+
+Sudeci parciens quintas
+Caret 
+
+Sudeci parciens sestas
+Caret 
+
+Sudeci parciens septima
+17 34 5i
+7   14  21
+
+Sudeci parciens ottavas
+Caret 
+
+Sudeci parciens nonas
+19 38 57
+9  18  27
+
+Sudeci parciens decimas
+Caret:  
+Et sic de alijs
+
+Il genere cꝍtrario di questo si farà giongendo questa particella sub: al suo nome sub su parciens.
+Et similm.te agiungendo questa particella sub alli delle proportioni ponendo li numeri minori sop.a li maggiori, et dicendo sub subi parciens tertias.
+3  6   9   12 
+5 10 15   20 
+Et sic de alijs       
+
+
+f. 39v
+
+Et ricordati che delli dui generi contrarij l'uno può distruggere l'altro. Il genere molteplice suparticolare cꝍposto gne si farà qn il nuo maggiore contiene in se più volte il nuo minore, et di più una parte aliquota. Et questo genere have gradi infinite cioè che cꝍ ogni proportione del molteplice si possino conponere et giongere tutte le proportioni del suparticulare.
+Ma per più facile et breve intelligenza, e regula, che dice il Gimello se vorrai fare una dupla sesqui altera metti due volte lo nuo minore sesꝙaltera in lo maggiore, et una unità di più cioè dupla sesꝙaltera 
+5 10  15 20
+2   4   6    8
+Dupla sesꝙaltera		7 14  21  28
+				3  6   9    12
+Dupla sesꝙquarta
+9 18 27 36
+4  8 12  16
+Dupla sesꝙꝙnta
+11 22 33 44
+5  10  15  20
+Dupla sesꝙsesta
+13 26 39  5i
+6   12  18  24
+Dupla sesꝙseptima
+15 30 45 60
+7   i4  2i   28
+Dupla sesꝙottava
+17 34 51 68
+8   16 24 32
+Dupla sesꝙnona
+19 38 57 76
+9  18  27 36
+Dupla sesꝙdecima
+21 42 63 84
+10 20 30 40 
+Et questo sarà il primo grado di tal genere.
+
+Il secondo grado sarà pigliando la secꝍda proportione del molteplice, et giongendola cꝍ tutte le proportioni del suo particolare; cioè volendo fare la tripla sesꝙaltera; il pigl[…] il nuo del seꝙaltera, quale, farai che tre volte stia nel nuo maggiore cꝍ una unita cioè,
+Tripla sesꝙaltera
+7 14 21 28
+2  4   6   8
+Tripla sesꝙtertia
+10 20 30 40 
+3  6    9  12
+Tripla sesꝙquarta
+13 26 39
+4   8   12
+
+f. 40r
+Tripla sesꝙ ꝙntas
+16 32 48
+5   10  15
+Tripla sesꝙ sesta
+19 38 57
+6  12  18
+Tripla sesꝙ septima
+22 44 66
+7   14  21
+Tripla sesꝙ ottava
+25 50 75
+8   16  24
+Tripla sesꝙ nona
+28 56 84 
+9   18  27
+Tripla sesꝙ decima
+31 62 93
+10 20 30
+E se vorrai fare la quatrupla seꝙaltera giungerai quattro al nuo minore della sesꝙaltera con una unità di più et farai cosi'
+Quatrupla sesꝙaltera
+9 18 27 36
+2  4   6   8
+Quatrupla sesꝙ tertia
+13 26 39
+3   6   9
+Quatrupla sesꝙ ꝙnta
+21 42 63
+3   6    9
+Quatrupla sesꝙ sesta
+25 50 75
+6   12 18
+Quatrupla sesꝙ settima
+29 58
+7   14
+Quatrupla sesꝙ ottava
+35 6[6]
+8   16
+Quatrupla sesꝙ nona 
+37 54
+9 18
+Quatrupla sesꝙ decima
+41 82
+10 20
+Et cosi' giungendo cin volte il nuo minore de la seꝙaltera, et farai la ꝙntupla sesꝙaltera et la sestupla sesꝙ altera sei volte, et cosi l'altre come septupla sesꝙaltera, et de alijs.
+Lo secꝍdo genere composto sarà pigliando il nuo minore della superbiparciens tertias et aggiungerai tante volte, qnto vorrai che sia proportione, cioè volendo fare la dupla subi parciens tertias aggiugerai due volte lo nuo minore nel maggiore cꝍdui unità de più. 
+※
+
+f. 40v
+
+Et volendo fare il genere contrario agiongerai questa particella sub alli nomi delli proportioni dicendo subduplasesquialtera 
+2  4    6
+5 10 15  
+Subduplasesꝙtertia
+2 4 6 
+Dupla superbi parciens tertias
+8 16 24
+3  6   9
+Dupla superbiparciens quartas
+10 20 30
+4   8    12
+Dupla super biparciens ꝙntas
+12 24 36
+5   10 15
+Dupla superbiparciens sestas
+14 28 42
+6   12  18
+Dupla subiparciens septimas
+16 32 48
+7   14  21
+Dupla subiparciens ottavas
+18 36 54
+8   16  24
+Et se vorrai fare la tripla super biparciens metti tre volte lo nuo minore nel maggiore.
+Tripla su biparciens tertias
+ij  22 33
+3   6   9
+Tripla su biparciens quartas
+14 28 42
+4   8   12
+Tripla su biparciens ꝙntas
+17 34 51
+5   10  15
+Tripla su bi parciens sestas
+20 40 60
+6    12   18
+Tripla su biparciens settimas
+25 46 60
+7  14  21
+Tripla su biparciens ottavas
+26 52 78
+8   16  24
+
+Et sic de alijs.
+
+f. 41r
+E se vorrai fare la quatupla subiparciens tertias farrai, ch'il nuo maggiore avanza à l'inferiore quattro volte		Exempio
+
+Quatupla subiparciens quartas
+
+
+
+Quatupla subiparciens ꝙntas
+14
+3
+28
+6
+56
+12
+Quatupla subiparciens sestas
+18
+4
+36
+8
+71
+16
+Quatupla subiparciens settimas
+22
+5
+44
+10
+88
+20
+Quatupla subiparciens ottavas
+26
+6
+52
+12
+i04
+22
+Quatupla subiparciens nonas
+30
+7
+60
+14
+120
+28
+Quatupla subiparciens decimas
+34
+8
+68
+16
+136
+22
+
+38
+9
+76
+18
+152
+42
+84
+168
+(voir lignes transversales)
+
+E con simile regola farrai volendo formare la quintupla supbiparciens tertias et sic de singulis.
+Della chiave musicale.
+
+La chiave, è un'aperimento del canto; la chiave è una dimostratione delli nomi, delle voci et de proprietati.
+Senza la chiave il canto è confuso, et però si dice chiave à similitudine di qella la quale s'apre, et s'entra in cosa, et che tre sono le proprietate cioè b.quadro, cioè duro, è natura cioè nella media, et b. molle cioè dolce, ò vero mobile.
+Ad ognuna di queste proprietà, è stata costituita, è fatta la sua chiave differente e posta nell'loco dove si fa come fine de tetracordo, o vero diatessaron della quale si compone il tuono.
+La chiave di natura, ò vero mezzana si fa con tre notule cossi':
+[EX. 1]
+ 
+f. 41v
+A di notare, che na stà in mezzo di b. quatro, et di b. molle, come La nota della riua in mezzo delle due note, che stanno in spatio; et cosi' si dirà La chiave di natura prima.
+La chiave di b. quatro secondo si farrà con dui notule, et si compone nel loco puro dove sia il fa' di qello exacordo è per proprietà è dall'là piglia il nome.
+[EX. 1]
+La chiave di b. molle si fa' la tra suamedesima et qesta tra have potestà che dovunquʒ si pone accidentalmente faccia dirci fa', mutando il semi tonio.
+[EX. 2]
+Sicħ la chiave si deve denominare dalla proprietà del fa' della quale stia signata.
+L'antigui  usano di segnare tutte le chiave cꝍ le tre capitali, come si vide in libri antigui di canto piano delle quali li moderni usano queste due cioè chiave di b. quatro primo et chiave di b. quatro terzo. . 𝄞
+Altri antigui usano di segnare le chiave con tre colori, cioè la chiave di natura con colore rosso, la chiave di b. quatro con color giallo, la chiave di b. molle con color celeste, ò vero azuro sop.a le righe negre, qtteso che queste quattro colori si videro nel corpo di xpo nel tempo della sua passione.
+Exempio delli tuoni diversi.
+[EX. 3]
+
+
+f. 42r
+
+Hor quando il compositore p.a che si metta à componere haverrà considerate le parole, et per gli affetti, è materie liete, o flebile, ò d'ira, ò di laude, haverrà eletto il comunevole tono, atteso che le parole di laude, è di gloria, e honestate, chiedeno il p.° et ottavo tuono, et le parole di morte, e di gloria il quarto, è sesto tuono, et le parole d'ira o sdegno il terzo, et settimo tuono, ò vero mesculatamente.
+Ancora si deve ricordare di qual spetie de diatessaron, ò Diapente sia cꝍposto quel tono c'have eletto, et per quelle spetie deve formare li passaggi, et fughe, et le cadenze, che sono tre le proprietà d'ogni tuono.
+Dove comincia il tuono, dove fenisce: dove si congiunge nel mezzo d'esso diapente cꝍ lo diatessaron, ò vero, è che si può fengere una cadenza d'un altro tuono: Ma nꝍ finirla, che se metteria tuono, che le cadenze sono li fini delli tuoni.
+Li diversi passaggi et diverse fughe si debbano formare dalli divers processi, et disgiontam.te dalla diatessaron, et diapente, cosi' accendente, come discendente. 
+Exempio.
+Del Diatessaron ascendente, et discendente.
+[EX. 1]
+Quando tutte le parti haverando finito, et alcuni aggiungeno alcune note fanno una d'esse ferma, nꝍ quastano tono ch'il tono all'hora resta in consideratione, et indicio di quella parte che resta ferma.		Exempio.
+[EX. 2]
+
+
+f. 42v
+[EX.1]
+Cimellus dictabat regulari esse irregulari.
+Di tutti tuoni per comporre tutti canti piani, et figurati cꝍ quante voci voglia il compositore.
+Quid est tonus regularis.
+Tonus est regulas per speties diatessaronicas, et diapenticas, et ex eis formatas diapasonicas speties, et  ascensu, et descensu omnes concentus in fine de iudicas  habet duos tonos vocules, unu semitonum minus.
+Diatessaron habet tres speties, seu diversitates, quar. p.a est re, mi, fa', sol. 2.a mi, fa, sol, la. tertia, ut, re, mi, fa. et semper erunt sic ubi inveniantum.
+Prima speties
+[EX. 2]
+Secuda speties
+[EX. 3]
+Tertia spetie.
+[EX. 4]
+Que habet tres tonos vocales, et unum semitonu minus.
+Diapente habet quator speties, seu diversitates, ut in omnis notar. cꝍ incentio unam minus habet speciem sui notulis, et dicuntur quintę maiores. 
+Prima speties.
+[EX. 5]
+
+
+f. 43r
+Secunda speties.
+[EX. 1]
+Tertia speties.
+[EX. 2]
+Quarta speties.
+[EX. 3]
+Le diversità delle spetie de diatessaron, et de diapente, è, di diapason si considerà et conoscie dalli diversi luoghi, et gradi, have il semitonio minore mi, fa, in re.
+Delle spetie diverse del diatessaron, è del diapente, si si componeno le diverse spetie de diapasꝍ et questi sꝍ detti tuoni, cioè regula di comporre canti, quali procedono  toni vocali è semitonij, et si son detti glitucione, et ancora Tropi, cioè conversioni perche spesso si converte l'uno cꝍ l'altro, e si sogliono mescolare insieme.
+Quattro sono li tuoni cioè,
+Proto, Deuthero, Trito, et Tretardo, cioè p.° secondo Terzo, et quarto.
+[EX. 4 - TEXTE]
+
+f. 43v
+Questi poi sꝍ stati diversi, et distinti più strettamente per lo componere cati piani detro una ottava, et poco più oltra, et cosi del proto furno fatti dui, cioè, p.° et secꝍdo, del deutero terzo, et quarto del trito, quinto, et sesto, del retardo settimo, et ottavo; delli quali quelli che stanno in numeri pari si dicono placali cioè secꝍdo quarto sesto, et ottavo. 
+Et quelli che stanno in numeri Impari sono detti autentici come è p.° terzo quinto, et settimo. 	Exempio	Vbi su scrittu est de tonis diversis.
+Osservationi
+Ricordati Vicenzo di dare la quinta semp.re dopo la sesta, et la duodecima dopo la terza decima, et di nꝍ gire all'ottava di nota bassa che nꝍ si move da sesta, è settima per diminutioni, et questo vai consonantia perfecta cꝍ battuta, passa una cꝍsonatia, almeno più sopra, ò più sotto. Ma averti che lo gire alla perfecta [n]ꝍ legargi altra cꝍsonantia, o’ vero dissonanza debbi girci cꝍ la secꝍda minima, cioè la minima in elevatione, ne fare due negre sole cꝍ minima poi, ò semibreve seguente, ch'in padisce lo tratto della diminutione, ne ascendendo ne discendendo.
+Errori, et Passaggi antighi li quali nꝍ più s'usano per molte raggioni et rispetti in cꝍtraputo improviso, è scritto à dui voci, che nꝍ si facciano minime cꝍ ponti a battuta, che parano note cꝍtra nota.
+[EX. 1]
+Queste sono cadenze antigue sciolte, è tarde et senza arteficio.
+[EX. 2]
+Queste sono cadenze antigue dove la dissonanza have troppo tepo della voce senza ligameto di cꝍsonantia
+[EX. 3]
+et de similibus.
+
+
+f. 44r
+Queste cadenze sono antigue et false, che poi La settima nꝍ segue La sesta propingua ma segue la quinta, che più la manifesta, et fa parere dura ma' si cꝍporta qn alcuno fa le decime sopra il canto piano, si che siano tre che cantino, et si cꝍporta perche nꝍ facciano due quinte descendendo cꝍ la sesta.
+[EX. 1]
+Queste cadenze antigue son lasciate, perche s'arriva alla consonanza perfetta con dissonantia, è nꝍ conta consonantia imperfetta propingua.
+[EX. 2]
+Queste cadenze anchora s'usano da moderni, quali nꝍ mi piacono perche le note disionte in diminutione devono essere buone, et sepre cꝍsonate, et nꝍ disonꝍte che troppo si conoscano le dissonante disionte.
+[EX. 3]
+Queste cadenze s'usano da molti, et sono antigue, et nꝍ mi piaceno cħ le consonantie fette debbano essere rare, et nꝍ tante vicine, et cꝍ nota di diminutioni, et di pochis[.°] tempo in mezzo.
+[EX. 4]
+Della diminutione falsa.
+Quando la terza nota negra sia consonante, et cosi' di terzi in mezzo grado stringendo più la diminutione, percħ tutte le diminutioni si debbano possere cantare come note bianche cioè, minime, et cossi la battuta si cominciarà in dissonantia.
+
+f. 44v
+[EX. 1]
+Per diminuire nꝍ farrai ascendendo una minima, et poi doi sememinime cosi' come l'antigui, che la p.a negra dell'elevatione deve essere cꝍsonante.
+[EX. 2]
+Nꝍ farrai descendendo due negre, et poi una minima, ò vero seme breve come l'antigui perche la diminutione deve havere lo tratto di quattro gradi, e nꝍ restar Inpedita.
+[EX. 3]
+Se può fare tale diminutione qn stia cꝍ altra diminutioni precedente legata cosi 
+[EX. 5]
+Nꝍ farrai tornelli de diminutione di simili note, che pare che nꝍ si proceda innanti, ma si torna indietro il che l'usano li sonatori, et in voce offende.
+
+f. 45r
+[EX. 1]
+Che nꝍ si faccia più come dall'antichi, e da moderni diminuendo è lasciando l'ascienso è discienso con disonanza, che l'orecchie più presto è meglio avertano e conoscano l'estremità che la metrità.
+[EX. 2]
+Che nꝍ si fuga cadenza lasciando con la nota disonante legata cꝍ consonanza et nꝍ toccado la cꝍsonanza perfetta ne imperfetta alla propingua che troppo si conosce tal disonanza et saria sincopa falsa, et nꝍ ligamento.
+Exempio.
+[EX. 3]
+La cadenza del diapente in mi si debba schifare de esercitato contrapuntante perche ivi si lega il tritono troppo duro, et similmente la cadenza della duodecima pur in mi.
+Exempio.
+[EX. 4]
+
+
+f. 45v 
+
+Cimellus dictabat.
+Cose difficili, è, abusione, e dubij resoluti nello tenore d’Josquino.
+
+Nella messa super voces musicales.
+
+Quando il tenore canta in questo segno 𝇇 è questo 𝇊 di prolatione perfetta una minima à battuta, contra questo segno solo 𝇈 del tempo perfetto, nel quale cantano l’altre parte nꝍ
+si puo ragg[io]nevolm.te cantare la minima à battuta, perche segno intero nꝍ si raddoppia cꝍtra segno intero. Ma Giosquino seguito l’uso di quella etate, o l’esempio del suo maestro.
+
+Neancora raggionevolmente fa questo segno 𝇇 𝇊 intero di prolatione  perfetta si raddoppia due volte contra questo semicircolo tagliato 𝇍 dell’altre parte de Christe eleison.
+
+E nel soprano del ultimo Agnus Dei dove sono le parole (clama necesses) perche lo segno  intero deve stare nella sua integrità, et quantità inmutabile, et lo segno corrotto si deve diminuire. Ma per comodità delli cantori nacque tale uso, é Giosquino observollo seguitando et imitando il suo maestro Olceghem.
+
+In ogni segno intero, o vero quantità perfetta intera, si debbono cantare due minime a battuta, che la prolatione perfetta nꝍ fa altro che la semibreve perfetta di tre minime et nꝍ che la minima cresca in doppio.
+
+Quando dice qui tollis cancriz et ut supra ditta [notate seria] canone falso perche nꝍ si dice inetram.te le note in quella perfettione, et alteratione, che p.a si son cantate ma secondo hando variato loco, cioè che quella che era p.a minima si fa secꝍda e similm.te della semibreve si deve considerare si che battuta di dire Cancriz, et, ò vero dove aggiungerci, Cancrizet, et ex varijs gradibus varius sit ubi potest essere valor et similiter.
+
+La resolutione sta male misurata de la breve che hanno il punto di perfettione. nꝍ deve haverlo percħ senza il ponto erano perfette, et frustra, fit per plura quod fieri potest, [non] pauciora. Ne si doveva fare nel circolo tagliato, che significa il senario numero nella compositione. 
+
+[EX. 1] 
+Il medesimo dico della resolutione dell’Incarnatus est.
+La resolutione del canone Confiteor equivalet n[ꝍ s]i doveano fare in questo segno 𝇍 dove   si debbiano cantare due semibreve a battuta. Ma in questo 𝇋 dove si cantino due minime a battuta, et in tal segno doveano cantare l’altre parte.
+
+f. 46r
+
+risolutione.
+
+[EX. 1]
+
+Quando dice ò,sanna gaudet cu gaudentibus vole che si canta in proportione sesquialtera come si cantano l’altre parte, é, ad si puo ben fare perche nel circolo o vero semi circolo con lo punto, é perfetta la semi breve, et si altera la minima et non in altri segni senza punto in mezzo.
+
+[EX. 2]  
+
+Se ti sarà dimandato di qual tono sia la messa dirai di tutti i toni, ch’il tenore comincia, et precede per tutte le spetie del Diatesseron, è del diapente delli quali si cꝍponeno tutti i toni.
+
+La messa la. sol. fa. re. mi.
+
+Si canta che facesse ad un sig.re che havea promesso farli un dono, et qn Giosquino gli domandava colui sempre rispondeva lassa fare à me, perché per le quali parole fece tal messa assomigliandoci le sopra dette silabe vocali musicali.
+
+Nell’Incarnatus est.
+
+Sta cꝍ lo semi circolo tagliato spesso fa proportione seꝙta con la zifra del ternario con lo circolo sopra cosi 3.° 
+Sappi tal proportione essere tripla, et nꝍ sesꝙaltera ch’el circolo segnifica la semibreve che si canta a botta nel circolo intero, et pero si canteno tre  una.
+Et cosi’ potriano signarci altri proportioni 4o quatupla 5 o quintupla  6o sestupla. 
+Et tal proportione l’usa cosi 3O in molti lochi d’altre messe dove ti ricorda di qesto precetto.
+
+Nella messa super gaudeamus.
+
+Le note della in terra pax si reiterano undici volte et le pause precedenti nꝍ cantano se nꝍ la prima volta, che già sono separate dalle pause generali, che occupano tutte le righe.
+
+[EX. 3]
+
+
+f. 46v
+
+Decies canit pausa linguendo priores.
+E nel libro stampato il de è soperchio.
+
+Nel qui tollis, é la proportione tripla signata cꝍ la zifra dl numero, é con lo circolo piccolo cossi 3O. Nel confiteor è la sesquialtera nel circolo intero, è stà con raggione nꝍ facendo perfette la semibreve nante le simile loro é rompe la proportione con lo semi circolo tagliato si che le note si diminuiscono in doppio.
+
+[EX. 1]
+
+Nella o’sanna sesquialtera nel semicircolo corrotto cossi 𝇍3, fa la breve perfetta et imperfetta con pianesta di colore, il che come ho più volte provato e falso che la perfettione nasce alli segni loro.
+
+Nel mezzo dell’ult.o Agnus Dei signato nel semicircolo tagliato, che fa proportione dupla che dicono ad mediu, have signata la zifra dl binario volendo che sia bisdupla, o vero bismediu, il che nꝍ laudo perche la proportione deve havere [due] numeri, accio che si conosca se sia numero soperiore, o inferiore, che lo superiore significa le note seguenti, et l’inferiore le note precedenti
+
+[EX. 2]
+
+Nella messa di fortuna disperata.
+
+L’ult.o Kyrie, é signato col circolo cosi 𝇉 nel quale si deve coponere à numero senario perche si possa cantare a misura di breve e gi mancano tre sem[…]
+
+[EX. 3]
+
+Il qui tollis cꝍ un semicircolo tagliato, e signato solam.te, cħ fa la dupla proportione cħ dicono à […] et cꝍ un altro semi circolo tagliato e con la zifra del binario cħ fa la bisdupla, o vero bisma[…] et cosi mi piace che si faccia cioé ponendosi tal zifra appresso, il semi circolo tagliato, e nꝍ […]
+
+f.47r
+
+[EX. 1]
+
+Questo tenore si canta due volte una volta per lo segno superiore, et l’altro  lo segno inferiore, battendo prima la misura di breve, et poi di longa. Ma  facilità p.a battendo la misura di semibreve, et poi di breve.
+Nel et i^ spiritu sanctu have signato in principio lo semicircolo tagliato cꝍ la zifra del ternario nu≅o facendo la sesꝙaltera, e dove fà le breve perfette et semi breve alterate per le breve infette cꝍ pianezza di colore. Quod ut sępę dixi falsu est sed talis erat illius etatis usus.
+
+Nella Messa l’omme arme sexti toni.
+
+Nel Kyrie ult.° la semi breve, che sta nante le due obligz, et dui breve si trasferisce all’ult.a breve appresso la quale sta l’ult.a semi breve quale si numera cꝍ le brevi legate cꝍ l’ult.a longa del fine, et questo fa’ fare il punto di divisione, e di trasposizione cꝍ la simile nante. La sua simile nꝍ si puo fare imperfetta mai. 
+
+ [EX. 2]
+
+Et una sancta captolica sta cꝍ lo semicircolo tagliato, et cꝍ la zifra del ternario nu≅o, che fa la sesꝙaltera et ci sono brevi fette, et semibrevi alterate, é, breve piene di colore contra ogni raggione come altre volte ho detto.
+ 
+ [EX. 3]
+
+Nella messa di Ave Maris stella et d’ercules dux ferrarię.
+
+Nꝍ ci e cosa difficile s[ol] dirò, che tal tenore è fatto sopra le tre vocali di tale parole Ercules Dux ferrarię assomigliandoci le vocali delle sillabe Vt. re. mi. fa. sol. la.
+
+[EX. 4]
+
+Nella messa Marlcume bat.
+La in terra pax hoibq have per mezzo più volte pause di reiterazione, et si devon reiterare quelli passaggi che stanno nante dette pause seguendo poi l’altri passaggi.
+
+f.47v
+
+ [EX. 1]
+
+La o’sanna sta cꝍ li due semicirculi, ma lo tagliato si deve cantare cꝍ battuta di breve accio che la semibreve dello semi circulo intero le sia eguali et la sesꝙaltera si canta bene tre minime contra doi, et averti ch’in tal sesꝙaltera mai è, perfetta la semi breve, ma sempre nante la sua simile vale due minime. 
+
+ [EX. 2]
+
+Il p.° Agnus Dei have il canone cosi de minimis nꝍ curat pretor, il ch è detto di legisl[atori] et governatori di terre, et si chiama in musica canon enigmaticus cioè regula sicura per la cui similitudine no si cantano le notule minime, et semi minime, nꝍ si fanno li sospiri che sono pause di minime, ma solam.te si cantano le brevi, et semibrevi, et si pausano le pause di semibrevi.
+
+[EX. 3]
+
+Nel secondo Agnus Dei a doi.
+
+Fa per mezzo la sesꝙaltera, é il segno del principio gli è il semi circolo tagliato, et la sesꝙaltera sta misurata a tre minme contra doi, qual cosa nꝍ é cꝍ raggione nꝍ cantando p.a a battuta di breve, che poi si canteriano sei minime a botta, et seria più difficile, et oltra in tale sesꝙaltera n[…] fa’ le semibreve imperfette cꝍ pianezza di colore  schifare l’alterazione della minima. [E] pur’ è contra raggione come più volte, ho’ detto, che la proportione nꝍ fa le note fette, ma li segni.
+
+[EX. 4]
+
+
+Nel 3° Agnus Dei. 
+Comincia il tenore cꝍ lo semicircolo intero, et poi va mutando il semicircolo tagliato, si cħ p.a deveria cantare a misura di semibreve, et l’altro di minuto in duplo. Ma cħ l’altre parte sono nel semicircolo tagliato, é cantano la semibreve a batta, il tenore canta loppiando il semicircolo tagliato cꝍ gl’altri, il che nꝍ è cꝍ raggione perché p.a è l’integrità, che la diminutione, é […] ma  comodità delli poco esperti cantori cꝍponevano in tal maniera, et cantavano in quell’[altre].
+
+f.48r
+
+[EX. 1]
+
+Nella messa una mus.
+Nell’et Iteru venturus est nell’ult.° si trova la proportione bisdupla signata cꝍ lo semicircolo tagliato insieme cꝍ la zifra del nu≅o binario cosi 𝇍 2. si cħ si cantavano due breve a battuta.
+
+[EX. 2]
+
+Nel Benedictus per lo mezzo si trova la proportione tripla signata cꝍ la zifra del nu≅o ternario cꝍ lo circolo sopra et nel uscire della proportione, fa alterata una semibreve seguedo una breve dell’altro segno mutato cioé lo semi circolo tagliato per lo quale si cantava nante [la] proportione, il che si puo raggionevolmente fare nꝍ havendosi da annumerare l’una con l’altra cioé la semi breve con la breve seguente.
+
+[EX. 3]
+
+Nella messa faisans regres cosi detta percħ fu fatta sop.a una canzona franzese che cosi’ comincia, et cosi’ dicono le parole.
+
+Il credo dove in principio é signato in circolo intero: muta poi et pone il semicircolo tagliato, che bisognaria cantare due semi breve a’ qella battuta che si cantava nanti una semi breve del circolo, che seria assai difficile per essere quasi tutti li passaggi di minima a quelli tempi stringevano un’poco quella medesima misura che si cognoscesse, che si cosi va più in fretta, et cosi’ fanno ancora li cantori vecchi, et antichi in questa età nra più accorta et più raggionevole, che nꝍ cꝍpone, ne canta a’ maniera antigua.  
+
+[EX. 4]
+
+Nella messa di Dadi.
+In tal messa sono le resolutioni: ma diro che li dadi stano male cꝍposti che havendo a’ crescere le note quanto mrano li punti delli dadi, é che farano le poportioni della minore in equalità, nelle quali li nu≅j minori si poneno, e scrivano sop.a li maggiori, e che il dado di pochi ponti .i. d’un ponto dovria stare sop.a il dado di molti ponti et cosi il Kyrie raggionevolm.te seria dupla 2.i l’in tra pax subquatupla 4.i subsextupla 6.i, et il santus subquintupla si cħ li dadi stanno mal composti.
+
+f.48v
+
+La resolutione del crucifixus sta male, et é falsa perche in canti di qualsivoglia segno che ci siano pause di longa, perfetta, che sono insieme indiciali, et essentiali [segni] fanno che la maxima sia perfetta, é quanto due longhe stanno tra due maxime senza punto de divisione, e senza pienezza di colore l’ult.a longa si deve alterare, é radoppiare del suo primo valore, et in tal resolutione nꝍ é stata havvuta tale cꝍsiderazione ne observata simile regola.
+
+[EX. 1]
+
+Nel sanctus dovè signato un dado cꝍ cinque ponti, et l’altro cꝍ uno, ch’insieme fanno la proportione subꝙntupla, fa’ già bene, che la semibreve voglia cinque battute, ma nꝍ che la minima voglia […] battuta, che deve crescere anco, com’e cresciuta nell’altri positioni. ha’ potesta’ in tutte le note simili di nome, et di quantitate, e qesto errore gl’e di Josꝙuno, et nꝍ de chi fece la resolutione.
+
+[EX. 2]
+
+Et nelle messe stampate  difetto delli stampatori, la pen’ult.a nota, ch’é breve sta negra, che devea essere bianca ut sup.a
+
+Nella messa de Beata Virg.ne molto ben fatta sop.a il canto piano si debba battere la misura di breve dove sta signato lo circolo tagliato per la hemiola che vi si trova, et è tripla quali stanno bene.
+
+Nel principio del Patre omnipotete  have fatto il canone dicendo il p.° va davante, cioé cħ
+colui, che p.° andava nanti va dietro, che altramnte nꝍ bisogna dire il primiero va’ davante.
+
+[EX. 3 - TEXTE]
+
+Nel sanctus, et o’sanna, é agnus Dei sono per canone le parole voi digiunarete le quattro [tepora] che da sacerdoti cosi’ si suol dire, et è stata bella argucia, é consideratione, che nel digiuno si tarda lo magnare, e nel tenere, colui che dice su canone aspetta prima quattro tempi, che sono […] brevi perfetti, ma l’osanna, deveria stare nel circolo tagliato 𝇉, e nꝍ nel semicircolo tagliato.
+Nell’ult.a messa nꝍ é cosa necessaria ne difficile ad risolversi
+
+Finis.
+
+f.49r
+
+Cimellus dictabat.
+
+Delle messe di Iosꝙno del sop.no nella Intra pax dell’omme d’arme errori del sopr.no
+
+ [EX. 1]
+
+Errore di stampatoria.
+Che la proportione nꝍ debbia cominciare in elevatione.
+Nel secondo Agnus Dei di tal messa cħ cantano tre per diversi segni la misura si debba portare per qesto segno, 𝇋, é chi canta questo, 𝇍 fa proportione dupla à qesto, 𝇋, é chi canta qesto 𝇍3 fa pportione sesꝙaltera à qesto 𝇍 é proportione tripla + 𝇋
+Le diverse voci sꝍ cosi’.
+
+[EX. 2]
+
+Nel’ult.° agnq Dei dove sono le parole clama necesses.
+Queste sono le parole della sacra scriptura, e, n’ce doveria stare cosi Canon Clama ne cesses e, vuole significare, cħ, nꝍ si fa pausa alcuna.
+La prolatione perfetta Giosꝙno la fece cantare una minima a battuta per immitar il suo mro Ocheghem, o che cosi si faceva in qella età, ma  raggione si debbano in tutti segni o ver quanitate intere cantare due minime a battuta, é qno la semi breve é fetta allora si conosce ch’é prolatione fetta, é qesta è la dignità della semibreve di tal segno.
+Nella risolutione bastava una sol pausa di longa perfetta cosi  lo modo minore fetto et si in tale resolutione fussero maxime notulę 𝆶 haveria bisognato fare tre pause in[d]icali, che significano il nu≅o maggiore perfetto.
+
+[EX. 3]
+
+Et per l’altre parte cantano in questo segno 𝇍  é questo segno 𝇇, et questo s’addoppiano.
+ 
+[EX. 4]
+
+
+fol. 49v
+
+Della messa la. sol. fa. re. mi. Nel prem omnipotete, che sta in questo segno 𝇉 il quale compone a’ nu≅o settenario si puo cantare come si dice ad medium 𝇊 in dupla proportione. Quando la proportione sesꝙaltera si segna con la zifra del nu≅o ternario nel semicircolo tagliato cosi, 𝇍3 nꝍ si debbano fare notule piene percħ in tal segno nꝍ è fetta la breve, e si canteriano sei semibrevi negre à botta. E qesto errore nꝍ solam.te l’hanno fatto l’antichi come aqui nel’incarnatus est, ma lo fanno molti moderni.
+
+Nel sanctus è, una nota piena per difetto di stampatore, che debba essere bianca.
+
+ [EX. 1]
+
+Nel qui tollis della messa su gaudeamus
+Quando troverai la zifra di 3 con lo circolo cosi 3° la proportione sarà tripla, e lo circolo significa cħ la breve sia fetta, et che si possa fare imfetta cꝍ farla negra, et cħ la semibreve si puo alterare qn bisogna come spesso si ritrova nelle messe di esso Josꝙno in tutte le parte, cħ si cantano.
+In una sancta si trova la proportione sesꝙaltera cosi.
+
+[EX. 2]
+
+Et si cantano tre minime a batta cħ dinanti si catavano due minime cioé una semibreve à [botta].
+Il sanctus si reitra’, et adverti cħ l’antigui tante volte facevano reiterare quante pause de reiteratione erano, il che molti observano, et molti no’.
+
+[EX. 3]
+
+Nell’Agnus Dei seconda sta questa parola greca diapponia, cħ significa dissonantia, et ci sta qesto segno 𝇍 é poi ce fa’ qesta proportione sesꝙaltera cosi  et adverti che si cantavi cꝍ la misura, o vero batuta di medio nꝍ devi mutare battuta, ma mandare tre minime in depositione, et tre in elevatione.
+
+[EX. 4]
+
+Questa cꝍvenienza .ⸯ. nꝍ solam.te la usavano gl’antigui nelli canoni, ma dove s’affrontavano e co[mpo]nevano le parti dopo l’haver pausato, o che si muta il canto.
+
+Nella messa di fortuna difortuna disperata.
+Il prem n’ce sta’ il canone crescat in duplu, cħ si fa’ la proportione subdupla cioé é gia poi per comodità delle parole ci fu fatta la resolutione.
+
+Et In spiritu sanctu .ⸯ. che sta cosi se reiterà per li doi segni, che nci sono le pause de reiteratione inf[…].
+
+f. 50r
+
+[EX. 1]
+
+La proportione p.a, é sesꝙaltera, é, lo segno deveria essere circolo tagliato 𝇍3 come sta nella resolutione percħ sia la breve perfetta, et si altera la semibreve che nel semicircolo tagliato anco si deveno cantare due semibreve a’ botta. Lo secundo segno così 𝇍2 fa la proporzione bisdupla, et la resolutione ncé è fatta per la comodità delle parole. 
+
+Nella messa l’omme d’arme sexti toni.
+
+[EX. 2]
+
+Si debbia reiterare qnte volte per li quattro versi, et per le quattro pause di reiterazione poste in fine, cħ come di sopra si è detto, cħ gl’antigui facevano tante pause pꝍtate qnte volte voleano ch’il cato si reiterasse
+
+Nel Benedictus, et in nomine.
+Solevano fare simile note negre sotto le bianche mostrando che si possꝍ dire le superiore, è l’inferiore à una medesima misura, et val[ore].
+
+Nel agnus Dei dove sta’ questo canone fuga ad minimam.
+Un altro canta appresso facendo un pausa di minima, et adverti cħ nꝍ importa cħ le pause e longhe si trovano sospese, et adverti che la pausa di longa perfetta cħ sta in princ.°, e indiciale, è, exentiale, cioè cħ significa, cħ la longa, e, fetta, è di più si canta, è tace dette pause.
+
+[EX. 3]
+
+Nella messa malchurmebat.
+Nel prem o^ ipotete sono dui di segni cioè il semicircolo intero, et il semicircolo corrotto, dove cħ  l’intero sogliono addoppiare le note del lor valore, et poi  lo corrotto si canta pri≅mente cꝍ l’altri parti, é ogni passaggio se reiterano come dimostrano le pause della reiterazione. Ma  vera raggione  lo semi circolo intero si doveria cantare a battuta di semibreve, et sana, et  lo semicircolo corrotto poi cantare una breve a botta diminuendo le note in dupla proporzione, ma  più facilità li cantori hanno usato come ho detto di sopra adoppiando.
+
+[EX. 4]
+
+
+fol. 50v
+
+Nella messa di dadi.
+Nel crucifixus sta semi circolo intero cꝍ la zifra binario 𝇋2, quale è simile al tagliato 𝇍 in esso canto  mezzo si trova pausa di longa fetta, cħ occupano quattro righe qual significano, cħ la longa sia fetta, cioè cħ voglia tre brevi, et nꝍ importa, che la pausa nel mezzo, e nꝍ in princ.°, et talm.te sarà essenziale, et indiciale.
+
+[EX. 1]
+
+Nella messa de Beata Virg.e
+Nel patre sono queste notule negre, in hemiola, quali, per facilità possono catarsi così
+
+[EX. 2 - TEXTE]
+
+Il semicircolo tagliato, è soverchio essendo il circolo sop.a la zifra del ter.° dove si fa la tripla cꝍ note perfette, che nel semicircolo tagliato si fa la sesꝙaltera.
+
+Nella messa ad fuga.
+Il primo Kyrie comincia così
+
+[EX. 3]
+
+Dove fa’ che la longa vale cin semibreve, la seconda breve, cħ s’inchiude nella longa fa’ imfetta  la qualcosa dopo la semibreve che segue doveria stare il punto di trasportatione é nꝍ ci stà, é per la longa raggionevolm.te valeria quattro semi breve cħ tutte due le breve sonano imfette  lo punto della secꝍda semibreve, cħ già può essere insieme punto di augmentatione, et di trasportatione.
+Nel prem comincia p.a il cꝍtralto, quale poi finito passa avante il canto cꝍ l’ult.i passaggi che si diceva canꝍ preceda vos in Galileam, et poi vi si è scritto linguedo prima pausa, é però no ha’ fatto questo segno .ⸯ. sopra la pausa 
+
+finis.
+
+f. 51r
+
+Delli tuoni di canto fermo di salmi p.° tuono.
+[EX. 1]
+Secondo tuono.
+[EX. 2]
+Terzo tuono.
+[EX. 3]
+Quarto tuono.
+[EX. 4]
+Quinto tuono.
+[EX. 5]
+Sesto tuono.
+[EX. 6]
+
+f. 51v
+
+Septimo tuono.
+[EX. 1]
+Ottavo tuono.
+[EX. 2]
+finis.
+Primus cu sesto fa, sol, la. sem habet. 
+Tertius, et ottavus at secundus ut. re. fa. 
+Quartus la sol. la. Quintus ut. mi sol. 
+Septimus fa. mi. fa., sit tibi esse memento. 
+
+Primus ad quinta [EX. 3]
+Secundus ad tertia [EX. 4]
+Tertius ad sesta [EX. 5]
+Quartus ad quarta [EX. 6]
+
+f. 52r
+
+Quintus ad quinta [EX. 1]
+Sestus ad tertiam. [EX. 2] 
+Septimus ad quinta. [EX. 3]
+Ottavus ad quarta. [EX. 4]
+
+
+Regula ad cognoscendu tonos.
+Primus, et secundus finitur in .d. grave.
+Tertius, et quartus finitur in grave .e. grave
+Quintus et sestus finitur in .f. grave
+Septimus et optavus finitur in .g. grave.
+
+De Introitis.
+Primus ad tertia vel [EX. 1]
+Secundus ad equale vel una inferius [EX. 2]
+Tertius ad tertia [EX. 3]
+Quartus ad quarta vel ad equalem. [EX. 4]
+
+f. 52v
+
+Quintus ad equale. [EX. 1]
+Sestus ad equale. [EX. 2]
+Septimus ad equale. [EX. 3]
+Optavus ad equale. [EX. 4]
+
+De responsorijs tonus.
+Primus ad ꝙnta vel ad equalem. [EX. 5]
+Secudus ad equale vel una inferius. [EX. 6]
+Tertius ad sesta [EX. 7]
+Quintus ad equale vel ad quinta [EX. 8] 
+Sestus ad equale vel ad sesta [EX. 9]
+Septimus ad ꝙnta. [EX. 10]
+Optavus ad quarta vel ad equalem. [EX. 11]
+
+f. 53r
+
+Quid est tonus regularis, est qui terminat cu regula, et nꝍ extra regula.
+Quid est regula.
+Est illa quę demostrat exemplu omniu tonor., et dicitur regula apud modernos d.e.f.g. gr~.
+Quot sunt consonantię in canto plano.
+Largomodo sunt septem. 	Quę sunt.
+Tonus, semitonus, dictonus, semidictonus, diatessarꝍ, diapente, diapasꝍ.
+Quid est tonus.
+Est cꝍsonantia duaŗ. tonaŗ. ut.re.re.mi.mi.fa.fa.sol.sol.la 
+[EX. 1-TEXTE]
+Quia maiores toni participant de semitono, ideo dicutur minores.
+Quid est semitonus.
+Est fa.mi. et mi.fa, et dicitur semitonus ꝙa medius tonus.
+Quid est dictonus.
+Est consonantia triu notaŗ. fa.re. mi.sol. et sol.mi.
+Et dicitur semidictonus à semis  est mediu et diatonus quasi unus tonus; .i. unq tonus, et unq semitonus.
+[EX. 2-TEXTE]
+Quot sunt speties toni, vel tonoŗ.
+Sunt otto. Tonus. semitonus; Dictonus, semidictonus, Diatessarꝍ, Tritonus, Diapente et Diapasꝍ.
+Nota quod omnis cantus ubique incipit, et ascendens in b. acutu, et antequa ascendat in 𝇊 acutu descendat ad f. grave, debet cantari  b. mollu, et si p.° ascendat ad c. acutu antequa descendat in f. grave tunc debet dieri mutatio   𝄡
+
+f. 53v
+De tonis autentici.
+Nota  omnes toni autentici possut ascendere supra suo finali ottava voce, et duas vel una ascendere inferius, et tunc est tonus fectus, et si nona voce vel decima ascedit tunc est plusqua perfectiꝍ; et si nꝍ ascendit ad diapsꝍ .i. ad octava voce tuc est Imfectus ton[us].
+De tonis placalibus.
+Omnes tonis placales possunt ascendere su suo finali ꝙnta vel sesta voce, et Inferius descendere quarta voce, et tunc est fectus tonus. quando deficit una de […]tis vocibus erit imfectus tonus, et qn ascendit septima voce tunc erit plusquo[…] fectu, et est ꝙnta inferius descendit.
+Nota  corda primi, et secundi toni fa fa.ut gr~a. corda tertij, et quarti toni est […] sol re ut. gr~a. corda ꝙnti, et sexti toni est A. la mi re. gr~a.  corda septimi, et octavi toni B. fa. ♮mi. gr~a.
+In manus habemus sex deductiones.
+Vt. re. mi. fa. sol. la.
+Quid est Diatessaron.
+Est quarta vox Vz. ut fa, fa ut, re sol, sol re. mi la, la mi.
+Vnde dicitur diatessaron. Dicitur a dia quod est duothessaron ide est qu est quarta vox, et sunt tres speties.
+[EX. 1]
+Diapente est cꝍsonatia quinquʒ vocu, seu notaŗ. Vz. ut sol, sol ut. re la, la re, mi, mi, et fa fa.
+Vnde dicitur diapente, à dia, et pente per est quinta vox, et formatur sic.
+[EX. 2]
+Quid est Diapsꝍ.
+Est vox octava, et se respicit de litera ad litera; hoc est de C. ad C. de D. ad D. et sic de singulis.	
+Vnde dicitur Diapsꝍ.
+Pr, et formatur ex ꝙn tonis et duobus semitonis, et sunt septem speties Vz d.g.d. G et sic de singulis.
+Qua ca~ nꝍ fit mutatio in b. molle.
+Respondetur  omnis mutatio dr esse fecta, et habere fundametu fectu, sed fa, et [mi] et mi fa. est semitonus igitur nꝍ fit mutatio.
+
+f. 54r
+
+Propterea Vbicun fit mutatio dr esse notaŗ. cꝍcordia igitur mi. est vox dura, et fa. est mollis igr mutatio nꝍ potest fieri.
+Quare dicitur deductiones.
+Quia omnes alię notę reformantur ab eis seu ꝙa secunde dicut alias sex notas, vel voces.
+Quid est vox.
+Est aer remissus intus naturalibus instrumentis formatus
+Quo triplex est modus cantandi.
+Triplex ♮, quatru, Natura, et b. molle.
+Nota  quatuor reguiruntur in mutationes
+Primo  fiat in eode loco
+Secundo in eade voce
+Tertio in eode tempore
+Quarto, et ult.° de proprietate in proprietate.
+Musica scientia veraciter canendi, et recte modulandi.
+Vnde dr musica [amois] grecé  est aqua, et ycos  est scientia, na iusta aquas et  aaŗ. sonitu  inventa fuit, et  idoneos, et antiquos sic essere perimus, et est ex sonitu malle a’ Pitaghora magno philosopho dicitur esse inventa.
+Modo breviss.° di comporre a’ quattro voci, et più.
+Avertirai sop.a tutto di nꝍ fare le due cꝍsonantie fette simile ascendendo ò descendendo 
+Composto, cħ havvrai tante note, che facciano un'bel passaggio farai la cadenza.
+Le cadenze si debbano sapere, o’, vero tenere avanti.
+Quando è Tenore staranno in consonantia 
+in consonantia unisona.
+[EX. 1]
+finis.
+
+f. 54v
+
+Perche si fanno Canoni cꝍ li sotto scritti nomi greci, acciò che si sappia dove debbi cominciarsi quella parte che haverà il canone cioè regula. Io ho interpretati cotali nomi greci latinamente, et volgarmente, oltra che siano avanti essi nomi ancora scritte le tre capitali dello introductorio musicale di Guidone dal qale fù detto mano musicale,  haverlo accomodato nelle gionture della mano  più facile apprensione, et tenacità di memoria havendo semp la mano nanti gl'occhi.
+Gimellus interpres dictabat
+Diatonicu Guidonis introductoriu Pittagora dimensione dispositu, et in ꝙn partibus.
+									     Latinę.
+Grecé
+
+
+
+
+
+
+
+Tetracordu
+hipaton principaliu
+
+
+
+
+Tetracordum
+mesꝍ .i.
+mediaŗ.
+
+Tretacordu
+sinemenꝍ .i.
+cꝍiuntaŗ.
+
+
+
+
+Tretacordum
+diezeugmeno .i.
+cꝍiuntaŗ.
+
+
+Tretacordu 
+hyperboleon.
+G
+
+Gravissima vel acꝙstata.
+A
+Proslambanomenos
+Gravissima vel acꝙstata.
+
+H
+Hypate Hipaton.
+Principalis principaliu.
+
+C
+parij hipaton
+Principalis principaliu.
+
+b̶
+licanos hipaton
+index principalium.
+
+E
+Hipate meson
+Principalis mediaru.
+
+F 
+Parij patamesꝍ.
+Subprincipalis mediaru.
+
+G
+Lichanos mesꝍ
+Index mediaŗ.
+
+A
+Mese
+media
+
+b ♮
+Trite sinemenꝍ
+tertia cꝍiunctaŗ.
+
+C
+Hete sinemenon
+penult.ma corruptaŗ.
+
+D
+Paramese
+ult.a cꝍiuntaŗ.
+
+E
+Trite diezeugmenꝍ
+sub media
+
+F
+Paramete diezeugmenꝍ
+Tertia disiutaŗ. 
+
+G̶
+Hete diezeugemenꝍ
+ult.a disiuntaŗ. 
+
+A
+Trtite hiper boleon
+tertia excellentiu
+
+B̶
+paramete hiper boleon
+penult.a excellentiu
+
+C
+hete hiper boleon. 
+ultima excellentiu. 
+D̶
+
+
+
+f. 55r
+
+Volgare.
+La sottana, ò vero bassa, ò, vero acꝙstata.
+La principale delle principali.
+La sotto principale delle principali.
+La mostra, o, vero segno delle principali.
+La principale delle mezzane.
+La distruttione ò vero segno delle mezzani.
+La mezzana.
+La terza delle cꝍgionte.
+La penult.a ò, vero propingua all'ult.e delle cꝍgiꝍte.
+L'ultima delle cꝍgiꝍte.
+La sotto mezzana.
+La terza delle disgiꝍte.
+La pen'ult.a delle disgiꝍte.
+L' ult.a delle disgiꝍte ò, vero separate.
+La terza delle separate, ò vero excessive, ò vero sop.a alzate.
+La pen'ult.a delle sop.a alzate
+L'ultima delle sop.a alzate.
+Ligamenti di dissonanze cꝍ cꝍsonaze sono li medesimi, che ti sono, stati dati in cꝍtrapunto improviso: ma per haverci da fare più parte hai dà sapere, et avertire, cħ qn tu legarai una parte nꝍ potrai legare l'altrà, è all'hora tutte deveno accordare cꝍ la parte più bassa, et in ascenzo nꝍ potrai legare mai, è cꝍ la breve potrai legare la semi breve, et cꝍ la semi breve la minima, et cꝍ la minima semiminima havedo rispetto al segno circolare, ò, semi circolare intero, òvero corrotto, et catando anco opere altrui che nꝍ siano legate tu improvvisamente potrai legare tutte le semi breve, et minime, cioè, discendente gradatamente.
+
+f. 55v
+
+Ligamenti à quattro.
+[EX. 1]
+Tenor.
+[EX. 2]
+
+f. 56r
+
+Delli diesis.
+[EX. 1]
+Passaggi del cꝍtraputo  lo basso cꝍpositio.
+[EX. 2]
+
+f. 56v
+
+Passaggi per l'ascenzo gradato.
+[EX. 1]
+Sincope sane.
+[EX. 2]
+Sesꝙaltera.
+[EX. 3]
+
+f. 57r
+
+[EX. 1]
+Passaggi per l'ascenzo disiꝍto di terze.
+[EX. 2]
+
+f. 57v
+
+[EX. 1]
+Passaggi per l'ascenzo disiꝍto di quarte.
+[EX. 2]
+
+f. 58r
+
+[EX. 1]
+Passaggi per l'ascienzo disgiꝍto di quinte.
+[EX. 2]
+
+f. 58v
+
+Per lo discenzo gradato.
+[EX. 1]
+
+f. 59r
+
+Per lo descenzo gradato
+Sesꝙaltera.
+[EX. 1- TEXTE]
+
+f. 59v
+
+[EX. 1]
+Passaggi  lo descenzo disgionto di terze.
+[EX. 2]
+Sincope sane.
+[EX. 3]
+
+f. 60r
+
+Passaggi per lo discenzo disgionto di quarte.
+[EX. 1]
+Sincope sane.
+[EX. 2]
+
+f. 60v
+
+Passaggi  lo discenzo di quinte
+[EX. 1]
+Sincope sane.
+[EX. 2]
+Brevissimi documenti per ben' cantare in ogni modo.
+Tre cose principalm.te debba considerare l'accorto cantore, la p.a quali siano le sotto poste parole del canto, perche le parole flebile, et meste richiedono voce flebile, è mesto volto et le parole di honestà, di lode, et d'allegrezza richiedono il volto allegro, sonora, et chiara voce, le parole d'ira, sdegno, et d'arme richiedono il volto minaccioso et foribondo, le parole grave, et sante richiedono volto grave, et pio, et devoto, quale parole dalli buoni cꝍpositori sogliono essere cꝍsiderate, et secꝍdo siano gl'affetti, vi accomodano li tuoni, perche como sono li canti, cosi, si formano gl'animi dell'auditori.
+
+f. 61r
+
+Alle parole flebile si cꝍpone nel quarto et secꝍdo tono, è sesto.
+Alle parole d'allegrezza lascive nel p.° et ottavo tuono.
+Alle parole d'ira, et sdegno il terzo, e ꝙnto tuono, et ancor settimo.
+Et similm.te le parole sarando mescolate si mescolarando li tuoni ancora.
+La secꝍda cosa, che si cꝍsideri la chiave musicale, la qale è uno aperimento delli canti, è, però tali segni son detti chiavi,  li qali si conosceno li nomi delle voci come sono Vt. re. mi. fa'. sol. la. per divina inspiratione, et g~ra di Guidone aretiano frate di S. Benedetto, trovato dall'Hynno di S. Giovanni; Vt queant lapsis, re. resonare fibris. mi. mira gestoŗ. fa. famuli tuoŗ. sol. solve polluti, la. labij reatu S.te Joannes.
+La terza cosa, che si cꝍsideri è qual sia il segno circolare, ò semicircolare, integro ò, corrotto, ò voltato, al sinistro lato, o, cꝍ zifre di nuj poi posti, ò, vero cꝍ punto ò, senza, ò punto in mezzo.
+𝇌 𝇈 3 𝇍 3 𝇎 2
+𝇇 𝇊 𝇈 𝇋 𝇉 𝇍  𝇎  𝇉  3 𝇋 2 𝇎 Ꝝ  
+
+
+Dal segno si mostra qale, et quato sia il valore delle notule, et siano perfette, ò vero imfette è qual misura convenga, cħ si batta, et primam.te dovemo sapere, che quattro sono le note che possono essere imfette cioè valore tre deloro, minore più propingua maxima 𝆶  longa 𝆷 brevis 𝆸, et semibrevis 𝆹. La maxima qual si dice modo maggiore porrà valere tre longhe qn nante qual sia segno circolare, ò, semicircolare starà ò tre pause, cħ occupano quattro righe, et si chiamano pause indiciale dall'inditij, che danno e nꝍ si debbano facere, ut infra.
+Modo maggiore, et minore, è tempo fetto, et prolatione fetta.
+[EX. 1]
+Si possono anco signare la maxima fetta dalle tre pause dopo il segno poste è cħ cꝍteneno et tacciano esse pause, et siano chiamate essentiale, et inditiale e modo maggiore, è minore.
+Tempo fetto, et prolatione imperfetta.
+[EX. 2]
+Modo maggiore perfetto, modo minore imfetto, è, tempo fetto, et prolatione Imfetto.
+
+f. 61v
+
+[EX. 1]
+Lo modo minore fetto cioè la longa fetta se potrà signare da una sol pausa cħ occupa tre spatij nanti il segno circolare, ò semicircolare intero, ò, vero corrotto, et si dirà indiciale, e nꝍ si tace, è dopo tal segno ancora, et all'hora sarrà indiciale, ò essetiale, et si debba tacere.
+[EX. 2]
+Modo minore fetto, et tempo fetto [𝇌] modo minore fetto, et tepo imfetto.
+Lo modo minore fetto è tempo fetto lo segna vario dalli musici antichi cꝍ lo circolo, et zifra binaria, qualcosa s'usa dalli musici moderni.
+Modo minore perfetto, è tempo imperfetto.
+[EX. 3]
+Lo tempo si chiama la breve, et può essere fetta, et imfetta la breve lo tempo fetto si mostra cꝍ lo circolo intero, ò vero corrotto, et dalli antichi si segnava anco cꝍ due pause di semi breve insieme poste ancora cꝍ tre breve negre.
+[EX. 4]
+In qesto segno, 𝇈, se canta una semibreve à botta, et in qesto corrotto 𝇉 due, et dalli musici antichi tal segno si cantavano tre  due, et che era sesꝙaltera, et il compositore in qesto deve,  𝇈, intero deve cꝍponere corrotto ad senario accio' che si possa cantare in tutte sop.a dette maniere, cioè una semibreve à botta, et due semi breve à botta, et tre semi breve à botta.
+Quid est prolatio, et semibrevis fettę quantitas.
+Della prolatione.
+La prolatione quale starà la semi breve essere fetta si mostra dal punto in circolo posto, ò, vero in semicircolo intero, ò, vero corrotto.
+[EX. 5
+	Tempo fetto			         Tempo imfetto et 
+       et prolatiꝍe fetta.	                  Prolatione imfetta.]
+
+f. 62r
+
+Dalli antichi si segnava anco cꝍ due pause de minima, et una minima seguete da numerarsi cꝍ tal pause insieme poste, et ancora cꝍ tre semi breve negre insieme poste in princ.°
+[EX. 1]
+Prolatione perfetta.
+La prolatione fetta dalli antichi si chiamava maggiore. Il cħ dalli moderni si dice essere falso, che la semibreve, ò cħ vaglia tre minime, ò cħ vaglia due semp have una medesima grandezza di forma come nꝍ ha la maxima, è la longa, et o' con raggione si dicono modo maggiore, è, minore.
+La prolatione imfetta essere nꝍ trovandosi in circolo punto, ò vero in semicircolo intero ò corrotto li antichi in sino all'età di Giosꝙno hanno cantato una minima à botta in prolatione perfetta del circolo, et semicircolo col punto, cioè cosi' 𝇇 𝇊  et essendo tagliato doi minime 𝇇  𝇊̍  et in questi signavano quando all'hora pareva.
+[EX. 1]
+Li detti musici moderni nꝍ voleno che nella prolatione fetta diminuita' quattro la raggione è cħ la minima nꝍ ha divisione ternaria, è l'ultima delle note essentiali, et lo punto nꝍ fa' altro cħ fetta la semibreve, cħ p.a valeva due minime cħ facevano una battuta, et poi ne deva valere tre, ma nꝍ che la minima cresca di valore, et cossi' basta à conoscere la prolatione fetta. Et quando in una cꝍpositione stando dui segni uno intero, et l'altro corrotto, l'integro deve restare nella sua integrità, et lo corrotto si deve diminuire del che l'antichi facevano lo cꝍtrario, et di ciò si trovano esempli di molti, et molti autori.
+
+In questo segno 𝇋 una semibreve à botta in questo 𝇍  ò vero in qesto 𝇊 2, ò, vero in qesto 𝇌 una breve una breve si canta à botta in questo 𝇎 ò, vero in qesto 𝇍2 𝇍2 una longa à botta in qesto 𝇎 2 ò vero in qesto 𝇍Ꝝ una maxima à botta. In qesto 𝇎Ꝝ due maxime à botta, et sic de sim[libq]
+Tre cose diminuiscono li segni in lineari, rivoltarsi al sinistro lato, et inagiꝍgere le zifre de nuj.
+ 𝇋 𝇍  𝇋  2 𝇌 / 𝇎 2 𝇍  Ꝝ  /  𝇎 Ꝝ
+
+L'antichi solevano senza reggione signare cosi, 𝇌 , la sesꝙaltera, ò,  dir meglio la sop.a t[e]rtia quod necessit abusu.
+
+f. 62v
+
+[EX. 1]
+L'antichi cantandosi questo circolo intero 𝇈, ò, vero semi circolo corrotto 𝇍 facevano radoppiare di valore le note delli segni interri corrotti più facilità di cantare, cħ me si sapeva cantare allora, che la musica nꝍ era tanto prattica, et exercitata il cħ si prova e~re falso, cħ li segni interi devono remanere nella loro integrità, cħ p.a furono li segni interi cħ li corrotti, et li segni corrotti si deveno diminuire, et chi nꝍ sa cantare vada ad imparare.
+Essempio
+[EX. 2]
+Le quantità fette si possono signare tutte insieme in una parte, et in tutte le parte cħ catano insieme, è come parirà al cꝍpositore una, ò ver due purcħ dove le segna l'osserva è numera bene.
+[EX. 3]
+ finis delle cꝍsonantie.
+Essendo comprese le varie cꝍsonantie dell'orecchie, et cercando pitagora filosofo come si havessero possuto scrivere  raggione, cħ se li forastieri l'havessero saputo, atteso cħ le voci nꝍ sono visibili, come audibili ne possendo trovarle cꝍ studio lo trova à caso, e sorte, cħ passando  una botega di ferrari li vennero all'orreccchie alcune cꝍsonatie nate dal batter del martello, et  brevità dirò cħ fece portare li martelli secondo cħ conosceva, che facevano le cꝍsonantie, et cosi' trovò, cħ dalli martelli ch'era improportione sesꝙott[a]va 9 8 ò vero su ottava nascea il tono, cħ già ò si dice haver novi commiti, cioè nove particelle  [et] qelli,
+
+f. 63r
+
+che erano deforcati in proportione sesꝙterza, ò, vero suterza   nasca la diatessarꝍ è da qelli ch'erano in proportione quadrupla sesꝙaltera  nasca la diapente, et da qelli ch'erano in proportione  nascea l'ottava, et da qelli ch'erano in proportione tripla 3 nasce la duodecima, et da qelli ch'erano in proportione quadrupla nasce la quinta decima. Et qesto solo tal martelli poi, è stato trovato  divisioni, et moltiplicationi, et sottrationi di proportioni, che la terza minore nasce dalla proportione sesꝙquarta  et la sesta maggiore dalla proportione subiparciens ꝙntas. et la sesta minore dalla proportione subiparcies tertias. et il semitonio minore della proportione , è il semitonio maggiore della proportione , et il comma della proportione.
+Et di qeste proportione tutte si potrà fare esperienza cꝍ cordi differenti di longhezza in tal proportione cꝍ distenderli appiccicandoci pesi differenti in tal proportione, ò vero cꝍ particelli lontani tanto tanto tanto tra le corde, che facciano del proportione, et faran tali cꝍsonantie, et similm.te riesce in campane, che si facessero di pesi differenti in tal proportioni.
+Il canto piano ò vero fermo cosi detto cħ vada tardamente p.a si cantava bene secꝍdo la varietà delle sue note, cħ gia gi sono longhe, et breve, et semi breve, et minime negre come adesso si vede nel credo di cardinali poi  ignorala di pnti cħ si canta da molti insieme, et nꝍ tutti stanno si fece la nota cħ sta sola cosi' 𝇓 [breve noire] si chiama semplice cioè sola, qn è ligata dicesi cꝍgiꝍta cosi'  [EX. 1] si fa' di note recte, ò ver di note oblique, et torte Et qn la ligatura del canto piano saglie cꝍ due note nꝍ essere deve la virgula discendente [EX. 2] cħ tutte le prime, et medie notule devono essere breve dalle legature del canto                  piano et l'ult.a deve essere longa, cħ la perfettione delle cose si vede al fine, ch'alla longa si fa' in tre maniere 𝇕 […EX. 3] 𝇔 la nota in forma di semi breve si dice mediare cosi' di queste nꝍ si deve mai fare una sola che nꝍ saria tutta la misura, ma due  misura, et quando sono tre insieme si cantano  sesꝙaltera in una misura, et quando fussero cin le due si catavano  una misura, et le tre  un'altra appresso.
+E da' sapere, cħ tal note erano come diminutione, et pero' nꝍ vi si metteveno parole, cħ si facevano sagliendo, ch'è più facil lo descenzo, cħ l'ascenzo.
+Se vi trovassero minime negre si cantano come nel madrigale del p.° libro moi, nꝍ offende più morte, ne ci bisogna segno, che se vi si ponesse 𝇋,o, ver 𝇍  si canteriano  hemiolia metterci tal segno 𝇍 è qn volesse, che si cantasse secꝍdo la forma, è qualità delle note, et tu ci scrivi sop.a ut poscit vel p^cifrit ars, et idem cantasi come comanda l'altre.
+Le lineę, che stanno  mezzo delli canti piani si domandano distensioni, et si fanno in log[hi] d[ov]e possono incominciare li loro fini.
+
+f. 63v
+
+Li canti piani si cꝍponeno per toni regulari nella chiave di i 𝄡 li regulari finiscono in d. sol. re. in è. la. mi. in ef. fa. ut. in. G. sol. re. ut. li irregulari finiscono una ꝙnta sop.a tal lochi, talcħ il terzo tono, cħ nꝍ si può fare in b. fa. b. mi, ma se farà  b. molle finendo all' la.mi.re.
+Li toni sono essere diapasꝍ cꝍposto de diatessarꝍ, et de diapente come si è detto nelli toni del canto piano si empie l'ottava si dice fetto, si va' sù alla decima si d.e più cħ fetto.  Et cħ p.° terzo, ꝙnto, et settimo sono detti autetici, cħ vanno sop.a i lor fini fin'al'ottava, è più è sotto il fine, e il diapente sop.a
+Qn il canto piano fosse partecipe dell'uno, è dell'altro tono che del suo collaterale, ò ver cꝍpagno se dirà tono cꝍmisto, et di qesti, et delli canti piani di poco ascenzo, è discenso se n'e scritto facilmete.
+Li versi dell'introiti, et alleluia nꝍ sꝍ sogetti à tono dopo l'antifone nelle vese si segna le evovae delli seculoŗ. Amen; le tre vocali sono tutte unite insieme.
+Averti che li canti delli salmi nꝍ si devono dire toni ma salmodie cioè da cantar capitoli, è sonetti, et molti s'ingannano et cꝍponeno mottetti, et messe  talmodo, et fine pensandosi toni, ma l'antifone son qelle cħ sꝍ d'alcun tono, et cosi' si deve dire salmodie del Antifone del p.° et secꝍdo, ò altro tono questi nomi nꝍ si trovano.
+finis.
+
+f. 64r
+
+Della musica cromatica.
+[EX. 1]
+Le quarte quinte ottave di salto si possono fare. ma nꝍ gradatamente  toni, ma cosi como ut sup.a
+Resolutio quod cꝍtinet in b. fa. b. mi. 	Ego gimellus.
+Duo  mutatio est variatio nominu, et n[u] vocu sed in b. fa. b. mi. vari[a]ntur voces, et nia, et cħ mi. è fa nꝍ ponno stare in una voce ergo nꝍ potest fieri mutat[io.]
+Tutte le cꝍsonantie fette che si dicono fette che nꝍ posson diminuirse, ne augmetarsi.
+Ma tutte le consonantie perfette si, e però son dette maggiore, et minore, le longhe, et corte, è questa dadios è fatto perche la musica, hor cantando s'allarga et hora se stringe, et raggionevolmente alle fette si deve gire cꝍ le fette più vicine cioè dalla terza maggiore si deve gire alla quinta, et alla ottava come aqui.
+
+Exemplum
+Volta
+
+f. 64v
+
+[EX. 1]
+Et similmente dalle decime maggiore gire alla duodecima et alla ꝙnta decima et quando nꝍ ci sono naturalmente si devon fare accidentalmente ponedosi la voce di cinque come sogliono, et de quattro discendendo.
+[EX. 2]
+Et similmente si dice dalla sesta cħ quando da lei si va' all'ottava ò vero decima allargando il canto deve essere maggiore come questa
+[EX. 3]
+Et qn nꝍ ci siano naturalm.te si debbano fare maggiore accidentalm.te aggiꝍgendoci [ascendendo] il semitonio maggiore […] et descendo de quattro[…]
+Finis.
+</p>
+                
+                
+                
+                
+                
+                
+                
+                
+            </div1>
+            
+            
+            
+            
+            
+            
+        </body>
+    </text>
+</TEI>

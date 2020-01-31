@@ -270,10 +270,9 @@
                            <xsl:otherwise>
                               
                               
-                             <xsl:attribute name="src"> <xsl:value-of select="$doc.dir"></xsl:value-of>index/index.html</xsl:attribute> 
+                              <!-- <xsl:attribute name="src"> <xsl:value-of select="$doc.dir"></xsl:value-of>index/index.html</xsl:attribute>  -->
                               
-                              <!--  <xsl:attribute name="src"><xsl:value-of select="$xtfURL"
-                              />view?<xsl:value-of select="$edit.href"/></xsl:attribute>-->
+                              <xsl:attribute name="src"><xsl:value-of select="$xtfURL" />view?<xsl:value-of select="$edit.href"/></xsl:attribute>
                               
                            </xsl:otherwise>
                         </xsl:choose>

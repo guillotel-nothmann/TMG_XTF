@@ -10974,7 +10974,7 @@
 
           <item xml:id="accord">
             <title>Accord</title>
-          </item>
+          </item> 
 
           <item xml:id="acumen">
             <title>Acumen</title>
@@ -10991,6 +10991,14 @@
           <item xml:id="adagio">
             <title>Adagio</title>
           </item>
+          
+          <item xml:id="aequal">
+            <title>Aequal</title>
+          </item>
+          
+          <item xml:id="aequalprincipal">
+            <title>Aequalprincipal</title>
+          </item>
 
           <item xml:id="aeolius">
             <title>Æolius modus</title>
@@ -10998,9 +11006,7 @@
 
           <item xml:id="aequalis">
             <title>Æqualis (Proportio)</title>
-          </item>
-
-
+          </item> 
 
           <item xml:id="affectus">
             <title>Affectus [Affect]</title>
@@ -11009,6 +11015,11 @@
           <item xml:id="affinalis">
             <title>Affinalis</title>
           </item>
+          
+          <item xml:id="alabaster">
+            <title>Alabaster</title>
+          </item>
+
 
           <item xml:id="alfabeto">
             <title>Alfabeto</title>
@@ -11066,6 +11077,10 @@
           <item xml:id="antiphona">
             <title>Antiphona [Antiphon]</title>
           </item>
+          
+          <item xml:id="apfelregal">
+            <title>Apfelregal</title>
+          </item>
 
           <item xml:id="apostrophos">
             <title>Apostrophos</title>
@@ -11094,6 +11109,10 @@
           <item xml:id="arsis">
             <title>Arsis</title>
           </item>
+          
+          <item xml:id="ascendendo">
+            <title>Ascendendo</title>
+          </item>
 
           <item xml:id="auditor">
             <title>Auditor</title>
@@ -11101,6 +11120,10 @@
 
           <item xml:id="aufloesung">
             <title>Auflösung</title>
+          </item>
+          
+          <item xml:id="aufschnitt">
+            <title>Aufschnitt</title>
           </item>
 
           <item xml:id="augmentatio">
@@ -11114,6 +11137,11 @@
             <!-- entries with authenta -->
             <title>Authentus</title>
           </item>
+          
+          
+          <item xml:id="baerpfeife">
+            <title>Baerpfeife</title>
+          </item>
 
           <item xml:id="baletto">
             <title>Baletto [Balett]</title>
@@ -11126,6 +11154,14 @@
           <item xml:id="bandor">
             <title>Bandor</title>
           </item>
+          
+          <item xml:id="barem">
+            <title>Barem</title>
+          </item>
+          
+          <item xml:id="bart">
+            <title>Bart</title>
+          </item>
 
           <item xml:id="barytonus">
             <title>Baryton</title>
@@ -11137,6 +11173,10 @@
 
           <item xml:id="bassus">
             <title>Bass</title>
+          </item>
+          
+          <item xml:id="bassgeige">
+            <title>Bassgeige</title>
           </item>
 
           <item xml:id="bassetto">
@@ -11166,11 +11206,22 @@
           <item xml:id="basslaute">
             <title>Basslaute</title>
           </item>
-
+          
+          <item xml:id="basslein">
+            <title>Basslein</title>
+          </item> 
+          
+          <item xml:id="basspfeife">
+            <title>Basspfeife</title>
+          </item> 
 
 
           <item xml:id="bassposaune">
             <title>Bassposaune</title>
+          </item>
+          
+          <item xml:id="bassstimme">
+            <title>Bassstimme</title>
           </item>
 
           <item xml:id="bassviola">
@@ -11180,6 +11231,14 @@
           <item xml:id="bauernlied">
             <title>Bauernlied</title>
           </item>
+          
+          <item xml:id="bauernfloete">
+          <title>Bauerenfloete</title>
+          </item>
+          
+          <item xml:id="befiddern">
+            <title>Befiddern</title>
+          </item>
 
           <item xml:id="begleitung">
             <title>Begleitung [accompagnatur]</title>
@@ -11187,6 +11246,10 @@
 
           <item xml:id="bergamasca">
             <title>Bergamasca</title>
+          </item>
+          
+          <item xml:id="bicinium">
+            <title>Bicinium</title>
           </item>
 
           <item xml:id="bCancellatum">
@@ -11232,13 +11295,25 @@
           <item xml:id="blasinstrument">
             <title>Blasinstrument</title>
           </item>
+          
+          <item xml:id="blatt">
+            <title>Blatt</title>
+          </item>
+          
+          <item xml:id="blei">
+            <title>Blei</title>
+          </item>
 
           <item xml:id="blockfloete">
             <title>Blockflöte [Blockfloͤit]</title>
           </item>
+          
+          <item xml:id="blockpfeife">
+            <title>Blockpfeife</title>
+          </item>
 
           <item xml:id="bogen">
-            <title>Bogen</title>
+            <title>Bogen (Steichinstrument)</title>
           </item>
 
           <item xml:id="bogenPosaune">
@@ -11248,6 +11323,10 @@
           <item xml:id="bordone">
             <title>Bordone</title>
           </item>
+          
+          <item xml:id="bordun">
+            <title>Bordun</title>
+          </item>
 
           <item xml:id="bombarde">
             <title>Bombard, [Bombardo] Doppelbombard, Bombardino</title>
@@ -11255,12 +11334,7 @@
 
           <item xml:id="bombyx">
             <title>Bombyx</title>
-          </item>
-
-          <item xml:id="brevis">
-            <title>Brevis</title>
-            <ref type="ext" subtype="tinctorisTerminorum" target="#tinctorisTerminorumA3v"/>
-          </item>
+          </item> 
 
           <item xml:id="bransle">
             <title>Bransle</title>
@@ -11269,6 +11343,23 @@
           <item xml:id="bratsche">
             <title>Bratsche</title>
           </item>
+          
+          <item xml:id="breite_mensur">
+            <title>Breite Mensur</title>
+          </item>
+          
+          <item xml:id="brevis">
+            <title>Brevis</title>
+            <ref type="ext" subtype="tinctorisTerminorum" target="#tinctorisTerminorumA3v"/>
+          </item> 
+          
+          <item xml:id="brustpositiv">
+            <title>Brustpositiv</title> 
+          </item> 
+          
+          <item xml:id="brustwerk">
+            <title>Brustwerk</title> 
+          </item> 
 
           <item xml:id="buccina">
             <title>Buccina</title>
@@ -11281,7 +11372,11 @@
           <item xml:id="cadentia">
             <title>Cadentia [Cadenz]</title>
           </item>
-
+          
+          <item xml:id="calcant">
+            <title>Calcant</title>
+          </item> 
+          
           <item xml:id="canon">
             <title>Canon</title>
           </item>
@@ -11408,6 +11503,10 @@
           <item xml:id="chelys">
             <title>Chelys</title>
           </item>
+          
+          <item xml:id="chiterini">
+            <title>Chiterini</title>
+          </item>
 
           <item xml:id="cithara">
             <title>Cithara</title>
@@ -11428,9 +11527,21 @@
           <item xml:id="chor">
             <title>Chor</title>
           </item>
+          
+          <item xml:id="chor_Register">
+            <title>Chor (Register)</title>
+          </item>
 
           <item xml:id="choral">
             <title>Choral</title>
+          </item>
+          
+          <item xml:id="choralbass">
+            <title>Choralbass</title>
+          </item>
+          
+          <item xml:id="choralconcordanz">
+            <title>Choralconcordanz</title>
           </item>
 
           <item xml:id="chorda">
@@ -11443,6 +11554,10 @@
 
           <item xml:id="choristfagott">
             <title>Choristfagott</title>
+          </item>
+          
+          <item xml:id="chormasse">
+            <title>Chormasse</title>
           </item>
 
           <item xml:id="chorton">
@@ -11478,6 +11593,10 @@
             <title>Cisternkragen</title>
           </item>
 
+          <item xml:id="clausula">
+            <title>Clausula</title>
+          </item>
+          
           <item xml:id="clausulaAffinalis">
             <title>Clausula affinalis</title>
           </item>
@@ -11560,8 +11679,6 @@
             <title>Clavizymbel</title>
           </item>
 
-
-
           <item xml:id="clavisImpedimentalis">
             <title>Clavis impedimentalis</title>
           </item>
@@ -11590,8 +11707,8 @@
             <title>Componist</title>
           </item>
 
-          <item xml:id="compositio">
-            <title>Compositio</title>
+          <item xml:id="composition">
+            <title>Composition</title>
           </item>
 
           <item xml:id="compositor">
@@ -11687,6 +11804,14 @@
           <item xml:id="contrapunctusSimplex">
             <title>Contrapunctus simplex</title>
           </item>
+          
+          <item xml:id="coppel">
+            <title>Coppel</title>
+          </item>
+          
+          <item xml:id="coppelfloete">
+            <title>Coppelfloete</title>
+          </item>
 
           <item xml:id="cornet">
             <title>Cornet</title>
@@ -11736,9 +11861,22 @@
           <item xml:id="cythara">
             <title>Cythara</title>
           </item>
+          
+          
+          <item xml:id="decachordum">
+            <title>Decachordum</title>
+          </item>
 
           <item xml:id="decastichon">
             <title>Decastichon</title>
+          </item>
+          
+          <item xml:id="deckel_Pfeifendeckel">
+            <title>Deckel (Pfefendeckel)</title>
+          </item>
+          
+          <item xml:id="deckhuette">
+            <title>Deckhuette</title>
           </item>
 
           <item xml:id="decima">
@@ -11807,6 +11945,10 @@
 
           <item xml:id="depressio">
             <title>Depressio</title>
+          </item>
+          
+          <item xml:id="descendendo">
+            <title>Descendendo</title>
           </item>
 
           <item xml:id="deuterus">
@@ -11896,6 +12038,10 @@
           <item xml:id="disdiapason_cum_diapente">
             <title>Disdiapason cum diapente</title>
           </item>
+          
+          <item xml:id="disposition">
+            <title>Disposition</title>
+          </item>
 
           <item xml:id="distantia">
             <title>Distantia</title>
@@ -11932,6 +12078,10 @@
           <item xml:id="ditonus">
             <title>Ditonus</title>
           </item>
+          
+          <item xml:id="doeff">
+            <title>Doeff</title>
+          </item>
 
           <item xml:id="doppelbombard">
             <title>Doppelbombard</title>
@@ -11943,6 +12093,10 @@
 
           <item xml:id="dorius">
             <title>Dorius modus</title>
+          </item>
+          
+          <item xml:id="drahtStimmung">
+            <title>Draht Stimmung</title>
           </item>
 
           <item xml:id="dulzian">

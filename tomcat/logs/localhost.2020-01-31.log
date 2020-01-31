@@ -1,0 +1,4 @@
+janv. 31, 2020 2:01:38 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextInitialized()
+janv. 31, 2020 2:01:38 PM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextInitialized()
