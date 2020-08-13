@@ -28,3 +28,37 @@ janv. 31, 2020 2:01:38 PM org.apache.jk.server.JkMain start
 INFOS: Jk running ID=0 time=0/12  config=null
 janv. 31, 2020 2:01:38 PM org.apache.catalina.startup.Catalina start
 INFOS: Server startup in 427 ms
+janv. 31, 2020 5:19:07 PM org.apache.coyote.http11.Http11Protocol pause
+INFOS: Suspension de Coyote HTTP/1.1 sur http-8080
+janv. 31, 2020 5:19:13 PM org.apache.catalina.core.StandardService stop
+INFOS: Arrêt du service Catalina
+janv. 31, 2020 5:19:13 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+GRAVE: The web application [/xtf] appears to have started a thread named [Thread-9] but has failed to stop it. This is very likely to create a memory leak.
+janv. 31, 2020 5:19:13 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [null] (value [null]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@391a7945]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+janv. 31, 2020 5:19:13 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@3264a4b2]) and a value of type [org.cdlib.xtf.util.PackedByteBuf.CompressInfo] (value [org.cdlib.xtf.util.PackedByteBuf$CompressInfo@1efa49a0]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+janv. 31, 2020 5:19:13 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [null] (value [null]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@35434353]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+janv. 31, 2020 5:19:13 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [null] (value [null]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@7d436fb5]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+janv. 31, 2020 5:19:13 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@f095c96]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@43f2a39e]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+janv. 31, 2020 5:19:13 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [null] (value [null]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@6c042968]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+janv. 31, 2020 5:19:13 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [null] (value [null]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@a5ccd9a]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+janv. 31, 2020 5:19:13 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [null] (value [null]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@4ff4ddab]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+janv. 31, 2020 5:19:13 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [null] (value [null]) and a value of type [org.apache.lucene.index.SegmentTermEnum] (value [org.apache.lucene.index.SegmentTermEnum@19cc7998]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+janv. 31, 2020 5:19:13 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@3264a4b2]) and a value of type [org.cdlib.xtf.util.PackedByteBuf.CompressInfo] (value [org.cdlib.xtf.util.PackedByteBuf$CompressInfo@544e5ca0]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+janv. 31, 2020 5:19:13 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@3264a4b2]) and a value of type [org.cdlib.xtf.util.PackedByteBuf.CompressInfo] (value [org.cdlib.xtf.util.PackedByteBuf$CompressInfo@38126bae]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+janv. 31, 2020 5:19:13 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@3264a4b2]) and a value of type [org.cdlib.xtf.util.PackedByteBuf.CompressInfo] (value [org.cdlib.xtf.util.PackedByteBuf$CompressInfo@5162e082]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+janv. 31, 2020 5:19:13 PM org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/xtf] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@3264a4b2]) and a value of type [org.cdlib.xtf.util.PackedByteBuf.CompressInfo] (value [org.cdlib.xtf.util.PackedByteBuf$CompressInfo@2b18438f]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+janv. 31, 2020 5:19:13 PM org.apache.coyote.http11.Http11Protocol destroy
+INFOS: Arrêt de Coyote HTTP/1.1 sur http-8080
