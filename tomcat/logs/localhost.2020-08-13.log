@@ -18,3 +18,7 @@ août 13, 2020 6:30:34 PM org.apache.catalina.core.ApplicationContext log
 INFOS: ContextListener: contextInitialized()
 août 13, 2020 6:30:34 PM org.apache.catalina.core.ApplicationContext log
 INFOS: SessionListener: contextInitialized()
+août 13, 2020 7:54:50 PM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextDestroyed()
+août 13, 2020 7:54:50 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextDestroyed()
