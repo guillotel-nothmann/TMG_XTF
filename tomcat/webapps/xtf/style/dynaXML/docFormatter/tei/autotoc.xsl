@@ -288,10 +288,26 @@
                            </xsl:with-param>
                         </xsl:call-template>
                      </xsl:when>
+                     <xsl:when test="*:title">
+                        <xsl:call-template name="substring">
+                        <xsl:with-param name="titleParam">
+                           <xsl:apply-templates select="*:title[1]" mode="text-only"/>
+                        </xsl:with-param>
+                        </xsl:call-template> 
+                     </xsl:when>
+                     
+                     <xsl:when test="name()='head'">
+                        <xsl:call-template name="substring">
+                           <xsl:with-param name="titleParam">
+                              <xsl:apply-templates select="." mode="text-only"/>
+                           </xsl:with-param>
+                        </xsl:call-template>  
+                     </xsl:when>
+                     
                      <xsl:otherwise>
                         <xsl:call-template name="substring">
                            <xsl:with-param name="titleParam">
-                              <xsl:apply-templates select="*:title" mode="text-only"/>
+                              <xsl:apply-templates select="parent::*[1]/@*:id" mode="text-only"/>
                            </xsl:with-param>
                         </xsl:call-template>
                      </xsl:otherwise>
@@ -319,13 +335,28 @@
                            </xsl:with-param>
                         </xsl:call-template>
                      </xsl:when>
-                     <xsl:otherwise>
+                     <xsl:when test="*:title">
                         <xsl:call-template name="substring">
                            <xsl:with-param name="titleParam">
                               <xsl:apply-templates select="*:title" mode="text-only"/>
                            </xsl:with-param>
                         </xsl:call-template>
 
+                     </xsl:when>
+                     
+                     <xsl:when test="name()='head'">
+                        <xsl:call-template name="substring">
+                           <xsl:with-param name="titleParam">
+                              <xsl:apply-templates select="." mode="text-only"/>
+                           </xsl:with-param>
+                        </xsl:call-template>  
+                     </xsl:when>
+                     <xsl:otherwise>
+                        <xsl:call-template name="substring">
+                           <xsl:with-param name="titleParam">
+                              <xsl:apply-templates select=" parent::*[1]/@*:id" mode="text-only"/>
+                           </xsl:with-param>
+                        </xsl:call-template>
                      </xsl:otherwise>
                   </xsl:choose>
 

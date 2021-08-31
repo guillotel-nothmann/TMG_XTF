@@ -1,0 +1,24 @@
+août 01, 2021 10:58:00 AM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextInitialized()
+août 01, 2021 10:58:00 AM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextInitialized()
+août 01, 2021 11:01:28 AM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextDestroyed()
+août 01, 2021 11:01:28 AM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextDestroyed()
+août 01, 2021 11:02:11 AM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextInitialized()
+août 01, 2021 11:02:11 AM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextInitialized()
+août 01, 2021 11:03:30 AM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextDestroyed()
+août 01, 2021 11:03:30 AM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextDestroyed()
+août 01, 2021 11:16:37 AM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextInitialized()
+août 01, 2021 11:16:37 AM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextInitialized()
+août 01, 2021 9:01:34 PM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextDestroyed()
+août 01, 2021 9:01:34 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextDestroyed()

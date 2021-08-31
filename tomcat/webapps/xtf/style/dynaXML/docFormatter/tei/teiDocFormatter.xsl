@@ -373,7 +373,7 @@
             <link rel="stylesheet" type="text/css" href="{$css.path}{$content.css}"/>
             <link rel="shortcut icon" href="icons/default/favicon.ico"/>
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"/>
-            <script src="http://www.verovio.org/javascript/latest/verovio-toolkit.js"/>
+            <!--  <script src="http://www.verovio.org/javascript/latest/verovio-toolkit.js"/>-->
             
          </head>
          <body>

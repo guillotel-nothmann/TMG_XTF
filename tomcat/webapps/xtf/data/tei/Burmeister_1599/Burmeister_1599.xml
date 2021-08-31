@@ -2837,7 +2837,7 @@
                <lb facs="#facs__region_id_3_line0000" n="N001"/>EX CAPITE DE CA <lb
                   facs="#facs__region_id_3_line0001" n="N001"/>RAcTERSSM.</head>
          </div>
-         <div>
+         <div xml:id="iiieo">
             <head facs="#facs__region_id_4">
                <lb facs="#facs__region_id_4_line0000" n="N001"/>De Scalâ.</head>
             <p facs="#facs__region_id_5">
@@ -2859,7 +2859,7 @@
                ſitum alterius CtA- <lb facs="#facs__region_id_10_line0001" n="N001"/>VIS ſuô locô in
                ScALA præfixæ.</p>
          </div>
-         <div>
+         <div xml:id="iiieog">
             <head facs="#facs__region_id_11">
                <lb facs="#facs__region_id_11_line0000" n="N001"/>DE (LVIBV ET I.</head>
             <p facs="#facs__region_id_12">
