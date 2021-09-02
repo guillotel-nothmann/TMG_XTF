@@ -2251,10 +2251,7 @@
             <br/>
             <xsl:if test="parent::*:p or parent::*:item">
                <br/>
-            </xsl:if>
-
-
-
+            </xsl:if> 
             <xsl:choose>
                <xsl:when test="ancestor::*:note/@type = 'marginalia'">
                   <div id="{@target}"
@@ -2321,6 +2318,42 @@
             <xsl:apply-templates/>
 
          </xsl:when>
+         
+         
+         <xsl:when test="//*:editionStmt/*:respStmt/*:name/@xml:id = 'page2Tei'">
+            <xsl:variable name="pageId" select=" substring(*:graphic/@url, 2)"/>
+            
+            <xsl:variable name="legend">
+               <xsl:if test="//*:witness/*:msDesc/*:msIdentifier/*:institution">
+                  <xsl:value-of select="//*:witness/*:msDesc/*:msIdentifier/*:institution"/>
+                  <xsl:text>, </xsl:text>
+               </xsl:if>
+               <xsl:if test="//*:witness/*:msDesc/*:msIdentifier/*:idno">
+                  <xsl:value-of select="//*:witness/*:msDesc/*:msIdentifier/*:idno"/>
+                  <xsl:text>, </xsl:text>
+               </xsl:if>
+               <xsl:value-of select=" substring-after(//*:surface[*:zone/@xml:id=$pageId]/@xml:id, '_')"/>
+               <xsl:text>, </xsl:text>
+               <xsl:if test="//*:witness/*:bibl/*:relatedItem/*:bibl/*:ident/@type='urn'">
+                  <xsl:value-of select="//*:witness/*:bibl/*:relatedItem/*:bibl/*:ident[@type='urn']"/>
+                  <xsl:text>.</xsl:text>
+               </xsl:if>
+             
+            </xsl:variable>
+          
+            
+            
+            <div align="center">
+               <xsl:apply-templates/>
+               <p class="noindent"
+                  style="text-align:center; line-height:1em; font-size: 0.75em"> 
+                  <a style="color:brown; text-decoration: none;"
+                     target="_new" href="{//*:surface[*:zone/@xml:id=$pageId]/*:graphic/@url}"><xsl:value-of select="$legend"/></a> 
+               </p>
+               
+               
+            </div>        
+         </xsl:when>
 
          <xsl:otherwise>
             <div align="center">
@@ -2369,28 +2402,11 @@
             <xsl:variable name="region" select="concat('pct:',$x,',',$y,',',$w,',',$h)"/>
             <xsl:variable name="urlRegion" select="replace($url,'full/full/', concat($region,'/pct:30/'))"/>
             
-         
-            
+                     
             <a>
                <img src="{$urlRegion}"  alt="image"/>
             </a>
             
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
          </xsl:when>
          <xsl:otherwise>

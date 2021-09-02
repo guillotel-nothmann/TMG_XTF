@@ -3,11 +3,15 @@
         <teiHeader>
                 <fileDesc>
                         <titleStmt>
-                                <title type="main"> : . (1757)</title>
-                                <author><forename full="yes"/>
-                                        <surname full="yes"/></author>
-                                <editor><forename full="yes">[namePart]</forename><surname
-                                                full="yes">[namePart]</surname></editor>
+                                <title type="main">Alembert, Jean Le Rond d' ; 1717-1783
+                                        Systematische Einleitung in die musicalische Setzkunst.
+                                        (1757).</title>
+                                <author>Systematische Einleitung in die musicalische
+                                        Setzkunst</author>
+                                <respStmt>
+                                        <resp>Electronic transcription and edition</resp>
+                                        <name>Christophe Guillotel-Nothmann</name>
+                                </respStmt>
                         </titleStmt>
                         <editionStmt>
                                 <edition>Semiautomatic identification of text zones, diagrams and
@@ -32,34 +36,58 @@
                         </editionStmt>
                         <publicationStmt>
                                 <authority>IReMus UMR 8223</authority>
-                                <date when="2021-08-31+02:00" instant="false"
-                                        >2021-08-31+02:00</date>
+                                <date when="2021-09-02+02:00">02/09/2021</date>
                                 <publisher>TMG</publisher>
                                 <publisher>Thesaurus Musicarum Germanicarum</publisher>
                         </publicationStmt>
                         <sourceDesc default="false">
                                 <p part="N"><listWit>
-                                                <witness xml:id="d2e1"><bibl type="book"
-                                                  default="false" status="draft">
-                                                  <author/>
-                                                  <title> Systematische Einleitung in die
-                                                  musicalische Setzkunst </title>
+                                                <witness xml:id="d2e1"><msDesc>
+                                                  <msIdentifier>
+                                                  <institution> München, Bayerische
+                                                  Staatsbibliothek</institution>
+                                                  <idno>4 Mus.th. 27</idno>
+                                                  </msIdentifier>
+                                                  </msDesc><bibl type="book" default="false"
+                                                  status="draft">
+                                                  <author>Alembert, Jean Le Rond d' ;
+                                                  1717-1783</author>
+                                                  <respStmt>
+                                                  <resp>not specified</resp>
+                                                  <name>Marpurg, Friedrich Wilhelm ;
+                                                  1718-1795</name>
+                                                  </respStmt>
+                                                  <title>Systematische Einleitung in die
+                                                  musicalische Setzkunst</title>
                                                   <lang opt="false">ger</lang>
-                                                  <pubPlace/>
-                                                  <publisher/>
-                                                  <ident/>
-                                                  <date when="1599" instant="false">1757</date>
-                                                  <relatedItem type="digitalFacsimile">
+                                                  <pubPlace>Leipzig</pubPlace>
+                                                  <publisher>Johann Gottlob Immanuel
+                                                  Breitkopf</publisher> 1757 <ident type="bvb-id"
+                                                  >BV001766885</ident>
+                                                  <ident type="oclc">250400474</ident>
+                                                  <ident type="vd18">VD18 14786028-001</ident>
+                                                  <note>Bibliogr. Nachweis: RISM B VI, S. 78</note>
+                                                  <extent>[6] Bl., 136 S. :
+                                                  Notenbeisp.</extent><relatedItem
+                                                  type="digitalFacsimile">
                                                   <bibl type="book" default="false" status="draft">
-                                                  <author/>
-                                                  <title/>
+                                                  <author>Alembert, Jean Le Rond d' ;
+                                                  1717-1783</author>
+                                                  <title>Systematische Einleitung in die
+                                                  musicalische Setzkunst</title>
                                                   <lang opt="false">ger</lang>
-                                                  <pubPlace/>
-                                                  <publisher/>
-                                                  <ident>urn:nbn:de:bvb:12-bsb10527016-5</ident>
-                                                  <date when="2019" instant="false">2019</date>
-                                                  
-                                                  <ptr target=""/>
+                                                  <availability>
+                                                  <licence>Owner: Bayerische Staatsbibliothek
+                                                  </licence>
+                                                  </availability><note type="origin">reformatted
+                                                  digital</note>
+                                                  <ident type="recordIdentifier"
+                                                  >urn:nbn:de:bvb:12-bsb10527015-0</ident><ident
+                                                  type="urn"
+                                                  >urn:nbn:de:bvb:12-bsb10527015-0</ident><ptr
+                                                  type="url"
+                                                  target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10527015-0"
+                                                  />
                                                   </bibl>
                                                   </relatedItem></bibl></witness>
                                         </listWit></p>
@@ -9836,7 +9864,7 @@
         </facsimile>
         <text>
                 <body>
-                        <div xml:id="d164e2">
+                        <div xml:id="d168e2">
                                 <pb facs="#bsb10527015_00000" n="[]" xml:id="pb_bsb10527015_00000"/>
                                 <pb facs="#bsb10527015_00001" n="[]" xml:id="pb_bsb10527015_00001"/>
                                 <pb facs="#bsb10527015_00002" n="[]" xml:id="pb_bsb10527015_00002"/>
@@ -9846,7 +9874,7 @@
                                 <pb facs="#bsb10527015_00006" n="[]" xml:id="pb_bsb10527015_00006"/>
                                 <pb facs="#bsb10527015_00007" n="[]" xml:id="pb_bsb10527015_00007"/>
                         </div>
-                        <div xml:id="d164e10">
+                        <div xml:id="d168e10">
                                 <head facs="#bsb10527015_00007_region_id_0">
                                         <lb xml:id="bsb10527015_00007_region_id_0_line0000" n="N001"
                                         />Hrn. d'Alembert, Mitglieds der koͤnigl. preuß. Academie
@@ -9879,7 +9907,7 @@
                                         <graphic url="#bsb10527015_00009_region_id_0"/>
                                 </figure>
                         </div>
-                        <div xml:id="d164e38">
+                        <div xml:id="d168e38">
                                 <head facs="#bsb10527015_00009_region_id_1">
                                         <lb xml:id="bsb10527015_00009_region_id_1_line0000" n="N001"
                                         />Vorbericht <lb
@@ -10233,7 +10261,7 @@
                                 </figure>
                                 <pb facs="#bsb10527015_00014" n="[]" xml:id="pb_bsb10527015_00014"/>
                         </div>
-                        <div xml:id="d164e345">
+                        <div xml:id="d168e345">
                                 <head facs="#bsb10527015_00014_region_id_0">
                                         <lb xml:id="bsb10527015_00014_region_id_0_line0000" n="N001"
                                         />Vorbericht <lb
@@ -10477,7 +10505,7 @@
                                 </figure>
                                 <pb facs="#bsb10527015_00017" n="[]" xml:id="pb_bsb10527015_00017"/>
                         </div>
-                        <div xml:id="d164e549">
+                        <div xml:id="d168e549">
                                 <head facs="#bsb10527015_00017_region_id_1">
                                         <lb xml:id="bsb10527015_00017_region_id_1_line0000" n="N001"
                                         />Jnhalt.</head>
@@ -10646,7 +10674,7 @@
                                 </figure>
                                 <pb facs="#bsb10527015_00019" n="[]" xml:id="pb_bsb10527015_00019"/>
                         </div>
-                        <div xml:id="d164e688">
+                        <div xml:id="d168e688">
                                 <head facs="#bsb10527015_00019_region_id_1">
                                         <lb xml:id="bsb10527015_00019_region_id_1_line0000" n="N001"
                                         />Einleitung <lb
@@ -10656,7 +10684,7 @@
                                                 n="N001"/>nach den Lehrſaͤtzen des Herrn
                                         Rameau.</head>
                         </div>
-                        <div xml:id="d164e696">
+                        <div xml:id="d168e696">
                                 <head facs="#bsb10527015_00019_region_id_2">
                                         <lb xml:id="bsb10527015_00019_region_id_2_line0000" n="N001"
                                         />Vorbereitung, <lb
@@ -10665,7 +10693,7 @@
                                                 xml:id="bsb10527015_00019_region_id_2_line0002"
                                                 n="N001"/>erklaͤret werden.</head>
                         </div>
-                        <div xml:id="d164e704">
+                        <div xml:id="d168e704">
                                 <head facs="#bsb10527015_00019_region_id_3">
                                         <lb xml:id="bsb10527015_00019_region_id_3_line0000" n="N001"
                                         />. Erſt es Capitel. <lb
@@ -10674,7 +10702,7 @@
                                                 xml:id="bsb10527015_00019_region_id_3_line0002"
                                                 n="N001"/>monie, Jntervall, verſtehet.</head>
                         </div>
-                        <div xml:id="d164e712">
+                        <div xml:id="d168e712">
                                 <head facs="#bsb10527015_00019_region_id_4">
                                         <lb xml:id="bsb10527015_00019_region_id_4_line0000" n="N001"
                                         />§. 1.</head>
@@ -10687,7 +10715,7 @@
                                                 xml:id="bsb10527015_00019_region_id_6_line0002"
                                                 n="N001"/>hinter einander folgen ().</p>
                         </div>
-                        <div xml:id="d164e724">
+                        <div xml:id="d168e724">
                                 <head facs="#bsb10527015_00019_region_id_7">
                                         <lb xml:id="bsb10527015_00019_region_id_7_line0000" n="N001"
                                         />§. 2.</head>
@@ -10718,7 +10746,7 @@
                                         <lb xml:id="bsb10527015_00020_region_id_1_line0000" n="N001"
                                         />Vorbereitung.</fw>
                         </div>
-                        <div xml:id="d164e754">
+                        <div xml:id="d168e754">
                                 <head facs="#bsb10527015_00020_region_id_2">
                                         <lb xml:id="bsb10527015_00020_region_id_2_line0000" n="N001"
                                         />§. 3.</head>
@@ -10729,7 +10757,7 @@
                                                 n="N001"/>zwiſchen einem hoͤhern und tiefern Tone
                                         ein Jntervall genennet.</p>
                         </div>
-                        <div xml:id="d164e764">
+                        <div xml:id="d168e764">
                                 <head facs="#bsb10527015_00020_region_id_4">
                                         <lb xml:id="bsb10527015_00020_region_id_4_line0000" n="N001"
                                         />§. 4.</head>
@@ -10767,7 +10795,7 @@
                                                 n="N001"/>c der groͤßte Unterſcheid von allen
                                         iſt.</p>
                         </div>
-                        <div xml:id="d164e798">
+                        <div xml:id="d168e798">
                                 <head facs="#bsb10527015_00020_region_id_9">
                                         <lb xml:id="bsb10527015_00020_region_id_9_line0000" n="N001"
                                         />§. 5.</head>
@@ -10803,7 +10831,7 @@
                                                 n="N001"/>an Staͤrke wachſen, aber allezeit gleich
                                         hoch oder tief ſeyn wird.</p>
                         </div>
-                        <div xml:id="d164e826">
+                        <div xml:id="d168e826">
                                 <head facs="#bsb10527015_00020_region_id_11">
                                         <lb xml:id="bsb10527015_00020_region_id_11_line0000"
                                                 n="N001"/>§. 6.</head>
@@ -11113,7 +11141,7 @@
                                         <lb xml:id="bsb10527015_00022_region_id_1_line0000" n="N001"
                                         />Vorbereitung.</fw>
                         </div>
-                        <div xml:id="d164e1119">
+                        <div xml:id="d168e1119">
                                 <head facs="#bsb10527015_00022_region_id_2">
                                         <lb xml:id="bsb10527015_00022_region_id_2_line0000" n="N001"
                                         />§. 7.</head>
@@ -11130,7 +11158,7 @@
                                                 n="N001"/>Secunde, und ein halber Ton eine kleine
                                         Secunde.</p>
                         </div>
-                        <div xml:id="d164e1133">
+                        <div xml:id="d168e1133">
                                 <head facs="#bsb10527015_00022_region_id_4">
                                         <lb xml:id="bsb10527015_00022_region_id_4_line0000" n="N001"
                                         />§. 8.</head>
@@ -11144,7 +11172,7 @@
                                                 n="N001"/>Toͤne, oder mit großen und kleinen
                                         Secunden fortgehen.</p>
                         </div>
-                        <div xml:id="d164e1146">
+                        <div xml:id="d168e1146">
                                 <head facs="#bsb10527015_00022_region_id_7">
                                         <lb xml:id="bsb10527015_00022_region_id_7_line0000" n="N001"
                                         />Zweytes Capitel. <lb
@@ -11153,7 +11181,7 @@
                                                 <lb xml:id="bsb10527015_00022_region_id_7_line0002"
                                                 n="N001"/>.valle der Tonleiter bemerket.</head>
                         </div>
-                        <div xml:id="d164e1154">
+                        <div xml:id="d168e1154">
                                 <head facs="#bsb10527015_00022_region_id_8">
                                         <lb xml:id="bsb10527015_00022_region_id_8_line0000" n="N001"
                                         />s. 9.</head>
@@ -11238,7 +11266,7 @@
                                                 n="N001"/>nen beſteht, als c:c, heiſt eine
                                         Octave.</p>
                         </div>
-                        <div xml:id="d164e1234">
+                        <div xml:id="d168e1234">
                                 <head facs="#bsb10527015_00023_region_id_4">
                                         <lb xml:id="bsb10527015_00023_region_id_4_line0000" n="N001"
                                         />§. 10</head>
@@ -11249,7 +11277,7 @@
                                                 n="N001"/>in der Staͤrke einander gleich ſeyn oder
                                         nicht, machen einen Einklang.</p>
                         </div>
-                        <div xml:id="d164e1244">
+                        <div xml:id="d168e1244">
                                 <head facs="#bsb10527015_00023_region_id_6">
                                         <lb xml:id="bsb10527015_00023_region_id_6_line0000" n="N001"
                                         />§. 11.</head>
@@ -11271,7 +11299,7 @@
                                                 xml:id="bsb10527015_00023_region_id_7_line0005"
                                                 n="N001"/>Terz von g, abwaͤrts gerechnet.</p>
                         </div>
-                        <div xml:id="d164e1264">
+                        <div xml:id="d168e1264">
                                 <head facs="#bsb10527015_00023_region_id_8">
                                         <lb xml:id="bsb10527015_00023_region_id_8_line0000" n="N001"
                                         />§. 12.</head>
@@ -11288,7 +11316,7 @@
                                                 n="N001"/>eine hervor bringet, eine Quinte hoͤher,
                                         als der Ton von dem andern iſt.</p>
                         </div>
-                        <div xml:id="d164e1278">
+                        <div xml:id="d168e1278">
                                 <head facs="#bsb10527015_00023_region_id_11">
                                         <lb xml:id="bsb10527015_00023_region_id_11_line0000"
                                                 n="N001"/>Drittes Capitel. <lb
@@ -11296,7 +11324,7 @@
                                                 n="N001"/>Von Jntervallen, die groͤßer als die
                                         Octave ſind.</head>
                         </div>
-                        <div xml:id="d164e1284">
+                        <div xml:id="d168e1284">
                                 <head facs="#bsb10527015_00023_region_id_12">
                                         <lb xml:id="bsb10527015_00023_region_id_12_line0000"
                                                 n="N001"/>§. 13.</head>
@@ -11340,7 +11368,7 @@
                                         <lb xml:id="bsb10527015_00024_region_id_1_line0000" n="N001"
                                         />Vorbereitung.</fw>
                         </div>
-                        <div xml:id="d164e1328">
+                        <div xml:id="d168e1328">
                                 <head facs="#bsb10527015_00024_region_id_2">
                                         <lb xml:id="bsb10527015_00024_region_id_2_line0000" n="N001"
                                         />§. 14.</head>
@@ -11551,14 +11579,14 @@
                                         <lb xml:id="bsb10527015_00025_region_id_1_line0000" n="N001"
                                         />7</p>
                         </div>
-                        <div xml:id="d164e1529">
+                        <div xml:id="d168e1529">
                                 <head facs="#bsb10527015_00025_region_id_3">
                                         <lb xml:id="bsb10527015_00025_region_id_3_line0000" n="N001"
                                         />Viertes Capitel. <lb
                                                 xml:id="bsb10527015_00025_region_id_3_line0001"
                                                 n="N001"/>Von dem Kreuze und dem B.</head>
                         </div>
-                        <div xml:id="d164e1536">
+                        <div xml:id="d168e1536">
                                 <head facs="#bsb10527015_00025_region_id_4">
                                         <lb xml:id="bsb10527015_00025_region_id_4_line0000" n="N001"
                                         />§. 15.</head>
@@ -11735,7 +11763,7 @@
                                         <lb xml:id="bsb10527015_00026_region_id_1_line0000" n="N001"
                                         />Vorbereitung.</fw>
                         </div>
-                        <div xml:id="d164e1705">
+                        <div xml:id="d168e1705">
                                 <head facs="#bsb10527015_00026_region_id_3">
                                         <lb xml:id="bsb10527015_00026_region_id_3_line0000" n="N001"
                                         />Fuͤnftes Capitel. <lb
@@ -11743,7 +11771,7 @@
                                                 n="N001"/>Was eine Conſonanz und Diſſonanz
                                         iſt.</head>
                         </div>
-                        <div xml:id="d164e1711">
+                        <div xml:id="d168e1711">
                                 <head facs="#bsb10527015_00026_region_id_4">
                                         <lb xml:id="bsb10527015_00026_region_id_4_line0000" n="N001"
                                         />§. 16.</head>
@@ -11764,7 +11792,7 @@
                                                 n="N001"/>tracht gegen den andern Conſonanzen
                                         genennet.</p>
                         </div>
-                        <div xml:id="d164e1730">
+                        <div xml:id="d168e1730">
                                 <head facs="#bsb10527015_00026_region_id_7">
                                         <lb xml:id="bsb10527015_00026_region_id_7_line0000" n="N001"
                                         />§. 17.</head>
@@ -11778,7 +11806,7 @@
                                                 n="N001"/>Dieſer Umſtand iſt aus der Erfahrung
                                         klar.</p>
                         </div>
-                        <div xml:id="d164e1742">
+                        <div xml:id="d168e1742">
                                 <head facs="#bsb10527015_00026_region_id_9">
                                         <lb xml:id="bsb10527015_00026_region_id_9_line0000" n="N001"
                                         />§. 18.</head>
@@ -11804,7 +11832,7 @@
                                                 xml:id="bsb10527015_00026_region_id_10_line0006"
                                                 n="N001"/>der Accord.</p>
                         </div>
-                        <div xml:id="d164e1763">
+                        <div xml:id="d168e1763">
                                 <head facs="#bsb10527015_00026_region_id_11">
                                         <lb xml:id="bsb10527015_00026_region_id_11_line0000"
                                                 n="N001"/>§. 19</head>
@@ -11837,7 +11865,7 @@
                                 <pb facs="#bsb10527015_00027" n="[]" xml:id="pb_bsb10527015_00027"/>
                                 <p facs="#bsb10527015_00027_region_id_0"/>
                         </div>
-                        <div xml:id="d164e1792">
+                        <div xml:id="d168e1792">
                                 <head facs="#bsb10527015_00027_region_id_2">
                                         <lb xml:id="bsb10527015_00027_region_id_2_line0000" n="N001"
                                         />Erſtes Buch, <lb
@@ -11846,7 +11874,7 @@
                                                 xml:id="bsb10527015_00027_region_id_2_line0002"
                                                 n="N001"/>die Theorie der Harmonie enthaͤlt.</head>
                         </div>
-                        <div xml:id="d164e1800">
+                        <div xml:id="d168e1800">
                                 <head facs="#bsb10527015_00027_region_id_4">
                                         <lb xml:id="bsb10527015_00027_region_id_4_line0000" n="N001"
                                         />Erſtes Capitel. <lb
@@ -11855,7 +11883,7 @@
                                                 xml:id="bsb10527015_00027_region_id_4_line0002"
                                                 n="N001"/>Erſte Erfahrung.</head>
                         </div>
-                        <div xml:id="d164e1808">
+                        <div xml:id="d168e1808">
                                 <head facs="#bsb10527015_00027_region_id_5">
                                         <lb xml:id="bsb10527015_00027_region_id_5_line0000" n="N001"
                                         />§. 20.</head>
@@ -11884,7 +11912,7 @@
                                                 n="N001"/>cime⸗Septime die zweyfache Oberoctave der
                                         großen Terz verſtanden.</p>
                         </div>
-                        <div xml:id="d164e1833">
+                        <div xml:id="d168e1833">
                                 <head facs="#bsb10527015_00027_region_id_8">
                                         <lb xml:id="bsb10527015_00027_region_id_8_line0000" n="N001"
                                         />§. 21.</head>
@@ -11901,7 +11929,7 @@
                                                 xml:id="bsb10527015_00027_region_id_9_line0003"
                                                 n="N001"/>geringer Muͤhe empfinden wird ).</p>
                         </div>
-                        <div xml:id="d164e1847">
+                        <div xml:id="d168e1847">
                                 <head facs="#bsb10527015_00027_region_id_10">
                                         <lb xml:id="bsb10527015_00027_region_id_10_line0000"
                                                 n="N001"/>§. 22.</head>
@@ -11961,7 +11989,7 @@
                                         <lb xml:id="bsb10527015_00028_region_id_1_line0000" n="N001"
                                         />1Buch. I Cap. Von Erfahrungen</fw>
                         </div>
-                        <div xml:id="d164e1909">
+                        <div xml:id="d168e1909">
                                 <head facs="#bsb10527015_00028_region_id_2">
                                         <lb xml:id="bsb10527015_00028_region_id_2_line0000" n="N001"
                                         />§. 22.</head>
@@ -11975,12 +12003,12 @@
                                                 n="N001"/>mit darunter gerechnet, harmoniſche Toͤne
                                         genennet.</p>
                         </div>
-                        <div xml:id="d164e1921">
+                        <div xml:id="d168e1921">
                                 <head facs="#bsb10527015_00028_region_id_4">
                                         <lb xml:id="bsb10527015_00028_region_id_4_line0000" n="N001"
                                         />Zweyte Erfahrung.</head>
                         </div>
-                        <div xml:id="d164e1925">
+                        <div xml:id="d168e1925">
                                 <head facs="#bsb10527015_00028_region_id_5">
                                         <lb xml:id="bsb10527015_00028_region_id_5_line0000" n="N001"
                                         />§. 23.</head>
@@ -12301,7 +12329,7 @@
                                                   n="N001"/>Dritte Erfahrung.</head>
                                 </figure>
                         </div>
-                        <div xml:id="d164e2227">
+                        <div xml:id="d168e2227">
                                 <head facs="#bsb10527015_00030_region_id_5">
                                         <lb xml:id="bsb10527015_00030_region_id_5_line0000" n="N001"
                                         />§. 24.</head>
@@ -12644,7 +12672,7 @@
                                         <lb xml:id="bsb10527015_00032_region_id_1_line0000" n="N001"
                                         />IBuch. II Cap. Von dem</fw>
                         </div>
-                        <div xml:id="d164e2551">
+                        <div xml:id="d168e2551">
                                 <head facs="#bsb10527015_00032_region_id_3">
                                         <lb xml:id="bsb10527015_00032_region_id_3_line0000" n="N001"
                                         />Zweytes Capitel. <lb
@@ -12656,7 +12684,7 @@
                                                 xml:id="bsb10527015_00032_region_id_3_line0003"
                                                 n="N001"/>Harmonie.</head>
                         </div>
-                        <div xml:id="d164e2562">
+                        <div xml:id="d168e2562">
                                 <head facs="#bsb10527015_00032_region_id_4">
                                         <lb xml:id="bsb10527015_00032_region_id_4_line0000" n="N001"
                                         />§. 25.</head>
@@ -12681,7 +12709,7 @@
                                                 xml:id="bsb10527015_00032_region_id_6_line0005"
                                                 n="N001"/>gleitet wird.</p>
                         </div>
-                        <div xml:id="d164e2585">
+                        <div xml:id="d168e2585">
                                 <head facs="#bsb10527015_00032_region_id_7">
                                         <lb xml:id="bsb10527015_00032_region_id_7_line0000" n="N001"
                                         />§. 26.</head>
@@ -12810,7 +12838,7 @@
                                         <lb xml:id="bsb10527015_00033_region_id_1_line0000" n="N001"
                                         />15</p>
                         </div>
-                        <div xml:id="d164e2710">
+                        <div xml:id="d168e2710">
                                 <head facs="#bsb10527015_00033_region_id_2">
                                         <lb xml:id="bsb10527015_00033_region_id_2_line0000" n="N001"
                                         />§. 27.</head>
@@ -12856,7 +12884,7 @@
                                                 n="N001"/>Er hat auch ſeinen Urſprung in der
                                         Erklingung der Seyte.</p>
                         </div>
-                        <div xml:id="d164e2748">
+                        <div xml:id="d168e2748">
                                 <head facs="#bsb10527015_00033_region_id_5">
                                         <lb xml:id="bsb10527015_00033_region_id_5_line0000" n="N001"
                                         />§. 28.</head>
@@ -12872,7 +12900,7 @@
                                                 xml:id="bsb10527015_00033_region_id_6_line0003"
                                                 n="N001"/>Natur iſt.</p>
                         </div>
-                        <div xml:id="d164e2762">
+                        <div xml:id="d168e2762">
                                 <head facs="#bsb10527015_00033_region_id_7">
                                         <lb xml:id="bsb10527015_00033_region_id_7_line0000" n="N001"
                                         />§. 29.</head>
@@ -12920,7 +12948,7 @@
                                         <lb xml:id="bsb10527015_00034_region_id_1_line0000" n="N001"
                                         />IBuch. Il Cap. Von deim Urſprunge der Tonarten.</fw>
                         </div>
-                        <div xml:id="d164e2805">
+                        <div xml:id="d168e2805">
                                 <head facs="#bsb10527015_00034_region_id_2">
                                         <lb xml:id="bsb10527015_00034_region_id_2_line0000" n="N001"
                                         />§. 30.</head>
@@ -12939,7 +12967,7 @@
                                                 xml:id="bsb10527015_00034_region_id_3_line0004"
                                                 n="N001"/>Tonart.</p>
                         </div>
-                        <div xml:id="d164e2821">
+                        <div xml:id="d168e2821">
                                 <head facs="#bsb10527015_00034_region_id_4">
                                         <lb xml:id="bsb10527015_00034_region_id_4_line0000" n="N001"
                                         />§. 31.</head>
@@ -12959,7 +12987,7 @@
                                                 n="N001"/>harte Tonart, von der Natur ertheilet
                                         wird.</p>
                         </div>
-                        <div xml:id="d164e2837">
+                        <div xml:id="d168e2837">
                                 <head facs="#bsb10527015_00034_region_id_6">
                                         <lb xml:id="bsb10527015_00034_region_id_6_line0000" n="N001"
                                         />§. 32.</head>
@@ -13006,7 +13034,7 @@
                                         <lb xml:id="bsb10527015_00035_region_id_1_line0000" n="N001"
                                         />17</p>
                         </div>
-                        <div xml:id="d164e2881">
+                        <div xml:id="d168e2881">
                                 <head facs="#bsb10527015_00035_region_id_3">
                                         <lb xml:id="bsb10527015_00035_region_id_3_line0000" n="N001"
                                         />Drittes Capitel. <lb
@@ -13015,7 +13043,7 @@
                                                 xml:id="bsb10527015_00035_region_id_3_line0002"
                                                 n="N001"/>Grundbaße.</head>
                         </div>
-                        <div xml:id="d164e2889">
+                        <div xml:id="d168e2889">
                                 <head facs="#bsb10527015_00035_region_id_4">
                                         <lb xml:id="bsb10527015_00035_region_id_4_line0000" n="N001"
                                         />§. 33.</head>
@@ -13063,7 +13091,7 @@
                                                 xml:id="bsb10527015_00035_region_id_7_line0005"
                                                 n="N001"/>baͤße in Betracht zu nehmen.</p>
                         </div>
-                        <div xml:id="d164e2931">
+                        <div xml:id="d168e2931">
                                 <head facs="#bsb10527015_00035_region_id_8">
                                         <lb xml:id="bsb10527015_00035_region_id_8_line0000" n="N001"
                                         />§. 34.</head>
@@ -13073,7 +13101,7 @@
                                                 <lb xml:id="bsb10527015_00035_region_id_9_line0001"
                                                 n="N001"/>dem f fortgehen kann:</p>
                         </div>
-                        <div xml:id="d164e2942">
+                        <div xml:id="d168e2942">
                                 <head facs="#bsb10527015_00035_region_id_10">
                                         <lb xml:id="bsb10527015_00035_region_id_10_line0000"
                                                 n="N001"/>§. 35.</head>
@@ -13093,7 +13121,7 @@
                                                 n="N001"/>mit ſteigenden Quinten und fallenden
                                         Quarten geſchehen.</p>
                         </div>
-                        <div xml:id="d164e2958">
+                        <div xml:id="d168e2958">
                                 <head facs="#bsb10527015_00035_region_id_13">
                                         <lb xml:id="bsb10527015_00035_region_id_13_line0000"
                                                 n="N001"/>§. 36.</head>
@@ -13303,7 +13331,7 @@
                                         <lb xml:id="bsb10527015_00037_region_id_1_line0000" n="N001"
                                         />9</p>
                         </div>
-                        <div xml:id="d164e3157">
+                        <div xml:id="d168e3157">
                                 <head facs="#bsb10527015_00037_region_id_2">
                                         <lb xml:id="bsb10527015_00037_region_id_2_line0000" n="N001"
                                         />§. 37.</head>
@@ -13335,14 +13363,14 @@
                                                 n="N001"/>klang hat, beſonders, wenn beyde
                                         Vierklaͤnge groß oder hart ſind.</p>
                         </div>
-                        <div xml:id="d164e3183">
+                        <div xml:id="d168e3183">
                                 <head facs="#bsb10527015_00037_region_id_5">
                                         <lb xml:id="bsb10527015_00037_region_id_5_line0000" n="N001"
                                         />Viertes Capitel. <lb
                                                 xml:id="bsb10527015_00037_region_id_5_line0001"
                                                 n="N001"/>Von der Tonart uͤberhaupt.</head>
                         </div>
-                        <div xml:id="d164e3189">
+                        <div xml:id="d168e3189">
                                 <head facs="#bsb10527015_00037_region_id_6">
                                         <lb xml:id="bsb10527015_00037_region_id_6_line0000" n="N001"
                                         />§. 38.</head>
@@ -13461,7 +13489,7 @@
                                         <lb xml:id="bsb10527015_00038_region_id_1_line0000" n="N001"
                                         />1Buch. V Cap. Von der Tonart uͤberhaupt.</fw>
                         </div>
-                        <div xml:id="d164e3304">
+                        <div xml:id="d168e3304">
                                 <head facs="#bsb10527015_00038_region_id_2">
                                         <lb xml:id="bsb10527015_00038_region_id_2_line0000" n="N001"
                                         />§. 39.</head>
@@ -13489,7 +13517,7 @@
                                                 n="N001"/>mein hat. Eben die Bewandniß hat es mit
                                         der Tonart f.</p>
                         </div>
-                        <div xml:id="d164e3328">
+                        <div xml:id="d168e3328">
                                 <head facs="#bsb10527015_00038_region_id_5">
                                         <lb xml:id="bsb10527015_00038_region_id_5_line0000" n="N001"
                                         />§. 40.</head>
@@ -13502,7 +13530,7 @@
                                                 xml:id="bsb10527015_00038_region_id_6_line0002"
                                                 n="N001"/>arten.</p>
                         </div>
-                        <div xml:id="d164e3340">
+                        <div xml:id="d168e3340">
                                 <head facs="#bsb10527015_00038_region_id_7">
                                         <lb xml:id="bsb10527015_00038_region_id_7_line0000" n="N001"
                                         />§. 4I.</head>
@@ -13533,7 +13561,7 @@
                                                 xml:id="bsb10527015_00038_region_id_8_line0008"
                                                 n="N001"/>ins g auszuweichen.</p>
                         </div>
-                        <div xml:id="d164e3365">
+                        <div xml:id="d168e3365">
                                 <head facs="#bsb10527015_00038_region_id_9">
                                         <lb xml:id="bsb10527015_00038_region_id_9_line0000" n="N001"
                                         />§. 42.</head>
@@ -13550,7 +13578,7 @@
                                                 xml:id="bsb10527015_00038_region_id_10_line0003"
                                                 n="N001"/>terherrſchende genennet.</p>
                         </div>
-                        <div xml:id="d164e3380">
+                        <div xml:id="d168e3380">
                                 <head facs="#bsb10527015_00038_region_id_11">
                                         <lb xml:id="bsb10527015_00038_region_id_11_line0000"
                                                 n="N001"/>§. 43.</head>
@@ -13593,7 +13621,7 @@
                                                 xml:id="bsb10527015_00039_region_id_2_line0004"
                                                 n="N001"/>man ſich darinnen aufhalten.</p>
                         </div>
-                        <div xml:id="d164e3419">
+                        <div xml:id="d168e3419">
                                 <head facs="#bsb10527015_00039_region_id_4">
                                         <lb xml:id="bsb10527015_00039_region_id_4_line0000" n="N001"
                                         />Fuͤnftes Capitel. <lb
@@ -13601,7 +13629,7 @@
                                                 n="N001"/>Von der diatoniſchen Tonleiter der
                                         Griechen.</head>
                         </div>
-                        <div xml:id="d164e3425">
+                        <div xml:id="d168e3425">
                                 <head facs="#bsb10527015_00039_region_id_5">
                                         <lb xml:id="bsb10527015_00039_region_id_5_line0000" n="N001"
                                         />§. 44.</head>
@@ -13621,7 +13649,7 @@
                                                 n="N001"/>kann, folget, daß man nachſtehenden
                                         Grundbaß formiren kann:</p>
                         </div>
-                        <div xml:id="d164e3444">
+                        <div xml:id="d168e3444">
                                 <head facs="#bsb10527015_00039_region_id_9">
                                         <lb xml:id="bsb10527015_00039_region_id_9_line0000" n="N001"
                                         />§. 45.</head>
@@ -13683,7 +13711,7 @@
                                                 n="N001"/>im dem diatoniſchen Geſange h, c, d, e, f,
                                         g, a vorſtellet ).</p>
                         </div>
-                        <div xml:id="d164e3500">
+                        <div xml:id="d168e3500">
                                 <head facs="#bsb10527015_00040_region_id_3">
                                         <lb xml:id="bsb10527015_00040_region_id_3_line0000" n="N001"
                                         />§. 46.</head>
@@ -13899,7 +13927,7 @@
                                                 n="N001"/>ter die reine Octave von dem f aus dieſem
                                         Baſſe.</p>
                         </div>
-                        <div xml:id="d164e3711">
+                        <div xml:id="d168e3711">
                                 <head facs="#bsb10527015_00041_region_id_3">
                                         <lb xml:id="bsb10527015_00041_region_id_3_line0000" n="N001"
                                         />§. 47.</head>
@@ -13922,7 +13950,7 @@
                                                 xml:id="bsb10527015_00041_region_id_4_line0005"
                                                 n="N001"/>ſchen Geſanges iſt.</p>
                         </div>
-                        <div xml:id="d164e3730">
+                        <div xml:id="d168e3730">
                                 <head facs="#bsb10527015_00041_region_id_5">
                                         <lb xml:id="bsb10527015_00041_region_id_5_line0000" n="N001"
                                         />§. 48.</head>
@@ -13969,7 +13997,7 @@
                                                 xml:id="bsb10527015_00041_region_id_6_line0013"
                                                 n="N001"/>mit der mit h anfangenden Tonleiter.</p>
                         </div>
-                        <div xml:id="d164e3766">
+                        <div xml:id="d168e3766">
                                 <head facs="#bsb10527015_00041_region_id_7">
                                         <lb xml:id="bsb10527015_00041_region_id_7_line0000" n="N001"
                                         />§. 49</head>
@@ -13997,7 +14025,7 @@
                                         <lb xml:id="bsb10527015_00042_region_id_1_line0000" n="N001"
                                         />IBuch. V. Cap. Von der</fw>
                         </div>
-                        <div xml:id="d164e3794">
+                        <div xml:id="d168e3794">
                                 <head facs="#bsb10527015_00042_region_id_2">
                                         <lb xml:id="bsb10527015_00042_region_id_2_line0000" n="N001"
                                         />§. 50.</head>
@@ -14029,7 +14057,7 @@
                                                 xml:id="bsb10527015_00042_region_id_3_line0008"
                                                 n="N001"/>verbundene Tetrachorde.</p>
                         </div>
-                        <div xml:id="d164e3819">
+                        <div xml:id="d168e3819">
                                 <head facs="#bsb10527015_00042_region_id_4">
                                         <lb xml:id="bsb10527015_00042_region_id_4_line0000" n="N001"
                                         />§. 51.</head>
@@ -14054,7 +14082,7 @@
                                                 xml:id="bsb10527015_00042_region_id_5_line0006"
                                                 n="N001"/>ten Tetrachorde.</p>
                         </div>
-                        <div xml:id="d164e3840">
+                        <div xml:id="d168e3840">
                                 <head facs="#bsb10527015_00042_region_id_6">
                                         <lb xml:id="bsb10527015_00042_region_id_6_line0000" n="N001"
                                         />§. 52.</head>
@@ -14177,7 +14205,7 @@
                                                 n="N001"/>gleich reine Terzen, eine große und eine
                                         kleine, erfordert werden.</p>
                         </div>
-                        <div xml:id="d164e3955">
+                        <div xml:id="d168e3955">
                                 <head facs="#bsb10527015_00043_region_id_3">
                                         <lb xml:id="bsb10527015_00043_region_id_3_line0000" n="N001"
                                         />§. 53</head>
@@ -14197,7 +14225,7 @@
                                                 n="N001"/>die Leiter in dieſe beyde Tetrachorde zu
                                         unterſcheiden.</p>
                         </div>
-                        <div xml:id="d164e3971">
+                        <div xml:id="d168e3971">
                                 <head facs="#bsb10527015_00043_region_id_5">
                                         <lb xml:id="bsb10527015_00043_region_id_5_line0000" n="N001"
                                         />§. 54.</head>
@@ -14324,7 +14352,7 @@
                                         <lb xml:id="bsb10527015_00044_region_id_1_line0000" n="N001"
                                         />1Buch. VI Cav. Von der</fw>
                         </div>
-                        <div xml:id="d164e4090">
+                        <div xml:id="d168e4090">
                                 <head facs="#bsb10527015_00044_region_id_3">
                                         <lb xml:id="bsb10527015_00044_region_id_3_line0000" n="N001"
                                         />Sechſtes Capitel. <lb
@@ -14333,7 +14361,7 @@
                                                 xml:id="bsb10527015_00044_region_id_3_line0002"
                                                 n="N001"/>der heutigen Zeit.</head>
                         </div>
-                        <div xml:id="d164e4099">
+                        <div xml:id="d168e4099">
                                 <head facs="#bsb10527015_00044_region_id_4">
                                         <lb xml:id="bsb10527015_00044_region_id_4_line0000" n="N001"
                                         />§. 55.</head>
@@ -14375,7 +14403,7 @@
                                                 xml:id="bsb10527015_00044_region_id_9_line0002"
                                                 n="N001"/>und ſo weiter, zu.</p>
                         </div>
-                        <div xml:id="d164e4138">
+                        <div xml:id="d168e4138">
                                 <head facs="#bsb10527015_00044_region_id_10">
                                         <lb xml:id="bsb10527015_00044_region_id_10_line0000"
                                                 n="N001"/>§. 56.</head>
@@ -14467,7 +14495,7 @@
                                                 xml:id="bsb10527015_00045_region_id_3_line0002"
                                                 n="N001"/>dem Tone g zu Hauſe iſt.</p>
                         </div>
-                        <div xml:id="d164e4230">
+                        <div xml:id="d168e4230">
                                 <head facs="#bsb10527015_00045_region_id_4">
                                         <lb xml:id="bsb10527015_00045_region_id_4_line0000" n="N001"
                                         />§. 57.</head>
@@ -14501,7 +14529,7 @@
                                                 xml:id="bsb10527015_00045_region_id_5_line0009"
                                                 n="N001"/>ollte.</p>
                         </div>
-                        <div xml:id="d164e4257">
+                        <div xml:id="d168e4257">
                                 <head facs="#bsb10527015_00045_region_id_6">
                                         <lb xml:id="bsb10527015_00045_region_id_6_line0000" n="N001"
                                         />§. 58.</head>
@@ -14531,7 +14559,7 @@
                                                 n="N001"/>Grundbaſſe zu machen, wie bald mit mehrern
                                         gezeiget werden ſoll.</p>
                         </div>
-                        <div xml:id="d164e4280">
+                        <div xml:id="d168e4280">
                                 <head facs="#bsb10527015_00045_region_id_8">
                                         <lb xml:id="bsb10527015_00045_region_id_8_line0000" n="N001"
                                         />§. 59.</head>
@@ -14558,7 +14586,7 @@
                                         <lb xml:id="bsb10527015_00046_region_id_0_line0000" n="N001"
                                         />28</p>
                         </div>
-                        <div xml:id="d164e4306">
+                        <div xml:id="d168e4306">
                                 <head facs="#bsb10527015_00046_region_id_1">
                                         <lb xml:id="bsb10527015_00046_region_id_1_line0000" n="N001"
                                         />1Buch. vi Cap. Von der</head>
@@ -14585,7 +14613,7 @@
                                                 xml:id="bsb10527015_00046_region_id_2_line0007"
                                                 n="N001"/>chorden gehoͤren.</p>
                         </div>
-                        <div xml:id="d164e4329">
+                        <div xml:id="d168e4329">
                                 <head facs="#bsb10527015_00046_region_id_3">
                                         <lb xml:id="bsb10527015_00046_region_id_3_line0000" n="N001"
                                         />§. 6o.</head>
@@ -14611,7 +14639,7 @@
                                                 n="N001"/>Raum von einem halben Tone vorhanden
                                         iſt.</p>
                         </div>
-                        <div xml:id="d164e4350">
+                        <div xml:id="d168e4350">
                                 <head facs="#bsb10527015_00046_region_id_5">
                                         <lb xml:id="bsb10527015_00046_region_id_5_line0000" n="N001"
                                         />§. 6.</head>
@@ -14633,7 +14661,7 @@
                                                 xml:id="bsb10527015_00046_region_id_6_line0005"
                                                 n="N001"/>dem Grundbaſſe.</p>
                         </div>
-                        <div xml:id="d164e4369">
+                        <div xml:id="d168e4369">
                                 <head facs="#bsb10527015_00046_region_id_7">
                                         <lb xml:id="bsb10527015_00046_region_id_7_line0000" n="N001"
                                         />§. 62.</head>
@@ -14649,7 +14677,7 @@
                                                 xml:id="bsb10527015_00046_region_id_8_line0003"
                                                 n="N001"/>hoͤrigen d iſt.</p>
                         </div>
-                        <div xml:id="d164e4384">
+                        <div xml:id="d168e4384">
                                 <head facs="#bsb10527015_00046_region_id_9">
                                         <lb xml:id="bsb10527015_00046_region_id_9_line0000" n="N001"
                                         />§. 63.</head>
@@ -14720,14 +14748,14 @@
                                                 xml:id="bsb10527015_00047_region_id_4_line0004"
                                                 n="N001"/>haben wird.</p>
                         </div>
-                        <div xml:id="d164e4454">
+                        <div xml:id="d168e4454">
                                 <head facs="#bsb10527015_00047_region_id_6">
                                         <lb xml:id="bsb10527015_00047_region_id_6_line0000" n="N001"
                                         />Siebentes Capitel. <lb
                                                 xml:id="bsb10527015_00047_region_id_6_line0001"
                                                 n="N001"/>Von der Temperatur.</head>
                         </div>
-                        <div xml:id="d164e4460">
+                        <div xml:id="d168e4460">
                                 <head facs="#bsb10527015_00047_region_id_7">
                                         <lb xml:id="bsb10527015_00047_region_id_7_line0000" n="N001"
                                         />§. 64.</head>
@@ -14841,7 +14869,7 @@
                                                 n="N001"/>Quinte oder reine Quarte von A machen
                                         kann.</p>
                         </div>
-                        <div xml:id="d164e4567">
+                        <div xml:id="d168e4567">
                                 <head facs="#bsb10527015_00048_region_id_3">
                                         <lb xml:id="bsb10527015_00048_region_id_3_line0000" n="N001"
                                         />§. 65.</head>
@@ -15078,7 +15106,7 @@
                                                 n="N001"/>einkommen, weil die Tonleiter nur aus
                                         zwoͤlf halben Toͤnen beſteht.</p>
                         </div>
-                        <div xml:id="d164e4790">
+                        <div xml:id="d168e4790">
                                 <head facs="#bsb10527015_00049_region_id_3">
                                         <lb xml:id="bsb10527015_00049_region_id_3_line0000" n="N001"
                                         />§. 66.</head>
@@ -15275,7 +15303,7 @@
                                                 n="N001"/>Octave, nur ſo wenig als moͤglich,
                                         alterirt ſeyn.</p>
                         </div>
-                        <div xml:id="d164e4965">
+                        <div xml:id="d168e4965">
                                 <head facs="#bsb10527015_00050_region_id_3">
                                         <lb xml:id="bsb10527015_00050_region_id_3_line0000" n="N001"
                                         />§. 67.</head>
@@ -15300,7 +15328,7 @@
                                                 xml:id="bsb10527015_00050_region_id_4_line0006"
                                                 n="N001"/>ertraͤglich ſeyn.</p>
                         </div>
-                        <div xml:id="d164e4986">
+                        <div xml:id="d168e4986">
                                 <head facs="#bsb10527015_00050_region_id_5">
                                         <lb xml:id="bsb10527015_00050_region_id_5_line0000" n="N001"
                                         />§ 68.</head>
@@ -15310,7 +15338,7 @@
                                                 <lb xml:id="bsb10527015_00050_region_id_6_line0001"
                                                 n="N001"/>heißt eine Teimperatur.</p>
                         </div>
-                        <div xml:id="d164e4996">
+                        <div xml:id="d168e4996">
                                 <head facs="#bsb10527015_00050_region_id_7">
                                         <lb xml:id="bsb10527015_00050_region_id_7_line0000" n="N001"
                                         />§. 69.</head>
@@ -15346,7 +15374,7 @@
                                         <lb xml:id="bsb10527015_00051_region_id_1_line0000" n="N001"
                                         />33</p>
                         </div>
-                        <div xml:id="d164e5032">
+                        <div xml:id="d168e5032">
                                 <head facs="#bsb10527015_00051_region_id_2">
                                         <lb xml:id="bsb10527015_00051_region_id_2_line0000" n="N001"
                                         />§. 70.</head>
@@ -15570,7 +15598,7 @@
                                                 n="N001"/>viel als die andre, werden veraͤndert
                                         werden.</p>
                         </div>
-                        <div xml:id="d164e5247">
+                        <div xml:id="d168e5247">
                                 <head facs="#bsb10527015_00052_region_id_3">
                                         <lb xml:id="bsb10527015_00052_region_id_3_line0000" n="N001"
                                         />§. 71.</head>
@@ -15590,7 +15618,7 @@
                                                 n="N001"/>folgendes Mittel zur gleichen Abaͤnderung
                                         der Quinten vorgeſchlagen.</p>
                         </div>
-                        <div xml:id="d164e5263">
+                        <div xml:id="d168e5263">
                                 <head facs="#bsb10527015_00052_region_id_5">
                                         <lb xml:id="bsb10527015_00052_region_id_5_line0000" n="N001"
                                         />§. 72.</head>
@@ -16183,7 +16211,7 @@
                                                 xml:id="bsb10527015_00056_region_id_2_line0002"
                                                 n="N001"/>klinget (Capit. I.), wiederfindet.</p>
                         </div>
-                        <div xml:id="d164e5817">
+                        <div xml:id="d168e5817">
                                 <head facs="#bsb10527015_00056_region_id_3">
                                         <lb xml:id="bsb10527015_00056_region_id_3_line0000" n="N001"
                                         />§. 74.</head>
@@ -16219,7 +16247,7 @@
                                                 xml:id="bsb10527015_00056_region_id_4_line0010"
                                                 n="N001"/>denz g: C.</p>
                         </div>
-                        <div xml:id="d164e5846">
+                        <div xml:id="d168e5846">
                                 <head facs="#bsb10527015_00056_region_id_5">
                                         <lb xml:id="bsb10527015_00056_region_id_5_line0000" n="N001"
                                         />§. 75.</head>
@@ -16256,7 +16284,7 @@
                                                 xml:id="bsb10527015_00056_region_id_7_line0007"
                                                 n="N001"/>ſtens ankuͤndiget.</p>
                         </div>
-                        <div xml:id="d164e5878">
+                        <div xml:id="d168e5878">
                                 <head facs="#bsb10527015_00056_region_id_8">
                                         <lb xml:id="bsb10527015_00056_region_id_8_line0000" n="N001"
                                         />§. 76.</head>
@@ -16298,7 +16326,7 @@
                                                 xml:id="bsb10527015_00057_region_id_2_line0004"
                                                 n="N001"/>Ordnung.</p>
                         </div>
-                        <div xml:id="d164e5917">
+                        <div xml:id="d168e5917">
                                 <head facs="#bsb10527015_00057_region_id_3">
                                         <lb xml:id="bsb10527015_00057_region_id_3_line0000" n="N001"
                                         />§. 77.</head>
@@ -16338,7 +16366,7 @@
                                                 xml:id="bsb10527015_00057_region_id_5_line0003"
                                                 n="N001"/>baſſe herruͤhret.</p>
                         </div>
-                        <div xml:id="d164e5950">
+                        <div xml:id="d168e5950">
                                 <head facs="#bsb10527015_00057_region_id_7">
                                         <lb xml:id="bsb10527015_00057_region_id_7_line0000" n="N001"
                                         />Neuntes Capitel. <lb
@@ -16346,7 +16374,7 @@
                                                 n="N001"/>Von der kleinen oder weichen
                                         Tonart.</head>
                         </div>
-                        <div xml:id="d164e5957">
+                        <div xml:id="d168e5957">
                                 <head facs="#bsb10527015_00057_region_id_8">
                                         <lb xml:id="bsb10527015_00057_region_id_8_line0000" n="N001"
                                         />§. 78.</head>
@@ -16434,7 +16462,7 @@
                                                 xml:id="bsb10527015_00058_region_id_5_line0004"
                                                 n="N001"/>zuruͤck.)</p>
                         </div>
-                        <div xml:id="d164e6037">
+                        <div xml:id="d168e6037">
                                 <head facs="#bsb10527015_00058_region_id_6">
                                         <lb xml:id="bsb10527015_00058_region_id_6_line0000" n="N001"
                                         />§. 79.</head>
@@ -16458,7 +16486,7 @@
                                                 n="N001"/>gen ſollten, nichts anders, als den Ton c
                                         hervorbringen wuͤrden.</p>
                         </div>
-                        <div xml:id="d164e6056">
+                        <div xml:id="d168e6056">
                                 <head facs="#bsb10527015_00058_region_id_8">
                                         <lb xml:id="bsb10527015_00058_region_id_8_line0000" n="N001"
                                         />§. 80.</head>
@@ -16508,7 +16536,7 @@
                                                 n="N001"/>chen Antheil an der Bildung dieſes neuen
                                         Geſchlechts.</p>
                         </div>
-                        <div xml:id="d164e6100">
+                        <div xml:id="d168e6100">
                                 <head facs="#bsb10527015_00059_region_id_3">
                                         <lb xml:id="bsb10527015_00059_region_id_3_line0000" n="N001"
                                         />§. 8i.</head>
@@ -16541,7 +16569,7 @@
                                                 xml:id="bsb10527015_00059_region_id_5_line0006"
                                                 n="N001"/>den beyden vorhergehenden hat.</p>
                         </div>
-                        <div xml:id="d164e6130">
+                        <div xml:id="d168e6130">
                                 <head facs="#bsb10527015_00059_region_id_6">
                                         <lb xml:id="bsb10527015_00059_region_id_6_line0000" n="N001"
                                         />§. 82.</head>
@@ -16566,7 +16594,7 @@
                                                 xml:id="bsb10527015_00059_region_id_8_line0004"
                                                 n="N001"/>große verwandelt.</p>
                         </div>
-                        <div xml:id="d164e6152">
+                        <div xml:id="d168e6152">
                                 <head facs="#bsb10527015_00059_region_id_9">
                                         <lb xml:id="bsb10527015_00059_region_id_9_line0000" n="N001"
                                         />§. 83.</head>
@@ -16582,7 +16610,7 @@
                                                 xml:id="bsb10527015_00059_region_id_10_line0003"
                                                 n="N001"/>ee oro wtoſn eie mihe ans imten</p>
                         </div>
-                        <div xml:id="d164e6166">
+                        <div xml:id="d168e6166">
                                 <head facs="#bsb10527015_00059_region_id_11">
                                         <lb xml:id="bsb10527015_00059_region_id_11_line0000"
                                                 n="N001"/>Erſter Einwurf.</head>
@@ -16650,7 +16678,7 @@
                                                 n="N001"/>ſetzt, und denſelben zu einer reinen
                                         kleinen Terz machet.</p>
                         </div>
-                        <div xml:id="d164e6225">
+                        <div xml:id="d168e6225">
                                 <head facs="#bsb10527015_00060_region_id_4">
                                         <lb xml:id="bsb10527015_00060_region_id_4_line0000" n="N001"
                                         />Zweyter Einwurf.</head>
@@ -16728,7 +16756,7 @@
                                                 n="N001"/>die vornehmſte iſt, welche der Ton c
                                         darinnen einnehmen kan.</p>
                         </div>
-                        <div xml:id="d164e6293">
+                        <div xml:id="d168e6293">
                                 <head facs="#bsb10527015_00061_region_id_3">
                                         <lb xml:id="bsb10527015_00061_region_id_3_line0000" n="N001"
                                         />§. 84.</head>
@@ -16742,7 +16770,7 @@
                                                 n="N001"/>iſche Note oder die Klangſeyte
                                         genennet.</p>
                         </div>
-                        <div xml:id="d164e6305">
+                        <div xml:id="d168e6305">
                                 <head facs="#bsb10527015_00061_region_id_6">
                                         <lb xml:id="bsb10527015_00061_region_id_6_line0000" n="N001"
                                         />Zehntes Capitel. <lb
@@ -16751,7 +16779,7 @@
                                                 xml:id="bsb10527015_00061_region_id_6_line0002"
                                                 n="N001"/>der kleinen Tonart.</head>
                         </div>
-                        <div xml:id="d164e6313">
+                        <div xml:id="d168e6313">
                                 <head facs="#bsb10527015_00061_region_id_7">
                                         <lb xml:id="bsb10527015_00061_region_id_7_line0000" n="N001"
                                         />§. 85.</head>
@@ -16817,7 +16845,7 @@
                                         <lb xml:id="bsb10527015_00062_region_id_1_line0000" n="N001"
                                         />lBuch. X Cap. Von der</fw>
                         </div>
-                        <div xml:id="d164e6374">
+                        <div xml:id="d168e6374">
                                 <head facs="#bsb10527015_00062_region_id_2">
                                         <lb xml:id="bsb10527015_00062_region_id_2_line0000" n="N001"
                                         />§. 86.</head>
@@ -16846,7 +16874,7 @@
                                                 xml:id="bsb10527015_00062_region_id_3_line0008"
                                                 n="N001"/>terſcheid dieſer beyden Tonarten.</p>
                         </div>
-                        <div xml:id="d164e6399">
+                        <div xml:id="d168e6399">
                                 <head facs="#bsb10527015_00062_region_id_6">
                                         <lb xml:id="bsb10527015_00062_region_id_6_line0000" n="N001"
                                         />§. 87.</head>
@@ -16895,7 +16923,7 @@
                                                 xml:id="bsb10527015_00062_region_id_7_line0016"
                                                 n="N001"/>gis zu a hinaufſteiget (§. 77.).</p>
                         </div>
-                        <div xml:id="d164e6441">
+                        <div xml:id="d168e6441">
                                 <head facs="#bsb10527015_00062_region_id_12">
                                         <lb xml:id="bsb10527015_00062_region_id_12_line0000"
                                                 n="N001"/>§. 88.</head>
@@ -16931,7 +16959,7 @@
                                                 xml:id="bsb10527015_00063_region_id_2_line0003"
                                                 n="N001"/>fis gehoͤret.</p>
                         </div>
-                        <div xml:id="d164e6477">
+                        <div xml:id="d168e6477">
                                 <head facs="#bsb10527015_00063_region_id_3">
                                         <lb xml:id="bsb10527015_00063_region_id_3_line0000" n="N001"
                                         />§. 89.</head>
@@ -16957,7 +16985,7 @@
                                                 n="N001"/>renz betrift bey weitem keinen halben
                                         Ton.</p>
                         </div>
-                        <div xml:id="d164e6498">
+                        <div xml:id="d168e6498">
                                 <head facs="#bsb10527015_00063_region_id_5">
                                         <lb xml:id="bsb10527015_00063_region_id_5_line0000" n="N001"
                                         />§. 90.</head>
@@ -16977,7 +17005,7 @@
                                                 xml:id="bsb10527015_00063_region_id_6_line0005"
                                                 n="N001"/>ſteigen kann (. 48.</p>
                         </div>
-                        <div xml:id="d164e6517">
+                        <div xml:id="d168e6517">
                                 <head facs="#bsb10527015_00063_region_id_8">
                                         <lb xml:id="bsb10527015_00063_region_id_8_line0000" n="N001"
                                         />§. 9i.</head>
@@ -17006,7 +17034,7 @@
                                                 n="N001"/>Art giebet der Baß d, a die Toͤne f, e im
                                         Herunterſteigen.</p>
                         </div>
-                        <div xml:id="d164e6540">
+                        <div xml:id="d168e6540">
                                 <head facs="#bsb10527015_00063_region_id_10">
                                         <lb xml:id="bsb10527015_00063_region_id_10_line0000"
                                                 n="N001"/>§. 92.</head>
@@ -17029,7 +17057,7 @@
                                         <lb xml:id="bsb10527015_00064_region_id_1_line0000" n="N001"
                                         />IBuch. X Cap. Von der diatoniſchen Tonleiter rc.</fw>
                         </div>
-                        <div xml:id="d164e6564">
+                        <div xml:id="d168e6564">
                                 <head facs="#bsb10527015_00064_region_id_2">
                                         <lb xml:id="bsb10527015_00064_region_id_2_line0000" n="N001"
                                         />§. 93</head>
@@ -17067,14 +17095,14 @@
                                                 n="N001"/>Beybehaltung der diatoniſchen Ordnung,
                                         hinzugefuͤget wird.</p>
                         </div>
-                        <div xml:id="d164e6598">
+                        <div xml:id="d168e6598">
                                 <head facs="#bsb10527015_00064_region_id_8">
                                         <lb xml:id="bsb10527015_00064_region_id_8_line0000" n="N001"
                                         />Eilftes Capitel. <lb
                                                 xml:id="bsb10527015_00064_region_id_8_line0001"
                                                 n="N001"/>Von der Diſſonanz.</head>
                         </div>
-                        <div xml:id="d164e6604">
+                        <div xml:id="d168e6604">
                                 <head facs="#bsb10527015_00064_region_id_9">
                                         <lb xml:id="bsb10527015_00064_region_id_9_line0000" n="N001"
                                         />§. 94.</head>
@@ -17122,7 +17150,7 @@
                                         <lb xml:id="bsb10527015_00065_region_id_1_line0000" n="N001"
                                         />47</p>
                         </div>
-                        <div xml:id="d164e6650">
+                        <div xml:id="d168e6650">
                                 <head facs="#bsb10527015_00065_region_id_2">
                                         <lb xml:id="bsb10527015_00065_region_id_2_line0000" n="N001"
                                         />§. 95.</head>
@@ -17166,7 +17194,7 @@
                                                 n="N001"/>dieſem Tone nur allein zu gleicher Zeit
                                         zugehoͤren.</p>
                         </div>
-                        <div xml:id="d164e6684">
+                        <div xml:id="d168e6684">
                                 <head facs="#bsb10527015_00065_region_id_4">
                                         <lb xml:id="bsb10527015_00065_region_id_4_line0000" n="N001"
                                         />§. 96.</head>
@@ -17209,7 +17237,7 @@
                                                 xml:id="bsb10527015_00065_region_id_5_line0012"
                                                 n="N001"/>moͤglich iſt.</p>
                         </div>
-                        <div xml:id="d164e6718">
+                        <div xml:id="d168e6718">
                                 <head facs="#bsb10527015_00065_region_id_6">
                                         <lb xml:id="bsb10527015_00065_region_id_6_line0000" n="N001"
                                         />§. 97.</head>
@@ -17242,7 +17270,7 @@
                                                 <lb xml:id="bsb10527015_00066_region_id_2_line0001"
                                                 n="N001"/>Quinten g und f allhier bemerken.</p>
                         </div>
-                        <div xml:id="d164e6752">
+                        <div xml:id="d168e6752">
                                 <head facs="#bsb10527015_00066_region_id_3">
                                         <lb xml:id="bsb10527015_00066_region_id_3_line0000" n="N001"
                                         />§. 98.</head>
@@ -17262,7 +17290,7 @@
                                                 xml:id="bsb10527015_00066_region_id_4_line0004"
                                                 n="N001"/>cord f, a, c, d ausmachen.</p>
                         </div>
-                        <div xml:id="d164e6768">
+                        <div xml:id="d168e6768">
                                 <head facs="#bsb10527015_00066_region_id_5">
                                         <lb xml:id="bsb10527015_00066_region_id_5_line0000" n="N001"
                                         />§. 99.</head>
@@ -17278,7 +17306,7 @@
                                                 xml:id="bsb10527015_00066_region_id_6_line0003"
                                                 n="N001"/>Quinten hinzugefuͤget worden.</p>
                         </div>
-                        <div xml:id="d164e6782">
+                        <div xml:id="d168e6782">
                                 <head facs="#bsb10527015_00066_region_id_8">
                                         <lb xml:id="bsb10527015_00066_region_id_8_line0000" n="N001"
                                         />Zwoͤlftes Capitel. <lb
@@ -17286,7 +17314,7 @@
                                                 n="N001"/>Von dem Doppelgebrauche der
                                         Diſſonanz.</head>
                         </div>
-                        <div xml:id="d164e6788">
+                        <div xml:id="d168e6788">
                                 <head facs="#bsb10527015_00066_region_id_9">
                                         <lb xml:id="bsb10527015_00066_region_id_9_line0000" n="N001"
                                         />§. 100.</head>
@@ -17312,7 +17340,7 @@
                                                 xml:id="bsb10527015_00066_region_id_11_line0005"
                                                 n="N001"/>Stammtone c gefunden hat.</p>
                         </div>
-                        <div xml:id="d164e6811">
+                        <div xml:id="d168e6811">
                                 <head facs="#bsb10527015_00066_region_id_12">
                                         <lb xml:id="bsb10527015_00066_region_id_12_line0000"
                                                 n="N001"/>§. 10.</head>
@@ -17353,7 +17381,7 @@
                                                 n="N001"/>uͤber ſich habenden d auf gleiche Art auf
                                         g herabgehen koͤnnen.</p>
                         </div>
-                        <div xml:id="d164e6851">
+                        <div xml:id="d168e6851">
                                 <head facs="#bsb10527015_00067_region_id_3">
                                         <lb xml:id="bsb10527015_00067_region_id_3_line0000" n="N001"
                                         />§. 102.</head>
@@ -17395,7 +17423,7 @@
                                                 n="N001"/>den, als welche die toniſche Dominante
                                         heißen ſoll.</p>
                         </div>
-                        <div xml:id="d164e6883">
+                        <div xml:id="d168e6883">
                                 <head facs="#bsb10527015_00067_region_id_5">
                                         <lb xml:id="bsb10527015_00067_region_id_5_line0000" n="N001"
                                         />§. 103.</head>
@@ -17419,7 +17447,7 @@
                                                 n="N001"/>den beyden Accorden dieſe Forme giebet, d,
                                         f, a,c und g, h, d, f.</p>
                         </div>
-                        <div xml:id="d164e6903">
+                        <div xml:id="d168e6903">
                                 <head facs="#bsb10527015_00067_region_id_7">
                                         <lb xml:id="bsb10527015_00067_region_id_7_line0000" n="N001"
                                         />§. i04.</head>
@@ -17474,7 +17502,7 @@
                                                 xml:id="bsb10527015_00068_region_id_2_line0004"
                                                 n="N001"/>f, a, c, d.</p>
                         </div>
-                        <div xml:id="d164e6951">
+                        <div xml:id="d168e6951">
                                 <head facs="#bsb10527015_00068_region_id_3">
                                         <lb xml:id="bsb10527015_00068_region_id_3_line0000" n="N001"
                                         />§. 105.</head>
@@ -17520,7 +17548,7 @@
                                                 n="N001"/>gen koͤnne. Man wird im XVI Cap. die
                                         Urſache davon erfahren.</p>
                         </div>
-                        <div xml:id="d164e6989">
+                        <div xml:id="d168e6989">
                                 <head facs="#bsb10527015_00068_region_id_7">
                                         <lb xml:id="bsb10527015_00068_region_id_7_line0000" n="N001"
                                         />Dreyzehntes Capitel. <lb
@@ -17528,7 +17556,7 @@
                                                 n="N001"/>Regeln vom Doppelgebrauche der
                                         Diſſonanz.</head>
                         </div>
-                        <div xml:id="d164e6996">
+                        <div xml:id="d168e6996">
                                 <head facs="#bsb10527015_00068_region_id_8">
                                         <lb xml:id="bsb10527015_00068_region_id_8_line0000" n="N001"
                                         />§. 106.</head>
@@ -17603,7 +17631,7 @@
                                                 xml:id="bsb10527015_00069_region_id_2_line0012"
                                                 n="N001"/>Weiſe haben ſollte, gehemmet wird.</p>
                         </div>
-                        <div xml:id="d164e7063">
+                        <div xml:id="d168e7063">
                                 <head facs="#bsb10527015_00069_region_id_4">
                                         <lb xml:id="bsb10527015_00069_region_id_4_line0000" n="N001"
                                         />§. 107.</head>
@@ -17624,7 +17652,7 @@
                                                 n="N001"/>zur Harmonie von d, ein fis anſtatt f
                                         nehmen.</p>
                         </div>
-                        <div xml:id="d164e7083">
+                        <div xml:id="d168e7083">
                                 <head facs="#bsb10527015_00069_region_id_7">
                                         <lb xml:id="bsb10527015_00069_region_id_7_line0000" n="N001"
                                         />§. 108.</head>
@@ -17638,7 +17666,7 @@
                                                 n="N001"/>oder die ſimple Dominante (d, f, a,c)
                                         folgen laſſen.</p>
                         </div>
-                        <div xml:id="d164e7095">
+                        <div xml:id="d168e7095">
                                 <head facs="#bsb10527015_00069_region_id_9">
                                         <lb xml:id="bsb10527015_00069_region_id_9_line0000" n="N001"
                                         />§. 109.</head>
@@ -17691,7 +17719,7 @@
                                                 n="N001"/>Doppelgebrauche der Diſſonanz in der
                                         kleinen Tonart dienen wird.</p>
                         </div>
-                        <div xml:id="d164e7142">
+                        <div xml:id="d168e7142">
                                 <head facs="#bsb10527015_00070_region_id_3">
                                         <lb xml:id="bsb10527015_00070_region_id_3_line0000" n="N001"
                                         />§. 110.</head>
@@ -17731,7 +17759,7 @@
                                                 n="N001"/>namlich die Unterdominante d die große
                                         Terz fis uͤber ſich haben muß.</p>
                         </div>
-                        <div xml:id="d164e7177">
+                        <div xml:id="d168e7177">
                                 <head facs="#bsb10527015_00070_region_id_6">
                                         <lb xml:id="bsb10527015_00070_region_id_6_line0000" n="N001"
                                         />§. II.</head>
@@ -17763,7 +17791,7 @@
                                 <pb facs="#bsb10527015_00071" n="[]" xml:id="pb_bsb10527015_00071"/>
                                 <p facs="#bsb10527015_00071_region_id_0"/>
                         </div>
-                        <div xml:id="d164e7204">
+                        <div xml:id="d168e7204">
                                 <head facs="#bsb10527015_00071_region_id_2">
                                         <lb xml:id="bsb10527015_00071_region_id_2_line0000" n="N001"
                                         />Vierzehntes Capitel. <lb
@@ -17771,7 +17799,7 @@
                                                 n="N001"/>Verſchiedene Arten des
                                         Septimenaccords.</head>
                         </div>
-                        <div xml:id="d164e7210">
+                        <div xml:id="d168e7210">
                                 <head facs="#bsb10527015_00071_region_id_3">
                                         <lb xml:id="bsb10527015_00071_region_id_3_line0000" n="N001"
                                         />§. ua.</head>
@@ -17797,7 +17825,7 @@
                                                 n="N001"/>Schritts, uicht annoch weiter gehen
                                         kann.</p>
                         </div>
-                        <div xml:id="d164e7234">
+                        <div xml:id="d168e7234">
                                 <head facs="#bsb10527015_00071_region_id_6">
                                         <lb xml:id="bsb10527015_00071_region_id_6_line0000" n="N001"
                                         />§. 3.</head>
@@ -17823,7 +17851,7 @@
                                                 xml:id="bsb10527015_00071_region_id_8_line0005"
                                                 n="N001"/>großen Terz beſtehet.</p>
                         </div>
-                        <div xml:id="d164e7259">
+                        <div xml:id="d168e7259">
                                 <head facs="#bsb10527015_00071_region_id_9">
                                         <lb xml:id="bsb10527015_00071_region_id_9_line0000" n="N001"
                                         />§. 114.</head>
@@ -17878,7 +17906,7 @@
                                         <lb xml:id="bsb10527015_00072_region_id_1_line0000" n="N001"
                                         />1Buch. XIVCap. Verſchied. Arten des Septimenaccords.</fw>
                         </div>
-                        <div xml:id="d164e7310">
+                        <div xml:id="d168e7310">
                                 <head facs="#bsb10527015_00072_region_id_2">
                                         <lb xml:id="bsb10527015_00072_region_id_2_line0000" n="N001"
                                         />§. 15.</head>
@@ -17915,7 +17943,7 @@
                                                 xml:id="bsb10527015_00072_region_id_3_line0010"
                                                 n="N001"/>f zu erhalten.</p>
                         </div>
-                        <div xml:id="d164e7339">
+                        <div xml:id="d168e7339">
                                 <head facs="#bsb10527015_00072_region_id_4">
                                         <lb xml:id="bsb10527015_00072_region_id_4_line0000" n="N001"
                                         />§. 116.</head>
@@ -17986,7 +18014,7 @@
                                         <lb xml:id="bsb10527015_00073_region_id_1_line0000" n="N001"
                                         />5</p>
                         </div>
-                        <div xml:id="d164e7401">
+                        <div xml:id="d168e7401">
                                 <head facs="#bsb10527015_00073_region_id_2">
                                         <lb xml:id="bsb10527015_00073_region_id_2_line0000" n="N001"
                                         />§. 117.</head>
@@ -18007,7 +18035,7 @@
                                                 n="N001"/>gehen. Dieſe Anmerkung wird uns in der
                                         Folge ſehr nuͤtzlich ſeyn.</p>
                         </div>
-                        <div xml:id="d164e7417">
+                        <div xml:id="d168e7417">
                                 <head facs="#bsb10527015_00073_region_id_5">
                                         <lb xml:id="bsb10527015_00073_region_id_5_line0000" n="N001"
                                         />Funfzehntes Capitel. <lb
@@ -18015,7 +18043,7 @@
                                                 n="N001"/>Von der Vorbereitung der
                                         Diſſonanzen.</head>
                         </div>
-                        <div xml:id="d164e7424">
+                        <div xml:id="d168e7424">
                                 <head facs="#bsb10527015_00073_region_id_6">
                                         <lb xml:id="bsb10527015_00073_region_id_6_line0000" n="N001"
                                         />§. u8.</head>
@@ -18032,7 +18060,7 @@
                                                 n="N001"/>f die Diſſonanz in g, h, d, f, und c in d,
                                         f, a,c.</p>
                         </div>
-                        <div xml:id="d164e7440">
+                        <div xml:id="d168e7440">
                                 <head facs="#bsb10527015_00073_region_id_9">
                                         <lb xml:id="bsb10527015_00073_region_id_9_line0000" n="N001"
                                         />§. n9.</head>
@@ -18061,7 +18089,7 @@
                                                 xml:id="bsb10527015_00073_region_id_10_line0007"
                                                 n="N001"/>tons vorhanden.</p>
                         </div>
-                        <div xml:id="d164e7463">
+                        <div xml:id="d168e7463">
                                 <head facs="#bsb10527015_00073_region_id_11">
                                         <lb xml:id="bsb10527015_00073_region_id_11_line0000"
                                                 n="N001"/>§. 120.</head>
@@ -18098,7 +18126,7 @@
                                         <lb xml:id="bsb10527015_00074_region_id_1_line0000" n="N001"
                                         />1Buch. XVCap. Von der Vorbereitung</fw>
                         </div>
-                        <div xml:id="d164e7500">
+                        <div xml:id="d168e7500">
                                 <head facs="#bsb10527015_00074_region_id_2">
                                         <lb xml:id="bsb10527015_00074_region_id_2_line0000" n="N001"
                                         />§. i2I.</head>
@@ -18126,7 +18154,7 @@
                                                 xml:id="bsb10527015_00074_region_id_3_line0007"
                                                 n="N001"/>Regel.</p>
                         </div>
-                        <div xml:id="d164e7523">
+                        <div xml:id="d168e7523">
                                 <head facs="#bsb10527015_00074_region_id_4">
                                         <lb xml:id="bsb10527015_00074_region_id_4_line0000" n="N001"
                                         />§. 122.</head>
@@ -18148,7 +18176,7 @@
                                         <lb xml:id="bsb10527015_00074_region_id_6_line0000" n="N001"
                                         />Dieſes nennet man eine Diſſonanz vorbereiten.</p>
                         </div>
-                        <div xml:id="d164e7543">
+                        <div xml:id="d168e7543">
                                 <head facs="#bsb10527015_00074_region_id_7">
                                         <lb xml:id="bsb10527015_00074_region_id_7_line0000" n="N001"
                                         />§. 123.</head>
@@ -18217,7 +18245,7 @@
                                         <lb xml:id="bsb10527015_00075_region_id_1_line0000" n="N001"
                                         />57</p>
                         </div>
-                        <div xml:id="d164e7608">
+                        <div xml:id="d168e7608">
                                 <head facs="#bsb10527015_00075_region_id_2">
                                         <lb xml:id="bsb10527015_00075_region_id_2_line0000" n="N001"
                                         />§. 124.</head>
@@ -18257,7 +18285,7 @@
                                                 n="N001"/>man die Diſſonanz ploͤtzlich
                                         hinzufuͤget.</p>
                         </div>
-                        <div xml:id="d164e7642">
+                        <div xml:id="d168e7642">
                                 <head facs="#bsb10527015_00075_region_id_6">
                                         <lb xml:id="bsb10527015_00075_region_id_6_line0000" n="N001"
                                         />Sechzehntes Capitel. <lb
@@ -18265,7 +18293,7 @@
                                                 n="N001"/>Regeln, die Diſſonanzen
                                         aufzuloͤſen.</head>
                         </div>
-                        <div xml:id="d164e7648">
+                        <div xml:id="d168e7648">
                                 <head facs="#bsb10527015_00075_region_id_7">
                                         <lb xml:id="bsb10527015_00075_region_id_7_line0000" n="N001"
                                         />§. 125.</head>
@@ -18300,7 +18328,7 @@
                                                 n="N001"/>Note muß eine Conſonanz des folgenden
                                         Accords ſeyn.</p>
                         </div>
-                        <div xml:id="d164e7677">
+                        <div xml:id="d168e7677">
                                 <head facs="#bsb10527015_00075_region_id_10">
                                         <lb xml:id="bsb10527015_00075_region_id_10_line0000"
                                                 n="N001"/>§. 126.</head>
@@ -18354,7 +18382,7 @@
                                                 xml:id="bsb10527015_00076_region_id_2_line0010"
                                                 n="N001"/>rrmies E</p>
                         </div>
-                        <div xml:id="d164e7729">
+                        <div xml:id="d168e7729">
                                 <head facs="#bsb10527015_00076_region_id_5">
                                         <lb xml:id="bsb10527015_00076_region_id_5_line0000" n="N001"
                                         />§. 127.</head>
@@ -18367,7 +18395,7 @@
                                                 xml:id="bsb10527015_00076_region_id_6_line0002"
                                                 n="N001"/>zum d hinaufſteigen.</p>
                         </div>
-                        <div xml:id="d164e7741">
+                        <div xml:id="d168e7741">
                                 <head facs="#bsb10527015_00076_region_id_7">
                                         <lb xml:id="bsb10527015_00076_region_id_7_line0000" n="N001"
                                         />§. 128.</head>
@@ -18384,7 +18412,7 @@
                                                 n="N001"/>gen muß. Hieraus entſpringen folgende
                                         Regeln (26).</p>
                         </div>
-                        <div xml:id="d164e7756">
+                        <div xml:id="d168e7756">
                                 <head facs="#bsb10527015_00076_region_id_9">
                                         <lb xml:id="bsb10527015_00076_region_id_9_line0000" n="N001"
                                         />§. 129.</head>
@@ -18418,7 +18446,7 @@
                                         <lb xml:id="bsb10527015_00077_region_id_1_line0000" n="N001"
                                         />59</p>
                         </div>
-                        <div xml:id="d164e7788">
+                        <div xml:id="d168e7788">
                                 <head facs="#bsb10527015_00077_region_id_2">
                                         <lb xml:id="bsb10527015_00077_region_id_2_line0000" n="N001"
                                         />§. 130.</head>
@@ -18517,14 +18545,14 @@
                                         <lb xml:id="bsb10527015_00078_region_id_0_line0000" n="N001"
                                         />60</p>
                         </div>
-                        <div xml:id="d164e7869">
+                        <div xml:id="d168e7869">
                                 <head facs="#bsb10527015_00078_region_id_2">
                                         <lb xml:id="bsb10527015_00078_region_id_2_line0000" n="N001"
                                         />Siebenzehntes Capitel. <lb
                                                 xml:id="bsb10527015_00078_region_id_2_line0001"
                                                 n="N001"/>Von unterbrochenen Cadenzen.</head>
                         </div>
-                        <div xml:id="d164e7875">
+                        <div xml:id="d168e7875">
                                 <head facs="#bsb10527015_00078_region_id_3">
                                         <lb xml:id="bsb10527015_00078_region_id_3_line0000" n="N001"
                                         />§. 13i.</head>
@@ -18580,7 +18608,7 @@
                                                 n="N001"/>gen. Dieſe Erfahrung iſt leicht zu
                                         machen.</p>
                         </div>
-                        <div xml:id="d164e7919">
+                        <div xml:id="d168e7919">
                                 <head facs="#bsb10527015_00078_region_id_6">
                                         <lb xml:id="bsb10527015_00078_region_id_6_line0000" n="N001"
                                         />§. 132.</head>
@@ -18600,7 +18628,7 @@
                                                 n="N001"/>brochen, und durch den Gang von g zu
                                         gehemmet wird.</p>
                         </div>
-                        <div xml:id="d164e7935">
+                        <div xml:id="d168e7935">
                                 <head facs="#bsb10527015_00078_region_id_8">
                                         <lb xml:id="bsb10527015_00078_region_id_8_line0000" n="N001"
                                         />§. 133.</head>
@@ -18633,7 +18661,7 @@
                                         hoͤren, <lb xml:id="bsb10527015_00079_region_id_2_line0001"
                                                 n="N001"/>verbunden iſt.</p>
                         </div>
-                        <div xml:id="d164e7969">
+                        <div xml:id="d168e7969">
                                 <head facs="#bsb10527015_00079_region_id_3">
                                         <lb xml:id="bsb10527015_00079_region_id_3_line0000" n="N001"
                                         />§. 134.</head>
@@ -18674,7 +18702,7 @@
                                                 xml:id="bsb10527015_00079_region_id_4_line0011"
                                                 n="N001"/>nante veraͤndert.</p>
                         </div>
-                        <div xml:id="d164e8001">
+                        <div xml:id="d168e8001">
                                 <head facs="#bsb10527015_00079_region_id_5">
                                         <lb xml:id="bsb10527015_00079_region_id_5_line0000" n="N001"
                                         />§. 135.</head>
@@ -18693,7 +18721,7 @@
                                                 xml:id="bsb10527015_00079_region_id_6_line0004"
                                                 n="N001"/>gehet alſo diatoniſch herunter.</p>
                         </div>
-                        <div xml:id="d164e8017">
+                        <div xml:id="d168e8017">
                                 <head facs="#bsb10527015_00079_region_id_7">
                                         <lb xml:id="bsb10527015_00079_region_id_7_line0000" n="N001"
                                         />§. 136.</head>
@@ -18721,7 +18749,7 @@
                                                 xml:id="bsb10527015_00079_region_id_8_line0007"
                                                 n="N001"/>de e herabgehet.</p>
                         </div>
-                        <div xml:id="d164e8041">
+                        <div xml:id="d168e8041">
                                 <head facs="#bsb10527015_00079_region_id_9">
                                         <lb xml:id="bsb10527015_00079_region_id_9_line0000" n="N001"
                                         />§. 137.</head>
@@ -18763,7 +18791,7 @@
                                                 n="N001"/>unterbrochene Cadenz g, h, d, f und e, g,
                                         h, d.</p>
                         </div>
-                        <div xml:id="d164e8079">
+                        <div xml:id="d168e8079">
                                 <head facs="#bsb10527015_00080_region_id_4">
                                         <lb xml:id="bsb10527015_00080_region_id_4_line0000" n="N001"
                                         />Achtzehntes Ctl <lb
@@ -18771,7 +18799,7 @@
                                                 n="N001"/>Von dem chromatiſchen
                                         Klanggeſchlechte.</head>
                         </div>
-                        <div xml:id="d164e8085">
+                        <div xml:id="d168e8085">
                                 <head facs="#bsb10527015_00080_region_id_5">
                                         <lb xml:id="bsb10527015_00080_region_id_5_line0000" n="N001"
                                         />§. 138.</head>
@@ -18796,7 +18824,7 @@
                                                 xml:id="bsb10527015_00080_region_id_7_line0005"
                                                 n="N001"/>Quinten geſchehen iſt.</p>
                         </div>
-                        <div xml:id="d164e8109">
+                        <div xml:id="d168e8109">
                                 <head facs="#bsb10527015_00080_region_id_8">
                                         <lb xml:id="bsb10527015_00080_region_id_8_line0000" n="N001"
                                         />§. 139.</head>
@@ -18891,7 +18919,7 @@
                                         <lb xml:id="bsb10527015_00081_region_id_1_line0000" n="N001"
                                         />6</p>
                         </div>
-                        <div xml:id="d164e8199">
+                        <div xml:id="d168e8199">
                                 <head facs="#bsb10527015_00081_region_id_2">
                                         <lb xml:id="bsb10527015_00081_region_id_2_line0000" n="N001"
                                         />§. 140.</head>
@@ -18910,7 +18938,7 @@
                                                 xml:id="bsb10527015_00081_region_id_3_line0004"
                                                 n="N001"/>(Cap. X.).</p>
                         </div>
-                        <div xml:id="d164e8215">
+                        <div xml:id="d168e8215">
                                 <head facs="#bsb10527015_00081_region_id_4">
                                         <lb xml:id="bsb10527015_00081_region_id_4_line0000" n="N001"
                                         />§. 14I.</head>
@@ -19086,7 +19114,7 @@
                                                 n="N001"/>als g. (Man ſehe die Anmerk. bey y und
                                         2).</p>
                         </div>
-                        <div xml:id="d164e8379">
+                        <div xml:id="d168e8379">
                                 <head facs="#bsb10527015_00082_region_id_3">
                                         <lb xml:id="bsb10527015_00082_region_id_3_line0000" n="N001"
                                         />§. 142.</head>
@@ -19108,7 +19136,7 @@
                                                 xml:id="bsb10527015_00082_region_id_4_line0005"
                                                 n="N001"/>terſteigen, giebet c, ces 8).</p>
                         </div>
-                        <div xml:id="d164e8398">
+                        <div xml:id="d168e8398">
                                 <head facs="#bsb10527015_00082_region_id_5">
                                         <lb xml:id="bsb10527015_00082_region_id_5_line0000" n="N001"
                                         />§. 143.</head>
@@ -19122,7 +19150,7 @@
                                                 n="N001"/>ſchlechte, welches uns die Quintenfolgen
                                         geben (Cap. Vund V1), alle</p>
                         </div>
-                        <div xml:id="d164e8410">
+                        <div xml:id="d168e8410">
                                 <head facs="#bsb10527015_00082_region_id_8">
                                         <lb xml:id="bsb10527015_00082_region_id_8_line0000" n="N001"
                                         />Neunzehntes Capitel. <lb
@@ -19130,7 +19158,7 @@
                                                 n="N001"/>Von dem enharmoniſchen
                                         Klanggeſchlechte.</head>
                         </div>
-                        <div xml:id="d164e8417">
+                        <div xml:id="d168e8417">
                                 <head facs="#bsb10527015_00082_region_id_9">
                                         <lb xml:id="bsb10527015_00082_region_id_9_line0000" n="N001"
                                         />§. 144.</head>
@@ -19447,7 +19475,7 @@
                                         <lb xml:id="bsb10527015_00084_region_id_1_line0000" n="N001"
                                         />1 Buch. XX Cap. Von dem</fw>
                         </div>
-                        <div xml:id="d164e8728">
+                        <div xml:id="d168e8728">
                                 <head facs="#bsb10527015_00084_region_id_2">
                                         <lb xml:id="bsb10527015_00084_region_id_2_line0000" n="N001"
                                         />§. 145.</head>
@@ -19589,7 +19617,7 @@
                                                 n="N001"/>nichts gemein haben, und alſo demſelben
                                         ganz fremde ſind.</p>
                         </div>
-                        <div xml:id="d164e8856">
+                        <div xml:id="d168e8856">
                                 <head facs="#bsb10527015_00085_region_id_4">
                                         <lb xml:id="bsb10527015_00085_region_id_4_line0000" n="N001"
                                         />§. 146.</head>
@@ -19641,7 +19669,7 @@
                                         <lb xml:id="bsb10527015_00086_region_id_0_line0000" n="N001"
                                         />68</p>
                         </div>
-                        <div xml:id="d164e8899">
+                        <div xml:id="d168e8899">
                                 <head facs="#bsb10527015_00086_region_id_2">
                                         <lb xml:id="bsb10527015_00086_region_id_2_line0000" n="N001"
                                         />Zwanzigſtes Capitel. <lb
@@ -19650,7 +19678,7 @@
                                                 xml:id="bsb10527015_00086_region_id_2_line0002"
                                                 n="N001"/>Klan ggeſchlecht e.</head>
                         </div>
-                        <div xml:id="d164e8907">
+                        <div xml:id="d168e8907">
                                 <head facs="#bsb10527015_00086_region_id_3">
                                         <lb xml:id="bsb10527015_00086_region_id_3_line0000" n="N001"
                                         />§. 147.</head>
@@ -19752,7 +19780,7 @@
                                 <pb facs="#bsb10527015_00087" n="[]" xml:id="pb_bsb10527015_00087"/>
                                 <p facs="#bsb10527015_00087_region_id_0"/>
                         </div>
-                        <div xml:id="d164e9005">
+                        <div xml:id="d168e9005">
                                 <head facs="#bsb10527015_00087_region_id_2">
                                         <lb xml:id="bsb10527015_00087_region_id_2_line0000" n="N001"
                                         />Ein und zwanzigſtes Capitel. <lb
@@ -19761,7 +19789,7 @@
                                                 xml:id="bsb10527015_00087_region_id_2_line0002"
                                                 n="N001"/>Klanggeſchlechte.</head>
                         </div>
-                        <div xml:id="d164e9013">
+                        <div xml:id="d168e9013">
                                 <head facs="#bsb10527015_00087_region_id_3">
                                         <lb xml:id="bsb10527015_00087_region_id_3_line0000" n="N001"
                                         />§ 148.</head>
@@ -19791,7 +19819,7 @@
                                                 n="N001"/>nen enharmoniſchen Viertheilston kleiner,
                                         als ein ganzer Ton, ſind.</p>
                         </div>
-                        <div xml:id="d164e9042">
+                        <div xml:id="d168e9042">
                                 <head facs="#bsb10527015_00087_region_id_8">
                                         <lb xml:id="bsb10527015_00087_region_id_8_line0000" n="N001"
                                         />§. 149.</head>
@@ -19804,7 +19832,7 @@
                                                 xml:id="bsb10527015_00087_region_id_9_line0002"
                                                 n="N001"/>von dem Grundbaſſe abhangt.</p>
                         </div>
-                        <div xml:id="d164e9054">
+                        <div xml:id="d168e9054">
                                 <head facs="#bsb10527015_00087_region_id_10">
                                         <lb xml:id="bsb10527015_00087_region_id_10_line0000"
                                                 n="N001"/>§. 150.</head>
@@ -19886,7 +19914,7 @@
                                         <lb xml:id="bsb10527015_00088_region_id_1_line0000" n="N001"
                                         />1Buch. XXIl Cap. Daß die Melodie</fw>
                         </div>
-                        <div xml:id="d164e9133">
+                        <div xml:id="d168e9133">
                                 <head facs="#bsb10527015_00088_region_id_2">
                                         <lb xml:id="bsb10527015_00088_region_id_2_line0000" n="N001"
                                         />s. <lb xml:id="bsb10527015_00088_region_id_2_line0001"
@@ -19898,7 +19926,7 @@
                                                 n="N001"/>ſche Klanggeſchlecht iſt nach dem
                                         vorhergehenden das natuͤrlichſte.</p>
                         </div>
-                        <div xml:id="d164e9145">
+                        <div xml:id="d168e9145">
                                 <head facs="#bsb10527015_00088_region_id_4">
                                         <lb xml:id="bsb10527015_00088_region_id_4_line0000" n="N001"
                                         />§. 152.</head>
@@ -19930,7 +19958,7 @@
                                                 n="N001"/>ſchreitung gar weit von einander entfernet
                                         ſind (§. 144.</p>
                         </div>
-                        <div xml:id="d164e9170">
+                        <div xml:id="d168e9170">
                                 <head facs="#bsb10527015_00088_region_id_7">
                                         <lb xml:id="bsb10527015_00088_region_id_7_line0000" n="N001"
                                         />Zwey und zwanzigſtes Capitel. <lb
@@ -19938,7 +19966,7 @@
                                                 n="N001"/>Daß die Melodie aus der Harmonie
                                         entſpringt.</head>
                         </div>
-                        <div xml:id="d164e9176">
+                        <div xml:id="d168e9176">
                                 <head facs="#bsb10527015_00088_region_id_8">
                                         <lb xml:id="bsb10527015_00088_region_id_8_line0000" n="N001"
                                         />§. 153.</head>
@@ -19961,7 +19989,7 @@
                                                 xml:id="bsb10527015_00088_region_id_10_line0004"
                                                 n="N001"/>lodie ſuchen muß.</p>
                         </div>
-                        <div xml:id="d164e9197">
+                        <div xml:id="d168e9197">
                                 <head facs="#bsb10527015_00088_region_id_11">
                                         <lb xml:id="bsb10527015_00088_region_id_11_line0000"
                                                 n="N001"/>§. 154.</head>
@@ -19993,7 +20021,7 @@
                                         <lb xml:id="bsb10527015_00089_region_id_1_line0000" n="N001"
                                         />71</p>
                         </div>
-                        <div xml:id="d164e9227">
+                        <div xml:id="d168e9227">
                                 <head facs="#bsb10527015_00089_region_id_2">
                                         <lb xml:id="bsb10527015_00089_region_id_2_line0000" n="N001"
                                         />§. 155.</head>
@@ -20009,7 +20037,7 @@
                                                 xml:id="bsb10527015_00089_region_id_3_line0003"
                                                 n="N001"/>an ſich einerley bleibet. .</p>
                         </div>
-                        <div xml:id="d164e9242">
+                        <div xml:id="d168e9242">
                                 <head facs="#bsb10527015_00089_region_id_4">
                                         <lb xml:id="bsb10527015_00089_region_id_4_line0000" n="N001"
                                         />§. 156.</head>
@@ -20052,7 +20080,7 @@
                                                 xml:id="bsb10527015_00089_region_id_6_line0005"
                                                 n="N001"/>ſanges zu veraͤndern?</p>
                         </div>
-                        <div xml:id="d164e9278">
+                        <div xml:id="d168e9278">
                                 <head facs="#bsb10527015_00089_region_id_7">
                                         <lb xml:id="bsb10527015_00089_region_id_7_line0000" n="N001"
                                         />Allgemeine Anmerkung.</head>
@@ -20099,7 +20127,7 @@
                                         <lb xml:id="bsb10527015_00090_region_id_1_line0000" n="N001"
                                         />IBuch. ICap. Von den verſchiedenen</fw>
                         </div>
-                        <div xml:id="d164e9318">
+                        <div xml:id="d168e9318">
                                 <head facs="#bsb10527015_00090_region_id_3">
                                         <lb xml:id="bsb10527015_00090_region_id_3_line0000" n="N001"
                                         />Zweytes Buch, <lb
@@ -20110,12 +20138,12 @@
                                                 xml:id="bsb10527015_00090_region_id_3_line0003"
                                                 n="N001"/>Setzkunſt enthaͤlt.</head>
                         </div>
-                        <div xml:id="d164e9328">
+                        <div xml:id="d168e9328">
                                 <head facs="#bsb10527015_00090_region_id_5">
                                         <lb xml:id="bsb10527015_00090_region_id_5_line0000" n="N001"
                                         />Vorbereitung.</head>
                         </div>
-                        <div xml:id="d164e9333">
+                        <div xml:id="d168e9333">
                                 <head facs="#bsb10527015_00090_region_id_6">
                                         <lb xml:id="bsb10527015_00090_region_id_6_line0000" n="N001"
                                         />§. 157.</head>
@@ -20140,7 +20168,7 @@
                                                 xml:id="bsb10527015_00090_region_id_8_line0005"
                                                 n="N001"/>obligat componiren.</p>
                         </div>
-                        <div xml:id="d164e9356">
+                        <div xml:id="d168e9356">
                                 <head facs="#bsb10527015_00090_region_id_9">
                                         <lb xml:id="bsb10527015_00090_region_id_9_line0000" n="N001"
                                         />§. 158.</head>
@@ -20157,7 +20185,7 @@
                                                 xml:id="bsb10527015_00090_region_id_10_line0003"
                                                 n="N001"/>der Tenor.</p>
                         </div>
-                        <div xml:id="d164e9370">
+                        <div xml:id="d168e9370">
                                 <head facs="#bsb10527015_00090_region_id_12">
                                         <lb xml:id="bsb10527015_00090_region_id_12_line0000"
                                                 n="N001"/>Erſtes Capitel. <lb
@@ -20166,7 +20194,7 @@
                                                 <lb xml:id="bsb10527015_00090_region_id_12_line0002"
                                                 n="N001"/>Jntervalls.</head>
                         </div>
-                        <div xml:id="d164e9378">
+                        <div xml:id="d168e9378">
                                 <head facs="#bsb10527015_00090_region_id_13">
                                         <lb xml:id="bsb10527015_00090_region_id_13_line0000"
                                                 n="N001"/>§. 159.</head>
@@ -20199,7 +20227,7 @@
                                                 n="N001"/>ſtaͤnde verſchiedene Namen bekommen. Wir
                                         wollen ſelbige erklaͤren.</p>
                         </div>
-                        <div xml:id="d164e9412">
+                        <div xml:id="d168e9412">
                                 <head facs="#bsb10527015_00091_region_id_3">
                                         <lb xml:id="bsb10527015_00091_region_id_3_line0000" n="N001"
                                         />§. 160.</head>
@@ -20219,7 +20247,7 @@
                                                 n="N001"/>bleiben. Daher heißt c, dis eine
                                         uͤbermaͤßige Secunde.</p>
                         </div>
-                        <div xml:id="d164e9428">
+                        <div xml:id="d168e9428">
                                 <head facs="#bsb10527015_00091_region_id_5">
                                         <lb xml:id="bsb10527015_00091_region_id_5_line0000" n="N001"
                                         />§. 161.</head>
@@ -20238,7 +20266,7 @@
                                                 xml:id="bsb10527015_00091_region_id_6_line0004"
                                                 n="N001"/>brauche wird weiter unten vorkommen.</p>
                         </div>
-                        <div xml:id="d164e9444">
+                        <div xml:id="d168e9444">
                                 <head facs="#bsb10527015_00091_region_id_7">
                                         <lb xml:id="bsb10527015_00091_region_id_7_line0000" n="N001"
                                         />§. 162.</head>
@@ -20263,7 +20291,7 @@
                                                 xml:id="bsb10527015_00091_region_id_8_line0006"
                                                 n="N001"/>bleibet die große Sexte a nach.</p>
                         </div>
-                        <div xml:id="d164e9465">
+                        <div xml:id="d168e9465">
                                 <head facs="#bsb10527015_00091_region_id_9">
                                         <lb xml:id="bsb10527015_00091_region_id_9_line0000" n="N001"
                                         />§. 163.</head>
@@ -20297,7 +20325,7 @@
                                         <lb xml:id="bsb10527015_00092_region_id_1_line0000" n="N001"
                                         />1Buch. I Cap. Vergleichung</fw>
                         </div>
-                        <div xml:id="d164e9498">
+                        <div xml:id="d168e9498">
                                 <head facs="#bsb10527015_00092_region_id_2">
                                         <lb xml:id="bsb10527015_00092_region_id_2_line0000" n="N001"
                                         />§. 164.</head>
@@ -20311,7 +20339,7 @@
                                                 n="N001"/>Sexte genennet, z. E. f, dis
                                         [fn_hh)]).</p>
                         </div>
-                        <div xml:id="d164e9510">
+                        <div xml:id="d168e9510">
                                 <head facs="#bsb10527015_00092_region_id_5">
                                         <lb xml:id="bsb10527015_00092_region_id_5_line0000" n="N001"
                                         />Zweytes Capitel. <lb
@@ -20319,7 +20347,7 @@
                                                 n="N001"/>Vergleichung verſchiedener
                                         Jntervalle.</head>
                         </div>
-                        <div xml:id="d164e9516">
+                        <div xml:id="d168e9516">
                                 <head facs="#bsb10527015_00092_region_id_6">
                                         <lb xml:id="bsb10527015_00092_region_id_6_line0000" n="N001"
                                         />§. 165.</head>
@@ -20338,7 +20366,7 @@
                                                 xml:id="bsb10527015_00092_region_id_8_line0003"
                                                 n="N001"/>plique von dem andern h.</p>
                         </div>
-                        <div xml:id="d164e9534">
+                        <div xml:id="d168e9534">
                                 <head facs="#bsb10527015_00092_region_id_9">
                                         <lb xml:id="bsb10527015_00092_region_id_9_line0000" n="N001"
                                         />§. 166.</head>
@@ -20353,7 +20381,7 @@
                                                 n="N001"/>abwaͤrts, oder eine Septime aufwarts
                                         gehen.</p>
                         </div>
-                        <div xml:id="d164e9547">
+                        <div xml:id="d168e9547">
                                 <head facs="#bsb10527015_00092_region_id_11">
                                         <lb xml:id="bsb10527015_00092_region_id_11_line0000"
                                                 n="N001"/>§. 167.</head>
@@ -20367,7 +20395,7 @@
                                                 xml:id="bsb10527015_00092_region_id_12_line0002"
                                                 n="N001"/>der Quinte iſt.</p>
                         </div>
-                        <div xml:id="d164e9559">
+                        <div xml:id="d168e9559">
                                 <head facs="#bsb10527015_00092_region_id_13">
                                         <lb xml:id="bsb10527015_00092_region_id_13_line0000"
                                                 n="N001"/>§. 168.</head>
@@ -20424,7 +20452,7 @@
                                         <graphic url="#_region_id_4"/>
                                 </figure>
                         </div>
-                        <div xml:id="d164e9613">
+                        <div xml:id="d168e9613">
                                 <head facs="#bsb10527015_00093_region_id_5">
                                         <lb xml:id="bsb10527015_00093_region_id_5_line0000" n="N001"
                                         />§. 169.</head>
@@ -20437,7 +20465,7 @@
                                                 xml:id="bsb10527015_00093_region_id_6_line0002"
                                                 n="N001"/>oder eine Quinte abwaͤrts gehen.</p>
                         </div>
-                        <div xml:id="d164e9625">
+                        <div xml:id="d168e9625">
                                 <head facs="#bsb10527015_00093_region_id_8">
                                         <lb xml:id="bsb10527015_00093_region_id_8_line0000" n="N001"
                                         />Drittes Capitel. <lb
@@ -20447,7 +20475,7 @@
                                                 n="N001"/>der Noten, dem Tacte und der
                                         Ruͤckung.</head>
                         </div>
-                        <div xml:id="d164e9633">
+                        <div xml:id="d168e9633">
                                 <head facs="#bsb10527015_00093_region_id_9">
                                         <lb xml:id="bsb10527015_00093_region_id_9_line0000" n="N001"
                                         />§. 170.</head>
@@ -20492,7 +20520,7 @@
                                                 xml:id="bsb10527015_00094_region_id_3_line0001"
                                                 n="N001"/>und heißt die Linie nach ihm g.</p>
                         </div>
-                        <div xml:id="d164e9679">
+                        <div xml:id="d168e9679">
                                 <head facs="#bsb10527015_00094_region_id_4">
                                         <lb xml:id="bsb10527015_00094_region_id_4_line0000" n="N001"
                                         />§. 171.</head>
@@ -20515,7 +20543,7 @@
                                                 n="N001"/>die zweyte Linie ein h heißen muß, u. ſ.
                                         w. )</p>
                         </div>
-                        <div xml:id="d164e9698">
+                        <div xml:id="d168e9698">
                                 <head facs="#bsb10527015_00094_region_id_6">
                                         <lb xml:id="bsb10527015_00094_region_id_6_line0000" n="N001"
                                         />§. 172.</head>
@@ -20656,7 +20684,7 @@
                                                 xml:id="bsb10527015_00095_region_id_2_line0002"
                                                 n="N001"/>vorige Stelle zu verſetzen.</p>
                         </div>
-                        <div xml:id="d164e9841">
+                        <div xml:id="d168e9841">
                                 <head facs="#bsb10527015_00095_region_id_3">
                                         <lb xml:id="bsb10527015_00095_region_id_3_line0000" n="N001"
                                         />§. 173.</head>
@@ -20697,7 +20725,7 @@
                                                 n="N001"/>Wiederherſtellungszeichen angezeiget
                                         wird.</p>
                         </div>
-                        <div xml:id="d164e9874">
+                        <div xml:id="d168e9874">
                                 <head facs="#bsb10527015_00095_region_id_6">
                                         <lb xml:id="bsb10527015_00095_region_id_6_line0000" n="N001"
                                         />§. 174.</head>
@@ -20770,7 +20798,7 @@
                                                 xml:id="bsb10527015_00096_region_id_2_line0004"
                                                 n="N001"/>zweyte Glied ſchlecht.</p>
                         </div>
-                        <div xml:id="d164e9940">
+                        <div xml:id="d168e9940">
                                 <head facs="#bsb10527015_00096_region_id_3">
                                         <lb xml:id="bsb10527015_00096_region_id_3_line0000" n="N001"
                                         />§. 175.</head>
@@ -20786,7 +20814,7 @@
                                                 xml:id="bsb10527015_00096_region_id_4_line0003"
                                                 n="N001"/>theil zwey Achttheile, u. ſ. w.</p>
                         </div>
-                        <div xml:id="d164e9954">
+                        <div xml:id="d168e9954">
                                 <head facs="#bsb10527015_00096_region_id_5">
                                         <lb xml:id="bsb10527015_00096_region_id_5_line0000" n="N001"
                                         />§. 176.</head>
@@ -20802,7 +20830,7 @@
                                                 xml:id="bsb10527015_00096_region_id_6_line0003"
                                                 n="N001"/>pirte Note genennet, z. E.</p>
                         </div>
-                        <div xml:id="d164e9968">
+                        <div xml:id="d168e9968">
                                 <head facs="#bsb10527015_00096_region_id_8">
                                         <lb xml:id="bsb10527015_00096_region_id_8_line0000" n="N001"
                                         />§. 177.</head>
@@ -20886,7 +20914,7 @@
                                         <graphic url="#bsb10527015_00097_region_id_1"/>
                                 </figure>
                         </div>
-                        <div xml:id="d164e10046">
+                        <div xml:id="d168e10046">
                                 <head facs="#bsb10527015_00097_region_id_2">
                                         <lb xml:id="bsb10527015_00097_region_id_2_line0000" n="N001"
                                         />Viertes Capitel. <lb
@@ -20894,7 +20922,7 @@
                                                 n="N001"/>Worinnen die vornehmſten Accorde
                                         erklaͤret</head>
                         </div>
-                        <div xml:id="d164e10052">
+                        <div xml:id="d168e10052">
                                 <head facs="#bsb10527015_00097_region_id_3">
                                         <lb xml:id="bsb10527015_00097_region_id_3_line0000" n="N001"
                                         />§. 178.</head>
@@ -20922,7 +20950,7 @@
                                                 n="N001"/>ein Mollaccord, oder ein kleiner oder
                                         weicher Vierklang G. 30).</p>
                         </div>
-                        <div xml:id="d164e10081">
+                        <div xml:id="d168e10081">
                                 <head facs="#bsb10527015_00097_region_id_8">
                                         <lb xml:id="bsb10527015_00097_region_id_8_line0000" n="N001"
                                         />§. 179</head>
@@ -20974,7 +21002,7 @@
                                         <lb xml:id="bsb10527015_00098_region_id_1_line0000" n="N001"
                                         />IIBuch. IV Cap. Worinnen die vornehmſten</fw>
                         </div>
-                        <div xml:id="d164e10131">
+                        <div xml:id="d168e10131">
                                 <head facs="#bsb10527015_00098_region_id_2">
                                         <lb xml:id="bsb10527015_00098_region_id_2_line0000" n="N001"
                                         />§. 180:</head>
@@ -20990,7 +21018,7 @@
                                                 xml:id="bsb10527015_00098_region_id_3_line0003"
                                                 n="N001"/>it. g, h d, fis; it. g, b, des, f.</p>
                         </div>
-                        <div xml:id="d164e10146">
+                        <div xml:id="d168e10146">
                                 <head facs="#bsb10527015_00098_region_id_4">
                                         <lb xml:id="bsb10527015_00098_region_id_4_line0000" n="N001"
                                         />§. 18i.</head>
@@ -21000,7 +21028,7 @@
                                         E <lb xml:id="bsb10527015_00098_region_id_5_line0001"
                                                 n="N001"/>rreria e m e saa</p>
                         </div>
-                        <div xml:id="d164e10156">
+                        <div xml:id="d168e10156">
                                 <head facs="#bsb10527015_00098_region_id_6">
                                         <lb xml:id="bsb10527015_00098_region_id_6_line0000" n="N001"
                                         />§. 182.</head>
@@ -21014,7 +21042,7 @@
                                                 n="N001"/>it. durch ein , b oder angezeiget, oͤfters
                                         aber auch gar nicht.</p>
                         </div>
-                        <div xml:id="d164e10168">
+                        <div xml:id="d168e10168">
                                 <head facs="#bsb10527015_00098_region_id_8">
                                         <lb xml:id="bsb10527015_00098_region_id_8_line0000" n="N001"
                                         />§. 183.</head>
@@ -21025,7 +21053,7 @@
                                                 n="N001"/>Dominante (§. 102), und dieſer Accord wird
                                         durch eine 7 angezeiget.</p>
                         </div>
-                        <div xml:id="d164e10178">
+                        <div xml:id="d168e10178">
                                 <head facs="#bsb10527015_00098_region_id_10">
                                         <lb xml:id="bsb10527015_00098_region_id_10_line0000"
                                                 n="N001"/>§. 184.</head>
@@ -21037,7 +21065,7 @@
                                                 n="N001"/>Unterdominante (§.97), und wird mit einer
                                         6 und 5 angezeiget.</p>
                         </div>
-                        <div xml:id="d164e10188">
+                        <div xml:id="d168e10188">
                                 <head facs="#bsb10527015_00098_region_id_12">
                                         <lb xml:id="bsb10527015_00098_region_id_12_line0000"
                                                 n="N001"/>§. 185.</head>
@@ -21051,7 +21079,7 @@
                                                 xml:id="bsb10527015_00098_region_id_13_line0002"
                                                 n="N001"/>Grundbaßnote genennet (36).</p>
                         </div>
-                        <div xml:id="d164e10201">
+                        <div xml:id="d168e10201">
                                 <head facs="#bsb10527015_00098_region_id_14">
                                         <lb xml:id="bsb10527015_00098_region_id_14_line0000"
                                                 n="N001"/>§. 186.</head>
@@ -21093,7 +21121,7 @@
                                                 n="N001"/>wegen der andern Noten. (§. 120. 18 und
                                         128.)</p>
                         </div>
-                        <div xml:id="d164e10238">
+                        <div xml:id="d168e10238">
                                 <head facs="#bsb10527015_00099_region_id_3">
                                         <lb xml:id="bsb10527015_00099_region_id_3_line0000" n="N001"
                                         />§. 187.</head>
@@ -21127,7 +21155,7 @@
                                                 xml:id="bsb10527015_00099_region_id_4_line0009"
                                                 n="N001"/>ſimple Dominanten. (38)</p>
                         </div>
-                        <div xml:id="d164e10265">
+                        <div xml:id="d168e10265">
                                 <head facs="#bsb10527015_00099_region_id_5">
                                         <lb xml:id="bsb10527015_00099_region_id_5_line0000" n="N001"
                                         />§. 188.</head>
@@ -21206,14 +21234,14 @@
                                         <graphic url="#bsb10527015_00100_region_id_1"/>
                                 </figure>
                         </div>
-                        <div xml:id="d164e10340">
+                        <div xml:id="d168e10340">
                                 <head facs="#bsb10527015_00100_region_id_2">
                                         <lb xml:id="bsb10527015_00100_region_id_2_line0000" n="N001"
                                         />Fuͤnftes Capitel. <lb
                                                 xml:id="bsb10527015_00100_region_id_2_line0001"
                                                 n="N001"/>Von dem Grundbaſſe.</head>
                         </div>
-                        <div xml:id="d164e10346">
+                        <div xml:id="d168e10346">
                                 <head facs="#bsb10527015_00100_region_id_3">
                                         <lb xml:id="bsb10527015_00100_region_id_3_line0000" n="N001"
                                         />§. 189.</head>
@@ -21284,14 +21312,14 @@
                                         <graphic url="#bsb10527015_00101_region_id_1"/>
                                 </figure>
                         </div>
-                        <div xml:id="d164e10410">
+                        <div xml:id="d168e10410">
                                 <head facs="#bsb10527015_00101_region_id_2">
                                         <lb xml:id="bsb10527015_00101_region_id_2_line0000" n="N001"
                                         />Sechſtes Capitel. <lb
                                                 xml:id="bsb10527015_00101_region_id_2_line0001"
                                                 n="N001"/>Regeln des Grundbaſſes.</head>
                         </div>
-                        <div xml:id="d164e10416">
+                        <div xml:id="d168e10416">
                                 <head facs="#bsb10527015_00101_region_id_3">
                                         <lb xml:id="bsb10527015_00101_region_id_3_line0000" n="N001"
                                         />§. 190.</head>
@@ -21330,7 +21358,7 @@
                                                 n="N001"/>den §. 34. 82. 122. 124. 126. 127. zuruͤck
                                         zu leſen.</p>
                         </div>
-                        <div xml:id="d164e10449">
+                        <div xml:id="d168e10449">
                                 <head facs="#bsb10527015_00101_region_id_7">
                                         <lb xml:id="bsb10527015_00101_region_id_7_line0000" n="N001"
                                         />Erſte Regel.</head>
@@ -21345,7 +21373,7 @@
                                                 n="N001"/>dem vorhergehenden Accorde gehoͤret worden
                                         iſt.</p>
                         </div>
-                        <div xml:id="d164e10461">
+                        <div xml:id="d168e10461">
                                 <head facs="#bsb10527015_00101_region_id_9">
                                         <lb xml:id="bsb10527015_00101_region_id_9_line0000" n="N001"
                                         />Zweyte Regel.</head>
@@ -21359,7 +21387,7 @@
                                                 xml:id="bsb10527015_00101_region_id_10_line0002"
                                                 n="N001"/>de als Conſonanz vorher liegen.</p>
                         </div>
-                        <div xml:id="d164e10473">
+                        <div xml:id="d168e10473">
                                 <head facs="#bsb10527015_00101_region_id_11">
                                         <lb xml:id="bsb10527015_00101_region_id_11_line0000"
                                                 n="N001"/>Dritte Regel.</head>
@@ -21393,7 +21421,7 @@
                                         darinnen <lb xml:id="bsb10527015_00102_region_id_2_line0001"
                                                 n="N001"/>vorhanden ſeyn oder nicht.</p>
                         </div>
-                        <div xml:id="d164e10507">
+                        <div xml:id="d168e10507">
                                 <head facs="#bsb10527015_00102_region_id_3">
                                         <lb xml:id="bsb10527015_00102_region_id_3_line0000" n="N001"
                                         />Vierte Regel.</head>
@@ -21462,7 +21490,7 @@
                                         koͤnnen: <lb xml:id="bsb10527015_00102_region_id_6_line0002"
                                                 n="N001"/>d, f, a, c, und g, h, d, fis.</p>
                         </div>
-                        <div xml:id="d164e10564">
+                        <div xml:id="d168e10564">
                                 <head facs="#bsb10527015_00102_region_id_8">
                                         <lb xml:id="bsb10527015_00102_region_id_8_line0000" n="N001"
                                         />Fuͤnfte Regel.</head>
@@ -21487,7 +21515,7 @@
                                         <lb xml:id="bsb10527015_00103_region_id_1_line0000" n="N001"
                                         />8</p>
                         </div>
-                        <div xml:id="d164e10590">
+                        <div xml:id="d168e10590">
                                 <head facs="#bsb10527015_00103_region_id_2">
                                         <lb xml:id="bsb10527015_00103_region_id_2_line0000" n="N001"
                                         />Anmerkung.</head>
@@ -21500,7 +21528,7 @@
                                                 xml:id="bsb10527015_00103_region_id_3_line0002"
                                                 n="N001"/>man will, ſie voruͤber gehen.</p>
                         </div>
-                        <div xml:id="d164e10602">
+                        <div xml:id="d168e10602">
                                 <head facs="#bsb10527015_00103_region_id_4">
                                         <lb xml:id="bsb10527015_00103_region_id_4_line0000" n="N001"
                                         />Erſte Regel.</head>
@@ -21525,7 +21553,7 @@
                                                 xml:id="bsb10527015_00103_region_id_5_line0006"
                                                 n="N001"/>Dominante (40).</p>
                         </div>
-                        <div xml:id="d164e10623">
+                        <div xml:id="d168e10623">
                                 <head facs="#bsb10527015_00103_region_id_6">
                                         <lb xml:id="bsb10527015_00103_region_id_6_line0000" n="N001"
                                         />Zweyte Regel.</head>
@@ -21618,7 +21646,7 @@
                                         <lb xml:id="bsb10527015_00104_region_id_1_line0000" n="N001"
                                         />Buch. M Cap. Regeln des Grundbaſſes.</fw>
                         </div>
-                        <div xml:id="d164e10713">
+                        <div xml:id="d168e10713">
                                 <head facs="#bsb10527015_00104_region_id_2">
                                         <lb xml:id="bsb10527015_00104_region_id_2_line0000" n="N001"
                                         />Dritte Regel.</head>
@@ -21634,7 +21662,7 @@
                                                 xml:id="bsb10527015_00104_region_id_3_line0003"
                                                 n="N001"/>10. 102.) 9). Siehe Anmerkung (42).</p>
                         </div>
-                        <div xml:id="d164e10727">
+                        <div xml:id="d168e10727">
                                 <head facs="#bsb10527015_00104_region_id_4">
                                         <lb xml:id="bsb10527015_00104_region_id_4_line0000" n="N001"
                                         />Erſte Anmerkung.</head>
@@ -21659,7 +21687,7 @@
                                                 xml:id="bsb10527015_00104_region_id_5_line0006"
                                                 n="N001"/>den erſten guten Tacttheil.</p>
                         </div>
-                        <div xml:id="d164e10748">
+                        <div xml:id="d168e10748">
                                 <head facs="#bsb10527015_00104_region_id_6">
                                         <lb xml:id="bsb10527015_00104_region_id_6_line0000" n="N001"
                                         />Zweyte Anmerkung.</head>
@@ -21775,7 +21803,7 @@
                                         <graphic url="#bsb10527015_00105_region_id_1"/>
                                 </figure>
                         </div>
-                        <div xml:id="d164e10857">
+                        <div xml:id="d168e10857">
                                 <head facs="#bsb10527015_00105_region_id_2">
                                         <lb xml:id="bsb10527015_00105_region_id_2_line0000" n="N001"
                                         />Siebentes Capitel. <lb
@@ -21784,7 +21812,7 @@
                                         den <lb xml:id="bsb10527015_00105_region_id_2_line0002"
                                                 n="N001"/>Grundbaß in Obacht nehmen muß.</head>
                         </div>
-                        <div xml:id="d164e10865">
+                        <div xml:id="d168e10865">
                                 <head facs="#bsb10527015_00105_region_id_3">
                                         <lb xml:id="bsb10527015_00105_region_id_3_line0000" n="N001"
                                         />§. 198.</head>
@@ -21798,7 +21826,7 @@
                                                 xml:id="bsb10527015_00105_region_id_5_line0001"
                                                 n="N001"/>des Grundbaſſes geſammleter Geſang.</p>
                         </div>
-                        <div xml:id="d164e10880">
+                        <div xml:id="d168e10880">
                                 <head facs="#bsb10527015_00105_region_id_6">
                                         <lb xml:id="bsb10527015_00105_region_id_6_line0000" n="N001"
                                         />§. 199.</head>
@@ -21921,12 +21949,12 @@
                                         <lb xml:id="bsb10527015_00106_region_id_1_line0000" n="N001"
                                         />I Buch. vII Cap. Regeln</fw>
                         </div>
-                        <div xml:id="d164e10996">
+                        <div xml:id="d168e10996">
                                 <head facs="#bsb10527015_00106_region_id_2">
                                         <lb xml:id="bsb10527015_00106_region_id_2_line0000" n="N001"
                                         />Erſte Regel der Oberſtimme.</head>
                         </div>
-                        <div xml:id="d164e11000">
+                        <div xml:id="d168e11000">
                                 <head facs="#bsb10527015_00106_region_id_3">
                                         <lb xml:id="bsb10527015_00106_region_id_3_line0000" n="N001"
                                         />§. 200.</head>
@@ -21954,7 +21982,7 @@
                                                 xml:id="bsb10527015_00106_region_id_4_line0007"
                                                 n="N001"/>(§. 118). S. Anmerk. (44).</p>
                         </div>
-                        <div xml:id="d164e11023">
+                        <div xml:id="d168e11023">
                                 <head facs="#bsb10527015_00106_region_id_5">
                                         <lb xml:id="bsb10527015_00106_region_id_5_line0000" n="N001"
                                         />§. 201.</head>
@@ -21968,12 +21996,12 @@
                                                 n="N001"/>henden Grundbaßnote allezeit vorhanden
                                         ſeyn wird r).</p>
                         </div>
-                        <div xml:id="d164e11035">
+                        <div xml:id="d168e11035">
                                 <head facs="#bsb10527015_00106_region_id_7">
                                         <lb xml:id="bsb10527015_00106_region_id_7_line0000" n="N001"
                                         />Zweyte Regel.</head>
                         </div>
-                        <div xml:id="d164e11039">
+                        <div xml:id="d168e11039">
                                 <head facs="#bsb10527015_00106_region_id_8">
                                         <lb xml:id="bsb10527015_00106_region_id_8_line0000" n="N001"
                                         />§. 202.</head>
@@ -22094,7 +22122,7 @@
                                                 xml:id="bsb10527015_00107_region_id_2_line0004"
                                                 n="N001"/>(§. 129. 130). Siehe Anmerk. (45).</p>
                         </div>
-                        <div xml:id="d164e11157">
+                        <div xml:id="d168e11157">
                                 <head facs="#bsb10527015_00107_region_id_3">
                                         <lb xml:id="bsb10527015_00107_region_id_3_line0000" n="N001"
                                         />§. 203.</head>
@@ -22110,7 +22138,7 @@
                                                 xml:id="bsb10527015_00107_region_id_4_line0003"
                                                 n="N001"/>wird ).</p>
                         </div>
-                        <div xml:id="d164e11172">
+                        <div xml:id="d168e11172">
                                 <head facs="#bsb10527015_00107_region_id_6">
                                         <lb xml:id="bsb10527015_00107_region_id_6_line0000" n="N001"
                                         />Achtes Capitel. <lb
@@ -22118,7 +22146,7 @@
                                                 n="N001"/>Von dem Generalbaſſe und deſſen
                                         Regeln.</head>
                         </div>
-                        <div xml:id="d164e11178">
+                        <div xml:id="d168e11178">
                                 <head facs="#bsb10527015_00107_region_id_7">
                                         <lb xml:id="bsb10527015_00107_region_id_7_line0000" n="N001"
                                         />§. 204.</head>
@@ -22191,12 +22219,12 @@
                                         <lb xml:id="bsb10527015_00108_region_id_1_line0000" n="N001"
                                         />IBuch. vII Cap. Regeln</fw>
                         </div>
-                        <div xml:id="d164e11252">
+                        <div xml:id="d168e11252">
                                 <head facs="#bsb10527015_00108_region_id_2">
                                         <lb xml:id="bsb10527015_00108_region_id_2_line0000" n="N001"
                                         />Umkehrung des vollkommenen Accords.</head>
                         </div>
-                        <div xml:id="d164e11256">
+                        <div xml:id="d168e11256">
                                 <head facs="#bsb10527015_00108_region_id_3">
                                         <lb xml:id="bsb10527015_00108_region_id_3_line0000" n="N001"
                                         />§. 205.</head>
@@ -22227,12 +22255,12 @@
                                         aͤhn⸗ <lb xml:id="bsb10527015_00108_region_id_6_line0001"
                                                 n="N001"/>liche Art umgekehret.</p>
                         </div>
-                        <div xml:id="d164e11287">
+                        <div xml:id="d168e11287">
                                 <head facs="#bsb10527015_00108_region_id_7">
                                         <lb xml:id="bsb10527015_00108_region_id_7_line0000" n="N001"
                                         />Umkehrung des Septimenaccords.</head>
                         </div>
-                        <div xml:id="d164e11291">
+                        <div xml:id="d168e11291">
                                 <head facs="#bsb10527015_00108_region_id_8">
                                         <lb xml:id="bsb10527015_00108_region_id_8_line0000" n="N001"
                                         />§. 206.</head>
@@ -22325,7 +22353,7 @@
                                                 xml:id="bsb10527015_00109_region_id_2_line0004"
                                                 n="N001"/>accord, und wird mit 44 bezeichnet.</p>
                         </div>
-                        <div xml:id="d164e11376">
+                        <div xml:id="d168e11376">
                                 <head facs="#bsb10527015_00109_region_id_3">
                                         <lb xml:id="bsb10527015_00109_region_id_3_line0000" n="N001"
                                         />§. 207.</head>
@@ -22345,12 +22373,12 @@
                                                 xml:id="bsb10527015_00109_region_id_5_line0003"
                                                 n="N001"/>3) c, d, f, a, ein Secundenaccord.</p>
                         </div>
-                        <div xml:id="d164e11394">
+                        <div xml:id="d168e11394">
                                 <head facs="#bsb10527015_00109_region_id_6">
                                         <lb xml:id="bsb10527015_00109_region_id_6_line0000" n="N001"
                                         />Umkehrung des Accords der Unterdominante.</head>
                         </div>
-                        <div xml:id="d164e11399">
+                        <div xml:id="d168e11399">
                                 <head facs="#bsb10527015_00109_region_id_7">
                                         <lb xml:id="bsb10527015_00109_region_id_7_line0000" n="N001"
                                         />§. 208.</head>
@@ -22367,12 +22395,12 @@
                                                 xml:id="bsb10527015_00109_region_id_8_line0003"
                                                 n="N001"/>a, c ).</p>
                         </div>
-                        <div xml:id="d164e11413">
+                        <div xml:id="d168e11413">
                                 <head facs="#bsb10527015_00109_region_id_9">
                                         <lb xml:id="bsb10527015_00109_region_id_9_line0000" n="N001"
                                         />Regeln des Generalbaſſes.</head>
                         </div>
-                        <div xml:id="d164e11417">
+                        <div xml:id="d168e11417">
                                 <head facs="#bsb10527015_00109_region_id_10">
                                         <lb xml:id="bsb10527015_00109_region_id_10_line0000"
                                                 n="N001"/>§. 209.</head>
@@ -22479,12 +22507,12 @@
                                                 xml:id="bsb10527015_00110_region_id_3_line0003"
                                                 n="N001"/>Oberſtimme gegeben haben.</p>
                         </div>
-                        <div xml:id="d164e11520">
+                        <div xml:id="d168e11520">
                                 <head facs="#bsb10527015_00110_region_id_4">
                                         <lb xml:id="bsb10527015_00110_region_id_4_line0000" n="N001"
                                         />Erſte Regel.</head>
                         </div>
-                        <div xml:id="d164e11524">
+                        <div xml:id="d168e11524">
                                 <head facs="#bsb10527015_00110_region_id_5">
                                         <lb xml:id="bsb10527015_00110_region_id_5_line0000" n="N001"
                                         />§. 210.</head>
@@ -22500,12 +22528,12 @@
                                                 xml:id="bsb10527015_00110_region_id_6_line0003"
                                                 n="N001"/>herunter beweget, als:</p>
                         </div>
-                        <div xml:id="d164e11538">
+                        <div xml:id="d168e11538">
                                 <head facs="#bsb10527015_00110_region_id_8">
                                         <lb xml:id="bsb10527015_00110_region_id_8_line0000" n="N001"
                                         />Zweyte Regel.</head>
                         </div>
-                        <div xml:id="d164e11542">
+                        <div xml:id="d168e11542">
                                 <head facs="#bsb10527015_00110_region_id_9">
                                         <lb xml:id="bsb10527015_00110_region_id_9_line0000" n="N001"
                                         />§. 211.</head>
@@ -22569,7 +22597,7 @@
                                         <lb xml:id="bsb10527015_00111_region_id_1_line0000" n="N001"
                                         />93</p>
                         </div>
-                        <div xml:id="d164e11604">
+                        <div xml:id="d168e11604">
                                 <head facs="#bsb10527015_00111_region_id_2">
                                         <lb xml:id="bsb10527015_00111_region_id_2_line0000" n="N001"
                                         />Dritte Regel.</head>
@@ -22756,7 +22784,7 @@
                                         <lb xml:id="bsb10527015_00112_region_id_1_line0000" n="N001"
                                         />I1Buch. IX Cap. Von einigen Freyheiten</fw>
                         </div>
-                        <div xml:id="d164e11788">
+                        <div xml:id="d168e11788">
                                 <head facs="#bsb10527015_00112_region_id_3">
                                         <lb xml:id="bsb10527015_00112_region_id_3_line0000" n="N001"
                                         />Neuntes Capitel. <lb
@@ -22764,7 +22792,7 @@
                                                 n="N001"/>Von einigen Freyheiten des
                                         Grundbaſſes.</head>
                         </div>
-                        <div xml:id="d164e11794">
+                        <div xml:id="d168e11794">
                                 <head facs="#bsb10527015_00112_region_id_4">
                                         <lb xml:id="bsb10527015_00112_region_id_4_line0000" n="N001"
                                         />Erſter Artikel. <lb
@@ -22772,7 +22800,7 @@
                                                 n="N001"/>Von einigen beſondern Gaͤngen des
                                         Grundbaſſes.</head>
                         </div>
-                        <div xml:id="d164e11800">
+                        <div xml:id="d168e11800">
                                 <head facs="#bsb10527015_00112_region_id_5">
                                         <lb xml:id="bsb10527015_00112_region_id_5_line0000" n="N001"
                                         />§. 213.</head>
@@ -22804,14 +22832,14 @@
                                                 n="N001"/>den Accord der Unterdominante c, e, g, a
                                         folgen (. 195). [fn_aaa)]).</p>
                         </div>
-                        <div xml:id="d164e11828">
+                        <div xml:id="d168e11828">
                                 <head facs="#bsb10527015_00112_region_id_8">
                                         <lb xml:id="bsb10527015_00112_region_id_8_line0000" n="N001"
                                         />Zweyter Artikel. <lb
                                                 xml:id="bsb10527015_00112_region_id_8_line0001"
                                                 n="N001"/>Von der unterbrochenen Cadenz.</head>
                         </div>
-                        <div xml:id="d164e11834">
+                        <div xml:id="d168e11834">
                                 <head facs="#bsb10527015_00112_region_id_9">
                                         <lb xml:id="bsb10527015_00112_region_id_9_line0000" n="N001"
                                         />§. 214.</head>
@@ -22891,14 +22919,14 @@
                                                   n="N001"/>S. Anmerk. (46.)</head>
                                 </figure>
                         </div>
-                        <div xml:id="d164e11917">
+                        <div xml:id="d168e11917">
                                 <head facs="#bsb10527015_00113_region_id_5">
                                         <lb xml:id="bsb10527015_00113_region_id_5_line0000" n="N001"
                                         />Dritter Artikel. <lb
                                                 xml:id="bsb10527015_00113_region_id_5_line0001"
                                                 n="N001"/>Von untergeſchobenen Accorden.</head>
                         </div>
-                        <div xml:id="d164e11923">
+                        <div xml:id="d168e11923">
                                 <head facs="#bsb10527015_00113_region_id_6">
                                         <lb xml:id="bsb10527015_00113_region_id_6_line0000" n="N001"
                                         />§. 215.</head>
@@ -22922,7 +22950,7 @@
                                                 n="N001"/>de Accord wird ein untergeſchobener Accord
                                         genennet.</p>
                         </div>
-                        <div xml:id="d164e11943">
+                        <div xml:id="d168e11943">
                                 <head facs="#bsb10527015_00113_region_id_9">
                                         <lb xml:id="bsb10527015_00113_region_id_9_line0000" n="N001"
                                         />§. 216.</head>
@@ -23033,12 +23061,12 @@
                                         <lb xml:id="bsb10527015_00114_region_id_1_line0000" n="N001"
                                         />Buch. IX Cap. Von einigen Freyheiten</fw>
                         </div>
-                        <div xml:id="d164e12048">
+                        <div xml:id="d168e12048">
                                 <head facs="#bsb10527015_00114_region_id_2">
                                         <lb xml:id="bsb10527015_00114_region_id_2_line0000" n="N001"
                                         />Von verſchiedenen Arten untergeſchobener Accorde.</head>
                         </div>
-                        <div xml:id="d164e12052">
+                        <div xml:id="d168e12052">
                                 <head facs="#bsb10527015_00114_region_id_3">
                                         <lb xml:id="bsb10527015_00114_region_id_3_line0000" n="N001"
                                         />9. 216.</head>
@@ -23095,12 +23123,12 @@
                                                 n="N001"/>accorde hinzugefuͤget werden
                                         [fn_ddd)].</p>
                         </div>
-                        <div xml:id="d164e12098">
+                        <div xml:id="d168e12098">
                                 <head facs="#bsb10527015_00114_region_id_6">
                                         <lb xml:id="bsb10527015_00114_region_id_6_line0000" n="N001"
                                         />Anmerkung.</head>
                         </div>
-                        <div xml:id="d164e12103">
+                        <div xml:id="d168e12103">
                                 <head facs="#bsb10527015_00114_region_id_7">
                                         <lb xml:id="bsb10527015_00114_region_id_7_line0000" n="N001"
                                         />§. 217.</head>
@@ -23195,7 +23223,7 @@
                                                 xml:id="bsb10527015_00115_region_id_2_line0006"
                                                 n="N001"/>einer bloßen 9 beziffert ees).</p>
                         </div>
-                        <div xml:id="d164e12196">
+                        <div xml:id="d168e12196">
                                 <head facs="#bsb10527015_00115_region_id_3">
                                         <lb xml:id="bsb10527015_00115_region_id_3_line0000" n="N001"
                                         />§. 218.</head>
@@ -23228,7 +23256,7 @@
                                                 xml:id="bsb10527015_00115_region_id_5_line0002"
                                                 n="N001"/>g, d, f, c.</p>
                         </div>
-                        <div xml:id="d164e12225">
+                        <div xml:id="d168e12225">
                                 <head facs="#bsb10527015_00115_region_id_6">
                                         <lb xml:id="bsb10527015_00115_region_id_6_line0000" n="N001"
                                         />§. 219.</head>
@@ -23328,7 +23356,7 @@
                                         <lb xml:id="bsb10527015_00116_region_id_1_line0000" n="N001"
                                         />IBuch. X Cap. Von einigen Freyheiten</fw>
                         </div>
-                        <div xml:id="d164e12321">
+                        <div xml:id="d168e12321">
                                 <head facs="#bsb10527015_00116_region_id_2">
                                         <lb xml:id="bsb10527015_00116_region_id_2_line0000" n="N001"
                                         />§. 220.</head>
@@ -23350,7 +23378,7 @@
                                                 xml:id="bsb10527015_00116_region_id_3_line0005"
                                                 n="N001"/>ihn mit 9, 54t und 3 sss).2</p>
                         </div>
-                        <div xml:id="d164e12340">
+                        <div xml:id="d168e12340">
                                 <head facs="#bsb10527015_00116_region_id_4">
                                         <lb xml:id="bsb10527015_00116_region_id_4_line0000" n="N001"
                                         />Vierter Artikel. <lb
@@ -23358,7 +23386,7 @@
                                                 n="N001"/>Von dem Accorde der verminderten
                                         Septime.</head>
                         </div>
-                        <div xml:id="d164e12346">
+                        <div xml:id="d168e12346">
                                 <head facs="#bsb10527015_00116_region_id_5">
                                         <lb xml:id="bsb10527015_00116_region_id_5_line0000" n="N001"
                                         />§. 221.</head>
@@ -23533,7 +23561,7 @@
                                                 xml:id="bsb10527015_00117_region_id_2_line0004"
                                                 n="N001"/>gehalten.</p>
                         </div>
-                        <div xml:id="d164e12518">
+                        <div xml:id="d168e12518">
                                 <head facs="#bsb10527015_00117_region_id_3">
                                         <lb xml:id="bsb10527015_00117_region_id_3_line0000" n="N001"
                                         />§. 222.</head>
@@ -23568,7 +23596,7 @@
                                                 xml:id="bsb10527015_00117_region_id_5_line0008"
                                                 n="N001"/>durch 2♯ bezeichnet wird.</p>
                         </div>
-                        <div xml:id="d164e12550">
+                        <div xml:id="d168e12550">
                                 <head facs="#bsb10527015_00117_region_id_6">
                                         <lb xml:id="bsb10527015_00117_region_id_6_line0000" n="N001"
                                         />§. 223.</head>
@@ -23623,7 +23651,7 @@
                                                 n="N001"/>die wir der Kuͤrze wegen allhier
                                         ubergehen.</p>
                         </div>
-                        <div xml:id="d164e12602">
+                        <div xml:id="d168e12602">
                                 <head facs="#bsb10527015_00118_region_id_5">
                                         <lb xml:id="bsb10527015_00118_region_id_5_line0000" n="N001"
                                         />Zehntes Capitel. <lb
@@ -23632,7 +23660,7 @@
                                                 <lb xml:id="bsb10527015_00118_region_id_5_line0002"
                                                 n="N001"/>und in dem Generalbaſſe.</head>
                         </div>
-                        <div xml:id="d164e12610">
+                        <div xml:id="d168e12610">
                                 <head facs="#bsb10527015_00118_region_id_6">
                                         <lb xml:id="bsb10527015_00118_region_id_6_line0000" n="N001"
                                         />§. 224.</head>
@@ -23719,7 +23747,7 @@
                                         <lb xml:id="bsb10527015_00119_region_id_1_line0000" n="N001"
                                         />Io1</p>
                         </div>
-                        <div xml:id="d164e12697">
+                        <div xml:id="d168e12697">
                                 <head facs="#bsb10527015_00119_region_id_2">
                                         <lb xml:id="bsb10527015_00119_region_id_2_line0000" n="N001"
                                         />§. 225.</head>
@@ -23735,7 +23763,7 @@
                                                 xml:id="bsb10527015_00119_region_id_3_line0003"
                                                 n="N001"/>zuflechten, z. E.</p>
                         </div>
-                        <div xml:id="d164e12711">
+                        <div xml:id="d168e12711">
                                 <head facs="#bsb10527015_00119_region_id_6">
                                         <lb xml:id="bsb10527015_00119_region_id_6_line0000" n="N001"
                                         />Eilftes Capitel. <lb
@@ -23744,7 +23772,7 @@
                                                 <lb xml:id="bsb10527015_00119_region_id_6_line0002"
                                                 n="N001"/>baſſe zu finden.</head>
                         </div>
-                        <div xml:id="d164e12719">
+                        <div xml:id="d168e12719">
                                 <head facs="#bsb10527015_00119_region_id_7">
                                         <lb xml:id="bsb10527015_00119_region_id_7_line0000" n="N001"
                                         />§. 226.</head>
@@ -23760,7 +23788,7 @@
                                                 xml:id="bsb10527015_00119_region_id_9_line0002"
                                                 n="N001"/>Man merke uͤbrigens folgende Regeln:</p>
                         </div>
-                        <div xml:id="d164e12735">
+                        <div xml:id="d168e12735">
                                 <head facs="#bsb10527015_00119_region_id_10">
                                         <lb xml:id="bsb10527015_00119_region_id_10_line0000"
                                                 n="N001"/>§. 227.</head>
@@ -23852,12 +23880,12 @@
                                                 xml:id="bsb10527015_00120_region_id_2_line0019"
                                                 n="N001"/>baſſe ).</p>
                         </div>
-                        <div xml:id="d164e12817">
+                        <div xml:id="d168e12817">
                                 <head facs="#bsb10527015_00120_region_id_3">
                                         <lb xml:id="bsb10527015_00120_region_id_3_line0000" n="N001"
                                         />Anmerkung.</head>
                         </div>
-                        <div xml:id="d164e12821">
+                        <div xml:id="d168e12821">
                                 <head facs="#bsb10527015_00120_region_id_4">
                                         <lb xml:id="bsb10527015_00120_region_id_4_line0000" n="N001"
                                         />§. 228.</head>
@@ -23939,7 +23967,7 @@
                                                 n="N001"/>mit der Sextquintenharmonie zum Grundbaſſe
                                         ſetzen ſoll.</p>
                         </div>
-                        <div xml:id="d164e12898">
+                        <div xml:id="d168e12898">
                                 <head facs="#bsb10527015_00121_region_id_3">
                                         <lb xml:id="bsb10527015_00121_region_id_3_line0000" n="N001"
                                         />§. 229.</head>
@@ -23953,7 +23981,7 @@
                                                 n="N001"/>Note f behalten, oder d mit der
                                         Septimenharmonie ſetzen ſoll.</p>
                         </div>
-                        <div xml:id="d164e12910">
+                        <div xml:id="d168e12910">
                                 <head facs="#bsb10527015_00121_region_id_5">
                                         <lb xml:id="bsb10527015_00121_region_id_5_line0000" n="N001"
                                         />§. 230.</head>
@@ -24035,7 +24063,7 @@
                                         <graphic url="#bsb10527015_00122_region_id_2"/>
                                 </figure>
                         </div>
-                        <div xml:id="d164e12988">
+                        <div xml:id="d168e12988">
                                 <head facs="#bsb10527015_00122_region_id_3">
                                         <lb xml:id="bsb10527015_00122_region_id_3_line0000" n="N001"
                                         />Zwoͤlfes Capitel. <lb
@@ -24044,7 +24072,7 @@
                                                 <lb xml:id="bsb10527015_00122_region_id_3_line0002"
                                                 n="N001"/>einem Tone gehen.</head>
                         </div>
-                        <div xml:id="d164e12996">
+                        <div xml:id="d168e12996">
                                 <head facs="#bsb10527015_00122_region_id_4">
                                         <lb xml:id="bsb10527015_00122_region_id_4_line0000" n="N001"
                                         />§. 23i.</head>
@@ -24082,7 +24110,7 @@
                                                 n="N001"/>ne c, oder wenigſtens, daß ich nicht mehr
                                         darinnen bin.</p>
                         </div>
-                        <div xml:id="d164e13027">
+                        <div xml:id="d168e13027">
                                 <head facs="#bsb10527015_00122_region_id_7">
                                         <lb xml:id="bsb10527015_00122_region_id_7_line0000" n="N001"
                                         />§. 232.</head>
@@ -24169,7 +24197,7 @@
                                                 xml:id="bsb10527015_00123_region_id_2_line0010"
                                                 n="N001"/>abſteigen beſchaffen iſt (§. 91.).</p>
                         </div>
-                        <div xml:id="d164e13111">
+                        <div xml:id="d168e13111">
                                 <head facs="#bsb10527015_00123_region_id_5">
                                         <lb xml:id="bsb10527015_00123_region_id_5_line0000" n="N001"
                                         />§. 233.</head>
@@ -24189,7 +24217,7 @@
                                                 xml:id="bsb10527015_00123_region_id_6_line0004"
                                                 n="N001"/>Been hat.</p>
                         </div>
-                        <div xml:id="d164e13127">
+                        <div xml:id="d168e13127">
                                 <head facs="#bsb10527015_00123_region_id_7">
                                         <lb xml:id="bsb10527015_00123_region_id_7_line0000" n="N001"
                                         />§. 234.</head>
@@ -24419,7 +24447,7 @@
                                         <lb xml:id="bsb10527015_00126_region_id_1_line0000" n="N001"
                                         />IIBuch. XlI Cap. Was es heißt: in einem Tone ſeyn rc.</fw>
                         </div>
-                        <div xml:id="d164e13346">
+                        <div xml:id="d168e13346">
                                 <head facs="#bsb10527015_00126_region_id_2">
                                         <lb xml:id="bsb10527015_00126_region_id_2_line0000" n="N001"
                                         />§. 235.</head>
@@ -24433,7 +24461,7 @@
                                                 n="N001"/>ihrer ſchweren Ausfuͤhrung, nicht viel
                                         gebrauchet werden.</p>
                         </div>
-                        <div xml:id="d164e13358">
+                        <div xml:id="d168e13358">
                                 <head facs="#bsb10527015_00126_region_id_4">
                                         <lb xml:id="bsb10527015_00126_region_id_4_line0000" n="N001"
                                         />§. 236.</head>
@@ -24485,7 +24513,7 @@
                                                 n="N001"/>Verfahren transponiren oder die
                                         Transpoſition.</p>
                         </div>
-                        <div xml:id="d164e13400">
+                        <div xml:id="d168e13400">
                                 <head facs="#bsb10527015_00126_region_id_7">
                                         <lb xml:id="bsb10527015_00126_region_id_7_line0000" n="N001"
                                         />§. 237.</head>
@@ -24549,7 +24577,7 @@
                                         <graphic url="#bsb10527015_00127_region_id_1"/>
                                 </figure>
                         </div>
-                        <div xml:id="d164e13459">
+                        <div xml:id="d168e13459">
                                 <head facs="#bsb10527015_00127_region_id_2">
                                         <lb xml:id="bsb10527015_00127_region_id_2_line0000" n="N001"
                                         />Dreyzehntes Capitel. <lb
@@ -24558,7 +24586,7 @@
                                                 <lb xml:id="bsb10527015_00127_region_id_2_line0002"
                                                 n="N001"/>zu finden.</head>
                         </div>
-                        <div xml:id="d164e13467">
+                        <div xml:id="d168e13467">
                                 <head facs="#bsb10527015_00127_region_id_3">
                                         <lb xml:id="bsb10527015_00127_region_id_3_line0000" n="N001"
                                         />§. 238.</head>
@@ -24767,7 +24795,7 @@
                                                 n="N001"/>hoͤrig vorbereitet und aufgeloͤſet ſind
                                         ).</p>
                         </div>
-                        <div xml:id="d164e13670">
+                        <div xml:id="d168e13670">
                                 <head facs="#bsb10527015_00128_region_id_3">
                                         <lb xml:id="bsb10527015_00128_region_id_3_line0000" n="N001"
                                         />§. 239.</head>
@@ -24799,7 +24827,7 @@
                                                 n="N001"/>Toͤne fuͤr ſich verſchiedenen Toͤnen und
                                         Tonarten zugehoͤren kann.</p>
                         </div>
-                        <div xml:id="d164e13695">
+                        <div xml:id="d168e13695">
                                 <head facs="#bsb10527015_00128_region_id_5">
                                         <lb xml:id="bsb10527015_00128_region_id_5_line0000" n="N001"
                                         />§. 240.</head>
@@ -24872,7 +24900,7 @@
                                                 <lb xml:id="bsb10527015_00128_region_id_11_line0003"
                                                 n="N001"/>zu ſeyn.</p>
                         </div>
-                        <div xml:id="d164e13764">
+                        <div xml:id="d168e13764">
                                 <head facs="#bsb10527015_00128_region_id_12">
                                         <lb xml:id="bsb10527015_00128_region_id_12_line0000"
                                                 n="N001"/>Wenn Kreuze am Schli <lb
@@ -24890,7 +24918,7 @@
                                                 xml:id="bsb10527015_00128_region_id_13_line0004"
                                                 n="N001"/>men, u. ſ. w.</p>
                         </div>
-                        <div xml:id="d164e13782">
+                        <div xml:id="d168e13782">
                                 <head facs="#bsb10527015_00128_region_id_14">
                                         <lb xml:id="bsb10527015_00128_region_id_14_line0000"
                                                 n="N001"/>Wenn Been am Schluͤſſel <lb
@@ -24948,7 +24976,7 @@
                                                 xml:id="bsb10527015_00129_region_id_2_line0005"
                                                 n="N001"/>immt.</p>
                         </div>
-                        <div xml:id="d164e13842">
+                        <div xml:id="d168e13842">
                                 <head facs="#bsb10527015_00129_region_id_3">
                                         <lb xml:id="bsb10527015_00129_region_id_3_line0000" n="N001"
                                         />§. 24.</head>
@@ -24977,7 +25005,7 @@
                                                 n="N001"/>der Tonart des Geſanges
                                         uͤbereinſtimmen.</p>
                         </div>
-                        <div xml:id="d164e13865">
+                        <div xml:id="d168e13865">
                                 <head facs="#bsb10527015_00129_region_id_5">
                                         <lb xml:id="bsb10527015_00129_region_id_5_line0000" n="N001"
                                         />§. 242.</head>
@@ -25431,7 +25459,7 @@
                                                 xml:id="bsb10527015_00134_region_id_2_line0008"
                                                 n="N001"/>entſcheiden wird.</p>
                         </div>
-                        <div xml:id="d164e14268">
+                        <div xml:id="d168e14268">
                                 <head facs="#bsb10527015_00134_region_id_3">
                                         <lb xml:id="bsb10527015_00134_region_id_3_line0000" n="N001"
                                         />§. 243.</head>
@@ -25459,7 +25487,7 @@
                                                 xml:id="bsb10527015_00134_region_id_4_line0007"
                                                 n="N001"/>Veraͤnderung des Tons ankuͤndigen.</p>
                         </div>
-                        <div xml:id="d164e14291">
+                        <div xml:id="d168e14291">
                                 <head facs="#bsb10527015_00134_region_id_5">
                                         <lb xml:id="bsb10527015_00134_region_id_5_line0000" n="N001"
                                         />§. 244.</head>
@@ -25522,14 +25550,14 @@
                                         <graphic url="#bsb10527015_00135_region_id_1"/>
                                 </figure>
                         </div>
-                        <div xml:id="d164e14349">
+                        <div xml:id="d168e14349">
                                 <head facs="#bsb10527015_00135_region_id_2">
                                         <lb xml:id="bsb10527015_00135_region_id_2_line0000" n="N001"
                                         />Vierzehntes Capitel. <lb
                                                 xml:id="bsb10527015_00135_region_id_2_line0001"
                                                 n="N001"/>Von dem chromatiſchen Geſange.</head>
                         </div>
-                        <div xml:id="d164e14355">
+                        <div xml:id="d168e14355">
                                 <head facs="#bsb10527015_00135_region_id_3">
                                         <lb xml:id="bsb10527015_00135_region_id_3_line0000" n="N001"
                                         />§. 245.</head>
@@ -25548,7 +25576,7 @@
                                         <graphic url="#_region_id_6"/>
                                 </figure>
                         </div>
-                        <div xml:id="d164e14373">
+                        <div xml:id="d168e14373">
                                 <head facs="#bsb10527015_00135_region_id_7">
                                         <lb xml:id="bsb10527015_00135_region_id_7_line0000" n="N001"
                                         />§. 246.</head>
@@ -25564,7 +25592,7 @@
                                                 xml:id="bsb10527015_00135_region_id_8_line0003"
                                                 n="N001"/>Quintenweiſe fallen, z. E.</p>
                         </div>
-                        <div xml:id="d164e14388">
+                        <div xml:id="d168e14388">
                                 <head facs="#bsb10527015_00135_region_id_10">
                                         <lb xml:id="bsb10527015_00135_region_id_10_line0000"
                                                 n="N001"/>§. 247</head>
@@ -25609,7 +25637,7 @@
                                         <lb xml:id="bsb10527015_00137_region_id_0_line0000" n="N001"
                                         />119</p>
                         </div>
-                        <div xml:id="d164e14435">
+                        <div xml:id="d168e14435">
                                 <head facs="#bsb10527015_00137_region_id_2">
                                         <lb xml:id="bsb10527015_00137_region_id_2_line0000" n="N001"
                                         />Anmerkungen des Ueberſetzers, <lb
@@ -26103,7 +26131,7 @@
                                         <lb xml:id="bsb10527015_00142_region0003_line0006" n="N001"
                                         />r1-</p>
                         </div>
-                        <div xml:id="d164e14863">
+                        <div xml:id="d168e14863">
                                 <head facs="#bsb10527015_00142_region0032">
                                         <lb xml:id="bsb10527015_00142_region0032_line0000" n="N001"
                                         />1000. 00 Sum̃e der groͤßern Differenzen.</head>
