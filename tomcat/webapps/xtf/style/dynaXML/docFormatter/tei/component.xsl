@@ -959,6 +959,8 @@
    <!-- ====================================================================== -->
 
    <xsl:template match="*:p[not(ancestor::note[@type = 'endnote' or @place = 'end'])]">
+  
+      
       <xsl:choose>
          <xsl:when test="child::*:figure | *:pb | *:table">
             <!-- paragraphe est sur une ou plusieurs pages ou englobant une figure ou un tableau-->
@@ -979,6 +981,9 @@
                   <xsl:when test="position() = 1">
                      <p class="normal"
                         style="text-align:justify; line-height:1.4em; font-size: 1.15em">
+                        
+                     
+                        
                         <xsl:apply-templates
                            select="current-group()[not(self::*:pb) and not(self::*:figure) and not(self::*:table)]"
                         />
@@ -1088,6 +1093,13 @@
                <xsl:apply-templates/>
             </p>
          </xsl:when>
+         <xsl:when test="child::*:c/@rend='drop_capital'">
+            <p class="noindent" style="text-align:justify; line-height:1.4em; font-size: 1.15em">
+               <xsl:apply-templates/>
+            </p>
+         </xsl:when>
+         
+         
          <xsl:otherwise>
             <p class="normal" style="text-align:justify; line-height:1.4em; font-size: 1.15em">
                <xsl:apply-templates/>
@@ -1256,7 +1268,10 @@
    </xsl:template>
 
    <xsl:template match="*:fw">
-      <xsl:value-of select="concat('[', ./@type, ']')"/>
+      <div style="text-align:center; line-height:2.5em; font-size: 1.0em; color: grey">
+         <xsl:apply-templates/>
+      </div>
+    
    </xsl:template>
 
    <xsl:template match="*:g">
@@ -2515,8 +2530,25 @@
    </xsl:template>
 
    <xsl:template match="*:c">
-      <xsl:variable name="img_src" select="concat($c.path, @type)"/>
-      <img src="{$img_src}" alt="image" height="17"/>
+      <xsl:choose>
+         <xsl:when test="//*:editionStmt/*:respStmt/*:name/@xml:id = 'page2Tei'">
+            <span style="float:left; font-size:3em; line-height: 90%; text-indent:0; margin-right:0.1em;">
+               
+             
+            
+            
+            <xsl:apply-templates/>
+            </span>
+         </xsl:when>
+         <xsl:otherwise>
+            <xsl:variable name="img_src" select="concat($c.path, @type)"/>
+            <img src="{$img_src}" alt="image" height="17"/>
+         </xsl:otherwise>
+      </xsl:choose>
+      
+      
+      
+     
    </xsl:template>
 
    <!-- ====================================================================== -->
