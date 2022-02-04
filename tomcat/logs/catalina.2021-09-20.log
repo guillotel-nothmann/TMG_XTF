@@ -1,0 +1,30 @@
+sept. 20, 2021 8:29:40 PM org.apache.catalina.core.AprLifecycleListener init
+INFOS: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/christophe/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+sept. 20, 2021 8:29:40 PM org.apache.coyote.http11.Http11Protocol init
+INFOS: Initialisation de Coyote HTTP/1.1 sur http-8080
+sept. 20, 2021 8:29:40 PM org.apache.catalina.startup.Catalina load
+INFOS: Initialization processed in 461 ms
+sept. 20, 2021 8:29:40 PM org.apache.catalina.core.StandardService start
+INFOS: Démarrage du service Catalina
+sept. 20, 2021 8:29:40 PM org.apache.catalina.core.StandardEngine start
+INFOS: Starting Servlet Engine: Apache Tomcat/6.0.29
+sept. 20, 2021 8:29:40 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFOS: Déploiement du descripteur de configuration host-manager.xml
+sept. 20, 2021 8:29:41 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFOS: Déploiement du descripteur de configuration manager.xml
+sept. 20, 2021 8:29:41 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire xtf de l'application web
+sept. 20, 2021 8:29:41 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire docs de l'application web
+sept. 20, 2021 8:29:41 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire examples de l'application web
+sept. 20, 2021 8:29:41 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFOS: Déploiement du répertoire ROOT de l'application web
+sept. 20, 2021 8:29:41 PM org.apache.coyote.http11.Http11Protocol start
+INFOS: Démarrage de Coyote HTTP/1.1 sur http-8080
+sept. 20, 2021 8:29:41 PM org.apache.jk.common.ChannelSocket init
+INFOS: JK: ajp13 listening on /0.0.0.0:8009
+sept. 20, 2021 8:29:41 PM org.apache.jk.server.JkMain start
+INFOS: Jk running ID=0 time=0/12  config=null
+sept. 20, 2021 8:29:41 PM org.apache.catalina.startup.Catalina start
+INFOS: Server startup in 378 ms

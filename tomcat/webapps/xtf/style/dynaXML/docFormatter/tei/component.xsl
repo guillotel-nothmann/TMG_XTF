@@ -2353,6 +2353,10 @@
                   <xsl:value-of select="//*:witness/*:bibl/*:relatedItem/*:bibl/*:ident[@type='urn']"/>
                   <xsl:text>.</xsl:text>
                </xsl:if>
+               <xsl:if test="//*:witness/*:bibl/*:relatedItem/*:bibl/*:ident/@type='url'">
+                  <xsl:value-of select="//*:witness/*:bibl/*:relatedItem/*:bibl/*:ident[@type='url']"/>
+                  <xsl:text>.</xsl:text>
+               </xsl:if>
              
             </xsl:variable>
           
@@ -2360,6 +2364,7 @@
             
             <div align="center">
                <xsl:apply-templates/>
+               <xsl:value-of select="$pageId"/>
                <p class="noindent"
                   style="text-align:center; line-height:1em; font-size: 0.75em"> 
                   <a style="color:brown; text-decoration: none;"
@@ -2701,6 +2706,7 @@
                <xsl:when test="//*:editionStmt/*:respStmt/*:name/@xml:id = 'page2Tei'">
                   <xsl:value-of select="//*:facsimile/*:surface[@xml:id = $facs]/*:graphic/@url"/>
                </xsl:when>
+               
                <xsl:otherwise>
                   <xsl:value-of select="$fac.dir"/>
                   <xsl:value-of select="substring(@facs, 2)"/>

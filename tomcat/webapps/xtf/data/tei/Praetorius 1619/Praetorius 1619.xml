@@ -881,14 +881,29 @@
             <date when="2015-04-16" instant="false">2015-04-16</date>
             <publisher>TMG</publisher>
         </publicationStmt>
-        <sourceDesc default="false">
-            <p part="N">
-                <listWit>
-                    <witness>
-          Faksimile der Universitätsbibliothek Freiburg im Breisgau </witness>
-                </listWit>
-            </p>
-        </sourceDesc>
+      <sourceDesc default="false">
+        <p part="N">
+          <listWit>
+            <witness xml:id="ed_1619_1_1_Musica_3">
+              Faksimile der Universitätsbibliothek Freiburg im Breisgau <bibl type="book" default="false" status="draft">
+                <author>Praetorius, Michael</author>
+                <title>Syntagmatis musici <pc type="t8" part="N">(</pc>Tomus Tertius<pc type="t9" part="N">)</pc>:
+                  Darinnen 1. Die Bedeutung, wie auch Abtheil- vnnd Beschreibung fast aller Nahmen, der
+                  Jtalianischen, Frantzösischen, Englischen vnd jetziger zeit in Teutschland
+                  gebräuchlichen Gesänge: Alß, Concerten, Moteten, Madrigalien, Canzozonen, etc. 2. Was
+                  im singen, bey den Noten vnd Tactu, Modis vnd Transpositione, Partibus seu Vocibus vnd
+                  vnterschiedenen Choris, Auch bey den Unisonis vnnd Octavis zu observiren: 3. Wie die
+                  Jtalianische vnd andere Termini Musici ... zu nennen</title>
+                <lang opt="false">Deutsch, Latein, Griechisch</lang>
+                <pubPlace>Wolfenbüttel</pubPlace>
+                <ident>HAB 1-1-musica-3s</ident>
+                <date when="1619" instant="false">1619</date>
+                <ptr target="http://diglib.hab.de/drucke/1-1-musica-3s/start.htm?image="/>
+              </bibl>
+            </witness>
+          </listWit>
+        </p>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc>
         <editorialDecl default="false">
