@@ -2363,8 +2363,7 @@
             
             
             <div align="center">
-               <xsl:apply-templates/>
-               <xsl:value-of select="$pageId"/>
+               <xsl:apply-templates/> 
                <p class="noindent"
                   style="text-align:center; line-height:1em; font-size: 0.75em"> 
                   <a style="color:brown; text-decoration: none;"
