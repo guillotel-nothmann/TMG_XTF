@@ -2,3 +2,7 @@ févr. 07, 2022 9:43:46 AM org.apache.catalina.core.ApplicationContext log
 INFOS: ContextListener: contextInitialized()
 févr. 07, 2022 9:43:46 AM org.apache.catalina.core.ApplicationContext log
 INFOS: SessionListener: contextInitialized()
+févr. 07, 2022 8:23:45 PM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextDestroyed()
+févr. 07, 2022 8:23:45 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextDestroyed()

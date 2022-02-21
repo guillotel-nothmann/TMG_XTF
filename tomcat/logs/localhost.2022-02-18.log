@@ -1,0 +1,4 @@
+févr. 18, 2022 2:18:19 PM org.apache.catalina.core.ApplicationContext log
+INFOS: SessionListener: contextDestroyed()
+févr. 18, 2022 2:18:19 PM org.apache.catalina.core.ApplicationContext log
+INFOS: ContextListener: contextDestroyed()
