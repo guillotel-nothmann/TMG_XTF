@@ -65,8 +65,7 @@
         <normalization default="false" method="silent">
           <p part="N"><list>
               <item n="transcription">Transcription of textual units according to guidelines</item>
-              <item n="typoAbb">Normalization of typography and resolution of abbreviations
-                according to guidelines</item>
+              
             </list></p>
         </normalization>
         <hyphenation default="false" eol="some">
@@ -523,8 +522,8 @@
 
 
             <head>
-              <title><hi rend="an">Caput</hi><del resp="#editor"><pc type="t6">:</pc></del> 1<pc
-                  type="t6">:</pc><del resp="#editor">)</del>
+              <title><hi rend="an">Caput<del resp="#editor"><pc type="t6">:</pc></del> 1<pc
+                    type="t6">:</pc><del resp="#editor">)</del></hi>
                 <lb facs="#facs_3_region_1626077118013_61l1" n="N001"/><hi rend="an">De
                   Contrapunctis novis im genere<del resp="#editor"><pc type="t6">:</pc></del></hi>
                 <lb facs="#facs_3_region_1626077118013_61l2" n="N002"/></title>
@@ -542,13 +541,13 @@
                   <reg>Kirchero</reg>
                 </choice> Contrapunctus</hi><del resp="#editor"><pc type="t12">⸗</pc></del><lb
                 facs="#facs_3_region_1626077130800_64l2" n="N002"/>
-              <hi rend="an">solus</hi><pc type="t2">,</pc> dieser aber <hi rend="an">Contrapunctus
+              <hi rend="an">solus<pc type="t2">,</pc></hi> dieser aber <hi rend="an">Contrapunctus
                 Replicatus</hi><pc type="t1">:</pc>
               <lb facs="#facs_3_region_1626077130800_64l3" n="N003"/><hi rend="an">Contrapunctus
                 solus</hi> ist widerumb zweyelei<pc type="t2">,</pc>
               <lb facs="#facs_3_region_1626077130800_64l4" n="N004"/>alß Entweder <hi rend="an"
                 >Contrapunctus hyperbatos</hi> oder <lb facs="#facs_3_region_1626077130800_64l5"
-                n="N005"/>Ein übersteigender <hi rend="an">Contrapunct</hi><pc type="t2">,</pc> oder
+                n="N005"/>Ein übersteigender <hi rend="an">Contrapunct<pc type="t2">,</pc></hi> oder
               aber <hi rend="an">Contra</hi><pc type="t12">⸗</pc><lb
                 facs="#facs_3_region_1626077130800_64l6" n="N006"/><hi rend="an">punctus
                 hypobaton</hi> oder Nidersteigendt<pc type="t1">:</pc>
@@ -577,7 +576,7 @@
               <lb facs="#facs_3_region_1626077217506_74l4" n="N002"/>alß <hi rend="an"
                 >hyperbato</hi> Enstehen 12<del resp="#editor"><pc type="t1">.</pc>)</del>
               unterschiedene neye <lb facs="#facs_3_region_1626077217506_74l5" n="N003"/><hi
-                rend="an">Contrapuncten</hi><pc type="t2">,</pc> welche alle auff unterschiedene <lb
+                rend="an">Contrapuncten<pc type="t2">,</pc></hi> welche alle auff unterschiedene <lb
                 facs="#facs_3_region_1626077217506_74l6" n="N004"/>eigener ahrt Repliciret werden<pc
                 type="t2">,</pc> welche auch <lb facs="#facs_3_region_1626077217506_74l7" n="N005"
               />ihre Eigene <hi rend="an">observationes</hi> freiheiten undt <lb
@@ -689,7 +688,7 @@
                   n="3">
                   <orig>Secundum</orig>
                   <reg>2</reg>
-                </choice></hi><pc type="t6">:</pc>
+                </choice><pc type="t6">:</pc></hi>
               <lb facs="#facs_6_region_1643016570166_466l2" n="N002"/>Vom <hi rend="an"
                 >diatriton</hi></head>
             <p facs="#facs_6_region_1643016577792_469">
@@ -801,7 +800,7 @@
               <lb facs="#facs_8_region_1643014108180_230l1" n="N001"/>Die vierte <hi rend="an"
                 >Columna Repliciret</hi> daß andere <lb facs="#facs_8_region_1643014108180_230l2"
                 n="N002"/><hi rend="an">subject</hi> durch Eine <hi rend="an">tertiam
-                decimam</hi><pc type="t2">,</pc> undt <lb facs="#facs_8_region_1643014108180_230l3"
+                decimam<pc type="t2">,</pc></hi> undt <lb facs="#facs_8_region_1643014108180_230l3"
                 n="N003"/><hi rend="an">duodecimam</hi> hinunter<pc type="t2">,</pc> undt Eine <hi
                 rend="an">sextam</hi><del resp="#editor"><pc type="t12">⸗</pc></del><lb
                 facs="#facs_8_region_1643014108180_230l4" n="N004"/>und <hi rend="an">octavam</hi>
@@ -871,7 +870,7 @@
                 facs="#facs_9_region_1642873433824_414l5" n="N005"/>der <hi rend="an">tertie</hi><pc
                 type="t2">,</pc> die <hi rend="an">Nona</hi> midt der <hi rend="an">octava
                 Resol</hi><pc type="t12">⸗</pc><lb facs="#facs_9_region_1642873433824_414l6"
-                n="N006"/><hi rend="an">viret</hi><pc type="t2">,</pc> die <hi rend="an">undecima
+                n="N006"/><hi rend="an">viret<pc type="t2">,</pc></hi> die <hi rend="an">undecima
                 Resolviret</hi> midt der <hi rend="an">deci</hi><pc type="t12">⸗</pc><lb
                 facs="#facs_9_region_1642873433824_414l7" n="N007"/><hi rend="an">ma</hi><pc
                 type="t1">.</pc> Wie in den voorhergehenden <hi rend="an">exem</hi><pc type="t12"
@@ -905,7 +904,7 @@
                 Refolviret</hi><pc type="t2">.</pc> unterschietliche <hi rend="an">undecimæ</hi><del
                 resp="#editor"><pc type="t12">⸗</pc></del><lb
                 facs="#facs_10_region_1642874552226_496l4" n="N004"/> midt <hi rend="an">decimis
-                Resolviret</hi><pc type="t2">,</pc> wie auch unterschie<pc type="t12">⸗</pc><lb
+                Resolviret<pc type="t2">,</pc></hi> wie auch unterschie<pc type="t12">⸗</pc><lb
                 facs="#facs_10_region_1642874552226_496l5" n="N005"/>tliche <hi rend="an">nonæ</hi>
               midt unterschietlichen <hi rend="an">octaven<pc type="t2">,</pc> item</hi>
               <lb facs="#facs_10_region_1642874552226_496l6" n="N006"/>Die <hi rend="an"
@@ -943,7 +942,7 @@
                     >Anmerkungen zu diesem Ersten<del resp="#editor"><pc type="t12"
                     >⸗</pc></del></hi>
                   <lb facs="#facs_10_region_1642874690764_500l2" n="N002"/><hi rend="an"
-                    >Contrapuncto</hi><pc type="t1">:</pc></title></head>
+                    >Contrapuncto</hi><del resp="#editor"><pc type="t1">:</pc></del></title></head>
               <ab facs="#facs_10_region_1642874800657_504">
                 <lb facs="#facs_10_region_1642874800657_504l1" n="N001"/>Ess ist an diesem <hi
                   rend="an">hypotrito</hi> seer viel gelegen<pc type="t2">,</pc> alßo <lb
@@ -1030,7 +1029,7 @@
                   facs="#facs_12_region_1642931087069_767l5" n="N005"/>sich mit vielen <hi rend="an"
                     >Exempelen<pc type="t2">,</pc></hi> ihrentwegen auff <lb
                   facs="#facs_12_region_1642931087069_767l6" n="N006"/>zu halten<pc type="t2">,</pc>
-                sonsten dienet wol dazu<pc type="t2">,</pc> daß<pc type="t2">,</pc> woom <lb
+                sonsten dienet wol dazu<pc type="t2">,</pc> daß<pc type="t2">,</pc> wo<del resp="#editor">om</del> <lb
                   facs="#facs_12_region_1642931087069_767l7" n="N007"/>man Nicht nuhr schlechter
                 dinge Einen <hi rend="an">hypo<add resp="#editor"><pc type="t12">⸗</pc></add><lb
                     facs="#facs_12_region_1642931087069_767l8" n="N008"/>tritum</hi> setzen wil<pc
@@ -1047,10 +1046,10 @@
               <pb facs="#facs_13" n="325" xml:id="img_0013"/>
               <ab facs="#facs_13_region_1642940456792_1155">
                 <lb facs="#facs_13_region_1642940456792_1155l1" n="N001"/><hi rend="an"
-                  >Contrapunctum Communem</hi><pc type="t2">,</pc> oder daß <hi rend="an"
+                  >Contrapunctum Communem<pc type="t2">,</pc></hi> oder daß <hi rend="an"
                   >Subjectum</hi>
                 <lb facs="#facs_13_region_1642940456792_1155l2" n="N002"/><hi rend="an"
-                  >Commune</hi><pc type="t2">,</pc> soo Eß sich thuen lest verenderen<pc type="t2"
+                  >Commune<pc type="t2">,</pc></hi> soo Eß sich thuen lest verenderen<pc type="t2"
                   >,</pc> und <lb facs="#facs_13_region_1642940456792_1155l3" n="N003"/>alsoo zu
                 wege bringen daß die <hi rend="an">Replication</hi> Etwaß <lb
                   facs="#facs_13_region_1642940456792_1155l4" n="N004"/>ansehenlich werde<pc
@@ -1068,7 +1067,7 @@
                   >Composition</hi> beruhet in diesem<pc type="t2">,</pc> daß man <lb
                   facs="#facs_13_region_1642940526336_1159l3" n="N003"/>Nach fleißiger beobachtung
                 der zuläßigen <lb facs="#facs_13_region_1642940526336_1159l4" n="N004"/>vnd
-                verbotenen <hi rend="an">intervallen</hi><pc type="t2">,</pc> sich immer zu des <lb
+                verbotenen <hi rend="an">intervallen<pc type="t2">,</pc></hi> sich immer zu des <lb
                   facs="#facs_13_region_1642940526336_1159l5" n="N005"/><hi rend="an">motus
                   Contrarii</hi> befleißige<pc type="t2">,</pc> den also<pc type="t2">,</pc> werden
                   <lb facs="#facs_13_region_1642940526336_1159l6" n="N006"/>die vitia ohne
@@ -1083,7 +1082,7 @@
                 <lb facs="#facs_13_region_1642940634917_1163l1" n="N001"/>5<pc type="t1">:</pc><del
                   resp="#editor">)</del> Man meine aber Nicht daß gleich soviel <lb
                   facs="#facs_13_region_1642940634917_1163l2" n="N002"/><hi rend="an"
-                  >Replicationes</hi><pc type="t2">,</pc> und nicht mehr noch weiniger <lb
+                  >Replicationes<pc type="t2">,</pc></hi> und nicht mehr noch weiniger <lb
                   facs="#facs_13_region_1642940634917_1163l3" n="N003"/>können angebracht werden<pc
                   type="t2">,</pc> alderweil zum <lb facs="#facs_13_region_1642940634917_1163l4"
                   n="N004"/>öffteren mehr <hi rend="an">Repliciret</hi> oder <hi rend="an"
@@ -1364,7 +1363,7 @@
                   >Commune</hi><del resp="#editor"><pc type="t1">.</pc></del> Ein Jedeß <hi
                   rend="an">Replicirtes subjectum</hi>
                 <lb facs="#facs_20_region_1643020320315_771l6" n="N006"/>aber midt dem<hi rend="an">
-                  Contrapuncto Communi</hi><pc type="t2">,</pc> soo <lb
+                  Contrapuncto Communi<pc type="t2">,</pc></hi> soo <lb
                   facs="#facs_20_region_1643020320315_771l7" n="N007"/>wirdt man 12<del><pc
                     type="t6">:</pc>)</del>
                 <hi rend="an">bicinia</hi> haben<pc type="t1">.</pc>
@@ -1374,13 +1373,13 @@
                 </choice> auch soo<lb facs="#facs_20_region_1643020320315_771l8" n="N008"/>man die
                   <hi rend="an">Contrapuncten</hi> midt den <hi rend="an">Contrapunctis</hi>
                 <lb facs="#facs_20_region_1643020320315_771l9" n="N009"/>Vnd die <hi rend="an"
-                  >subjectis combiniret</hi><pc type="t2">,</pc> soo Entspringen <lb
+                  >subjectis combiniret<pc type="t2">,</pc></hi> soo Entspringen <lb
                   facs="#facs_20_region_1643020320315_771l10" n="N010"/>auß dieser neyen <hi
                   rend="an">Combination</hi> widerumb viele <lb
                   facs="#facs_20_region_1643020320315_771l11" n="N011"/>andere <hi rend="an"
                   >difonia</hi> oder 2<pc type="t10">:</pc><del resp="#editor">)</del>Stimmige <hi
                   rend="an">Clausulen</hi><add resp="#editor"><pc type="t1">.</pc></add>
-                <lb facs="#facs_20_region_1643020320315_771l12" n="N012"/><choice n="2">
+                <lb facs="#facs_20_region_1643020320315_771l12" n="N012"/><choice n="3">
                   <orig>man</orig>
                   <reg>Man</reg>
                 </choice> haet sich aber voor zusehen daß nicht <lb
@@ -1430,10 +1429,9 @@
             </div>
             <div xml:id="ghj76zå">
               <head facs="#facs_21_region_1643021895275_842">
-                <lb facs="#facs_21_region_1643021895275_842l1" n="N001"/>8<del resp="#editor"
-                  >)</del>
-                <hi rend="an">Paragrafus</hi><del
-                  resp="#editor"><pc type="t6">:</pc></del></head>
+                <lb facs="#facs_21_region_1643021895275_842l1" n="N001"/>8<add resp="#editor"><pc
+                    type="t1">.</pc></add><del resp="#editor">)</del>
+                <hi rend="an">Paragrafus</hi><del resp="#editor"><pc type="t6">:</pc></del></head>
               <p facs="#facs_21_region_1643021902548_845">
                 <lb facs="#facs_21_region_1643021902548_845l1" n="N001"/><hi rend="an"><choice n="3">
                     <orig>trifonica</orig>
@@ -1443,7 +1441,7 @@
                 <lb facs="#facs_21_region_1643021902548_845l2" n="N002"/>überkompt man soo immer 2
                   <del resp="#editor">- </del>und <del resp="#editor">- </del>2 <lb
                   facs="#facs_21_region_1643021902548_845l3" n="N003"/><hi rend="an"
-                  >Contrapuncti</hi> gegen Ein <hi rend="an">Subjectum</hi><pc type="t2">,</pc> oder
+                  >Contrapuncti</hi> gegen Ein <hi rend="an">Subjectum<pc type="t2">,</pc></hi> oder
                 aber <lb facs="#facs_21_region_1643021902548_845l5" n="N004"/>2<del resp="#editor"
                     ><pc type="t1">.</pc></del> undt 2<del resp="#editor"><pc type="t1">.</pc></del>
                 <hi rend="an">Subjecta</hi> midt Einem <hi rend="an">Contra</hi><pc type="t12"
@@ -1513,7 +1511,7 @@
                   facs="#facs_22_region_1643022909199_927l3" n="N003"/>verhüten<pc type="t2">.</pc>
                 ist also daß beste daß die<del resp="#editor"><pc type="t12">⸗</pc></del><lb
                   facs="#facs_22_region_1643022909199_927l4" n="N004"/><hi rend="an">Subjecta</hi>
-                midt den <hi rend="an">Contrapunctis</hi><pc type="t2">,</pc> undt die <lb
+                midt den <hi rend="an">Contrapunctis<pc type="t2">,</pc></hi> undt die <lb
                   facs="#facs_22_region_1643022909199_927l5" n="N005"/><hi rend="an"
                   >Contrapuncti</hi> midt den <hi rend="an">Subjectis</hi> lieblich <lb
                   facs="#facs_22_region_1643022909199_927l6" n="N006"/>der höhe nach vermischet
@@ -1533,22 +1531,24 @@
             </div>
             <div>
               <head facs="#facs_22_region_1643022989480_937">
-                <lb facs="#facs_22_region_1643022989480_937l1" n="N001"/><hi rend="an">10<pc
-                  type="t.">:</pc><del resp="#editor">)</del> Paragrafus</hi><del resp="#editor"><pc type="t6">:</pc></del></head>
+                <lb facs="#facs_22_region_1643022989480_937l1" n="N001"/>10<pc type="t1">:</pc><del
+                  resp="#editor">)</del>
+                <hi rend="an">Paragrafus</hi><del resp="#editor"><pc type="t6">:</pc></del></head>
               <p facs="#facs_22_region_1643023007402_940">
                 <lb facs="#facs_22_region_1643023007402_940l1" n="N001"/>Wiewol Eß viel Netter undt
                 zierlicher <lb facs="#facs_22_region_1643023007402_940l2" n="N002"/>kömpt Ein <hi
-                  rend="an">Contrapunct</hi> von 4<del resp="#editor"><pc type="t6">:</pc>)</del> Stimmen <lb
-                  facs="#facs_22_region_1643023007402_940l3" n="N003"/>Da alle und Jede voor sich
-                absonderlich<del resp="#editor"><pc type="t12">⸗</pc></del><lb facs="#facs_22_region_1643023007402_940l4"
-                  n="N004"/>verfertiget seindt<pc type="t1">.</pc> Weche man also am <lb
-                  facs="#facs_22_region_1643023007402_940l5" n="N005"/>bequesten <hi rend="an"
-                  >Componiret</hi><pc type="t1">.</pc> Man Nimpt die <lb
-                  facs="#facs_22_region_1643023007402_940l6" n="N006"/>verbohtene undt zuläßige <hi
-                  rend="an">intervallen</hi>
+                  rend="an">Contrapunct</hi> von 4<del resp="#editor"><pc type="t6">:</pc>)</del>
+                Stimmen <lb facs="#facs_22_region_1643023007402_940l3" n="N003"/>Da alle und Jede
+                voor sich absonderlich<del resp="#editor"><pc type="t12">⸗</pc></del><lb
+                  facs="#facs_22_region_1643023007402_940l4" n="N004"/>verfertiget seindt<pc
+                  type="t1">.</pc> Weche man also am <lb facs="#facs_22_region_1643023007402_940l5"
+                  n="N005"/>bequesten <hi rend="an">Componiret</hi><pc type="t1">.</pc> Man Nimpt
+                die <lb facs="#facs_22_region_1643023007402_940l6" n="N006"/>verbohtene undt
+                zuläßige <hi rend="an">intervallen</hi>
                 <lb facs="#facs_22_region_1643023007402_940l7" n="N007"/>undt gebrauchet der guhten
-                In allen <lb facs="#facs_22_region_1643023007402_940l8" n="N008"/>4<del resp="#editor"><pc type="t1"
-                  >.</pc>)</del> Stimmen alß im <hi rend="an">discant</hi><pc type="t2">:</pc>
+                In allen <lb facs="#facs_22_region_1643023007402_940l8" n="N008"/>4<del
+                  resp="#editor"><pc type="t1">.</pc>)</del> Stimmen alß im <hi rend="an"
+                  >discant</hi><pc type="t2">:</pc>
                 <hi rend="an">Alt<pc type="t2">:</pc> Tenor</hi>
                 <lb facs="#facs_22_region_1643023007402_940l9" n="N009"/>und <hi rend="an"
                   >Bass</hi><pc type="t2">:</pc> Nach Wechkwerffung der <lb
@@ -1569,7 +1569,8 @@
             </div>
             <div>
               <head facs="#facs_24_region_1643031439421_1174">
-                <lb facs="#facs_24_region_1643031439421_1174l1" n="N001"/>11<pc type="t1">:</pc><del resp="#editor">)</del>
+                <lb facs="#facs_24_region_1643031439421_1174l1" n="N001"/>11<pc type="t1">:</pc><del
+                  resp="#editor">)</del>
                 <hi rend="an">Paragrafus</hi><del resp="#editor"><pc type="t6">:</pc></del></head>
               <p facs="#facs_24_region_1643031451655_1177">
                 <lb facs="#facs_24_region_1643031451655_1177l1" n="N001"/>Undt damidt Nichtens
@@ -1579,67 +1580,76 @@
                   kan<pc type="t2">,</pc> soo wollen <lb facs="#facs_24_region_1643031451655_1177l4"
                   n="N004"/>wyr die <hi rend="an">totalem Combinationem</hi> undt die <lb
                   facs="#facs_24_region_1643031451655_1177l5" n="N005"/>gäntzliche Verenderung der
-                4<del resp="#editor"><pc type="t6">:</pc>)</del> Stimmen <lb facs="#facs_24_region_1643031451655_1177l6"
-                  n="N006"/>Etwaß genauer untersuchen<pc type="t1">:</pc></p>
+                  4<del resp="#editor"><pc type="t6">:</pc>)</del> Stimmen <lb
+                  facs="#facs_24_region_1643031451655_1177l6" n="N006"/>Etwaß genauer untersuchen<pc
+                  type="t1">:</pc></p>
               <p facs="#facs_24_region_1643031505945_1181">
                 <lb facs="#facs_24_region_1643031505945_1181l1" n="N001"/>Wer dieses aber recht
-                begreiffen wirdt<add resp="#editor"><pc type="t2">,</pc></add> dehm <lb facs="#facs_24_region_1643031505945_1181l2" n="N002"
-                />wirdt der Wechk offen stehen In 5<pc type="t10">:</pc>) 6<pc type="t10">:</pc>) 7<pc
-                  type="t10">:</pc>) <lb facs="#facs_24_region_1643031505945_1181l3" n="N003"/>8<pc
-                  type="t10">:</pc>) undt mehrstimmigen sachen<pc type="t2">,</pc> viele undt <lb
+                begreiffen wirdt<add resp="#editor"><pc type="t2">,</pc></add> dehm <lb
+                  facs="#facs_24_region_1643031505945_1181l2" n="N002"/>wirdt der Wechk offen stehen
+                In 5<pc type="t10">:</pc>) 6<pc type="t10">:</pc>) 7<pc type="t10">:</pc>) <lb
+                  facs="#facs_24_region_1643031505945_1181l3" n="N003"/>8<pc type="t10">:</pc>) undt
+                mehrstimmigen sachen<pc type="t2">,</pc> viele undt <lb
                   facs="#facs_24_region_1643031505945_1181l4" n="N004"/>wunderbahre Verenderunge zu
                 finden <lb facs="#facs_24_region_1643031505945_1181l5" n="N005"/>Man sey aber wohl
                   Errinnerdt<pc type="t6">:</pc></p>
               <p facs="#facs_24_region_1643031588094_1186">
-                <lb facs="#facs_24_region_1643031588094_1186l1" n="N001"/>1<pc type="t1">:</pc><del resp="#editor">)lich</del>
-                <choice n="3"><orig>daß</orig><reg>Daß</reg></choice> alhier wohl können <hi rend="an">Sexten</hi> gebraucht <lb
+                <lb facs="#facs_24_region_1643031588094_1186l1" n="N001"/>1<pc type="t1">:</pc><del
+                  resp="#editor">)lich</del>
+                <choice n="3">
+                  <orig>daß</orig>
+                  <reg>Daß</reg>
+                </choice> alhier wohl können <hi rend="an">Sexten</hi> gebraucht <lb
                   facs="#facs_24_region_1643031588094_1186l2" n="N002"/>werden<pc type="t2">,</pc>
-                weil man Nicht in diesen <hi rend="an">Combina<pc type="t12"
-                  >⸗</pc><lb facs="#facs_24_region_1643031588094_1186l3" n="N003"/>tionibus</hi> an den <hi rend="an">Regulen</hi> deß <hi rend="an">hypotriti</hi>
-                und <lb facs="#facs_24_region_1643031588094_1186l4" n="N004"/>Deßen <hi rend="an"
+                weil man Nicht in diesen <hi rend="an">Combina<pc type="t12">⸗</pc><lb
+                    facs="#facs_24_region_1643031588094_1186l3" n="N003"/>tionibus</hi> an den <hi
+                  rend="an">Regulen</hi> deß <hi rend="an">hypotriti</hi> und <lb
+                  facs="#facs_24_region_1643031588094_1186l4" n="N004"/>Deßen <hi rend="an"
                   >Replicationen</hi> durch Eine <hi rend="an">tertiam deci</hi><pc type="t12"
                   >⸗</pc><lb facs="#facs_24_region_1643031588094_1186l5" n="N005"/><hi rend="an"
-                    >mam<pc type="t2">,</pc> duodecimam</hi><pc type="t2">,</pc> wie auf <hi
+                    >mam<pc type="t2">,</pc> duodecimam<pc type="t2">,</pc></hi> wie auf <hi
                   rend="an">sextam</hi> undt <lb facs="#facs_24_region_1643031588094_1186l6"
                   n="N006"/><hi rend="an">octavam</hi> Ehben soo genau gebunden ist<pc type="t2"
                   >,</pc> den die <lb facs="#facs_24_region_1643031588094_1186l7" n="N007"/>Stimmen
                 behalten in allen Verwexelungen <lb facs="#facs_24_region_1643031588094_1186l8"
-                  n="N008"/>Ihren Einmahl Erwehlten sitz<pc type="t2">,</pc> daß
-                man <lb facs="#facs_24_region_1643031588094_1186l9" n="N009"/>Alsoo sich nicht
-                befurchten darf<pc type="t2">,</pc> daß die <lb
-                  facs="#facs_24_region_1643031588094_1186l10" n="N010"/><hi rend="an">Sexten</hi>
-                alhier in <hi rend="an">quarten</hi> möchten <lb
-                  facs="#facs_24_region_1643031588094_1186l12" n="N011"/>vererndert werden<add resp="#editor"><pc type="t1">.</pc></add></p>
+                  n="N008"/>Ihren Einmahl Erwehlten sitz<pc type="t2">,</pc> daß man <lb
+                  facs="#facs_24_region_1643031588094_1186l9" n="N009"/>Alsoo sich nicht befurchten
+                  darf<pc type="t2">,</pc> daß die <lb facs="#facs_24_region_1643031588094_1186l10"
+                  n="N010"/><hi rend="an">Sexten</hi> alhier in <hi rend="an">quarten</hi> möchten
+                  <lb facs="#facs_24_region_1643031588094_1186l12" n="N011"/>vererndert werden<add
+                  resp="#editor"><pc type="t1">.</pc></add></p>
               <p facs="#facs_24_region_1643031671957_1193">
                 <lb facs="#facs_24_region_1643031671957_1193l1" n="N001"/>2<pc type="t1">:</pc>) Zum
                 anderen soo ist zu wißen<pc type="t2">,</pc> daß man <lb
                   facs="#facs_24_region_1643031671957_1193l2" n="N002"/>sich der <hi rend="an"
                   >quinten</hi> soo viel müglich Enthalten <lb
                   facs="#facs_24_region_1643031671957_1193l3" n="N003"/>muß<pc type="t2">,</pc> oder
-                soo <del resp="#editor">soo</del> man sie Ja anzubringen <lb facs="#facs_24_region_1643031671957_1193l4"
-                  n="N004"/>gedechte<pc type="t2">,</pc> daß Es midt bescheidenheidt <lb
-                  facs="#facs_24_region_1643031671957_1193l5" n="N005"/>geschege Nehmlich In
-                gewinden</p>
+                soo <del resp="#editor">soo</del> man sie Ja anzubringen <lb
+                  facs="#facs_24_region_1643031671957_1193l4" n="N004"/>gedechte<pc type="t2">,</pc>
+                daß Es midt bescheidenheidt <lb facs="#facs_24_region_1643031671957_1193l5" n="N005"
+                />geschege Nehmlich In gewinden</p>
               <pb facs="#facs_25" n="337" xml:id="img_0025"/>
               <p facs="#facs_25_region_1643032933748_1267">
                 <lb facs="#facs_25_region_1643032933748_1267l1" n="N001"/>Noten alß <hi rend="an"
                   >fusis</hi> ♪<pc type="t2">:</pc><hi rend="an">semifusi</hi>𝅘𝅥𝅯 undt <lb
                   facs="#facs_25_region_1643032933748_1267l2" n="N002"/><hi rend="an"
-                    >fussissimis</hi>𝅘𝅥𝅰<pc type="t2">.</pc> etz<pc type="t2">:</pc> und auch mehr
+                  >fussissimis</hi>𝅘𝅥𝅰<pc type="t2">.</pc> etz<pc type="t2">:</pc> und auch mehr
                 in <hi rend="an">Arsi</hi> alß <lb facs="#facs_25_region_1643032933748_1267l3"
-                  n="N003"/><hi rend="an">tesi</hi><pc type="t2">.</pc> den alsoo wirdt daß gehör der <hi rend="an"
-                  >Repli</hi><pc type="t12">⸗</pc><lb facs="#facs_25_region_1643032933748_1267l4"
-                  n="N004"/><hi rend="an">cirten</hi> bloßen <hi rend="an">quarten</hi> Nicht
-                sonderlich <lb facs="#facs_25_region_1643032933748_1267l5" n="N005"/>gewahr<pc
-                  type="t1">.</pc> In Ein oder ander <hi rend="an">Replication</hi><del resp="#editor">–</del> <lb
-                    facs="#facs_25_region_1643032933748_1267l6" n="N006"/>können sie zwaer <hi rend="an">Raum</hi> haben<pc type="t2">.</pc>
-                aber woo <lb facs="#facs_25_region_1643032933748_1267l7" n="N007"/>viel Stimmen zu
-                  <hi rend="an">combiniren</hi> seindt wirdt <lb
+                  n="N003"/><hi rend="an">tesi</hi><pc type="t2">.</pc> den alsoo wirdt daß gehör
+                der <hi rend="an">Repli</hi><pc type="t12">⸗</pc><lb
+                  facs="#facs_25_region_1643032933748_1267l4" n="N004"/><hi rend="an">cirten</hi>
+                bloßen <hi rend="an">quarten</hi> Nicht sonderlich <lb
+                  facs="#facs_25_region_1643032933748_1267l5" n="N005"/>gewahr<pc type="t1">.</pc>
+                In Ein oder ander <hi rend="an">Replication</hi><del resp="#editor">–</del>
+                <lb facs="#facs_25_region_1643032933748_1267l6" n="N006"/>können sie zwaer <hi
+                  rend="an">Raum</hi> haben<pc type="t2">.</pc> aber woo <lb
+                  facs="#facs_25_region_1643032933748_1267l7" n="N007"/>viel Stimmen zu <hi
+                  rend="an">combiniren</hi> seindt wirdt <lb
                   facs="#facs_25_region_1643032933748_1267l8" n="N008"/>solcheß gaer zu mercklich<pc
                   type="t1">:</pc></p>
               <p facs="#facs_25_region_1643033028011_1278">
                 <lb facs="#facs_25_region_1643033028011_1278l1" n="N001"/>In <hi rend="an"
-                  >Summa</hi> wer midt <hi rend="an">manier</hi><pc type="t2">,</pc> diese viel<pc
+                  >Summa</hi> wer midt <hi rend="an">manier<pc type="t2">,</pc></hi> diese viel<pc
                   type="t12">⸗</pc><lb facs="#facs_25_region_1643033028011_1278l2" n="N002"/>feltige
                   <hi rend="an">Combination</hi> lieblich und wohl <lb
                   facs="#facs_25_region_1643033028011_1278l3" n="N003"/>anbringen wil<pc type="t2"
@@ -1654,8 +1664,8 @@
                 mehr bey diesem zu mercken <lb facs="#facs_25_region_1643033028011_1278l9" n="N009"
                 />kan zur genüge auß volgenden <hi rend="an">exempel</hi>
                 <lb facs="#facs_25_region_1643033028011_1278l10" n="N010"/>gesehen werden<pc
-                  type="t2">,</pc> welches 24<del resp="#editor"><pc type="t6">:</pc>)</del> Nach der <lb
-                  facs="#facs_25_region_1643033028011_1278l11" n="N011"/>Stimmen unterscheidt
+                  type="t2">,</pc> welches 24<del resp="#editor"><pc type="t6">:</pc>)</del> Nach
+                der <lb facs="#facs_25_region_1643033028011_1278l11" n="N011"/>Stimmen unterscheidt
                 verwexelt ist<pc type="t2">:</pc>
                 <lb facs="#facs_25_region_1643033028011_1278l12" n="N012"/>alß <hi rend="an"
                   >Cominatio 1ma Combinatio 2da</hi><pc type="t1">:</pc></p>
@@ -1663,208 +1673,248 @@
               <pb facs="#facs_27" n="339" xml:id="img_0027"/>
               <pb facs="#facs_28" n="340" xml:id="img_0028"/>
               <pb facs="#facs_29" n="341" xml:id="img_0029"/>
-              <pb facs="#facs_30" n="342" xml:id="img_0030"/></div>
+              <pb facs="#facs_30" n="342" xml:id="img_0030"/>
+            </div>
             <div xml:id="bjkiuz67u">
               <head>
-                <title><lb facs="#facs_30_region_1643029882513_1025l1" n="N001"/>12<pc type="t1">:</pc><del resp="#editor">)</del>
-                  <hi rend="an">Paragrafus</hi><del resp="#editor"><pc type="t6">:</pc></del></title>
+                <title><lb facs="#facs_30_region_1643029882513_1025l1" n="N001"/>12<pc type="t1"
+                    >:</pc><del resp="#editor">)</del>
+                  <hi rend="an">Paragrafus</hi><del resp="#editor"><pc type="t6"
+                  >:</pc></del></title>
               </head>
               <p facs="#facs_30_region_1643029900582_1028">
-                <lb facs="#facs_30_region_1643029900582_1028l1" n="N001"/>Eß könten zwaer Noch wohl mehr <hi rend="an">Combina</hi><pc type="t12">⸗</pc><lb
+                <lb facs="#facs_30_region_1643029900582_1028l1" n="N001"/>Eß könten zwaer Noch wohl
+                mehr <hi rend="an">Combina</hi><pc type="t12">⸗</pc><lb
                   facs="#facs_30_region_1643029900582_1028l2" n="N002"/><hi rend="an">tiones</hi>
                 alhier angebracht werden<pc type="t2">,</pc> daß der <lb
                   facs="#facs_30_region_1643029900582_1028l3" n="N003"/>Verenderungen unzehlich viel
                 Enstehen möch<pc type="t12">⸗</pc><lb facs="#facs_30_region_1643029900582_1028l4"
                   n="N004"/>ten<pc type="t2">,</pc> allein weil eß seer weitläufftig undt <lb
-                  facs="#facs_30_region_1643029900582_1028l5" n="N005"/>zur <hi rend="an">Praxi</hi> nicht sonderlich dienlich ist<pc type="t2">,</pc>
+                  facs="#facs_30_region_1643029900582_1028l5" n="N005"/>zur <hi rend="an">Praxi</hi>
+                nicht sonderlich dienlich ist<pc type="t2">,</pc>
                 <lb facs="#facs_30_region_1643029900582_1028l6" n="N006"/>Alß welche genuchk midt
-                diese 24<del resp="#editor"><pc type="t6">:</pc>)</del> zu <lb facs="#facs_30_region_1643029900582_1028l7"
-                  n="N007"/>thuen haet<pc type="t2">,</pc> alß wollen wyr nuhn zu <lb
-                  facs="#facs_30_region_1643029900582_1028l8" n="N008"/>Dem <hi rend="an"
-                  >Contrapunct diatessaron</hi> schreiten<add resp="#editor"><pc type="t1">.</pc></add></p>
+                diese 24<del resp="#editor"><pc type="t6">:</pc>)</del> zu <lb
+                  facs="#facs_30_region_1643029900582_1028l7" n="N007"/>thuen haet<pc type="t2"
+                  >,</pc> alß wollen wyr nuhn zu <lb facs="#facs_30_region_1643029900582_1028l8"
+                  n="N008"/>Dem <hi rend="an">Contrapunct diatessaron</hi> schreiten<add
+                  resp="#editor"><pc type="t1">.</pc></add></p>
             </div>
           </div>
 
           <div xml:id="div_0113">
             <head facs="#facs_30_region_1643029918001_1031">
-              <lb facs="#facs_30_region_1643029918001_1031l1" n="N001"/><hi rend="an">Caput</hi>
-                3<pc type="t6">:</pc>) <lb facs="#facs_30_region_1643029918001_1031l2" n="N002"/>Vom
-                <hi rend="an">Contrapuncto distessaron</hi></head>
+              <lb facs="#facs_30_region_1643029918001_1031l1" n="N001"/><hi rend="an">Caput 3<pc
+                  type="t6">:</pc><del resp="#editor">)</del></hi>
+              <lb facs="#facs_30_region_1643029918001_1031l2" n="N002"/>Vom <hi rend="an"
+                >Contrapuncto distessaron</hi></head>
             <p facs="#facs_30_region_1643029937408_1034">
               <lb facs="#facs_30_region_1643029937408_1034l1" n="N001"/>Eß mach daß vorige <hi
                 rend="an">Subjectum</hi> bleiben <lb facs="#facs_30_region_1643029937408_1034l2"
                 n="N002"/>welcheß zum <hi rend="an">hypotrito</hi> zu Erst gesetzet <lb
-                facs="#facs_30_region_1643029937408_1034l3" n="N003"/>ist<pc type="t1">.</pc> soo
+                facs="#facs_30_region_1643029937408_1034l3" n="N003"/>ist<pc type="t2">.</pc> soo
                 <hi rend="an">Componiret</hi> man über dem selbigen <lb
                 facs="#facs_30_region_1643029937408_1034l4" n="N004"/><hi rend="an">Contrapunctum
                 Principalem</hi> nach folgenden <lb facs="#facs_30_region_1643029937408_1034l5"
                 n="N005"/><hi rend="an">legibus</hi><pc type="t6">:</pc> alß den wirdt sich abermael
-              soo wol <lb facs="#facs_30_region_1643029937408_1034l6" n="N006"/>der <hi rend="an"
-                >Contrapunct</hi><pc type="t2">,</pc> alß daß <hi rend="an">Subjectum Repli</hi><pc
-                type="t12">⸗</pc><lb facs="#facs_30_region_1643029937408_1034l7" n="N007"/><hi
-                rend="an">ciren</hi> laßen<pc type="t1">.</pc> undt zwaer der <hi rend="an"
-                >Contrapunct</hi>
-              <lb facs="#facs_30_region_1643029937408_1034l8" n="N008"/>erstlich Eine <hi rend="an"
-                >quarte infra</hi><pc type="t1">.</pc> hernach zum 2<pc type="t6">:</pc>) <lb
-                facs="#facs_30_region_1643029937408_1034l9" n="N009"/>eine <hi rend="an">octava
-                infra</hi><pc type="t1">.</pc> drittens Eine <hi rend="an">disdiapason</hi>
+              soo wol <lb facs="#facs_30_region_1643029937408_1034l6" n="N006"/>Der <hi rend="an"
+                >Contrapunct</hi> alß daß <hi rend="an">Subjectum Repli</hi><pc type="t12">⸗</pc><lb
+                facs="#facs_30_region_1643029937408_1034l7" n="N007"/><hi rend="an">ciren</hi>
+                laßen<pc type="t2">.</pc> undt zwaer der <hi rend="an">Contrapunct</hi>
+              <lb facs="#facs_30_region_1643029937408_1034l8" n="N008"/>Erstlich Eine <hi rend="an"
+                >quarte infra</hi><pc type="t2">.</pc> hernach zum 2<pc type="t1">:</pc><del
+                resp="#editor">)</del>
+              <lb facs="#facs_30_region_1643029937408_1034l9" n="N009"/>Eine <hi rend="an">octava
+                infra</hi><pc type="t2">.</pc> drittens Eine <hi rend="an">disdiapason</hi>
               <lb facs="#facs_30_region_1643029937408_1034l10" n="N010"/>abermael<hi rend="an">
-                infra</hi><pc type="t1">.</pc> vierstens Eine <hi rend="an">quinta supra</hi>
+                infra</hi><pc type="t2">.</pc> vierstens Eine <hi rend="an">quinta supra</hi><add
+                resp="#editor"><pc type="t2">,</pc></add>
               <lb facs="#facs_30_region_1643029937408_1034l11" n="N011"/>funfftenß Eine <hi
-                rend="an">octave supra</hi> daß <hi rend="an">subjec</hi><pc type="t12">⸗</pc><lb
-                facs="#facs_30_region_1643029937408_1034l12" n="N012"/><hi rend="an">tum</hi> aber
-              ist Erstlich Eine<pc type="t6">:</pc></p>
+                rend="an">octave supra</hi> daß <hi rend="an">subjec<pc type="t12">⸗</pc><lb
+                  facs="#facs_30_region_1643029937408_1034l12" n="N012"/>tum</hi> aber ist Erstlich
+                Eine<pc type="t6">:</pc></p>
             <figure>
               <graphic url="#facs_30_Table_1643659985826_184"/>
             </figure>
 
             <pb facs="#facs_31" n="343" xml:id="img_0031"/>
             <p facs="#facs_31_region_1643037084383_1404">
-              <lb facs="#facs_31_region_1643037084383_1404l1" n="N001"/>1<pc type="t6">:</pc>)
-              Hierauß folget nuhn daß diese 6<pc type="t1">.</pc>
+              <lb facs="#facs_31_region_1643037084383_1404l1" n="N001"/>1<pc type="t1">:</pc><del
+                resp="#editor">)</del> Hierauß folget Nuhn daß diese 6<del resp="#editor"><pc
+                  type="t6">.</pc></del>
               <hi rend="an">Contrpuncte</hi>
               <lb facs="#facs_31_region_1643037084383_1404l2" n="N002"/>soo viel <hi rend="an"
                 >bicnia</hi> gehben alß sie midt dem <lb facs="#facs_31_region_1643037084383_1404l3"
-                n="N003"/><hi rend="an">Subjecto</hi> können <hi rend="an">combiniret</hi>
-              werden</p>
+                n="N003"/><hi rend="an">Subjecto</hi> können <hi rend="an">Combiniret</hi>
+                werden<add resp="#editor"><pc type="t1">.</pc></add></p>
             <p facs="#facs_31_region_1643037173369_1410">
-              <lb facs="#facs_31_region_1643037173369_1410l1" n="N001"/>2<pc type="t6">:</pc>)<hi
-                rend="an"> item</hi> daß auß den<hi rend="an"> Replicirten subjectis</hi><pc
-                type="t12">⸗</pc><lb facs="#facs_31_region_1643037173369_1410l2" n="N002"/>abermarl
-              soo viel <hi rend="an">bicinia</hi> kommen alß <lb
-                facs="#facs_31_region_1643037173369_1410l3" n="N003"/>offt sie midt dem <hi
-                rend="an">communi Contrapuncto</hi>
+              <lb facs="#facs_31_region_1643037173369_1410l1" n="N001"/>2<pc type="t2">:</pc><del
+                resp="#editor">)</del>
+              <hi rend="an"><choice n="3">
+                  <orig>item</orig>
+                  <reg>Item</reg>
+                </choice></hi> daß auß den<hi rend="an"> Replicirten Subjectis</hi><del
+                resp="#editor"><pc type="t12">⸗</pc></del><lb
+                facs="#facs_31_region_1643037173369_1410l2" n="N002"/> abermael soo viel <hi
+                rend="an">bicinia</hi> kommen alß <lb facs="#facs_31_region_1643037173369_1410l3"
+                n="N003"/>offt sie midt dem <hi rend="an">Communi Contrapuncto</hi>
               <lb facs="#facs_31_region_1643037173369_1410l4" n="N004"/>können zusammen Stimmen<pc
                 type="t2">,</pc> doch ist zu mer<pc type="t12">⸗</pc><lb
                 facs="#facs_31_region_1643037173369_1410l5" n="N005"/>ken<pc type="t2">,</pc> daß
               Nicht mehr den Ein <hi rend="an">trifonium</hi>
               <lb facs="#facs_31_region_1643037173369_1410l6" n="N006"/>staedt habe<pc type="t2"
                 >,</pc> welcheß daher kömpt<pc type="t2">,</pc> weil <lb
-                facs="#facs_31_region_1643037173369_1410l7" n="N007"/>der Erste<pc type="t2">,</pc>
-                dritte<pc type="t2">,</pc> und vierte<pc type="t2">,</pc> alß auch 6<pc type="t6"
+                facs="#facs_31_region_1643037173369_1410l7" n="N007"/>Der Erste<pc type="t2">,</pc>
+                dritte<pc type="t2">,</pc> und vierte<pc type="t2">,</pc> alß auch 6<pc type="t1"
                 >:</pc>
               <lb facs="#facs_31_region_1643037173369_1410l8" n="N008"/><hi rend="an"
-                >Contrapunct</hi><pc type="t2">,</pc> alle inder <hi rend="an">octave</hi> Stimmen
+                >Contrapunct<pc type="t2">,</pc></hi> alle inder <hi rend="an">octave</hi> Stimmen
                 <lb facs="#facs_31_region_1643037173369_1410l9" n="N009"/>die anderen aber inder <hi
                 rend="an">quinte</hi> stehen<pc type="t2">,</pc> alß deren <lb
                 facs="#facs_31_region_1643037173369_1410l10" n="N010"/><hi rend="an"
-                >Consecution</hi> inder <hi rend="an">Replicirun vitiöse</hi> ist<pc type="t6"
+                >Consecution</hi> inder <hi rend="an">Replicirun vitiöse</hi> ist<pc type="t1"
                 >:</pc></p>
             <p facs="#facs_31_region_1643037203817_1414">
-              <lb facs="#facs_31_region_1643037203817_1414l1" n="N001"/>3<pc type="t6">:</pc>) eben
-              diseß ist auch zuverstehen von den</p>
+              <lb facs="#facs_31_region_1643037203817_1414l1" n="N001"/>3<pc type="t1">:</pc><del
+                resp="#editor">)</del>
+              <choice n="3">
+                <orig>eben</orig>
+                <reg>Eben</reg>
+              </choice> diseß ist auch zuverstehen von den</p>
             <pb facs="#facs_32" n="344" xml:id="img_0032"/>
             <p facs="#facs_32_region_1643038171426_1501">
-              <lb facs="#facs_32_region_1643038171426_1501l1" n="N001"/><hi rend="an">replicirten
-                subjectis</hi><pc type="t2">,</pc> so wohl in den Ersten <lb
+              <lb facs="#facs_32_region_1643038171426_1501l1" n="N001"/><hi rend="an">Replicirten
+                Subjectis<pc type="t2">,</pc></hi> so wohl in den Ersten <lb
                 facs="#facs_32_region_1643038171426_1501l2" n="N002"/>Alß letzten <hi rend="an"
-                >exempel</hi><pc type="t6">:</pc></p>
+                >exempel</hi><pc type="t1">:</pc></p>
 
             <div xml:id="div_01131">
               <head facs="#facs_32_region_1643038177400_1504">
                 <lb facs="#facs_32_region_1643038177400_1504l1" n="N001"/><hi rend="an">Verbotene
-                  intervallen</hi><pc type="t6">:</pc></head>
+                  intervallen</hi><del resp="#editor"><pc type="t6">:</pc></del></head>
               <p facs="#facs_32_region_1643038184356_1507">
-                <lb facs="#facs_32_region_1643038184356_1507l1" n="N001"/>1<pc type="t6">:</pc>) Es
-                seindt alhier Nicht zugebrauchen <hi rend="an">tertien</hi>
-                <lb facs="#facs_32_region_1643038184356_1507l3" n="N002"/>vndt <hi rend="an"
+                <lb facs="#facs_32_region_1643038184356_1507l1" n="N001"/>1<pc type="t1">:</pc><del
+                  resp="#editor">)</del> Eß seindt alhier Nicht zugebrauchen <hi rend="an"
+                  >tertien</hi>
+                <lb facs="#facs_32_region_1643038184356_1507l3" n="N002"/>undt <hi rend="an"
                   >quinten</hi> wie auch keine <hi rend="an">decimen</hi>
-                <lb facs="#facs_32_region_1643038184356_1507l4" n="N003"/>vndt <hi rend="an"
-                  >duodecimen</hi><pc type="t2">,</pc> weil sie in der <hi rend="an">repli</hi><pc
+                <lb facs="#facs_32_region_1643038184356_1507l4" n="N003"/>undt <hi rend="an"
+                  >duodecimen<pc type="t2">,</pc></hi> weil sie in der <hi rend="an">Repli</hi><pc
                   type="t12">⸗</pc><lb facs="#facs_32_region_1643038184356_1507l5" n="N004"/><hi
-                  rend="an">cation dissonantien</hi> werden<pc type="t6">:</pc></p>
+                  rend="an">cation dissonantien</hi> werden<pc type="t1">:</pc></p>
               <p facs="#facs_32_region_1643038191998_1510">
-                <lb facs="#facs_32_region_1643038191998_1510l1" n="N001"/>2<pc type="t6">:</pc>) Die
-                  s<hi rend="an">eptima resolviret</hi> midt der <hi rend="an">sexta</hi><pc
-                  type="t12">⸗</pc><lb facs="#facs_32_region_1643038191998_1510l3" n="N002"/>die <hi
-                  rend="an">Nona resolviret</hi> midt der <hi rend="an">octavæ</hi>
+                <lb facs="#facs_32_region_1643038191998_1510l1" n="N001"/>2<pc type="t1">:</pc><del
+                  resp="#editor">)</del>
+                <choice n="3">
+                  <orig>Die</orig>
+                  <reg>die</reg>
+                </choice>
+                <hi rend="an">Septima Resolviret</hi> midt der <hi rend="an">Sexta</hi><pc type="t2"
+                  >⸗</pc><lb facs="#facs_32_region_1643038191998_1510l3" n="N002"/>Die <hi rend="an"
+                  >Nona Resolviret</hi> midt der <hi rend="an">octavæ</hi><pc type="t2">⸗</pc>
                 <lb facs="#facs_32_region_1643038191998_1510l4" n="N003"/>die <hi rend="an">decima
-                  quarta resolviret</hi> midt der <lb facs="#facs_32_region_1643038191998_1510l5"
-                  n="N004"/><hi rend="an">decima tertia</hi><pc type="t2">,</pc> den auch diese <hi
+                  quarta Resolviret</hi> midt der <lb facs="#facs_32_region_1643038191998_1510l5"
+                  n="N004"/><hi rend="an">decima tertia<pc type="t2">,</pc></hi> den auch diese <hi
                   rend="an">intervallen</hi>
-                <lb facs="#facs_32_region_1643038191998_1510l6" n="N005"/>in der <hi rend="an"
-                  >replication</hi> in <hi rend="an">dissonantien</hi><pc type="t12">⸗</pc><lb
-                  facs="#facs_32_region_1643038191998_1510l7" n="N006"/>verendert werden<pc
-                  type="t6">:</pc>
+                <lb facs="#facs_32_region_1643038191998_1510l6" n="N005"/>In der <hi rend="an"
+                  >Replication</hi> in <hi rend="an">dissonantien</hi><del resp="#editor"><pc
+                    type="t12">⸗</pc></del>
+                <lb facs="#facs_32_region_1643038191998_1510l7" n="N006"/>verendert werden<pc
+                  type="t1">:</pc>
               </p>
-              <p facs="#facs_32_region_1643038199868_1513">
-                <lb facs="#facs_32_region_1643038199868_1513l1" n="N001"/><hi rend="an">Anmerkungen
-                  über den<pc type="t12">⸗</pc></hi>
-                <lb facs="#facs_32_region_1643038199868_1513l2" n="N002"/><hi rend="an"
-                  >Contrapunctum diatessaron</hi><pc type="t6">:</pc></p>
+            </div>
+            <div xml:id="hjkdzhn678uij">
+              <head><title>
+                  <lb facs="#facs_32_region_1643038199868_1513l1" n="N001"/><hi rend="an"
+                    >Anmerkungen über den<del resp="#editor"><pc type="t12">⸗</pc></del></hi>
+                  <lb facs="#facs_32_region_1643038199868_1513l2" n="N002"/><hi rend="an"
+                    >Contrapunctum diatessaron</hi><del resp="#editor"><pc type="t6"
+                  >:</pc></del></title></head>
               <p facs="#facs_32_region_1643038220976_1516">
-                <lb facs="#facs_32_region_1643038220976_1516l1" n="N001"/>1<pc type="t6">:</pc>) Eß
-                ist dieser <hi rend="an">Contrapunct</hi> Nicht soo gaer <lb
-                  facs="#facs_32_region_1643038220976_1516l3" n="N002"/>weit leuffttig und reich von
-                  <hi rend="an">Materien</hi>
+                <lb facs="#facs_32_region_1643038220976_1516l1" n="N001"/>1<pc type="t1">:</pc><del
+                  resp="#editor">)</del> Eß ist dieser <hi rend="an">Contrapunct</hi> Nicht soo gaer
+                  <lb facs="#facs_32_region_1643038220976_1516l3" n="N002"/>weitleuffttig und Reich
+                von <hi rend="an">Materien</hi>
                 <lb facs="#facs_32_region_1643038220976_1516l4" n="N003"/>alß der <hi rend="an"
-                  >vorige</hi><pc type="t2">,</pc> welcheß auch der Erste<pc type="t12">⸗</pc><lb
-                  facs="#facs_32_region_1643038220976_1516l5" n="N004"/>augenschein giebet in der
+                  >vorige<pc type="t2">,</pc></hi> welcheß auch der Erste<del resp="#editor"><pc
+                    type="t12">⸗</pc></del>
+                <lb facs="#facs_32_region_1643038220976_1516l5" n="N004"/>augenschein giebet in der
                 weinig undt un<pc type="t12">⸗</pc><lb facs="#facs_32_region_1643038220976_1516l6"
-                  n="N005"/>tügtigkeidt der <hi rend="an">Replicirung</hi><pc type="t2">,</pc>
-                dennoch aber <lb facs="#facs_32_region_1643038220976_1516l7" n="N006"/>haet Er seine
-                sonderliche liebligkeidt undt <lb facs="#facs_32_region_1643038220976_1516l8"
+                  n="N005"/>tügtigkeidt der <hi rend="an">Replicirung</hi><pc type="t1">,</pc>
+                <choice n="3">
+                  <orig>dennoch</orig>
+                  <reg>Dennoch</reg>
+                </choice> aber <lb facs="#facs_32_region_1643038220976_1516l7" n="N006"/>haet Er
+                seine sonderliche liebligkeidt undt <lb facs="#facs_32_region_1643038220976_1516l8"
                   n="N007"/>giebet deßwegen ander würde keinen anderen <lb
-                  facs="#facs_32_region_1643038220976_1516l9" n="N008"/>nach<pc type="t2">,</pc>
-                weil die <hi rend="an">sexten</hi> demselbigen <lb
+                  facs="#facs_32_region_1643038220976_1516l9" n="N008"/>Nach<pc type="t2">,</pc>
+                weil die <hi rend="an">Sexten</hi> demselbigen <lb
                   facs="#facs_32_region_1643038220976_1516l10" n="N009"/>sonderlich durch <hi
-                  rend="an">varyren</hi> außschmucken<pc type="t12">⸗</pc></p>
+                  rend="an">varyren</hi> außschmucken<add resp="#editor"><pc type="t1"
+                >.</pc></add></p>
               <p facs="#facs_32_region_1643038415731_1535">
-                <lb facs="#facs_32_region_1643038415731_1535l1" n="N001"/>2<pc type="t6">:</pc>)
-                Midt sonderlicher geschwendigkeidt undt</p>
+                <lb facs="#facs_32_region_1643038415731_1535l1" n="N001"/>2<pc type="t1">:</pc><del
+                  resp="#editor">)</del> Midt sonderlicher geschwendigkeidt undt</p>
               <pb facs="#facs_33" n="345" xml:id="img_0033"/>
               <p facs="#facs_33_region_1643039596008_1614">
                 <lb facs="#facs_33_region_1643039596008_1614l1" n="N001"/>ohne Einige Mühe wirdt man
                 ihn verferti<pc type="t12">⸗</pc><lb facs="#facs_33_region_1643039596008_1614l2"
-                  n="N002"/>gen<pc type="t2">,</pc> wen nach Vermeidung der verbhtene <lb
-                  facs="#facs_33_region_1643039596008_1614l3" n="N003"/><hi rend="an"
-                  >intervallen</hi> man sich stehtlich derer <hi rend="an">sexten</hi>
+                  n="N002"/>gen<pc type="t2">,</pc> wen Nach Vermeidung der <choice n="3">
+                  <orig>verbhtene</orig>
+                  <reg>verbohtene</reg>
+                </choice>
+                <lb facs="#facs_33_region_1643039596008_1614l3" n="N003"/><hi rend="an"
+                  >intervallen</hi> man sich Stehtlich derer <hi rend="an">Sexten</hi>
                 <lb facs="#facs_33_region_1643039596008_1614l4" n="N004"/>undt <hi rend="an"
                   >octaven</hi> bedienet<pc type="t2">,</pc> undt zwaer andere <lb
                   facs="#facs_33_region_1643039596008_1614l5" n="N005"/><hi rend="an"
-                  >intervallen</hi> midt anbringett<pc type="t2">,</pc> aber in geschwin<pc
+                  >intervallen</hi> midt anbringet<pc type="t2">,</pc> aber in geschwin<pc
                   type="t12">⸗</pc><lb facs="#facs_33_region_1643039596008_1614l6" n="N006"/>de <hi
                   rend="an">Noten</hi> undt midt bescheiden heidt <lb
-                  facs="#facs_33_region_1643039596008_1614l7" n="N007"/>daß Nicht nuhr der <hi
+                  facs="#facs_33_region_1643039596008_1614l7" n="N007"/>Daß nicht nuhr der <hi
                   rend="an">Contrapunct</hi> in undt <lb facs="#facs_33_region_1643039596008_1614l8"
-                  n="N008"/>an sich selbest<pc type="t2">,</pc> sondern auch Eine jede <hi rend="an"
+                  n="N008"/>an sich selbest<pc type="t2">,</pc> sondern auch Eine Jede <hi rend="an"
                   >Repli</hi><pc type="t12">⸗</pc><lb facs="#facs_33_region_1643039596008_1614l9"
-                  n="N009"/><hi rend="an">cation</hi> seine liebligkeidt behalte<pc type="t6"
+                  n="N009"/><hi rend="an">cation</hi> seine liebligkeidt behalte<pc type="t1"
                 >:</pc></p>
               <p facs="#facs_33_region_1643039617015_1617">
-                <lb facs="#facs_33_region_1643039617015_1617l1" n="N001"/>3<pc type="t6">:</pc>)<pc
-                  type="t1">.</pc> Wie wohl man Nicht sehen kan waer<pc type="t12">⸗</pc><lb
+                <lb facs="#facs_33_region_1643039617015_1617l1" n="N001"/>3<pc type="t1">:</pc><del
+                  resp="#editor">)</del> Wie wohl man nicht sehen kan waer<pc type="t12">⸗</pc><lb
                   facs="#facs_33_region_1643039617015_1617l2" n="N002"/>umb <hi rend="an"><choice
                     n="3">
                     <orig>kircherus</orig>
                     <reg>Kircherus</reg>
-                  </choice></hi> saget daß keine <hi rend="an">septimen</hi>
-                <lb facs="#facs_33_region_1643039617015_1617l3" n="N003"/>midt <hi rend="an">sexten
-                  resolviret</hi> alhier verstahet <lb facs="#facs_33_region_1643039617015_1617l4"
-                  n="N004"/>vndt zugelaßen werden<pc type="t2">,</pc> da Er doch <lb
-                  facs="#facs_33_region_1643039617015_1617l5" n="N005"/>ihren gebrauch in ihren oder
-                seinen eigenen <lb facs="#facs_33_region_1643039617015_1617l6" n="N006"/><hi
+                  </choice></hi> saget daß keine <hi rend="an">Septimen</hi>
+                <lb facs="#facs_33_region_1643039617015_1617l3" n="N003"/>midt <hi rend="an">Sexten
+                  Resolviret</hi> alhier verstatet <lb facs="#facs_33_region_1643039617015_1617l4"
+                  n="N004"/>undt zugelaßen werden<pc type="t2">.</pc> da er doch <lb
+                  facs="#facs_33_region_1643039617015_1617l5" n="N005"/>Ihren gebrauch in Ihren oder
+                seinen Eigenen <lb facs="#facs_33_region_1643039617015_1617l6" n="N006"/><hi
                   rend="an">exempelen</hi> beibringet<pc type="t2">,</pc> und wen Erß gleich <lb
                   facs="#facs_33_region_1643039617015_1617l7" n="N007"/>Nicht thäte<pc type="t2"
                   >,</pc> unser volgendeß <hi rend="an">exempl</hi>
-                <lb facs="#facs_33_region_1643039617015_1617l8" n="N008"/>daß <hi rend="an"
-                  >contrarium</hi> genuchk zuverstehen giebet</p>
+                <lb facs="#facs_33_region_1643039617015_1617l8" n="N008"/>Daß <hi rend="an"
+                  >Contrarium</hi> genuhk zuverstehen giebet<add resp="#editor"><pc type="t1"
+                  >.</pc></add></p>
               <p facs="#facs_33_region_1643039637914_1620">
-                <lb facs="#facs_33_region_1643039637914_1620l1" n="N001"/>4<pc type="t6">:</pc>)
-                gleicher gestaldt<pc type="t2">,</pc> sol man auch Nicht <lb
+                <lb facs="#facs_33_region_1643039637914_1620l1" n="N001"/>4<pc type="t1">:</pc><del
+                  resp="#editor">)</del>
+                <choice n="3">
+                  <orig>gleicher</orig>
+                  <reg>Gleicher</reg>
+                </choice> gestaldt<pc type="t2">,</pc> sol man auch nicht <lb
                   facs="#facs_33_region_1643039637914_1620l2" n="N002"/>gedencken<pc type="t2"
-                  >,</pc> alß könnte der <hi rend="an">Motus per Saltus</hi>
-                <lb facs="#facs_33_region_1643039637914_1620l3" n="N003"/>oder durch sprunge alhier
-                Nicht ange<pc type="t12">⸗</pc><lb facs="#facs_33_region_1643039637914_1620l4"
-                  n="N004"/>bracht werden in den <hi rend="an">Subjectis</hi><pc type="t2">,</pc>
+                  >,</pc> alß könnte der <hi rend="an">motus per Saltus</hi>
+                <lb facs="#facs_33_region_1643039637914_1620l3" n="N003"/>oder durch Sprunge alhier
+                nicht ange<pc type="t12">⸗</pc><lb facs="#facs_33_region_1643039637914_1620l4"
+                  n="N004"/>bracht werden in den <hi rend="an">Subjectis<pc type="t2">,</pc></hi>
                 weil <lb facs="#facs_33_region_1643039637914_1620l5" n="N005"/><hi rend="an"><choice
                     n="3">
                     <orig>kircherus</orig>
-                    <reg>Kirchero</reg>
+                    <reg>Kircherus</reg>
                   </choice></hi> in seinem <hi rend="an">exempelen</hi> dafon <lb
-                  facs="#facs_33_region_1643039637914_1620l6" n="N006"/>Nichtes Erwehnet<pc
-                  type="t1">.</pc> Den daß solches <lb facs="#facs_33_region_1643039637914_1620l7"
-                  n="N007"/>gaer füglich gescheen möge sol das fol<pc type="t12">⸗</pc><lb
+                  facs="#facs_33_region_1643039637914_1620l6" n="N006"/>Nichtes erwehnet<pc
+                  type="t2">.</pc> den daß solches <lb facs="#facs_33_region_1643039637914_1620l7"
+                  n="N007"/>gaer füglich gescheen möge sol daß fol<pc type="t12">⸗</pc><lb
                   facs="#facs_33_region_1643039637914_1620l8" n="N008"/>gende <hi rend="an"
                   >Subjectum</hi> zur genüge lehren<pc type="t6">:</pc></p>
               <pb facs="#facs_34" n="346" xml:id="img_0034"/>
@@ -1874,329 +1924,408 @@
 
           <div xml:id="div_0114">
             <head facs="#facs_35_region_1643051632405_1880">
-              <lb facs="#facs_35_region_1643051632405_1880l1" n="N001"/><hi rend="an">Caput<pc
-                  type="t6">:</pc></hi> 4<pc type="t6">:</pc>) <lb
-                facs="#facs_35_region_1643051632405_1880l2" n="N002"/>Vom <hi rend="an">Contrapuncto
-                diapente</hi><pc type="t6">:</pc></head>
+              <lb facs="#facs_35_region_1643051632405_1880l1" n="N001"/><hi rend="an">Caput<del
+                  resp="#editor"><pc type="t6">:</pc></del> 4<pc type="t6">:</pc><del resp="#editor"
+                  >)</del></hi>
+              <lb facs="#facs_35_region_1643051632405_1880l2" n="N002"/>Vom <hi rend="an"
+                >Contrapuncto diapente</hi><del resp="#editor"><pc type="t6">:</pc></del></head>
             <p facs="#facs_35_region_1643051766588_1884">
               <lb facs="#facs_35_region_1643051766588_1884l1" n="N001"/>Eß bleibe abermael daß
               vorige <hi rend="an">Subjectum</hi>
-              <lb facs="#facs_35_region_1643051766588_1884l2" n="N002"/>und nochmaelen
+              <lb facs="#facs_35_region_1643051766588_1884l2" n="N002"/>und Nochmaelen
                 unverendert<pc type="t2">,</pc> über <lb facs="#facs_35_region_1643051766588_1884l3"
-                n="N003"/>welcheß der <hi rend="an">Contrapunctus Princi</hi><pc type="t12"
-                >⸗</pc><lb facs="#facs_35_region_1643051766588_1884l4" n="N004"/><hi rend="an"
-                >palis</hi> auffzuführen<pc type="t2">,</pc> nach den volgen<pc type="t12">⸗</pc>
+                n="N003"/>welcheß der <hi rend="an">Contrapunctus Princi</hi><add resp="#editor"><pc
+                  type="t12">⸗</pc></add><lb facs="#facs_35_region_1643051766588_1884l4" n="N004"
+                /><hi rend="an">palis</hi> auffzuführen<pc type="t2">,</pc> nach den volgen<pc
+                type="t12">⸗</pc>
               <lb facs="#facs_35_region_1643051766588_1884l5" n="N005"/>den <hi rend="an"
-                >intervallen</hi><pc type="t1">.</pc> Soo wirdt nuhn dieser <lb
-                facs="#facs_35_region_1643051766588_1884l6" n="N006"/><hi rend="an">Contrapunct
-                repliciret</hi> durch Eine <hi rend="an">quin</hi><pc type="t12">⸗</pc><lb
-                facs="#facs_35_region_1643051766588_1884l7" n="N007"/><hi rend="an">tam</hi> und <hi
-                rend="an">undecimam infra</hi><pc type="t2">,</pc> durch Eine <lb
-                facs="#facs_35_region_1643051766588_1884l8" n="N008"/><hi rend="an">quart</hi> aber
-              und <hi rend="an">octave supra</hi><pc type="t6">:</pc></p>
+                >intervallen</hi><pc type="t1">.</pc>
+              <choice n="3">
+                <orig>soo</orig>
+                <reg>Soo</reg>
+              </choice> wirdt nuhn dieser <lb facs="#facs_35_region_1643051766588_1884l6" n="N006"
+                /><hi rend="an">Contrapunct repliciret</hi> durch Eine <hi rend="an">quin</hi><pc
+                type="t12">⸗</pc><lb facs="#facs_35_region_1643051766588_1884l7" n="N007"/><hi
+                rend="an">tam</hi> und <hi rend="an">undecimam infra<pc type="t2">,</pc></hi> durch
+              eine <lb facs="#facs_35_region_1643051766588_1884l8" n="N008"/><hi rend="an"
+                >quart</hi> aber und <hi rend="an">octave supra</hi><pc type="t1">:</pc></p>
             <p facs="#facs_35_region_1643051985698_1893">
-              <lb facs="#facs_35_region_1643051985698_1893l1" n="N001"/>Alhier seindt 5 <hi
-                rend="an">bicinia</hi> mit dem <hi rend="an">Subjecto</hi>
+              <lb facs="#facs_35_region_1643051985698_1893l1" n="N001"/>Alhier seindt 5<del
+                resp="#editor"><pc type="t6">:</pc>)</del>
+              <hi rend="an">bicinia</hi> mit dem <hi rend="an">Subjecto</hi>
               <lb facs="#facs_35_region_1643051985698_1893l2" n="N002"/><hi rend="an"
-                >communi</hi><pc type="t2">,</pc> und soo man alle <hi rend="an">replicirte</hi>
+                >Communi<pc type="t2">,</pc></hi> und soo man alle <hi rend="an">Replicirte</hi>
               <lb facs="#facs_35_region_1643051985698_1893l3" n="N003"/><hi rend="an">Subjecta</hi>
-              undt dem <hi rend="an">communi Contrapunc</hi><pc type="t12">⸗</pc><lb
+              midt dem <hi rend="an">Communi Contrapunc</hi><pc type="t12">⸗</pc><lb
                 facs="#facs_35_region_1643051985698_1893l4" n="N004"/><hi rend="an">to</hi> an
-              Stimmet nach 5<pc type="t6">:</pc>) andere</p>
+              Stimmet noch 5<del resp="#editor"><pc type="t6">:</pc>)</del> andere<add
+                resp="#editor"><pc type="t1">.</pc></add></p>
             <pb facs="#facs_36" n="348" xml:id="img_0036"/>
             <p facs="#facs_36_region_1643052555371_1931">
-              <lb facs="#facs_36_region_1643052555371_1931l1" n="N001"/>Sonsten seindt die <hi
-                rend="an">Cautelen</hi> oder anmerkun<pc type="t12">⸗</pc><lb
-                facs="#facs_36_region_1643052555371_1931l2" n="N002"/>gen volgende<pc type="t1"
-                >.</pc> daß man nehmlich Nicht gebraucht <lb
-                facs="#facs_36_region_1643052555371_1931l3" n="N003"/><hi rend="an">sextas
-                  octavas<pc type="t2">,</pc> decimas decimas tertias</hi>
-              <lb facs="#facs_36_region_1643052555371_1931l4" n="N004"/><hi rend="an">decimas
-                quintas</hi><pc type="t2">,</pc> weil sie in der <hi rend="an">Replica<pc type="t12"
-                  >⸗</pc></hi>
+              <lb facs="#facs_36_region_1643052555371_1931l1" n="N001"/><choice n="3">
+                <orig>sonsten</orig>
+                <reg>Sonsten</reg>
+              </choice> seindt die <hi rend="an">Cautelen</hi> oder anmerkun<pc type="t12">⸗</pc><lb
+                facs="#facs_36_region_1643052555371_1931l2" n="N002"/>gen volgende<pc type="t6"
+                >.</pc> daß man Nehmlich nicht gebrauche <lb
+                facs="#facs_36_region_1643052555371_1931l3" n="N003"/><hi rend="an">Sextas<add
+                  resp="#editor"><pc type="t2">,</pc></add> octavas<pc type="t2">,</pc> decimas<add
+                  resp="#editor"><pc type="t2">,</pc></add> decimas tertias<add resp="#editor"><pc
+                    type="t2">,</pc></add>
+                <lb facs="#facs_36_region_1643052555371_1931l4" n="N004"/>decimas quintas</hi><pc
+                type="t2">,</pc> weil sie in der <hi rend="an">Replica<pc type="t12">⸗</pc></hi>
               <lb facs="#facs_36_region_1643052555371_1931l5" n="N005"/><hi rend="an">tion
                 dissonantien</hi> werden<pc type="t1">.</pc> Item <hi rend="an">secunden</hi>
               <lb facs="#facs_36_region_1643052555371_1931l6" n="N006"/><hi rend="an"
-                >resolviret</hi> midt dem <hi rend="an">unisono</hi> der <lb
-                facs="#facs_36_region_1643052555371_1931l7" n="N007"/><hi rend="an">Septima</hi> und
-                <hi rend="an">Nona</hi> beiderseidts <hi rend="an">resol<pc type="t12">⸗</pc></hi>
+                >resolviret</hi> midt dem <hi rend="an">unisono</hi><add resp="#editor"><pc
+                  type="t2">,</pc></add> der <lb facs="#facs_36_region_1643052555371_1931l7"
+                n="N007"/><hi rend="an">Septima</hi> und <hi rend="an">Nona</hi> beiderseidts <hi
+                rend="an">resol<pc type="t12">⸗</pc></hi>
               <lb facs="#facs_36_region_1643052555371_1931l8" n="N008"/><hi rend="an">viret</hi>
-              midt der <hi rend="an">octave</hi><pc type="t6">:</pc></p>
+              midt der <hi rend="an">octave</hi><pc type="t1">:</pc></p>
             <p facs="#facs_36_region_1643052563186_1934">
               <lb facs="#facs_36_region_1643052563186_1934l1" n="N001"/>Zuläßige <hi rend="an"
                 >intervallen</hi> aber <lb facs="#facs_36_region_1643052563186_1934l2" n="N002"
-              />sendt diese alß die <hi rend="an">tertien<pc type="t2">,</pc> quinten</hi>
-              <lb facs="#facs_36_region_1643052563186_1934l3" n="N003"/><hi rend="an">decimen<pc
-                  type="t2">,</pc> duodecimen</hi><pc type="t2">,</pc> wen sie in der <hi rend="an"
-                  >repli<pc type="t12">⸗</pc></hi>
+              />seindt diese alß die <hi rend="an">tertien<pc type="t2">,</pc> quinten<add
+                  resp="#editor"><pc type="t2">,</pc></add>
+                <lb facs="#facs_36_region_1643052563186_1934l3" n="N003"/> decimen<pc type="t2"
+                  >,</pc> duodecimen<pc type="t2">,</pc></hi> wen sie in der <hi rend="an">Repli<pc
+                  type="t12">⸗</pc></hi>
               <lb facs="#facs_36_region_1643052563186_1934l4" n="N004"/><hi rend="an">cation
                 Consonantien</hi> bleiben<pc type="t2">,</pc>
-              <hi rend="an">item</hi> die<pc type="t12">⸗</pc><lb
-                facs="#facs_36_region_1643052563186_1934l5" n="N005"/><hi rend="an">secunde</hi> und
-                <hi rend="an">quarte resolviret</hi> midt der <lb
+              <hi rend="an">item</hi> die<del resp="#editor"><pc type="t12">⸗</pc></del>
+              <lb facs="#facs_36_region_1643052563186_1934l5" n="N005"/><hi rend="an">secunde</hi>
+              und <hi rend="an">quarte Resolviret</hi> midt der <lb
                 facs="#facs_36_region_1643052563186_1934l6" n="N006"/><hi rend="an">tertie</hi> wie
               auch die <hi rend="an">Nona</hi> undt <hi rend="an">un<pc type="t12">⸗</pc></hi>
               <lb facs="#facs_36_region_1643052563186_1934l7" n="N007"/><hi rend="an">decima
-                resolviret</hi> midt der <hi rend="an">decima</hi><pc type="t6">:</pc></p>
+                Resolviret</hi> midt der <hi rend="an">decima</hi><pc type="t1">:</pc></p>
 
             <div xml:id="div_01141">
               <head facs="#facs_36_region_1643052568816_1937">
                 <lb facs="#facs_36_region_1643052568816_1937l1" n="N001"/><hi rend="an">Anmerkung
                   uber den Contra<pc type="t12">⸗</pc></hi>
                 <lb facs="#facs_36_region_1643052568816_1937l2" n="N002"/><hi rend="an">punctum
-                  diapente</hi><pc type="t6">:</pc></head>
+                  diapente</hi><del resp="#editor"><pc type="t6">:</pc></del></head>
               <p facs="#facs_36_region_1643052578180_1940">
-                <lb facs="#facs_36_region_1643052578180_1940l1" n="N001"/>1rstlich Ein <hi rend="an"
-                  >exempel</hi> deß <hi rend="an">Motus par</hi>
+                <lb facs="#facs_36_region_1643052578180_1940l1" n="N001"/><choice n="2">
+                  <abbr>1rstlich</abbr>
+                  <expan>Erstlich</expan>
+                </choice> Ein <hi rend="an">exempel</hi> deß <hi rend="an">Motus par</hi>
                 <lb facs="#facs_36_region_1643052578180_1940l2" n="N002"/><hi rend="an">Saltus</hi>
-                Mach volgende <hi rend="an">Clausul</hi> sein <lb
-                  facs="#facs_36_region_1643052578180_1940l3" n="N003"/>2<pc type="t6">:</pc>)tenß
-                ist auch wohl zu mercken daß <lb facs="#facs_36_region_1643052578180_1940l4"
-                  n="N004"/>soo man Einen <hi rend="an">Contrapunct</hi> zum <hi rend="an"
-                  >Subjecto</hi>
-                <lb facs="#facs_36_region_1643052578180_1940l5" n="N005"/>sertzen und denselben <hi
-                  rend="an">repliciren</hi> wil <lb facs="#facs_36_region_1643052578180_1940l6"
-                  n="N006"/>eß Nicht gleich viel ist wie man ihn <lb
+                Mach volgende <hi rend="an">Clausul</hi> sein<add resp="#editor"><pc type="t1"
+                    >.</pc></add>
+                <lb facs="#facs_36_region_1643052578180_1940l3" n="N003"/><choice n="2">
+                  <abbr>2<pc type="t6">:</pc>)tenß</abbr>
+                  <expan>Zweitens</expan>
+                </choice> ist auch wohl zu mercken daß <lb
+                  facs="#facs_36_region_1643052578180_1940l4" n="N004"/>soo man Einen <hi rend="an"
+                  >Contrapunct</hi> zum <hi rend="an">Subjecto</hi>
+                <lb facs="#facs_36_region_1643052578180_1940l5" n="N005"/>setzen und den selben <hi
+                  rend="an">Repliciren</hi> wil <lb facs="#facs_36_region_1643052578180_1940l6"
+                  n="N006"/>Eß nicht gleich viel ist wie man ihn <lb
                   facs="#facs_36_region_1643052578180_1940l7" n="N007"/>setzen undt <hi rend="an"
-                  >repliciren</hi> wolle<pc type="t2">,</pc> sonderen <lb
-                  facs="#facs_36_region_1643052578180_1940l8" n="N008"/>wie eß sich am füglichsten
+                  >Repliciren</hi> wolle<pc type="t2">,</pc> sonderen <lb
+                  facs="#facs_36_region_1643052578180_1940l8" n="N008"/>wie Eß sich am füglichsten
                 schicke undt</p>
               <pb facs="#facs_37" n="349" xml:id="img_0037"/>
               <p facs="#facs_37_region_1643099444201_52">
-                <lb facs="#facs_37_region_1643099444201_52l1" n="N001"/>thuen lest<pc type="t6"
+                <lb facs="#facs_37_region_1643099444201_52l1" n="N001"/>thuen lest<pc type="t1"
                   >:</pc> Zu welcher <hi rend="an">Melodei</hi> demnach <lb
-                  facs="#facs_37_region_1643099444201_52l2" n="N002"/><hi rend="an">sexten<pc
-                    type="t2">,</pc> octaven</hi><pc type="t2">,</pc> undt dergleichen <hi rend="an"
+                  facs="#facs_37_region_1643099444201_52l2" n="N002"/><hi rend="an">Sexten<pc
+                    type="t2">,</pc> octaven<pc type="t2">,</pc></hi> undt dergleichen <hi rend="an"
                   >intervallen</hi>
                 <lb facs="#facs_37_region_1643099444201_52l3" n="N003"/>die <hi rend="an">Natur</hi>
                 zu Erfoderen scheinet<pc type="t2">,</pc> die <lb
-                  facs="#facs_37_region_1643099444201_52l4" n="N004"/>mußen Nichtt nach dem <hi
-                  rend="an">Contrapuncto<pc type="t12">⸗</pc></hi>
+                  facs="#facs_37_region_1643099444201_52l4" n="N004"/>mußen nicht nach dem <hi
+                  rend="an">Contrapuncto<del resp="#editor"><pc type="t12">⸗</pc></del></hi>
                 <lb facs="#facs_37_region_1643099444201_52l5" n="N005"/><hi rend="an">diapente</hi>
                 verfertiget werden<pc type="t2">,</pc> sonderen <lb
-                  facs="#facs_37_region_1643099444201_52l6" n="N006"/>nach Einem anderen woo sich
-                solche <hi rend="an">inter<pc type="t12">⸗</pc></hi>
-                <lb facs="#facs_37_region_1643099444201_52l7" n="N007"/><hi rend="an">vallen</hi>
-                gaer füglich anbringen laßen<pc type="t2">,</pc> wie <lb
+                  facs="#facs_37_region_1643099444201_52l6" n="N006"/>Nach Einem anderen woo sich
+                solche <hi rend="an">inter<add resp="#editor"><pc type="t12">⸗</pc></add></hi><lb
+                  facs="#facs_37_region_1643099444201_52l7" n="N007"/><hi rend="an">vallen</hi> gaer
+                füglich anbringen laßen<pc type="t2">,</pc> wie <lb
                   facs="#facs_37_region_1643099444201_52l8" n="N008"/>wohl in der <hi rend="an"
-                  >Replication</hi> die <hi rend="an">sexten</hi> alhier <lb
+                  >Replication</hi> die <hi rend="an">Sexten</hi> alhier <lb
                   facs="#facs_37_region_1643099444201_52l9" n="N009"/>Nicht übel kommen<pc type="t2"
-                  >,</pc> ob gleich in den <lb facs="#facs_37_region_1643099444201_52l10" n="N010"
-                  /><hi rend="an">Principae Contrapunct </hi>dieselbe angebraꝿ <lb
-                  facs="#facs_37_region_1643099444201_52l11" n="N011"/>seindt<pc type="t2">,</pc>
-                besiehe hievon volgendes Exempel </p>
+                  >,</pc> ob gleich In den <lb facs="#facs_37_region_1643099444201_52l10" n="N010"
+                  /><hi rend="an">Principael Contrapunct </hi>dieselbe <choice n="2">
+                  <abbr>angebraꝿ</abbr>
+                  <expan>angebracht</expan>
+                </choice>
+                <lb facs="#facs_37_region_1643099444201_52l11" n="N011"/>seindt<pc type="t2">,</pc>
+                besiehe hievon volgendes Exempel<pc type="t6">:</pc></p>
               <pb facs="#facs_38" n="350" xml:id="img_0038"/>
             </div>
           </div>
 
           <div xml:id="div_0115">
             <head facs="#facs_38_region_1643100173161_92">
-              <lb facs="#facs_38_region_1643100173161_92l1" n="N001"/><hi rend="an">Caput 5tum</hi>
+              <lb facs="#facs_38_region_1643100173161_92l1" n="N001"/><hi rend="an">Caput <choice
+                  n="3">
+                  <orig>5tum</orig>
+                  <reg>5</reg>
+                </choice><pc type="t6">:</pc></hi>
               <lb facs="#facs_38_region_1643100173161_92l2" n="N002"/>Vom <hi rend="an">Contrapuncto
-                diahex</hi><pc type="t6">:</pc></head>
+                diahex</hi><del resp="#editor"><pc type="t6">:</pc></del></head>
             <p facs="#facs_38_region_1643100182729_95">
-              <lb facs="#facs_38_region_1643100182729_95l1" n="N001"/>1<pc type="t6">:</pc>)lich in
-              diesem <hi rend="an">Contrapunct</hi> seindt zu mei<pc type="t12">⸗</pc><lb
+              <lb facs="#facs_38_region_1643100182729_95l1" n="N001"/><choice n="3">
+                <orig>1<pc type="t6">:</pc>)lich</orig>
+                <reg>1<pc type="t1">.</pc></reg>
+              </choice>
+              <choice n="3">
+                <orig>in</orig>
+                <reg>In</reg>
+              </choice> diesem <hi rend="an">Contrapunct</hi> seindt zu mei<pc type="t12">⸗</pc><lb
                 facs="#facs_38_region_1643100182729_95l2" n="N002"/>den die<hi rend="an"> tertia<pc
-                  type="t2">,</pc> 5ta<pc type="t2">,</pc> 2<pc type="t6">:</pc> sexten</hi> und
-                2<pc type="t1">.</pc>
-              <hi rend="an">deci<pc type="t12">⸗</pc></hi>
-              <lb facs="#facs_38_region_1643100182729_95l3" n="N003"/><hi rend="an">men</hi><pc
-                type="t2">,</pc> die <hi rend="an">duodecima</hi><pc type="t2">,</pc> und 2<pc
-                type="t6">:</pc>) <hi rend="an">decimatertie</hi><pc type="t12">⸗</pc><lb
-                facs="#facs_38_region_1643100182729_95l4" n="N004"/>weil sie in der <hi rend="an"
+                  type="t2">,</pc>
+                <hi rend="an"><choice n="3">
+                    <orig>5ta</orig>
+                    <reg>quinta</reg>
+                  </choice><pc type="t2">,</pc></hi> 2<del resp="#editor"><pc type="t6">:</pc></del>
+                sexten</hi> und 2<del resp="#editor"><pc type="t1">.</pc></del>
+              <hi rend="an">deci<pc type="t12">⸗</pc></hi><lb
+                facs="#facs_38_region_1643100182729_95l3" n="N003"/><hi rend="an">men</hi><pc
+                type="t2">,</pc> die <hi rend="an">duodecima<pc type="t2">,</pc></hi> und 2<del
+                resp="#editor"><pc type="t6">:</pc>)</del>
+              <hi rend="an">decimatertie</hi><pc type="t2">⸗</pc>
+              <lb facs="#facs_38_region_1643100182729_95l4" n="N004"/>weil sie in der <hi rend="an"
                 >Replication</hi>
-              <hi rend="an">dissonantien</hi><pc type="t12">⸗</pc><lb
-                facs="#facs_38_region_1643100182729_95l5" n="N005"/>werden<pc type="t6">:</pc></p>
+              <hi rend="an">dissonantien</hi><del resp="#editor"><pc type="t12">⸗</pc></del>
+              <lb facs="#facs_38_region_1643100182729_95l5" n="N005"/>werden<pc type="t1">:</pc></p>
             <p facs="#facs_38_region_1643100188734_98">
-              <lb facs="#facs_38_region_1643100188734_98l1" n="N001"/>2<pc type="t6">:</pc>) Auch
-              wollen sich füglich Nicht gebrauchen <lb facs="#facs_38_region_1643100188734_98l2"
-                n="N002"/>laßen die <hi rend="an">secunden</hi> unt <hi rend="an">quarten</hi> in
-                <hi rend="an">tertien<pc type="t12">⸗</pc></hi>
+              <lb facs="#facs_38_region_1643100188734_98l1" n="N001"/>2<pc type="t1">:</pc><del
+                resp="#editor">)</del>
+              <choice n="3">
+                <orig>auch</orig>
+                <reg>Auch</reg>
+              </choice> wollen sich füglich nicht gebrauchen <lb
+                facs="#facs_38_region_1643100188734_98l2" n="N002"/>laßen die <hi rend="an"
+                >Secunden</hi> unt <hi rend="an">quarten</hi> in <hi rend="an">tertien<del
+                  resp="#editor"><pc type="t12">⸗</pc></del></hi>
               <lb facs="#facs_38_region_1643100188734_98l3" n="N003"/><hi rend="an">Resolviret</hi>;
-              unterschitliche <hi rend="an">septimen</hi> in <hi rend="an">sexten<pc type="t12"
+              unterschitliche <hi rend="an">Septimen</hi> in <hi rend="an">Sexten<pc type="t12"
                   >⸗</pc></hi>
               <lb facs="#facs_38_region_1643100188734_98l4" n="N004"/><hi rend="an"
-                >resolviret</hi><pc type="t2">,</pc> die <hi rend="an">Nonæn</hi> undt <hi rend="an"
+                >Resolviret<pc type="t2">,</pc></hi> die <hi rend="an">Nonæn</hi> undt <hi rend="an"
                 >decimis</hi> weil <lb facs="#facs_38_region_1643100188734_98l5" n="N005"/>sie dan
-              undt wan in der <hi rend="an">Replication dissoni</hi><pc type="t12">⸗</pc><lb
+              undt wan In der <hi rend="an">Replication dissoni</hi><pc type="t12">⸗</pc><lb
                 facs="#facs_38_region_1643100188734_98l6" n="N006"/><hi rend="an">rent</hi>
-                werden<pc type="t6">:</pc></p>
+                werden<pc type="t1">:</pc></p>
 
-            <div xml:id="div_01151">
-              <head facs="#facs_38_region_1643100195731_101">
-                <lb facs="#facs_38_region_1643100195731_101l1" n="N001"/>Zulässige aber seindt<pc
-                  type="t6">:</pc></head>
-              <p facs="#facs_38_region_1643100202958_104">
-                <lb facs="#facs_38_region_1643100202958_104l1" n="N001"/>Ein <hi rend="an"
-                    >unisonus<pc type="t2">,</pc></hi> Eine <hi rend="an">sexta octava decima<pc
-                    type="t2">,</pc> decima</hi><pc type="t12">⸗</pc><lb
-                  facs="#facs_38_region_1643100202958_104l2" n="N002"/><hi rend="an">tertia<pc
-                    type="t2">,</pc></hi> undt <hi rend="an">decima quinta</hi><pc type="t1">.</pc>
-                Eine <hi rend="an">secunda resol</hi>
-                <lb facs="#facs_38_region_1643100202958_104l3" n="N003"/><hi rend="an">viret</hi>
-                midt dem <hi rend="an">unisono</hi><pc type="t2">,</pc> Eine <hi rend="an">septima
-                  resorviret</hi>
-                <lb facs="#facs_38_region_1643100202958_104l4" n="N004"/>midt der <hi rend="an"
-                  >decima</hi><pc type="t2">,</pc> undt Eine <hi rend="an">decima quarta</hi><pc
-                  type="t12">⸗</pc><lb facs="#facs_38_region_1643100202958_104l5" n="N005"/><hi
-                  rend="an">resolviret</hi> midt der <hi rend="an">decimatertia</hi><pc type="t2"
-                  >,</pc> woo sie an<pc type="t12">⸗</pc><lb
-                  facs="#facs_38_region_1643100202958_104l6" n="N006"/>derß in der <hi rend="an"
-                  >Replication Consonantien</hi><pc type="t2">,</pc> oder auch <lb
-                  facs="#facs_38_region_1643100202958_104l7" n="N007"/>gultige <hi rend="an"
-                  >dissonantien</hi> bleiben<pc type="t6">:</pc></p>
-              <p facs="#facs_38_region_1643100209046_107">
-                <lb facs="#facs_38_region_1643100209046_107l1" n="N001"/>3<pc type="t6">:</pc>)tens
-                die <hi rend="an">Replication</hi> geschiht alhier Eine <hi rend="an">sexte</hi>
-                <lb facs="#facs_38_region_1643100209046_107l2" n="N002"/><hi rend="an">octæf<pc
-                    type="t2">,</pc> duodecimam</hi><pc type="t2">,</pc> und <hi rend="an">decimam
-                  quintam infra</hi>
-                <lb facs="#facs_38_region_1643100209046_107l3" n="N003"/>undt Eine <hi rend="an"
-                  >octavam</hi> und<hi rend="an"> tertiam supra</hi> kommen <lb
-                  facs="#facs_38_region_1643100209046_107l4" n="N004"/>alsoo 7<pc type="t6">:</pc>
-                <hi rend="an">bicinia</hi> auß der <hi rend="an">Replication</hi> der <hi rend="an"
-                    >Contrapunc<pc type="t12">⸗</pc></hi>
-                <lb facs="#facs_38_region_1643100209046_107l5" n="N005"/><hi rend="an">ten</hi><pc
-                  type="t2">,</pc> und andere 7<pc type="t6">:</pc>) auß der <hi rend="an"
-                  >Replication</hi> der <hi rend="an">Sub<pc type="t12">⸗</pc></hi>
-                <lb facs="#facs_38_region_1643100209046_107l6" n="N006"/><hi rend="an">jecten<pc
-                    type="t1">.</pc> tricinia</hi> seindt volgende 12<pc type="t6">:</pc>)</p>
-              <pb facs="#facs_39" n="351" xml:id="img_0039"/>
-              <p facs="#facs_39_region_1643102331179_174">
-                <lb facs="#facs_39_line_1643102468001_186" n="N001"/><hi rend="an">Exempel<pc
-                    type="t6">:</pc></hi>
-                <figure>
-                  <graphic url="#facs_39_Table_1643660069571_217"/>
-                </figure>
-              </p>
-              <pb facs="#facs_40" n="352" xml:id="img_0040"/>
-            </div>
+
+            <ab><lb facs="#facs_38_region_1643100195731_101l1" n="N001"/>Zulässige aber seindt<del
+                resp="#editor"><pc type="t6">:</pc></del></ab>
+            <p facs="#facs_38_region_1643100202958_104">
+              <lb facs="#facs_38_region_1643100202958_104l1" n="N001"/>Ein <hi rend="an">unisonus<pc
+                  type="t2">,</pc></hi> Eine <hi rend="an">sexta<pc type="t2">,</pc> octava<pc
+                  type="t2">,</pc> decima<pc type="t2">,</pc> decima</hi><pc type="t12">⸗</pc><lb
+                facs="#facs_38_region_1643100202958_104l2" n="N002"/><hi rend="an">tertia<pc
+                  type="t2">,</pc></hi> undt <hi rend="an">decima quinta</hi><pc type="t1">.</pc>
+              Eine <hi rend="an">Secunda Resol<pc type="t12">⸗</pc></hi>
+              <lb facs="#facs_38_region_1643100202958_104l3" n="N003"/><hi rend="an">viret</hi> midt
+              dem <hi rend="an">unisono<pc type="t2">,</pc></hi> Eine <hi rend="an">Septima
+                resorviret</hi>
+              <lb facs="#facs_38_region_1643100202958_104l4" n="N004"/>midt der <hi rend="an"
+                >decima<pc type="t2">,</pc></hi> undt Eine <hi rend="an">decima quarta</hi><del
+                resp="#editor"><pc type="t12">⸗</pc></del><lb
+                facs="#facs_38_region_1643100202958_104l5" n="N005"/><hi rend="an">Resolviret</hi>
+              midt der <hi rend="an">decima tertia<pc type="t2">,</pc></hi> woo sie an<pc type="t12"
+                >⸗</pc><lb facs="#facs_38_region_1643100202958_104l6" n="N006"/>derß in der <hi
+                rend="an">Replication Consonantien<pc type="t2">,</pc></hi> oder auch <lb
+                facs="#facs_38_region_1643100202958_104l7" n="N007"/>gultige <hi rend="an"
+                >dissonantien</hi> bleiben<pc type="t1">:</pc></p>
+            <p facs="#facs_38_region_1643100209046_107">
+              <lb facs="#facs_38_region_1643100209046_107l1" n="N001"/><choice n="2">
+                <orig>3<pc type="t6">:</pc>)tens</orig>
+                <reg>3<pc type="t1">.</pc></reg>
+              </choice>
+              <choice n="3">
+                <orig>die</orig>
+                <reg>Die</reg>
+              </choice>
+              <hi rend="an">Replication</hi> geschiht alhier Eine <hi rend="an">Sexte</hi>
+              <lb facs="#facs_38_region_1643100209046_107l2" n="N002"/><hi rend="an">octæf<pc
+                  type="t2">,</pc> duodecimam<pc type="t2">,</pc></hi> und <hi rend="an">decimam
+                quintam infra</hi>
+              <lb facs="#facs_38_region_1643100209046_107l3" n="N003"/>undt Eine <hi rend="an"
+                >octavam<pc type="t2">,</pc></hi> und<hi rend="an"> tertiam supra</hi><pc type="t2"
+                >,</pc> kommen <lb facs="#facs_38_region_1643100209046_107l4" n="N004"/>alsoo 7<del
+                resp="#editor"><pc type="t6">:</pc></del>
+              <hi rend="an">bicinia</hi> auß der <hi rend="an">Replication</hi> der <hi rend="an"
+                  >Contrapunc<pc type="t12">⸗</pc></hi>
+              <lb facs="#facs_38_region_1643100209046_107l5" n="N005"/><hi rend="an">ten</hi><pc
+                type="t2">,</pc> und andere 7<del resp="#editor"><pc type="t6">:</pc>)</del> auß der
+                <hi rend="an">Replication</hi> der <hi rend="an">Sub<pc type="t12">⸗</pc></hi>
+              <lb facs="#facs_38_region_1643100209046_107l6" n="N006"/><hi rend="an">jecten<pc
+                  type="t2">.</pc> tricinia</hi> seindt volgende 12<del resp="#editor"><pc type="t6"
+                  >:</pc>)</del><pc type="t1">.</pc></p>
+            <pb facs="#facs_39" n="351" xml:id="img_0039"/>
+            <p facs="#facs_39_region_1643102331179_174">
+              <lb facs="#facs_39_line_1643102468001_186" n="N001"/><hi rend="an">Exempel<pc
+                  type="t6">:</pc></hi>
+              <figure>
+                <graphic url="#facs_39_Table_1643660069571_217"/>
+              </figure>
+            </p>
+            <pb facs="#facs_40" n="352" xml:id="img_0040"/>
             <div xml:id="div_01152">
               <head facs="#facs_40_region_1643102616755_238">
                 <lb facs="#facs_40_region_1643102616755_238l1" n="N001"/><hi rend="an"
                   >Annotationes</hi> über diesen <lb facs="#facs_40_region_1643102616755_238l2"
-                  n="N002"/><hi rend="an">Contrapunctum</hi><pc type="t6">:</pc></head>
+                  n="N002"/><hi rend="an">Contrapunctum</hi><del resp="#editor"><pc type="t6"
+                  >:</pc></del></head>
               <p facs="#facs_40_region_1643102627521_241">
                 <lb facs="#facs_40_region_1643102627521_241l1" n="N001"/>Man haet sich alhier voor
-                zusehen daß maen <lb facs="#facs_40_region_1643102627521_241l2" n="N002"/>man alle
-                undt jede <hi rend="an">Contrapuncten</hi> soo viel <lb
+                zusehen daß <del resp="#editor">maen </del><lb
+                  facs="#facs_40_region_1643102627521_241l2" n="N002"/>man alle undt Jede <hi
+                  rend="an">Contrapuncten</hi> soo viel <lb
                   facs="#facs_40_region_1643102627521_241l3" n="N003"/>mahl<pc type="t2">,</pc> alß
-                  <hi rend="an">kricherus</hi> wie <hi rend="an">repliciren</hi> solte /<pc
-                  type="t6">:</pc>
-                <lb facs="#facs_40_region_1643102627521_241l4" n="N004"/>dan die <hi rend="an"
-                  >Replication</hi> im <hi rend="an">Contrapunct</hi> durch <lb
-                  facs="#facs_40_region_1643102627521_241l5" n="N005"/>eine <hi rend="an">duodecimam
-                  infa</hi><pc type="t2">,</pc> und im <hi rend="an">subjecto</hi><pc type="t12"
-                  >⸗</pc><lb facs="#facs_40_region_1643102627521_241l6" n="N006"/><hi rend="an"
-                  >supra</hi> kan Nicht geguldet verden alß <lb
-                  facs="#facs_40_region_1643102627521_241l7" n="N007"/>nuhr in solchen <hi rend="an"
-                  >Clausulen</hi> da keine <hi rend="an">sexta</hi>
+                  <hi rend="an"><choice n="3">
+                    <orig>kricherus</orig>
+                    <reg>Kircherus</reg>
+                  </choice></hi> wil <hi rend="an">repliciren</hi> solte<del resp="#editor">
+                  /</del><pc type="t1">:</pc>
+                <lb facs="#facs_40_region_1643102627521_241l4" n="N004"/><choice n="3">
+                  <orig>dan</orig>
+                  <reg>Dan</reg>
+                </choice> die <hi rend="an">Replication</hi> im <hi rend="an">Contrapunct</hi> durch
+                  <lb facs="#facs_40_region_1643102627521_241l5" n="N005"/>Eine <hi rend="an"
+                  >duodecimam infra<pc type="t2">,</pc></hi> und im <hi rend="an">Subjecto</hi><del
+                  resp="#editor"><pc type="t12">⸗</pc></del><lb
+                  facs="#facs_40_region_1643102627521_241l6" n="N006"/><hi rend="an">Supra</hi> kan
+                nicht geguldet werden alß <lb facs="#facs_40_region_1643102627521_241l7" n="N007"
+                />Nuhr in solchen <hi rend="an">Clausulen</hi> da keine <hi rend="an">Sexta</hi>
                 <lb facs="#facs_40_region_1643102627521_241l8" n="N008"/><hi rend="an">majores</hi>
-                und <hi rend="an">minores</hi> angebracht werden<pc type="t6">:</pc>
+                und <hi rend="an">minores</hi> angebracht werden<pc type="t2">:</pc>
                 <lb facs="#facs_40_region_1643102627521_241l9" n="N009"/>muß man dero wegen diese
                   <hi rend="an">Replication</hi>
                 <lb facs="#facs_40_region_1643102627521_241l10" n="N010"/>auß laßen<pc type="t2"
-                  >,</pc> und also die Zahl der <hi rend="an">diffoniorum</hi>
+                  >,</pc> und alsoo die Zahl der <hi rend="an">diffoniorum</hi>
                 <lb facs="#facs_40_region_1643102627521_241l11" n="N011"/>und <hi rend="an"
-                  >trifoniorum</hi> in etwaß verkürtzen <lb
+                  >trifoniorum</hi> In Etwaß verkürtzen <lb
                   facs="#facs_40_region_1643102627521_241l12" n="N012"/>weil solche <hi rend="an"
-                  >Replicationen</hi> wie gemeldet<pc type="t12">⸗</pc><lb
+                  >Replicationen</hi> wie gemeldet<del resp="#editor"><pc type="t12">⸗</pc></del><lb
                   facs="#facs_40_region_1643102627521_241l13" n="N013"/>Nicht Raum findnen<pc
-                  type="t6">:</pc></p>
+                  type="t1">:</pc></p>
               <pb facs="#facs_41" n="353" xml:id="img_0041"/>
             </div>
           </div>
 
           <div xml:id="div_0116">
             <head facs="#facs_41_region_1643103784644_297">
-              <lb facs="#facs_41_region_1643103784644_297l1" n="N001"/><hi rend="an">Caput
-                sextum</hi>
+              <lb facs="#facs_41_region_1643103784644_297l1" n="N001"/><hi rend="an">Caput <choice
+                  n="3">
+                  <orig>sextum</orig>
+                  <reg>6</reg>
+                </choice><pc type="t6">:</pc>
+              </hi>
               <lb facs="#facs_41_region_1643103784644_297l2" n="N002"/>Vom <hi rend="an"
-                >Contrapuncto diahepta</hi><pc type="t6">:</pc></head>
+                >Contrapuncto diahepta</hi><del resp="#editor"><pc type="t6">:</pc></del></head>
             <p facs="#facs_41_region_1643103798678_300">
-              <lb facs="#facs_41_region_1643103798678_300l1" n="N001"/>1<pc type="t6">:</pc>) Die
-                <hi rend="an">Contrapuncten</hi> werden alhier <hi rend="an">Repli<pc type="t12"
-                  >⸗</pc></hi>
+              <lb facs="#facs_41_region_1643103798678_300l1" n="N001"/>1<pc type="t1">:</pc><del
+                resp="#editor">)</del> Die <hi rend="an">Contrapuncten</hi> werden alhier <hi
+                rend="an">Repli<add resp="#editor"><pc type="t12">⸗</pc></add></hi>
               <lb facs="#facs_41_region_1643103798678_300l2" n="N002"/><hi rend="an">ciret</hi><pc
-                type="t2">,</pc> durch Eine <hi rend="an">septimam<pc type="t2">,</pc> tertiam<pc
+                type="t2">,</pc> durch Eine <hi rend="an">Septimam<pc type="t2">,</pc> tertiam<pc
                   type="t2">,</pc> quin<pc type="t12">⸗</pc></hi>
               <lb facs="#facs_41_region_1643103798678_300l3" n="N003"/><hi rend="an">tam<pc
                   type="t2">,</pc> decimam<pc type="t2">,</pc> duodecimam infra</hi><pc type="t2"
-                >,</pc> durch <lb facs="#facs_41_region_1643103798678_300l4" n="N004"/>eine <hi
-                rend="an">octavam<pc type="t2">,</pc> sextam</hi><pc type="t2">,</pc> und <hi
-                rend="an">quartam supra</hi>
-              <lb facs="#facs_41_region_1643103798678_300l5" n="N005"/>die <hi rend="an"
-                >subjecta</hi> werden gleichfalß durch <hi rend="an">7tim</hi>
-              <lb facs="#facs_41_region_1643103798678_300l6" n="N006"/><hi rend="an">3tien 5ten<pc
-                  type="t2">,</pc> 10men<pc type="t2">,</pc> 12men repliciret</hi> aber <lb
-                facs="#facs_41_region_1643103798678_300l7" n="N007"/><hi rend="an">supra</hi> undt
-              durch <hi rend="an">8ven<pc type="t2">,</pc> 6ten<pc type="t6">:</pc></hi> undt <hi
-                rend="an">4rten</hi>
-              <lb facs="#facs_41_region_1643103798678_300l9" n="N008"/>infra<pc type="t6">:</pc></p>
+                >,</pc> durch <lb facs="#facs_41_region_1643103798678_300l4" n="N004"/>Eine <hi
+                rend="an">octavam<pc type="t2">,</pc> Sextam<pc type="t2">,</pc></hi> und <hi
+                rend="an">quartam supra</hi><add resp="#editor"><pc type="t1">.</pc></add>
+              <lb facs="#facs_41_region_1643103798678_300l5" n="N005"/>Die <hi rend="an"
+                >Subjecta</hi> werden gleichfalß durch <hi rend="an">7tim<add resp="#editor"><pc
+                    type="t2">,</pc></add>
+                <lb facs="#facs_41_region_1643103798678_300l6" n="N006"/>3tien<pc type="t2">,</pc>
+                  5ten<pc type="t2">,</pc> 10men<pc type="t2">,</pc> 12men Repliciret</hi> aber <lb
+                facs="#facs_41_region_1643103798678_300l7" n="N007"/><hi rend="an">Supra</hi><pc
+                type="t2">,</pc> undt durch <hi rend="an">8ven<pc type="t2">,</pc> 6ten<pc type="t2"
+                  >:</pc></hi> undt <hi rend="an">4rten</hi>
+              <lb facs="#facs_41_region_1643103798678_300l9" n="N008"/>infra<pc type="t1">:</pc></p>
             <p facs="#facs_41_region_1643103811838_303">
-              <lb facs="#facs_41_region_1643103811838_303l1" n="N001"/>2<pc type="t6">:</pc>)
-              Unterdeßen muß man sich hüten daß <lb facs="#facs_41_region_1643103811838_303l2"
-                n="N002"/>Nicht <hi rend="an">unisoni</hi><pc type="t2">,</pc> 2<pc type="t6"
-                >:</pc>)<hi rend="an"> tertien<pc type="t2">,</pc> 6ten<pc type="t2">,</pc> item
-                octaven</hi>
-              <lb facs="#facs_41_region_1643103811838_303l3" n="N003"/><hi rend="an">10men decim<pc
-                  type="t6">:</pc> tertias<pc type="t2">,</pc> decimasquintas</hi> angebra[cht] <lb
+              <lb facs="#facs_41_region_1643103811838_303l1" n="N001"/>2<pc type="t1">:</pc><del
+                resp="#editor">)</del>
+              <choice n="3">
+                <orig>unterdeßen</orig>
+                <reg>Unterdeßen</reg>
+              </choice> muß man sich hüten daß <lb facs="#facs_41_region_1643103811838_303l2"
+                n="N002"/>Nicht <hi rend="an">unisoni<pc type="t2">,</pc></hi> 2<pc type="t1"
+                >:</pc><del resp="#editor">)</del><hi rend="an"> tertien<pc type="t2">,</pc> 6ten<pc
+                  type="t2">,</pc> item octaven</hi><add resp="#editor"><pc type="t2">,</pc></add>
+              <lb facs="#facs_41_region_1643103811838_303l3" n="N003"/><hi rend="an">10men<add
+                  resp="#editor"><pc type="t2">,</pc></add>
+                <choice n="3">
+                  <orig>decim<pc type="t6">:</pc>tertias</orig>
+                  <reg>decimastertias</reg>
+                </choice><pc type="t2">,</pc> decimasquintas</hi> angebracht <lb
                 facs="#facs_41_region_1643103811838_303l4" n="N004"/>werden<pc type="t2">,</pc> wen
               sie nehmlich inder <hi rend="an">Replication</hi>
               <lb facs="#facs_41_region_1643103811838_303l5" n="N005"/>zu <hi rend="an"
-                >dissonantien</hi> werden<pc type="t2">,</pc> hernach muß <lb
-                facs="#facs_41_region_1643103811838_303l6" n="N006"/>man auch verhüten<pc type="t2"
-                >,</pc> die <hi rend="an">seconden resolviret</hi>
+                >dissonantien</hi> werden<pc type="t1">,</pc>
+              <choice n="3">
+                <orig>hernach</orig>
+                <reg>Hernach</reg>
+              </choice> muß <lb facs="#facs_41_region_1643103811838_303l6" n="N006"/>man auch
+                verhüten<pc type="t2">,</pc> die <hi rend="an">Seconden Resolviret</hi>
               <lb facs="#facs_41_region_1643103811838_303l7" n="N007"/>midt dem <hi rend="an"
-                >unisonoo</hi><pc type="t2">,</pc> die <hi rend="an">quarte resolviret</hi>
+                >unisono<pc type="t2">,</pc></hi> die <hi rend="an">quarte resolviret</hi>
               <lb facs="#facs_41_region_1643103811838_303l8" n="N008"/>midt der <hi rend="an"
-                >tertie</hi>; wie auch die <hi rend="an">septimas</hi>
+                >tertie</hi>; wie auch die <hi rend="an">Septimas</hi>
               <lb facs="#facs_41_region_1643103811838_303l9" n="N009"/><hi rend="an">Nonas<pc
-                  type="t2">,</pc> undecimas</hi><pc type="t2">,</pc> undt <hi rend="an"
-                >decimasquartas</hi><pc type="t2">,</pc> wegen <lb
-                facs="#facs_41_region_1643103811838_303l10" n="N010"/>voriger uhrsachen der übrigen
-              mach man <lb facs="#facs_41_region_1643103811838_303l11" n="N011"/>wohl gebrauchen<pc
-                type="t6">:</pc> besiehe hirfon daß <lb facs="#facs_41_region_1643103811838_303l12"
-                n="N012"/>negst folgende<pc type="t1">.</pc></p>
-            <p facs="#facs_41_region_1643103817461_306">
+                  type="t2">,</pc> undecimas<pc type="t2">,</pc></hi> undt <hi rend="an"
+                >decimasquartas<pc type="t2">,</pc></hi> wegen <lb
+                facs="#facs_41_region_1643103811838_303l10" n="N010"/>voriger uhrsachen<pc type="t1"
+                >.</pc>
+              <choice n="3">
+                <orig>der</orig>
+                <reg>Der</reg>
+              </choice> übrigen mach man <lb facs="#facs_41_region_1643103811838_303l11" n="N011"
+              />wohl gebrauchen<pc type="t2">:</pc> besiehe hirfon daß <lb
+                facs="#facs_41_region_1643103811838_303l12" n="N012"/>negst folgende<del
+                resp="#editor"><pc type="t1">:</pc></del>
               <lb facs="#facs_41_region_1643103817461_306l1" n="N001"/><hi rend="an">Exempel</hi><pc
-                type="t6">:</pc></p>
+                type="t1">:</pc></p>
             <pb facs="#facs_42" n="354" xml:id="img_0042"/>
             <p facs="#facs_42_region_1643105200914_371">
               <lb facs="#facs_42_region_1643105200914_371l1" n="N001"/>Auß diesen unterschietlichen
                 <hi rend="an">Combinationen</hi>
-              <lb facs="#facs_42_region_1643105200914_371l2" n="N002"/>kommen Nicht allein 18<pc
-                type="t6">:</pc>) <hi rend="an">difonia</hi><pc type="t2">,</pc> nehmlich <lb
-                facs="#facs_42_region_1643105200914_371l3" n="N003"/>9<pc type="t6">:</pc>) auß dem
-                <hi rend="an">replicirten Contrapunct</hi><pc type="t2">,</pc> undt <lb
-                facs="#facs_42_region_1643105200914_371l4" n="N004"/>9<pc type="t6">:</pc>) auß dem
-                <hi rend="an">replicirten Subjecto</hi><pc type="t2">,</pc> sondern <lb
-                facs="#facs_42_region_1643105200914_371l5" n="N005"/>auch 20<pc type="t6">:</pc>)
-                <hi rend="an">trifonia</hi><pc type="t2">,</pc> den deß <hi rend="an">replicirten
+              <lb facs="#facs_42_region_1643105200914_371l2" n="N002"/>kommen Nicht allein 18<del
+                resp="#editor"><pc type="t6">:</pc>)</del>
+              <hi rend="an">difonia<pc type="t2">,</pc></hi> nehmlich <lb
+                facs="#facs_42_region_1643105200914_371l3" n="N003"/>9<del resp="#editor"><pc
+                  type="t6">:</pc>)</del> auß dem <hi rend="an">Replicirten Contrapunct</hi><pc
+                type="t2">,</pc> undt <lb facs="#facs_42_region_1643105200914_371l4" n="N004"/>9<del
+                resp="#editor"><pc type="t6">:</pc>)</del> auß dem <hi rend="an">Replicirten
+                Subjecto<pc type="t2">,</pc></hi> sondern <lb
+                facs="#facs_42_region_1643105200914_371l5" n="N005"/>auch 20<del resp="#editor"><pc
+                  type="t6">:</pc>)</del>
+              <hi rend="an">trifonia<pc type="t2">,</pc></hi> den deß <hi rend="an">Replicirten
                   Contra<pc type="t12">⸗</pc></hi>
               <lb facs="#facs_42_region_1643105200914_371l6" n="N006"/><hi rend="an">puncts</hi><pc
-                type="t6">:</pc>
+                type="t1">:</pc>
             </p>
             <p facs="#facs_42_region_1643105206277_374">
               <lb facs="#facs_42_region_1643105206277_374l1" n="N001"/>Besiehe folgendeß waß <lb
-                facs="#facs_42_region_1643105206277_374l2" n="N002"/>die zahlen außweisen</p>
+                facs="#facs_42_region_1643105206277_374l2" n="N002"/>die zahlen außweisen<add
+                resp="#editor"><pc type="t1">.</pc></add></p>
             <pb facs="#facs_43" n="355" xml:id="img_0043"/>
             <figure>
               <graphic url="#facs_43_Table_1643660139350_234"/>
             </figure>
             <ab facs="#facs_43_region_1643106424694_412">
-              <lb facs="#facs_43_region_1643106424694_412l1" n="N001"/>Die anderen 10<pc type="t6"
-                >:</pc>) kommen auß dem <hi rend="an">Replicir<pc type="t12">⸗</pc></hi>
+              <lb facs="#facs_43_region_1643106424694_412l1" n="N001"/>Die anderen 10<del
+                resp="#editor"><pc type="t6">:</pc>)</del> kommen auß dem <hi rend="an">Replicir<pc
+                  type="t12">⸗</pc></hi>
               <lb facs="#facs_43_region_1643106424694_412l2" n="N002"/><hi rend="an">ten
-                subjecto</hi> undt dem gemeinen <hi rend="an">Contra<pc type="t12">⸗</pc></hi>
+                Subjecto</hi> undt dem gemeinen <hi rend="an">Contra<pc type="t12">⸗</pc></hi>
               <lb facs="#facs_43_region_1643106424694_412l3" n="N003"/><hi rend="an">punct</hi><pc
                 type="t1">.</pc> Waß von dem Ersten <hi rend="an">exempel</hi> ist <lb
                 facs="#facs_43_region_1643106424694_412l4" n="N004"/>gemeldet<pc type="t2">,</pc>
               kann auch von den anderen worin <lb facs="#facs_43_region_1643106424694_412l5"
-                n="N005"/>daß <hi rend="an">Subjectum</hi> zum Ersten <hi rend="an">repliciret</hi>
+                n="N005"/>daß <hi rend="an">Subjectum</hi> zum Ersten <hi rend="an">Repliciret</hi>
               würde <lb facs="#facs_43_region_1643106424694_412l6" n="N006"/>verstanden werden<pc
-                type="t6">:</pc></ab>
+                type="t1">:</pc></ab>
             <figure>
               <graphic url="#facs_43_Table_1643660154658_238"/>
             </figure>
@@ -2205,330 +2334,383 @@
             <div xml:id="div_01161">
               <head facs="#facs_44_region_1643106975250_474">
                 <lb facs="#facs_44_region_1643106975250_474l1" n="N001"/><hi rend="an"
-                  >Annotationes</hi><pc type="t6">:</pc></head>
+                  >Annotationes</hi><del resp="#editor"><pc type="t6">:</pc></del></head>
               <p facs="#facs_44_region_1643107071847_478">
-                <lb facs="#facs_44_region_1643107071847_478l1" n="N001"/>1<pc type="t6">:</pc>)
-                Dieser <hi rend="an">Contrapunct</hi> ist wie man siehet <lb
+                <lb facs="#facs_44_region_1643107071847_478l1" n="N001"/>1<pc type="t1"
+                  >:</pc><del>)</del> Dieser <hi rend="an">Contrapunct</hi> ist wie man siehet <lb
                   facs="#facs_44_region_1643107071847_478l2" n="N002"/>ziemlich weitleufftich undt
                 giebet deß <lb facs="#facs_44_region_1643107071847_478l3" n="N003"/>wegen mehr <hi
                   rend="an">bicinia</hi> und <hi rend="an">tricinia</hi> alß die <lb
-                  facs="#facs_44_region_1643107071847_478l4" n="N004"/>vorigen<pc type="t6">:</pc>
-                imhal aber in Einigen zuläßigen <lb facs="#facs_44_region_1643107071847_478l5"
+                  facs="#facs_44_region_1643107071847_478l4" n="N004"/>vorigen<pc type="t1">:</pc>
+                <choice n="3">
+                  <orig>imhal</orig>
+                  <reg>Imhal</reg>
+                </choice> aber in Einigen zuläßigen <lb facs="#facs_44_region_1643107071847_478l5"
                   n="N005"/><hi rend="an">intervallen</hi> die <hi rend="an">Replicationes</hi>
-                etwaß hært <lb facs="#facs_44_region_1643107071847_478l6" n="N006"/>vndt uangenehm
+                Etwaß hært <lb facs="#facs_44_region_1643107071847_478l6" n="N006"/>undt unagenehm
                 vallen müchten ist solcheß <lb facs="#facs_44_region_1643107071847_478l7" n="N007"
-                />die anzeigung daß Nicht alle <hi rend="an">Replicationes</hi>
-                <lb facs="#facs_44_region_1643107071847_478l8" n="N008"/>Allen und jeden <hi
+                />die anzeigung<pc type="t2">,</pc> daß nicht alle <hi rend="an">Replicationes</hi>
+                <lb facs="#facs_44_region_1643107071847_478l8" n="N008"/>Allen und Jeden <hi
                   rend="an">intervallen</hi> zu zueigenen <lb
                   facs="#facs_44_region_1643107071847_478l9" n="N009"/>seindt<pc type="t2">,</pc>
-                sonderen nuhr dehnenselbigen welche <lb facs="#facs_44_region_1643107071847_478l10"
-                  n="N010"/>einfache <hi rend="an">Proportiones</hi> alß <hi rend="an"
-                  >quinten</hi><pc type="t2">,</pc> undt <hi rend="an">tertien</hi>
+                sonderen Nuhr dehnenselbigen welche <lb facs="#facs_44_region_1643107071847_478l10"
+                  n="N010"/>Einfache <hi rend="an">Proportiones</hi> alß <hi rend="an"
+                  >quinten<pc type="t2">,</pc></hi> undt <hi rend="an">tertien</hi>
                 <lb facs="#facs_44_region_1643107071847_478l11" n="N011"/>behalten<pc type="t1"
-                  >.</pc> In den <hi rend="an">sexten</hi><pc type="t2">,</pc> undt anderen
+                  >.</pc> In den <hi rend="an">Sexten<pc type="t2">,</pc></hi> undt anderen
                   gesetz<pc type="t12">⸗</pc><lb facs="#facs_44_region_1643107071847_478l12"
-                  n="N012"/>ten zuläßigen <hi rend="an">intervallen</hi> dürffte eß soo gaer <lb
-                  facs="#facs_44_region_1643107071847_478l13" n="N013"/>bequehm kaum angehen<pc
-                  type="t6">:</pc> zum anderen Ein <lb facs="#facs_44_region_1643107071847_478l14"
-                  n="N014"/><hi rend="an">exempel</hi> deß <hi rend="an">motus per saltus</hi> wirdt
-                daß <lb facs="#facs_44_region_1643107071847_478l15" n="N015"/>volgende sein<pc
-                  type="t2">,</pc> daß man Nicht meinen möge <lb
-                  facs="#facs_44_region_1643107071847_478l16" n="N016"/>es gehe solcheß nuhr im <hi
-                  rend="an">Motu per gradus</hi> an</p>
+                  n="N012"/>ten zuläßigen <hi rend="an">intervallen<pc type="t2">,</pc></hi> dürffte
+                Eß soo gaer <lb facs="#facs_44_region_1643107071847_478l13" n="N013"/>bequehm kaum
+                  angehen<pc type="t1">:</pc>
+                <choice n="3">
+                  <orig>zum</orig>
+                  <reg>Zum</reg>
+                </choice> anderen Ein <lb facs="#facs_44_region_1643107071847_478l14" n="N014"/><hi
+                  rend="an">exempel</hi> deß <hi rend="an">motus Per Saltus</hi> wirdt daß <lb
+                  facs="#facs_44_region_1643107071847_478l15" n="N015"/>volgende sein<pc type="t2"
+                  >,</pc> daß man Nicht meinen möge <lb facs="#facs_44_region_1643107071847_478l16"
+                  n="N016"/>Es gehe solcheß nuhr im <hi rend="an">Motu Per gradus</hi> an<add
+                  resp="#editor"><pc type="t1">.</pc></add></p>
               <p facs="#facs_44_region_1643107089984_481">
-                <lb facs="#facs_44_region_1643107089984_481l1" n="N001"/>3tenß man sehe aber zu daß
-                man sich von <lb facs="#facs_44_region_1643107089984_481l2" n="N002"/><hi rend="an"
-                    ><choice n="3">
+                <lb facs="#facs_44_region_1643107089984_481l1" n="N001"/><choice n="3">
+                  <orig>3tenß</orig>
+                  <reg>3<pc type="t1">.</pc></reg>
+                </choice>
+                <choice n="3">
+                  <orig>man</orig>
+                  <reg>Man</reg>
+                </choice> sehe aber zu daß man sich vom <lb
+                  facs="#facs_44_region_1643107089984_481l2" n="N002"/><hi rend="an"><choice n="3">
                     <orig>kirchero</orig>
                     <reg>Kirchero</reg>
                   </choice></hi> Nicht verführen laße<pc type="t2">,</pc> welcher <lb
-                  facs="#facs_44_region_1643107089984_481l3" n="N003"/>saget eß sollen nuhr 2<pc
-                  type="t6">:</pc>) <hi rend="an">sexten</hi> undt 2<pc type="t6">:</pc>) <hi
-                  rend="an">octaven</hi>
+                  facs="#facs_44_region_1643107089984_481l3" n="N003"/>saget Eß sollen nuhr 2<del
+                  resp="#editor"><pc type="t6">:</pc>)</del>
+                <hi rend="an">Sexten</hi> undt 2<del resp="#editor"><pc type="t6">:</pc>)</del>
+                <hi rend="an">octaven</hi>
                 <lb facs="#facs_44_region_1643107089984_481l4" n="N004"/><hi rend="an">item</hi>
-                  2<pc type="t6">:</pc>) <hi rend="an">decimætertiæ</hi> undt <hi rend="an"
-                  >decimæquintæ</hi> gebraucht <lb facs="#facs_44_region_1643107089984_481l5"
-                  n="N005"/>werden<pc type="t2">,</pc> da man doch ihrer sich gentzlich enthalten
-                  <lb facs="#facs_44_region_1643107089984_481l6" n="N006"/>muß<pc type="t2">,</pc>
-                weil sie immerzu in <hi rend="an">dissonantien</hi> ver<pc type="t12">⸗</pc><lb
-                  facs="#facs_44_region_1643107089984_481l7" n="N007"/>endert werden<pc type="t1"
+                  2<del resp="#editor"><pc type="t6">:</pc>)</del>
+                <hi rend="an">decimætertiæ</hi> undt <hi rend="an">decimæquintæ</hi> gebraucht <lb
+                  facs="#facs_44_region_1643107089984_481l5" n="N005"/>werden<pc type="t2">,</pc> da
+                man doch ihrer sich gentzlich enthalten <lb
+                  facs="#facs_44_region_1643107089984_481l6" n="N006"/>muß<pc type="t2">,</pc> weil
+                sie immerzu in <hi rend="an">dissonantien</hi> ver<pc type="t12">⸗</pc><lb
+                  facs="#facs_44_region_1643107089984_481l7" n="N007"/>endert werden<pc type="t2"
                   >.</pc> ob sie gleich nuhr allein undt auß<pc type="t12">⸗</pc><lb
                   facs="#facs_44_region_1643107089984_481l8" n="N008"/>serhalb ihrer <hi rend="an"
-                  >Consecution</hi> gesetzet seindt<pc type="t6">:</pc></p>
+                  >Consecution</hi> gesetzet seindt<pc type="t1">:</pc></p>
               <p facs="#facs_44_region_1643107100675_484">
-                <lb facs="#facs_44_region_1643107100675_484l1" n="N001"/>4<pc type="t6">:</pc>tens
-                undt wie in den vorigen <hi rend="an">Contrapuncten</hi>
-                <lb facs="#facs_44_region_1643107100675_484l2" n="N002"/>der <hi rend="an">Motus
-                  contrarius</hi> am sichersten waer<pc type="t12">⸗</pc>
+                <lb facs="#facs_44_region_1643107100675_484l1" n="N001"/><choice n="3">
+                  <orig><pc type="t6">:</pc>tens</orig>
+                  <reg>4<pc type="t1">.</pc></reg>
+                </choice>
+                <choice n="3">
+                  <orig>undt</orig>
+                  <reg>Undt</reg>
+                </choice> wie in den vorigen <hi rend="an">Contrapuncten</hi>
+                <lb facs="#facs_44_region_1643107100675_484l2" n="N002"/>Der <hi rend="an">Motus
+                  Contrarius</hi> am sichersten waer<pc type="t2">⸗</pc>
                 <lb facs="#facs_44_region_1643107100675_484l3" n="N003"/>Also wirdt derselbe die <hi
-                  rend="an">Comsposition</hi> auch seer<pc type="t12">⸗</pc><lb
+                  rend="an">Comsposition</hi> auch seer<del><pc type="t12">⸗</pc></del><lb
                   facs="#facs_44_region_1643107100675_484l4" n="N004"/>leicht machen soo man den
-                rechten gebrauch Nicht folget</p>
+                rechten gebrauch Nicht folget<pc type="t1">.</pc></p>
               <p facs="#facs_44_region_1643107115750_487">
-                <lb facs="#facs_44_region_1643107115750_487l1" n="N001"/>5<pc type="t6">:</pc>)tenß
-                valsche <hi rend="an">quinten<pc type="t2">,</pc> tritonos</hi><pc type="t2">,</pc>
-                wie auch <hi rend="an">semitonia</hi>
-                <lb facs="#facs_44_region_1643107115750_487l2" n="N002"/>muß man Nicht offt
+                <lb facs="#facs_44_region_1643107115750_487l1" n="N001"/><choice n="3">
+                  <orig>5<pc type="t6">:</pc>)tenß</orig>
+                  <reg>5<pc type="t1">.</pc></reg>
+                </choice>
+                <choice n="3">
+                  <orig>valsche</orig>
+                  <reg>Valsche</reg>
+                </choice>
+                <hi rend="an">quinten<pc type="t2">,</pc> tritonos<pc type="t2">,</pc></hi> wie auch
+                  <hi rend="an">Semitonia</hi>
+                <lb facs="#facs_44_region_1643107115750_487l2" n="N002"/>muß man nicht offt
                 gebrauchen damit in den <lb facs="#facs_44_region_1643107115750_487l3" n="N003"/><hi
-                  rend="an">Replicationibus</hi> Nicht <hi rend="an">mi contra fa</hi> sto wol</p>
+                  rend="an">Replicationibus</hi> nicht <hi rend="an">mi Contra fa</hi> so wol</p>
               <pb facs="#facs_45" n="357" xml:id="img_0045"/>
               <p facs="#facs_45_region_1643115350148_599">
-                <lb facs="#facs_45_region_1643115350148_599l1" n="N001"/>In <hi rend="an">recta</hi>
+                <lb facs="#facs_45_region_1643115350148_599l1" n="N001"/>In <hi rend="an">Recta</hi>
                 alß <hi rend="an">obliqua</hi> schfy darauß entstehen <lb
                   facs="#facs_45_region_1643115350148_599l2" n="N002"/>möge<pc type="t1">.</pc>
-                <hi rend="an">Vide sequens Exempel</hi><pc type="t6">:</pc></p>
+                <hi rend="an">Vide Sequens Exempel</hi><pc type="t6">:</pc></p>
             </div>
           </div>
           <div xml:id="div_0117">
             <head facs="#facs_45_region_1643115358673_602">
-              <lb facs="#facs_45_region_1643115358673_602l1" n="N001"/><hi rend="an">Caput
-                septimus</hi><pc type="t6">:</pc>
+              <lb facs="#facs_45_region_1643115358673_602l1" n="N001"/><hi rend="an">Caput <choice
+                  n="3">
+                  <orig>septimus</orig>
+                  <reg>7</reg>
+                </choice><pc type="t6">:</pc></hi>
               <lb facs="#facs_45_region_1643115358673_602l2" n="N002"/>Vom <hi rend="an">Contrapunto
-                diapason</hi><pc type="t6">:</pc></head>
+                diapafon</hi><del resp="#editor"><pc type="t6">:</pc></del></head>
             <p facs="#facs_45_region_1643115366575_605">
               <lb facs="#facs_45_region_1643115366575_605l1" n="N001"/>Dieser <hi rend="an"
-                >Contrapunctus compositus</hi> wirdt <hi rend="an">infra</hi>
-              <lb facs="#facs_45_region_1643115366575_605l2" n="N002"/><hi rend="an">repliciret</hi>
-              durch Eine <hi rend="an">octav<pc type="t6">:</pc> decimam</hi> undt <lb
+                >Contrapunctus Compositus</hi> wirdt <hi rend="an">infra</hi>
+              <lb facs="#facs_45_region_1643115366575_605l2" n="N002"/><hi rend="an">Repliciret</hi>
+              durch Eine <hi rend="an">octav<pc type="t2">:</pc> decimam</hi> undt <lb
                 facs="#facs_45_region_1643115366575_605l3" n="N003"/><hi rend="an"
                 >decimamquintam</hi><pc type="t1">.</pc>
-              <hi rend="an">supra</hi> aber durch Einer <hi rend="an">octave</hi>
-              <lb facs="#facs_45_region_1643115366575_605l4" n="N004"/>allein<pc type="t6"
+              <hi rend="an">Supra</hi> aber durch Eine <hi rend="an">octave</hi>
+              <lb facs="#facs_45_region_1643115366575_605l4" n="N004"/>allein<pc type="t1"
               >:</pc></p>
             <pb facs="#facs_46" n="358" xml:id="img_0046"/>
             <ab facs="#facs_46_region_1643116136840_666">
               <lb facs="#facs_46_region_1643116136840_666l1" n="N001"/>Wen dieseß geschehen haet man
-                5<pc type="t1">.</pc><hi rend="an">bicinia</hi><pc type="t1">.</pc> daß <lb
-                facs="#facs_46_region_1643116136840_666l2" n="N002"/><hi rend="an">Subjectum</hi>
-              wirdt im gegentheil durch Eine <lb facs="#facs_46_region_1643116136840_666l3" n="N003"
-                /><hi rend="an">octavam<pc type="t2">,</pc> decimam</hi><pc type="t2">,</pc> undt
-                <hi rend="an">decimam quintam</hi>
-              <lb facs="#facs_46_region_1643116136840_666l4" n="N004"/><hi rend="an">supra</hi><pc
+                5<del resp="#editor"><pc type="t1">.</pc></del><hi rend="an">bicinia</hi><pc
+                type="t1">.</pc>
+              <choice n="3">
+                <orig>daß</orig>
+                <reg>Daß</reg>
+              </choice>
+              <lb facs="#facs_46_region_1643116136840_666l2" n="N002"/><hi rend="an"
+                >Subjectum<pc type="t2">,</pc></hi> wirdt im gegentheil durch Eine <lb
+                facs="#facs_46_region_1643116136840_666l3" n="N003"/><hi rend="an">octavam<pc
+                  type="t2">,</pc> decimam<pc type="t2">,</pc></hi> undt <hi rend="an">decimam
+                quintam</hi>
+              <lb facs="#facs_46_region_1643116136840_666l4" n="N004"/><hi rend="an">Supra</hi><pc
                 type="t2">,</pc> durch Eine <hi rend="an">octave</hi> aber hergegen <hi rend="an"
-                >infra</hi><pc type="t12">⸗</pc><lb facs="#facs_46_region_1643116136840_666l5"
-                n="N005"/><hi rend="an">repliciret</hi><pc type="t2">,</pc> worauß andere 5<pc
-                type="t6">:</pc>) <hi rend="an">bicinia</hi> entstehen<pc type="t6">:</pc>
+                >Infra</hi><del resp="#editor"><pc type="t12">⸗</pc></del><lb
+                facs="#facs_46_region_1643116136840_666l5" n="N005"/><hi rend="an"
+                >Repliciret<pc type="t2">,</pc></hi> worauß andere 5<del resp="#editor"><pc
+                  type="t6">:</pc>)</del>
+              <hi rend="an">bicinia</hi> entstehen<pc type="t1">:</pc>
               <lb facs="#facs_46_region_1643116136840_666l6" n="N006"/>Wil man <hi rend="an"
-                >trifonia</hi> haben entstehen solche auß</ab>
+                >trifonia</hi> haben Entstehen solche auß</ab>
             <figure>
               <graphic url="#facs_46_Table_1643660193941_251"/>
             </figure>
             <ab facs="#facs_46_region_1643116422894_694">
-              <lb facs="#facs_46_region_1643116422894_694l1" n="N001"/>Solcheß ist auch von den <hi
-                rend="an">replicirten Subjecto</hi><pc type="t12">⸗</pc><lb
-                facs="#facs_46_region_1643116422894_694l2" n="N002"/>zu verstehen<pc type="t6"
-                >:</pc> zum</ab>
-            <ab facs="#facs_46_region_1643116486133_698">
-              <lb facs="#facs_46_region_1643116486133_698l1" n="N001"/>2<pc type="t6">:</pc>) Eß
-              seindt hier zu meiden die <hi rend="an">quinte</hi> undt <lb
-                facs="#facs_46_region_1643116486133_698l2" n="N002"/>die <hi rend="an"
-                >seconde</hi><pc type="t1">.</pc>
-              <hi rend="an">resolviret</hi> midt dem <hi rend="an">unisono</hi><pc type="t2">,</pc>
-              weil <lb facs="#facs_46_region_1643116486133_698l3" n="N003"/>sie in der <hi rend="an"
-                >Replication dissonantien</hi> werden</ab>
-            <ab facs="#facs_46_region_1643116566621_706">
-              <lb facs="#facs_46_region_1643116566621_706l1" n="N001"/><hi rend="an"
-                >Annotationes</hi> zum <hi rend="an">Contrapuncti diapason</hi><pc type="t6"
-              >:</pc></ab>
-            <ab facs="#facs_46_region_1643116637200_713">
-              <lb facs="#facs_46_region_1643116637200_713l1" n="N001"/>1<pc type="t6">:</pc>) Eß ist
-              dieser <hi rend="an">Contrapunct</hi> umb soo viel <lb
-                facs="#facs_46_region_1643116637200_713l2" n="N002"/>leichterer<pc type="t2">,</pc>
-              alß wenigere <hi rend="an">Regulen</hi> von den</ab>
-            <pb facs="#facs_47" n="359" xml:id="img_0047"/>
-            <p facs="#facs_47_region_1643117320893_776">
-              <lb facs="#facs_47_region_1643117320893_776l1" n="N001"/>verbohtenen<pc type="t2"
-                >,</pc> undt zuläßigen <hi rend="an">intervallen</hi> seindt<pc type="t12">⸗</pc><lb
-                facs="#facs_47_region_1643117320893_776l2" n="N002"/>in acht zu nehmen<pc type="t6"
-                >:</pc></p>
-            <p facs="#facs_47_region_1643117554591_792">
-              <lb facs="#facs_47_region_1643117554591_792l1" n="N001"/>2<pc type="t6">:</pc>) Daß
-                man<pc type="t2">,</pc> aber auch Ein <hi rend="an">Exempel</hi> deß <hi rend="an"
-                >Motus</hi>
-              <lb facs="#facs_47_region_1643117554591_792l2" n="N002"/><hi rend="an">per Saltus</hi>
-                habe<pc type="t2">,</pc> kann volgende <hi rend="an">Clausula</hi> gemer<pc
-                type="t12">⸗</pc><lb facs="#facs_47_region_1643117554591_792l3" n="N003"/>ket
-                werden<pc type="t6">:</pc></p>
-            <p facs="#facs_47_region_1643117361355_783">
-              <lb facs="#facs_47_region_1643117361355_783l1" n="N001"/>Alhier siehet man daß alleß
-              freyer und ungezwun<pc type="t12">⸗</pc><lb facs="#facs_47_region_1643117361355_783l2"
-                n="N002"/>gener fliese<pc type="t2">,</pc> weil man sich midt ehben so vielen <lb
-                facs="#facs_47_region_1643117361355_783l3" n="N003"/>observationen Nicht schleppen
-                darf<pc type="t6">:</pc></p>
-            <p facs="#facs_47_region_1643117707498_804">
-              <lb facs="#facs_47_region_1643117707498_804l1" n="N001"/>3<pc type="t6">:</pc>)tenß
-              unter den voorgesetzten verbohtenen <lb facs="#facs_47_region_1643117707498_804l2"
-                n="N002"/><hi rend="an">intervallen</hi><pc type="t2">,</pc> gehören noch 2<pc
-                type="t1">.</pc>
-              <hi rend="an">tertien</hi><pc type="t2">,</pc> welche <lb
-                facs="#facs_47_region_1643117707498_804l3" n="N003"/>Nicht zu gebrauchen<pc
-                type="t2">,</pc> weil sie in der Verkehr<pc type="t12">⸗</pc><lb
-                facs="#facs_47_region_1643117707498_804l4" n="N004"/>rung zu <hi rend="an"
-                >octaven</hi> werden<pc type="t2">,</pc> welches wohl zu <lb
-                facs="#facs_47_region_1643117707498_804l5" n="N005"/>mercken<pc type="t2">,</pc>
-              vileicht wirdt die Erfahrung selbst <lb facs="#facs_47_region_1643117707498_804l6"
-                n="N006"/>mehr verbohtene <hi rend="an">Consecutiones</hi> an die Hant gehben <lb
-                facs="#facs_47_region_1643117707498_804l7" n="N007"/>die beliebter kurtze halben
-              Nicht berühret sind</p>
-            <pb facs="#facs_48" n="360" xml:id="img_0048"/>
-            <p facs="#facs_48_region_1643118767644_851">
-              <lb facs="#facs_48_region_1643118767644_851l1" n="N001"/>4tens<pc type="t1">.</pc>
-              kehme eß daß die zu <hi rend="an">replicirende</hi>
-              <lb facs="#facs_48_region_1643118767644_851l2" n="N002"/>stimmen<pc type="t2">,</pc>
-              Erst wehder zu hoch oder zu nidrich<pc type="t12">⸗</pc><lb
-                facs="#facs_48_region_1643118767644_851l3" n="N003"/>gehen dürfften kan man sie umb
-              wegelen <lb facs="#facs_48_region_1643118767644_851l4" n="N004"/>daß die gaer zu hoch
-                kommen<pc type="t2">,</pc> in die tieffe <lb
-                facs="#facs_48_region_1643118767644_851l5" n="N005"/>transponiret werden<pc
-                type="t2">,</pc> nach befehl Einer jeden <lb
-                facs="#facs_48_region_1643118767644_851l6" n="N006"/><hi rend="an"
-                >Replication</hi><pc type="t2">,</pc> welcheß auch von der Erfähung derer <lb
-                facs="#facs_48_region_1643118767644_851l7" n="N007"/>vndt alzutieffen <hi rend="an"
-                >Replicationen</hi> nach gesaget <lb facs="#facs_48_region_1643118767644_851l8"
-                n="N008"/>sein<pc type="t1">.</pc>
-              <hi rend="an">Vide precedens exemplum</hi><pc type="t6">:</pc></p>
+              <lb facs="#facs_46_region_1643116422894_694l1" n="N001"/><choice n="3">
+                <orig>solcheß</orig>
+                <reg>Solcheß</reg>
+              </choice> ist auch von den <hi rend="an">Replicirten Subjecto</hi><del resp="#editor"
+                  ><pc type="t12">⸗</pc></del><lb facs="#facs_46_region_1643116422894_694l2"
+                n="N002"/>zu verstehen<pc type="t6">:</pc> Zum</ab>
+            <p facs="#facs_46_region_1643116486133_698">
+              <lb facs="#facs_46_region_1643116486133_698l1" n="N001"/>2<pc type="t1">:</pc><del
+                resp="#editor">)</del> Eß seindt hier zu meiden die <hi rend="an">quinte</hi> undt
+                <lb facs="#facs_46_region_1643116486133_698l2" n="N002"/>die <hi rend="an">seconde
+                Resolviret</hi> midt dem <hi rend="an">unisono<pc type="t2">,</pc></hi> weil <lb
+                facs="#facs_46_region_1643116486133_698l3" n="N003"/>sie in der <hi rend="an"
+                >Replication dissonantien</hi> werden<add resp="#editor"><pc type="t1"
+              >.</pc></add></p>
+
+            <div>
+              <head><title><hi rend="an">Annotationes</hi> zum <hi rend="an">Contrapunct
+                    diapason</hi><del resp="#editor"><pc type="t6">:</pc></del></title></head>
+              <ab facs="#facs_46_region_1643116637200_713">
+                <lb facs="#facs_46_region_1643116637200_713l1" n="N001"/>1<pc type="t1">:</pc><del
+                  resp="#editor">)</del> Eß ist dieser <hi rend="an">Contrapunct</hi> umb soo viel
+                  <lb facs="#facs_46_region_1643116637200_713l2" n="N002"/>leichterer<pc type="t2"
+                  >,</pc> alß wenigere <hi rend="an">Regulen</hi> von den</ab>
+              <pb facs="#facs_47" n="359" xml:id="img_0047"/>
+              <p facs="#facs_47_region_1643117320893_776">
+                <lb facs="#facs_47_region_1643117320893_776l1" n="N001"/>verbohtenen<pc type="t2"
+                  >,</pc> undt zuläßigen <hi rend="an">intervallen</hi> seindt<lb
+                  facs="#facs_47_region_1643117320893_776l2" n="N002"/>In acht zu Nehmen<pc
+                  type="t1">:</pc></p>
+              <p facs="#facs_47_region_1643117554591_792">
+                <lb facs="#facs_47_region_1643117554591_792l1" n="N001"/>2<pc type="t1">:</pc><del
+                  resp="#editor">)</del> Daß man aber auch Ein <hi rend="an">Exempel</hi> deß <hi
+                  rend="an">motus</hi>
+                <lb facs="#facs_47_region_1643117554591_792l2" n="N002"/><hi rend="an">Per
+                  Saltus</hi> habe<pc type="t2">,</pc> kann volgende <hi rend="an">Clausula</hi>
+                  gemer<pc type="t12">⸗</pc><lb facs="#facs_47_region_1643117554591_792l3" n="N003"
+                />ket werden<pc type="t6">:</pc></p>
+              <p facs="#facs_47_region_1643117361355_783">
+                <lb facs="#facs_47_region_1643117361355_783l1" n="N001"/>Alhier siehet man daß alleß
+                freyer und ungezwun<pc type="t12">⸗</pc><lb
+                  facs="#facs_47_region_1643117361355_783l2" n="N002"/>gener fliese<pc type="t2"
+                  >,</pc> weil man sich midt ehben soo vielen <lb
+                  facs="#facs_47_region_1643117361355_783l3" n="N003"/><hi rend="an"
+                  >observationen</hi> nicht schleppen darf<pc type="t1">:</pc></p>
+              <p facs="#facs_47_region_1643117707498_804">
+                <lb facs="#facs_47_region_1643117707498_804l1" n="N001"/><choice n="3">
+                  <orig>3<pc type="t6">:</pc>)tenß</orig>
+                  <reg>3<pc type="t1">.</pc></reg>
+                </choice>
+                <choice n="3">
+                  <orig>unter</orig>
+                  <reg>Unter</reg>
+                </choice> den voorgesetzten verbohtenen <lb
+                  facs="#facs_47_region_1643117707498_804l2" n="N002"/><hi rend="an"
+                  >intervallen<pc type="t2">,</pc></hi> gehören noch 2<del resp="#editor"><pc
+                    type="t1">.</pc></del>
+                <hi rend="an">tertien<pc type="t2">,</pc></hi> welche <lb
+                  facs="#facs_47_region_1643117707498_804l3" n="N003"/>Nicht zu gebrauchen weil sie
+                in der Verkehr<pc type="t12">⸗</pc><lb facs="#facs_47_region_1643117707498_804l4"
+                  n="N004"/>rung zu <hi rend="an">octaven</hi> werden<pc type="t2">,</pc> welcheß
+                wohl zu <lb facs="#facs_47_region_1643117707498_804l5" n="N005"/>mercken<pc
+                  type="t1">.</pc> Vileicht wirdt die Erfahrung selbst <lb
+                  facs="#facs_47_region_1643117707498_804l6" n="N006"/>mehr verbohtene <hi rend="an"
+                  >Consecutiones</hi> an die hant gehben <lb
+                  facs="#facs_47_region_1643117707498_804l7" n="N007"/>Die beliebter kurtze halben
+                Nicht berühret sind<add resp="#editor"><pc type="t1">.</pc></add></p>
+              <pb facs="#facs_48" n="360" xml:id="img_0048"/>
+              <p facs="#facs_48_region_1643118767644_851">
+                <lb facs="#facs_48_region_1643118767644_851l1" n="N001"/><choice n="3">
+                  <orig>4tens<pc type="t1">.</pc></orig>
+                  <reg>4<pc type="t1"/></reg>
+                </choice> <choice n="3"><orig>kehme</orig><reg>Kehme</reg></choice> eß daß die zu <hi rend="an">Replicirende</hi>
+                <lb facs="#facs_48_region_1643118767644_851l2" n="N002"/>Stimmen<pc type="t2">,</pc>
+                Erst wehder zu hoch oder zu nidrich<del resp="#editor"><pc type="t12">⸗</pc></del><lb
+                  facs="#facs_48_region_1643118767644_851l3" n="N003"/>gehen dürfften kan man sie
+                umb wegelen <lb facs="#facs_48_region_1643118767644_851l4" n="N004"/>daß die gaer zu
+                hoch kommen<pc type="t2">,</pc> in die tieffe <lb
+                  facs="#facs_48_region_1643118767644_851l5" n="N005"/><hi rend="an">transponiret</hi> werden<pc
+                  type="t2">,</pc> Nach befehl Einer Jeden <lb
+                  facs="#facs_48_region_1643118767644_851l6" n="N006"/><hi rend="an"
+                  >Replication<pc type="t2">,</pc></hi> welcheß auch von der Erhöhung derer <lb
+                  facs="#facs_48_region_1643118767644_851l7" n="N007"/>undt alzutieffen <hi
+                  rend="an">Replicationen</hi> nach gesaget <lb
+                  facs="#facs_48_region_1643118767644_851l8" n="N008"/>sein<pc type="t1">.</pc>
+                <hi rend="an">Vide precedens exemplum</hi><pc type="t1">:</pc></p>
+            </div>
           </div>
           <div xml:id="div_0118">
             <head facs="#facs_48_region_1643118777022_854">
-              <lb facs="#facs_48_region_1643118777022_854l1" n="N001"/><hi rend="an">Caput
-                octavum</hi><pc type="t6">:</pc>
+              <lb facs="#facs_48_region_1643118777022_854l1" n="N001"/><hi rend="an">Caput <choice
+                  n="3">
+                  <orig>octavum</orig>
+                  <reg>8</reg>
+                </choice><pc type="t6">:</pc></hi>
               <lb facs="#facs_48_region_1643118777022_854l2" n="N002"/>vom <hi rend="an"
-                >Contrapuncto diadecato</hi><pc type="t6">:</pc></head>
+                >Contrapuncto diadecato</hi><del resp="#editor"><pc type="t6">:</pc></del></head>
             <p facs="#facs_48_region_1643118799406_857">
-              <lb facs="#facs_48_region_1643118799406_857l1" n="N001"/>1erstlich seindt zu meiden
-                2<pc type="t6">:</pc>) <hi rend="an">tertien</hi> 2<pc type="t1">.</pc>
-              <hi rend="an">sexten</hi>
+              <lb facs="#facs_48_region_1643118799406_857l1" n="N001"/><choice n="3"><orig>1erstlich</orig><reg>1<pc type="t1">.</pc></reg></choice> <choice n="3"><orig>seindt</orig><reg>Seindt</reg></choice> zu meiden
+              2<del resp="#editor"><pc type="t6">:</pc>)</del> <hi rend="an">tertien<add resp="#editor"><pc type="t2">,</pc></add></hi> 2<del resp="#editor"><pc type="t1">.</pc></del>
+              <hi rend="an">sexten<add resp="#editor"><pc type="t2">,</pc></add></hi>
               <lb facs="#facs_48_region_1643118799406_857l2" n="N002"/>1 <hi rend="an"
-                  >decimatertia<pc type="t2">,</pc></hi> 2 <hi rend="an">secunden</hi> midt <hi
-                rend="an">tertiis re<pc type="t12">⸗</pc></hi>
+                >decimatertia<pc type="t2">,</pc></hi> 2 <hi rend="an">secunden</hi> midt <hi
+                rend="an">tertiis Re<pc type="t12">⸗</pc></hi>
               <lb facs="#facs_48_region_1643118799406_857l3" n="N003"/><hi rend="an"
-                >solviret</hi><pc type="t2">,</pc>
+                >solviret<pc type="t2">,</pc></hi>
               <hi rend="an">item</hi> die <hi rend="an">quarta<pc type="t2">,</pc></hi> die <hi
                 rend="an">septima<pc type="t2">,</pc></hi> 2 <hi rend="an">no<pc type="t12"
                 >⸗</pc></hi>
               <lb facs="#facs_48_region_1643118799406_857l4" n="N004"/><hi rend="an">næ</hi><pc
-                type="t2">,</pc> 2<pc type="t1">.</pc>
-              <hi rend="an">undecima resolviret</hi> undt <hi rend="an">decimis</hi><pc type="t6"
+                type="t2">,</pc> 2<del resp="#editor"><pc type="t1">.</pc></del>
+              <hi rend="an">undecima Resolviret</hi> midt <hi rend="an">decimis</hi><pc type="t1"
                 >:</pc></p>
-            <div xml:id="div_01181">
-              <head facs="#facs_48_region_1643118807865_860">
+             
+              <ab facs="#facs_48_region_1643118807865_860">
                 <lb facs="#facs_48_region_1643118807865_860l1" n="N001"/>Zuläßige aber seindt
-                volgende</head>
+                volgende<add resp="#editor"><pc type="t6">:</pc></add></ab>
               <p facs="#facs_48_region_1643118825330_863">
                 <lb facs="#facs_48_region_1643118825330_863l1" n="N001"/>1 <hi rend="an">tertia<pc
                     type="t2">,</pc></hi> 1 <hi rend="an">sexta<pc type="t2">,</pc></hi> 1 <hi
                   rend="an">decima<pc type="t2">,</pc></hi>
                 <hi rend="an">secunda</hi>
-                <hi rend="an">resolvi<pc type="t12">⸗</pc></hi>
+                <hi rend="an">Resolvi<pc type="t12">⸗</pc></hi>
                 <lb facs="#facs_48_region_1643118825330_863l2" n="N002"/><hi rend="an">iret</hi>
-                midt der <hi rend="an">tertia</hi> die <hi rend="an">Nona</hi> undt <hi rend="an"
+                midt der <hi rend="an">tertia</hi><add resp="#editor"><pc type="t2">,</pc></add> die <hi rend="an">Nona</hi> undt <hi rend="an"
                     >un<pc type="t12">⸗</pc></hi>
                 <lb facs="#facs_48_region_1643118825330_863l3" n="N003"/><hi rend="an">decima
-                  resolviret</hi> mid <hi rend="an">decimis</hi><pc type="t6">:</pc></p>
+                  Resolviret</hi> mid <hi rend="an">decimis</hi><pc type="t1">:</pc></p>
               <p facs="#facs_48_region_1643118836349_866">
-                <lb facs="#facs_48_region_1643118836349_866l1" n="N001"/>2<pc type="t6">:</pc>)tenß
-                im übrigen soo wirdt der <hi rend="an">Contrapunct</hi>
+                <lb facs="#facs_48_region_1643118836349_866l1" n="N001"/><choice n="3"><orig><pc type="t6">:</pc>2)tenß</orig><reg>2<pc type="t1">.</pc></reg></choice>
+                <choice n="3"><orig>im</orig><reg>Im</reg></choice> übrigen soo wirdt der <hi rend="an">Contrapunct</hi>
                 <lb facs="#facs_48_region_1643118836349_866l2" n="N002"/><hi rend="an"
-                  >repliciret</hi><pc type="t2">,</pc> durch Eine <hi rend="an">decimam</hi><pc
+                  >Repliciret<pc type="t2">,</pc></hi> durch Eine <hi rend="an">decimam</hi><pc
                   type="t2">,</pc>
                 <hi rend="an">duodeci<pc type="t12">⸗</pc></hi>
                 <lb facs="#facs_48_region_1643118836349_866l3" n="N003"/><hi rend="an">mam<pc
-                    type="t2">,</pc> tertiam infra</hi><pc type="t2">,</pc> und Eine octavam <lb
+                  type="t2">,</pc> tertiam infra<pc type="t2">,</pc></hi> und Eine <hi resp="an">octavam</hi> <lb
                   facs="#facs_48_region_1643118836349_866l4" n="N004"/><hi rend="an">supra</hi><pc
-                  type="t1">.</pc> widerumb <hi rend="an">decimam<pc type="t2">,</pc> duodecimam<pc
+                    type="t1">.</pc> <choice n="3"><orig>widerumb</orig><reg>Widerumb</reg></choice> <hi rend="an">decimam<pc type="t2">,</pc> duodecimam<pc
                     type="t2">,</pc></hi>
                 <lb facs="#facs_48_region_1643118836349_866l5" n="N005"/><hi rend="an">tertiam</hi>
-                undt <hi rend="an">quintam infra</hi><pc type="t2">,</pc> Eine <hi rend="an"
+                undt <hi rend="an">quintam infra<pc type="t2">,</pc></hi> eine <hi rend="an"
                   >sextam</hi>
                 <lb facs="#facs_48_region_1643118836349_866l6" n="N006"/>aber <hi rend="an">supra<pc
                     type="t2">,</pc></hi> undt die <hi rend="an">subjecta</hi> widerumb <lb
                   facs="#facs_48_region_1643118836349_866l7" n="N007"/><hi rend="an"
-                  >repliciret</hi><pc type="t2">,</pc> aber im gegentheil<pc type="t2">,</pc> daß
-                die <lb facs="#facs_48_region_1643118836349_866l8" n="N008"/><hi rend="an">infra
-                  repliciret</hi> wurden <hi rend="an">supra</hi> kommen <lb
+                  >Repliciret<pc type="t2">,</pc></hi> aber im gegentheil<pc type="t2">,</pc> daß
+                die<pc type="t2">,</pc> soo <lb facs="#facs_48_region_1643118836349_866l8" n="N008"/><hi rend="an">infra
+                  Repliciret</hi> wurden <hi rend="an">supra</hi> kommen <lb
                   facs="#facs_48_region_1643118836349_866l9" n="N009"/>wen diese <hi rend="an"
-                  >replication</hi> alhier in acht</p>
+                  >Replication</hi> alhier in acht</p>
               <pb facs="#facs_49" n="361" xml:id="img_0049"/>
               <p facs="#facs_49_region_1643121033558_938">
                 <lb facs="#facs_49_region_1643121033558_938l1" n="N001"/>genommen<pc type="t2"
-                  >,</pc> werden auß jeden 10 <hi rend="an">diffonia</hi>
-                <lb facs="#facs_49_region_1643121033558_938l2" n="N002"/>kommen auß den <hi
-                  rend="an">replicirten</hi> abermael 10<pc type="t1">.</pc> und <lb
-                  facs="#facs_49_region_1643121033558_938l3" n="N003"/>soo man sie rückwerdts
-                zusingen oder zu <lb facs="#facs_49_region_1643121033558_938l4" n="N004"/>spielen
-                beliebet kommen widrum soo <lb facs="#facs_49_region_1643121033558_938l5" n="N005"
-                  />viel<pc type="t2">,</pc> daß alsoo 40<pc type="t6">:</pc>) <hi rend="an"
+                  >,</pc> werden auß Jeden 10 <hi rend="an">diffonia</hi>
+                <lb facs="#facs_49_region_1643121033558_938l2" n="N002"/>kommen<add resp="#editor"><pc type="t2">,</pc></add> auß den <hi
+                  rend="an">Replicirten</hi> abermael 10<pc type="t2">.</pc> und <lb
+                  facs="#facs_49_region_1643121033558_938l3" n="N003"/>soo man sie Rückwerdts
+                zusingen oder zu <lb facs="#facs_49_region_1643121033558_938l4" n="N004"/>Spielen
+                beliebet kommen widrumb soo <lb facs="#facs_49_region_1643121033558_938l5" n="N005"
+                />viel<pc type="t2">,</pc> daß alsoo 40<del resp="#editor"><pc type="t6">:</pc>)</del> <hi rend="an"
                   >diffonia</hi> auß dieser <lb facs="#facs_49_region_1643121033558_938l6" n="N006"
-                />einfachen <hi rend="an">Combination</hi> entstehen<pc type="t2">,</pc>
+                />Einfachen <hi rend="an">Combination</hi> entstehen<pc type="t1">,</pc>
                 <lb facs="#facs_49_region_1643121033558_938l8" n="N007"/><hi rend="an">Vide sequens
                   exemplum</hi><pc type="t6">:</pc></p>
               <p facs="#facs_49_region_1643121108309_942">
-                <lb facs="#facs_49_region_1643121108309_942l1" n="N001"/>3tens) wil man dem <hi
+                <lb facs="#facs_49_region_1643121108309_942l1" n="N001"/><choice n="3"><orig>3tens)</orig><reg>3<pc type="t1">.</pc></reg></choice> <choice n="3"><orig>wil</orig><reg>Wil</reg></choice> man dem <hi
                   rend="an">Contrapunctam</hi>
                 <lb facs="#facs_49_region_1643121108309_942l2" n="N002"/>gegen Einander halten undt
-                dem <lb facs="#facs_49_region_1643121108309_942l3" n="N003"/><hi rend="an">communi
+                dem <lb facs="#facs_49_region_1643121108309_942l3" n="N003"/><hi rend="an">Communi
                   subjecto</hi>
-                <pc type="t6">:</pc> gedoppellt alßdan x <figure>
+                <del resp="#editor"><pc type="t6">:</pc></del> gedoppellt alßdan <del resp="#editor">x</del><add resp="#editor"><pc type="t6">:</pc></add><figure>
                   <graphic url="#facs_49_Table_1643660230840_264"/>
                 </figure>
               </p>
               <p facs="#facs_49_region_1643121291701_951">
-                <lb facs="#facs_49_region_1643121291701_951l1" n="N001"/>4rtens<pc type="t2">,</pc>
+                <lb facs="#facs_49_region_1643121291701_951l1" n="N001"/><choice n="3"><orig>4rtens<pc type="t2">,</pc></orig><reg>4<pc type="t1">1</pc></reg></choice>
                 Wen der <hi rend="an">Contrapunct</hi> unter daß <lb
                   facs="#facs_49_region_1643121291701_951l2" n="N002"/><hi rend="an">subjectum</hi>
-                sol gesetzet werden nimpt <lb facs="#facs_49_region_1643121291701_951l3" n="N003"
-                />man ehben die <hi rend="an">Regulen</hi> in acht wie die <lb
+                sol gesetzet werden<pc type="t2">,</pc> nimpt <lb facs="#facs_49_region_1643121291701_951l3" n="N003"
+                />man Ehben die <hi rend="an">Regulen</hi> in acht wie die <lb
                   facs="#facs_49_region_1643121291701_951l4" n="N004"/>vorigen<pc type="t2">,</pc>
-                nuhr daß man daß <hi rend="an">infra</hi> und <hi rend="an">supra</hi><pc type="t12"
-                  >⸗</pc><lb facs="#facs_49_region_1643121291701_951l5" n="N005"/>wie gesagt
+                Nuhr daß man daß <hi rend="an">infra</hi> und <hi rend="an">supra</hi> <lb facs="#facs_49_region_1643121291701_951l5" n="N005"/>wie gesagt
                   umbkehre<pc type="t2">,</pc> wen diß gescheen</p>
               <pb facs="#facs_50" n="362" xml:id="img_0050"/>
               <p facs="#facs_50_region_1643122050449_999">
                 <lb facs="#facs_50_region_1643122050449_999l1" n="N001"/>seindt abermael Neye <hi
-                  rend="an">diffoniæ</hi> undt <hi rend="an">trifoniæ</hi><pc type="t12">⸗</pc><lb
+                  rend="an">diffonia</hi> undt <hi rend="an">trifonia</hi><del resp="#editor"><pc type="t12">⸗</pc></del><lb
                   facs="#facs_50_region_1643122050449_999l2" n="N002"/>vorhanden<pc type="t2">,</pc>
-                wie zufoor<pc type="t2">,</pc> daß alsoo in beiden enthalten <lb
-                  facs="#facs_50_region_1643122050449_999l3" n="N003"/>sindt 40<pc type="t6">:</pc>)
-                  <hi rend="an">bicinia</hi><pc type="t2">,</pc> und 48<pc type="t6">:</pc>
-                <hi rend="an">tricinia</hi><pc type="t2">,</pc> welche <lb
+                wie zufoor<pc type="t2">,</pc> daß alsoo in beiden Enthalten <lb
+                  facs="#facs_50_region_1643122050449_999l3" n="N003"/>seindt 40<del resp="#editor"><pc type="t6">:</pc>)</del>
+                <hi rend="an">bicinia<pc type="t2">,</pc></hi> und 48<del resp="#editor"><pc type="t6">:</pc></del>
+                <hi rend="an">tricinia<pc type="t2">,</pc></hi> welche <lb
                   facs="#facs_50_region_1643122050449_999l4" n="N004"/>wen sie zurück gesungen
                 werden zusammen <lb facs="#facs_50_region_1643122050449_999l5" n="N005"/>machen
-                  80<pc type="t6">:</pc>
-                <hi rend="an">bicinia</hi> und 96<pc type="t1">.</pc>
-                <hi rend="an">tricinia</hi><pc type="t1">.</pc> Man <lb
+                80<del resp="#editor"><pc type="t6">:</pc></del>
+                <hi rend="an">bicinia</hi> und 96<del resp="#editor"><pc type="t1">.</pc></del>
+                <hi rend="an">tricinia</hi><pc type="t1">.</pc> <choice n="3"><orig>mæn</orig><reg>Mæn</reg></choice> <lb
                   facs="#facs_50_region_1643122050449_999l6" n="N006"/>mercke aber wohl<pc type="t2"
-                  >,</pc> daß Nicht alle <hi rend="an">Combi<pc type="t12">⸗</pc></hi>
+                  >,</pc> daß nicht alle <hi rend="an">Combi<pc type="t12">⸗</pc></hi>
                 <lb facs="#facs_50_region_1643122050449_999l7" n="N007"/><hi rend="an">nationes</hi>
-                unterschieden sein<pc type="t2">,</pc> sondern etzliche <lb
+                unterschieden sein<pc type="t2">,</pc> sondern Etzliche <lb
                   facs="#facs_50_region_1643122050449_999l8" n="N008"/>midt anderen in den <hi
                   rend="an">unisono</hi> überein kom<pc type="t12">⸗</pc><lb
                   facs="#facs_50_region_1643122050449_999l9" n="N009"/>men<pc type="t2">,</pc>
                 welcheß auch von anderen <hi rend="an">Contrapunc</hi><pc type="t12">⸗</pc><lb
                   facs="#facs_50_region_1643122050449_999l10" n="N010"/><hi rend="an">ten</hi> zu
-                verstehen ist<pc type="t6">:</pc></p>
+                verstehen ist<pc type="t1">:</pc></p>
               <pb facs="#facs_51" n="363" xml:id="img_0051"/>
-              <ab facs="#facs_51_region_1643123187238_1096">
-                <lb facs="#facs_51_region_1643016577792_469l1" n="N001"/><hi rend="an"
+            <div xml:id="hjkw678ij">
+              <head facs="#facs_51_region_1643123187238_1096">
+                <lb facs="#facs_51_region_1643016577792_469l1" n="N001"/><title><hi rend="an"
                   >Annotationes</hi> zum <hi rend="an">Contrapuncto</hi>
-                <lb facs="#facs_51_region_1643016577792_469l2" n="N002"/><hi rend="an"
-                  >diadecatos</hi><pc type="t6">:</pc></ab>
+                <lb facs="#facs_51_region_1643016577792_469l2" n="N002"/>
+                  <hi rend="an"
+                  >diadecatos<del resp="#editor"><pc type="t1">:</pc></del></hi></title></head>
               <p facs="#facs_51_region_1643016577792_469">
-                <lb facs="#facs_51_region_1643016577792_469l3" n="N001"/>1<pc type="t6"
-                >:</pc>)stlich Eß leßet der <hi rend="an">autor</hi> unter dehnen<pc type="t12"
-                  >⸗</pc><lb facs="#facs_51_region_1643016577792_469l4" n="N002"/>vergunten <hi
-                  rend="an">intervallen</hi> fast die vornechsten</p>
-              <p facs="#facs_51_region_1643016589057_472">
+                <lb facs="#facs_51_region_1643016577792_469l3" n="N001"/><choice n="3"><orig>1<pc type="t6"
+                  >:</pc>)stlich</orig><reg>1<pc type="t1">.</pc></reg></choice> Eß leßet der <hi rend="an">autor</hi> unter dehnen<del resp="#editor"><pc type="t12"
+                    >⸗</pc></del> <lb facs="#facs_51_region_1643016577792_469l4" n="N002"/>vergunten <hi
+                  rend="an">intervallen</hi> fast die vornechsten 
                 <lb facs="#facs_51_region_1643016589057_472l1" n="N001"/>alß nehmlich die <hi
                   rend="an">quinten</hi> auß daman <lb facs="#facs_51_region_1643016589057_472l2"
-                  n="N002"/>doch ihrer gaer füglich sich bedienen kan<pc type="t1">.</pc>
+                  n="N002"/>doch Ihrer gaer füglich sich bedienen kan<pc type="t1">.</pc>
                 <lb facs="#facs_51_region_1643016589057_472l3" n="N003"/><hi rend="an">Vide sequens
-                  exemplum</hi><pc type="t2">,</pc> wie auch deß </p>
-              <p facs="#facs_51_region_1643016611155_475">
-                <lb facs="#facs_51_region_1643016611155_475l1" n="N001"/><hi rend="an">autoris</hi>
-                  voorhergehendeß<pc type="t6">:</pc>
-                <lb facs="#facs_51_region_1643016611155_475l2" n="N002"/>2tens <hi rend="an">Motus
-                  per Saltus</hi> kan volgen<pc type="t12">⸗</pc><lb
-                  facs="#facs_51_region_1643016611155_475l3" n="N003"/>deß dienen<pc type="t6"
+                  exemplum<pc type="t2">,</pc></hi> wie auch deß <lb facs="#facs_51_region_1643016611155_475l1" n="N001"/><hi rend="an">autoris</hi>
+                  voorhergehendeß<pc type="t1">:</pc></p>
+              <p><lb facs="#facs_51_region_1643016611155_475l2" n="N002"/><choice n="3"><orig>2tens</orig><reg>2<pc type="t1">.</pc></reg></choice> <hi rend="an"><choice n="2"><orig>motus</orig><reg>Motus</reg></choice>
+                  Per saltus</hi> kan volgen<pc type="t12">⸗</pc><lb
+                  facs="#facs_51_region_1643016611155_475l3" n="N003"/>deß dienen<pc type="t1"
                   >:</pc>
                 <lb facs="#facs_51_region_1643016611155_475l4" n="N004"/>Alß<pc type="t6">:</pc></p>
             </div>
